@@ -56,10 +56,10 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
   - **§4(1)** to run day-to-day state affairs;
   - **§4(2)** to initiate a legislative procedure including the preparation of the Financial Bill containing the Annual Budget without a budget deficit;
   - **§4(3)** to be Commander in Chief of the military, once the state of war is declared by the Assembly;
-  - **§4(5)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  - **§4(6)** to make treaties with the consent of no fewer than nineteen votes of the Assembly Representatives;
-  - **§4(7)** to execute in good faith the laws passed by the Assembly;
-  - **§4(8)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly.
+  - **§4(4)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+  - **§4(5)** to make treaties with the consent of no fewer than nineteen votes of the Assembly Representatives;
+  - **§4(6)** to execute in good faith the laws passed by the Assembly;
+  - **§4(7)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly.
 - **§5.** The Cabinet shall consist of the following Departments only:
   - **§5(1)** Department of Justice
   - **§5(2)** Department of Internal Affairs

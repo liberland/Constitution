@@ -4,7 +4,7 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
-*We, the Citizens of the Free Republic of Liberland, in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its just authority from the law of nature and the consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial power restricted by the Bill of Rights.*
+*We, the Citizens of the Free Republic of Liberland, in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its authority from explicit consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial power restricted by the Bill of Rights.*
 
 ## Article I: The Legislative Power
 

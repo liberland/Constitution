@@ -14,7 +14,7 @@
 
 Do you want translate the constitution into your language? Please continue to [liberland/translation](https://github.com/liberland/translations) repository.
 
-You can view and download all languages in [liberland/docs](https://github.com/liberland/translations) repository.
+You can view and download all languages in [liberland/docs](https://github.com/liberland/docs) repository.
 
 ## About Liberland
 

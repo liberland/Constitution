@@ -11,7 +11,7 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 - **§1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens.
 - **§2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
 - **§3.** No Assembly Representative shall hold the office for more than eight years.
-- **§4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter “the Cabinet”, with the majority of no fewer than eleven votes.
+- **§4.** The Assembly shall elect from its membership the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter “the Cabinet”, with the majority of no fewer than eleven votes.
 - **§5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with the majority of no fewer than eleven votes, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with the majority of no fewer than eleven votes.
 - **§6.** If no Chancellor is elected in accordance with the procedure provided in §4 for more than ninety days, the General Election must be held.
 - **§7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
@@ -50,7 +50,7 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 ## Article II: The Executive Power
 
 - **§1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
-- **§2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
+- **§2.** The Cabinet shall be appointed by the Chancellor from Assembly members and presided over by the Chancellor, who is the Head of State.
 - **§3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary and expedient thereby initiating a legislative procedure in accordance with the provisions of Article I.
 - **§4.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   - **§4(1)** to run day-to-day state affairs;

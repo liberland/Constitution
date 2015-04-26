@@ -76,9 +76,9 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 - **§3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body.
 - **§4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four others judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
 - **§5.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
-- **§6.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens.
-- **§7.** The criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty’.
-- **§8.** The civil wrongs and the administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
+- **§6.** Criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens and only in response to a claim lodged with the Office.
+- **§7.** Criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty’.
+- **§8.** Civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
 - **§9.** It shall be the duty of the Judiciary to strike down as void and unlawful any laws in conflict with the Constitution.
 
 ## Bill of Rights

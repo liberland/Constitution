@@ -6,6 +6,15 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 
 *We, the Citizens of the Free Republic of Liberland, in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its just authority from the law of nature and the consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial power restricted by the Bill of Rights.*
 
+The Constitution grants the Public Administration monopoly powers as 
+(1) final interpreter of the Constitution and the Bill of Rights;
+(2) definer of a criminal code in legislation;
+(3) issuer of Warrants;
+(4) final arbitrator of criminal justice;
+(5) final arbitrator of civil disputes;
+(6) representative of Liberland in international relations;
+(7) former of a military to defend against foreign aggression towards the territory of Liberland.
+
 ## Article I: The Legislative Power
 
 - **§1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens.

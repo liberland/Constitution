@@ -8,7 +8,7 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 
 ## Article I: The Legislative Power
 
-- **§1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens. New sentence.
+- **§1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens.
 - **§2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
 - **§3.** No Assembly Representative shall hold the office for more than eight years.
 - **§4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter “the Cabinet”, with the majority of no fewer than eleven votes.

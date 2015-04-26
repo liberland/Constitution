@@ -45,7 +45,8 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 - **§16.** Any referendum in the Free Republic of Liberland shall be conducted online via the Internet.
 - **§17.** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived.
 - **§18.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was conducted in accordance with §13 and §14, or on the day the Bill obtained the assent of the Citizens in referendum.
-- **§19.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Assembly Speaker, or if unable by another senior officer of the Assembly, which must take place within three working days after a Bill became Act, unless stated otherwise in the Act itself.
+- **§19.** An ordinary Bill passed into law shall expire and become void after a period equal to no longer than two Assembly terms. A Bill so expiring may be reintroduced to the Assembly by the Cabinet per the terms of the Constitution.
+- **§20.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Assembly Speaker, or if unable by another senior officer of the Assembly, which must take place within three working days after a Bill became Act, unless stated otherwise in the Act itself.
 
 ## Article II: The Executive Power
 

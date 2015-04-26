@@ -52,22 +52,23 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 - **§1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
 - **§2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
 - **§3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary and expedient thereby initiating a legislative procedure in accordance with the provisions of Article I.
-- **§4.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
-  - **§4(1)** to run day-to-day state affairs;
-  - **§4(2)** to initiate a legislative procedure including the preparation of the Financial Bill containing the Annual Budget without a budget deficit;
-  - **§4(3)** to be Commander in Chief of the military, once the state of war is declared by the Assembly;
-  - **§4(5)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  - **§4(6)** to make treaties with the consent of no fewer than nineteen votes of the Assembly Representatives;
-  - **§4(7)** to execute in good faith the laws passed by the Assembly;
-  - **§4(8)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly.
-- **§5.** The Cabinet shall consist of the following Departments only:
-  - **§5(1)** Department of Justice
-  - **§5(2)** Department of Internal Affairs
-  - **§5(3)** Department of Security
-  - **§5(4)** Department of Foreign Affairs
-  - **§5(5)** Department of Treasury
-- **§6.** Each Department shall be headed by the Secretary for the respective Department who shall answer to the Chancellor and the Assembly.
-- **§7.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
+- **§4.** Any member of the Cabinet (including the Chancellor) can be removed by referendum triggered by the request of no less than 3% of the overall number of Citizens, and shall be deemed to remove the member if the majority of the Citizens taking part in that referendum vote to remove the member. A Cabinet member so removed remains a Assembly Representative.
+- **§5.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
+  - **§5(1)** to run day-to-day state affairs;
+  - **§5(2)** to initiate a legislative procedure including the preparation of the Financial Bill containing the Annual Budget without a budget deficit;
+  - **§5(3)** to be Commander in Chief of the military, once the state of war is declared by the Assembly;
+  - **§5(5)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+  - **§5(6)** to make treaties with the consent of no fewer than nineteen votes of the Assembly Representatives;
+  - **§5(7)** to execute in good faith the laws passed by the Assembly;
+  - **§5(8)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly.
+- **§6.** The Cabinet shall consist of the following Departments only:
+  - **§6(1)** Department of Justice
+  - **§6(2)** Department of Internal Affairs
+  - **§6(3)** Department of Security
+  - **§6(4)** Department of Foreign Affairs
+  - **§6(5)** Department of Treasury
+- **§7.** Each Department shall be headed by the Secretary for the respective Department who shall answer to the Chancellor and the Assembly.
+- **§8.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
 
 ## Article III: The Judicial Power
 
@@ -75,11 +76,12 @@ Last changed: Thu Apr 23 2015 12:55:22 GMT+0200 (CEST)
 - **§2** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court of the Free Republic of Liberland, hereinafter “the Supreme Court”.
 - **§3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body.
 - **§4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four others judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
-- **§5.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
-- **§6.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens.
-- **§7.** The criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty’.
-- **§8.** The civil wrongs and the administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
-- **§9.** It shall be the duty of the Judiciary to strike down as void and unlawful any laws in conflict with the Constitution.
+- **§5.** Any Juctice of the Supreme Court (including the Chief Justice) can be removed by referendum triggered by the request of no less than 3% of the overall number of Citizens, and shall be deemed to remove the Justice if the majority of the Citizens taking part in that referendum vote to remove the judge. 
+- **§6.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
+- **§7.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens.
+- **§8.** The criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty’.
+- **§9.** The civil wrongs and the administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
+- **§10.** It shall be the duty of the Judiciary to strike down as void and unlawful any laws in conflict with the Constitution.
 
 ## Bill of Rights
 

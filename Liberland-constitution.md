@@ -136,4 +136,5 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§34.** No person shall be deprived of the right to own, manufacture, sell, and bear arms unless declared otherwise by a court of law on mental health grounds.
 * **§35.** No person shall be prevented from challenging an administrative decision given in respect of his or her via the procedure of judicial review.
 * **§36.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
+* **§37.** No law shall abridge the right of self-defense against initiators of aggression, including the agents of the Public Administration where acting unlawfully.
 

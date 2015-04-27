@@ -4,21 +4,15 @@
 
 **Notice: this is NOT a final version of Constitution, it is just a draft!**
 
-- [Free Republic of Liberland Constitution draft](Liberland-constitution.md)
+* [Free Republic of Liberland Constitution draft](Liberland-constitution.md)
 
-### Generated formats
+## Maintainers
+
+* Kasper Zajac - [@kasperzajc](https://github.com/KacperZajc)
+
+## Generated formats
 
 [Markdown], [PDF], [HTML], [ePub], [Mobi]
-
-### Translations
-
-Do you want translate the constitution into your language? Please continue to [liberland/translation](https://github.com/liberland/translations) repository.
-
-You can view and download all languages in [liberland/docs](https://github.com/liberland/docs) repository.
-
-## About Liberland
-
-More info about Liberland - http://liberland.org
 
 
 [Markdown]: https://github.com/liberland/docs/raw/master/constitution/Liberland-constitution.md

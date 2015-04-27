@@ -95,21 +95,22 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 * **§4.** No ex post facto law shall be passed.
 * **§5.** No Bill of Attainder shall be passed.
-* **§6.** No law shall interfere with voluntary consensual and/or contractual relations among adults, or the right to form cooperative ventures of any kind so long as no rights of other persons are endangered. 
-* **§7.** No law shall invade the privacy of peaceful persons by unreasonable searches, seizures, storage of personal information without consent of their rightful owners, including but not limited only to the use of digital means, freeze of assets of any natural and/or legal person, otherwise than in pursuit of a Warrant issued by a judge of appropriate court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate order, and particularly describing the place to be searched, and the persons or things to be seized or put under surveillance.
-* **§8.** No law shall allow for the private property be fully or partially taken for the public use without the consent of and/or mutually agreeable compensation to the owner.
-* **§9.** No law shall create victimless and/or consensual crimes.
-* **§10.** No law shall mandate any person to associate and/or transact with any other person; nor shall it prohibit it.
-* **§11.** No law shall abridge the freedom of thought and feeling, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community.
-* **§12.** No law shall abridge the right to assemble peacefully where no rights of others are infringed. 
-* **§13.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude other than the Jury duty, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
-* **§14.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
-* **§15.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
-* **§16.** No law shall abridge the use of any chemical substance so long as the use is not designed to intentionally harm any person without his or her consent.
-* **§17.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or University at any stage of education.
-* **§18.** No law shall establish and/or regulate the institution of marriage between the adults.
-* **§19.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
-* **§20.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
+* **§6.** No law shall abridge the right of each person to do as he or she chooses with his or her own person and property, so long as he or she does not interfere, by force or fraud, or the threat thereof, with the equal right of others to do as they choose with their own persons and property.
+* **§7.** No law shall abridge the right of persons to the control of their own bodies, nor interfere with voluntary consensual or contractual relations among adult persons, or the right to form cooperative ventures of any kind. 
+* **§8.** No law shall invade the privacy of peaceful persons by unreasonable searches, seizures, storage of personal information without consent of their rightful owners, including but not limited only to the use of digital means, freeze of assets of any natural and/or legal person, otherwise than in pursuit of a Warrant issued by a judge of appropriate court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate order, and particularly describing the place to be searched, and the persons or things to be seized or put under surveillance.
+* **§9.** No law shall allow for the private property be fully or partially taken for the public use without the consent of and/or mutually agreeable compensation to the owner.
+* **§10.** No law shall create victimless and/or consensual crimes.
+* **§11.** No law shall mandate any person to associate and/or transact with any other person; nor shall it prohibit it.
+* **§12.** No law shall abridge the freedom of thought and feeling, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community.
+* **§13.** No law shall abridge the right to assemble peacefully where no rights of others are infringed. 
+* **§14.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude other than the Jury duty, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
+* **§15.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
+* **§16.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
+* **§17.** No law shall abridge the use of any chemical substance so long as the use is not designed to intentionally harm any person without his or her consent.
+* **§18.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or University at any stage of education.
+* **§19.** No law shall establish and/or regulate the institution of marriage between the adults.
+* **§20.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
+* **§21.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
 
 ### PART III: INDIVIDUAL RIGHTS
 

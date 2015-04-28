@@ -105,8 +105,8 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.19.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
 
 ### Article V: The Executive Power
-* **§V1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
-* **§V2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
+* **§V.1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
+* **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
 * **§V.3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article I.
 * **§V.4.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   * **§V.4(1)** to run day-to-day state affairs;

@@ -33,6 +33,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.15.** No law shall establish and/or regulate the institution of marriage between the adults.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
 * **§II.17.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
+* **§II.18.** No law shall be written without a Rationale explaining why the law is voted and how the goal is being achieved by the law, and a Budget explaining how the law will be funded. Any judge and any jury in any lawful court seized by any citizen may nullify a law if its Rationale is found to be unconstitutional, obsolete or otherwise invalid, if the stated benefits are found not to have been achieved, or if the costs including unintended consequences are found to be greater than the stated benefits, or if its budget is being exceeded.
 
 ### Article III: Individual Rights
 

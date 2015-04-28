@@ -33,6 +33,8 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.15.** No law shall establish and/or regulate the institution of marriage between the adults.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
 * **§II.17.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
+* **§II.18.** No Bill proposed to the Assembly shall be passed unless it has been read aloud in entirety by the Assembly Speaker and includes precise calculation as to its potential impact on the budget as well as rationale behind it and means of achieving thereof, which does not conflict with the Constitution.
+
 
 ### Article III: Individual Rights
 

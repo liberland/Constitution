@@ -2,6 +2,8 @@
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
+Governments are instituted to secure Life, Liberty, and the pursuit there of. That to secure these rights, a Constitution is written to explicitly grant authority to a governmental body. Whenever the government becomes destructive to these ends, it is the Duty of the People to alter or abolish it, and to institute a new Government.
+
 *We, the Citizens of the Free Republic of Liberland, hereinafter, "the Citizens", in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its just authority from the law of nature and the consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial powers restricted by the Bill of Rights.*
 
 ## Bill of Rights

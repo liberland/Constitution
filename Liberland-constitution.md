@@ -69,11 +69,11 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.3.** No Assembly Representative shall hold the office for more than eight years.
 * **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter “the Cabinet”, with the majority of no fewer than eleven votes.
 * **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with the majority of no fewer than eleven votes, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with the majority of no fewer than eleven votes.
-* **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §4 for more than ninety days, the General Election must be held.
+* **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
-* **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §13 and §14.
-* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote and shall be subject to the power of general veto by the Citizens as provided in §15.
-* **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §15.
+* **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
+* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
+* **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
   * **§IV.10(1)** No provision of the Annual Budget shall provide for more spending than revenue; the budget shall not be with deficit;
   * **§IV.10(2)** No provision of the Annual Budget shall provide for any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution.
   * **§IV.10(3)** No provision of the Annual Budget shall provide for any form of direct and/or indirect bail out of any legal and/or natural person;
@@ -84,7 +84,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.12.** The powers of the Assembly shall be restricted to the following only:
   * **§IV.12(1)** to protect the rights of the people to their persons and property;
   * **§IV.12(2)** to conduct the financial affairs of the Public Administration;
-  * **§IV.12(3)** to lay and collect taxes other than personal income tax and/or corporate income tax, subject to the requirement of the mandatory referendum as provided in §15, for one or more of the following purposes only:
+  * **§IV.12(3)** to lay and collect taxes other than personal income tax and/or corporate income tax, subject to the requirement of the mandatory referendum as provided in §IV.15, for one or more of the following purposes only:
     * **§IV.12(3)(a)** covering the expenses of the Public Administration;
     * **§IV.12(3)(b)** maintaining the internal security;
     * **§IV.12(3)(c)** providing for the system of Administration of Justice;
@@ -97,11 +97,11 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.13.** Any ordinary Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
   * **§IV.13(1)** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least a year;
   * **§IV.13(2)** Where the Financial Bill is voted, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.14.** The referendum provided for in §13 shall be triggered by the request of no less than 3% of the overall number of Citizens, if submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part the in that referendum vote ‘No’.
+* **§IV.14.** The referendum provided for in §IV.13 shall be triggered by the request of no less than 3% of the overall number of Citizens, if submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part the in that referendum vote ‘No’.
 * **§IV.15.** Any Bill proposing taxation and/or taxation-like burdens, such as any form of duty, or any Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part the in that referendum vote ‘No’.
 * **§IV.16.** Any referendum in the Free Republic of Liberland shall be conducted online via the Internet.
-* **§IV.17.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §13 and * **§14.**, or on the day the Bill obtained the assent of the Citizens in referendum.
-* **§IV.18.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §17, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter “the Supreme Court”.
+* **§IV.17.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.13 and §IV.14, or on the day the Bill obtained the assent of the Citizens in referendum.
+* **§IV.18.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.17, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter “the Supreme Court”.
 * **§IV.19.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
 
 ### Article V: The Executive Power
@@ -137,5 +137,5 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§VI.8.** The criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty’.
 * **§VI.9.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
 * **§VI.10.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
-* **§VI.10(1)** Nothing in this paragraph precludes any Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
+  * **§VI.10(1)** Nothing in this paragraph precludes any Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
 

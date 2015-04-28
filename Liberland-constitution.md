@@ -64,7 +64,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article IV: The Legislative Power
 
-*  **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens.
+* **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, hereinafter “the Citizens”, and the Assembly of the Free Republic of Liberland, hereinafter “the Assembly” which shall exercise it on behalf of the Citizens.
 * **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
 * **§IV.3.** No Assembly Representative shall hold the office for more than eight years.
 * **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter “the Cabinet”, with the majority of no fewer than eleven votes.
@@ -137,5 +137,5 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§VI.8.** The criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty’.
 * **§VI.9.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
 * **§VI.10.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
-  * **§VI.10(1)** Nothing in this paragraph precludes any Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
+* **§VI.10(1)** Nothing in this paragraph precludes any Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
 

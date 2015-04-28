@@ -6,6 +6,10 @@
 
 * [Free Republic of Liberland Constitution draft](Liberland-constitution.md)
 
+# How to contribute
+
+See: [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Maintainers
 
 * Kasper Zajac - [@kasperzajc](https://github.com/KacperZajc)

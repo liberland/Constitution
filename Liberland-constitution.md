@@ -74,7 +74,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
 * **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
-* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
+* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present and participating in the vote, and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
 * **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
   * **§IV.10(1)** No provision of the Annual Budget shall provide for more spending than revenue; the budget shall not be with deficit;
   * **§IV.10(2)** No provision of the Annual Budget shall provide for any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution.

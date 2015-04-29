@@ -6,7 +6,7 @@ This constitution is a community effort, and everyone is welcome to file issues 
 
 The preferred way to contribute is to submit a Pull Request. A Pull Request is a way to make your modification appear on GitHub in a format that encourages discussion and makes the modification easy to incorporate into the draft document. 
 
-You can find detailed instructions on how to do this [here](SETUP.md).
+The easiest way to do a pull request is to go to the [constitution file](https://github.com/liberland/constitution/blob/master/Liberland-constitution.md) and then press the [pencil icon](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 ## What to put in a pull request
 
@@ -20,7 +20,7 @@ If you want to add a new, numbered line to the constitution, add it as the last 
 
 ## Removing a line
 
-If you'd like to remove a line, delete it but don't update the numbering of any of the other lines. This will be fixed in the end. For now, we want to keep your change restricted to the line you're changing. Make sure you fix any references to the item you deleted.
+If you'd like to remove a line, keep the numbering and replace the text of the line with the word "REMOVED". This is so you don't have to change the numbering of any other item. Make sure you fix any references to the item you deleted.
 
 ## Submit an issue
 

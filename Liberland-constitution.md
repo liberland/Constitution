@@ -34,7 +34,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
 * **§II.17.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
 * **§II.18.** No law shall abridge the right of self-defense against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
-* **§II.19.** No law shall institute price controls of goods and services, nor rent controls.
+* **§II.19.** No law shall institute price controls of goods and/or services, nor rent controls.
 
 ### Article III: Individual Rights
 

@@ -6,18 +6,44 @@
 
 * [Free Republic of Liberland Constitution draft](Liberland-constitution.md)
 
+Diagrams:
+
+* [Elections and Impeachments](diagrams/elections-and-impeachment-flowchart.png)
+* [Legislative Procedure](diagrams/legislative-procedure-flowchart.png)
+
 ## How to contribute
 
-See: [CONTRIBUTING.md](CONTRIBUTING.md).
+This constitution is a community effort, and everyone is welcome to file issues and submit pull requests. For more info see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Maintainers
+## Download
 
-* Jaromír Miškovský ([@miskovsky](https://github.com/miskovsky)) - Ambassador – at – Large
+You can download this document in many formats from [liberland/docs](https://github.com/liberland/docs) repository.
+
+Available formats: [Markdown], [PDF], [HTML], [ePub], [Mobi]
+
+## Authors
+
 * Kasper Zajac ([@kasperzajc](https://github.com/KacperZajc))
 
-## Generated formats
+### Contributors
 
-[Markdown], [PDF], [HTML], [ePub], [Mobi]
+*in alphabetical order*
+
+* Josh Harvey ([@joshmh](https://github.com/joshmh))
+* [@liberty90](https://github.com/liberty90)
+* Chris Pacia ([@cpacia](https://github.com/cpacia))
+* François-René Rideau ([@fare](https://github.com/fare))
+* Felipe Rotilho ([@rotilho](https://github.com/rotilho))
+
+### Guarantor
+
+* Jaromír Miškovský ([@miskovsky](https://github.com/miskovsky)) - Ambassador – at – Large
+
+## License
+
+*The Constitution of the Free Republic of Liberland* is open-source work licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). For more info see [LICENSE](LICENSE).
+
+[![https://creativecommons.org/publicdomain/zero/1.0/](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
 [Markdown]: https://github.com/liberland/docs/raw/master/constitution/Liberland-constitution.md

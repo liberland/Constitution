@@ -28,7 +28,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude other than the Jury duty, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.11.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
 * **§II.12.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
-* **§II.13.** No law shall abridge the use of any chemical substance so long as the use is not designed to harm any person without his or her consent, or damages property without consent of the owner.
+* **§II.13.** No law shall abridge the use of any chemical substance by any person of age, so long as the use is not designed to harm any person without his or her consent and/or damages property without consent of the owner.
 * **§II.14.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
 * **§II.15.** No law shall establish and/or regulate the institution of marriage between persons of age.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.

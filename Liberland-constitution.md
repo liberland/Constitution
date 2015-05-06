@@ -90,7 +90,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
 * **§IV.12.** The powers of the Assembly shall be restricted to the following only:
   * **§IV.12(1)** to protect the rights of the people to their persons and property;
   * **§IV.12(2)** to conduct the financial affairs of the Public Administration;
-  * **§IV.12(3)** to lay and collect taxes other than personal income tax and/or corporate income tax, subject to the requirement of the mandatory referendum as provided in §IV.15, for one or more of the following purposes only:
+  * **§IV.12(3)** to lay and collect land value tax on actual land and/or sales tax only, subject to the requirement of the mandatory referendum as provided in §IV.15, for one or more of the following purposes only:
     * **§IV.12(3)(a)** covering the expenses of the Public Administration;
     * **§IV.12(3)(b)** maintaining the internal security;
     * **§IV.12(3)(c)** providing for the system of Administration of Justice;

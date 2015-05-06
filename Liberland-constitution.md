@@ -66,6 +66,8 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ## Political Institutions
 
+The Free Republic of Liberalnd shall be governed by the Public Authority in accoradance with this Part of the Constitution. The Public Authority shall be bound by the Bill of Rights and shall not exercise any functions which have not been conferred upon it by the Constitution. 
+
 ### Article IV: The Legislative Power
 
 * **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.

@@ -18,7 +18,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 * **§II.1.** No ex post facto law shall be passed.
 * **§II.2.** No Bill of Attainder shall be passed.
-* **§II.3.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among adult persons, or the right to form cooperative ventures of any kind, so long as no rights of others are interfered.
+* **§II.3.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among adult persons, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
 * **§II.4.** No law shall invade the privacy of peaceful persons by unreasonable searches, seizures, storage of personal information without consent of their rightful owners, including but not limited only to the use of digital means, freeze of assets of any natural and/or legal person, otherwise than in pursuit of a Warrant issued by a judge of appropriate court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate order, and particularly describing the place to be searched, and the persons or things to be seized or put under surveillance.
 * **§II.5.** No law shall allow for the private property be fully or partially taken for the public use without the consent of and mutually agreeable compensation to the owner.
 * **§II.6.** No law shall create victimless and/or consensual crimes.
@@ -35,6 +35,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.17.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
 * **§II.18.** No law shall abridge the right of self-defense against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
 * **§II.19.** No law shall institute price controls of goods and/or services, nor rent controls.
+* **§II.20.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
 
 ### Article III: Individual Rights
 

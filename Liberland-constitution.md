@@ -33,7 +33,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.15.** No law shall establish and/or regulate the institution of marriage between persons of age.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
 * **§II.17.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
-* **§II.18.** No law shall abridge the right of self-defense against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
+* **§II.18.** No law shall abridge the right of self-defence and/or defence of one's property against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
 * **§II.19.** No law shall institute price controls of goods and/or services, nor rent controls.
 * **§II.20.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
 

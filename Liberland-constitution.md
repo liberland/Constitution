@@ -110,6 +110,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
 * **§IV.18.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.13 and §IV.14, or on the day the Bill obtained the assent of the Citizens in referendum.
 * **§IV.19.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.18, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
 * **§IV.20.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
+* **§IV.21.** A Bill proposed to the Assembly shall pertain to one matter only, that matter being expressed in the title of the Bill.
 
 ### Article V: The Executive Power
 

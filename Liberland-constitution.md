@@ -71,7 +71,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
 ### Article IV: The Legislative Power
 
 * **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.
-* **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
+* **§IV.2.** The Assembly shall consist of at least twenty Assembly Representatives elected by the Citizens in the General Election held every four years. To ensure the Citizens' right to fair representation, there shall be one representative for every ten thousand citizens.
 * **§IV.3.** No Assembly Representative shall hold the office for more than eight years.
 * **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter, "the Cabinet", with the majority of no fewer than eleven votes; all members of the Cabinet shall be drawn from citizenry.
 * **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with the majority of no fewer than eleven votes, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with the majority of no fewer than eleven votes.

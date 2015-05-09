@@ -77,7 +77,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
 * **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with the majority of no fewer than eleven votes, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with the majority of no fewer than eleven votes.
 * **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
-* **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
+* **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than three-quarters of the votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
 * **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present and participating in the vote, and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
 * **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
   * **§IV.10(1)** No provision of the Annual Budget shall provide for more spending than revenue; the budget shall not be with deficit;
@@ -120,7 +120,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
   * **§V.4(1)** to run day-to-day state affairs;
   * **§V.4(2)** to initiate a legislative procedure;
   * **§V.4(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§V.4(4)** to make international treaties with the consent of no fewer than fifteen votes of the Assembly Representatives;
+  * **§V.4(4)** to make international treaties with the consent of no fewer than three-quarters of the votes of the Assembly Representatives;
   * **§V.4(5)** to execute in good faith the laws passed by the Assembly;
   * **§V.4(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§V.4(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee.

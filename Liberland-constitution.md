@@ -25,7 +25,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.7.** No law shall mandate any person to associate and/or transact with any other person; nor shall it prohibit it.
 * **§II.8.** No law shall abridge the freedom of thought and feeling, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community.
 * **§II.9.** No law shall abridge the right to assemble peacefully where no rights of others are infringed.
-* **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude other than the Jury duty, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
+* **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.11.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
 * **§II.12.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
 * **§II.13.** No law shall abridge the use of any chemical substance by any person of age, so long as the use is not designed to harm any person without his or her consent and/or damages property without consent of the owner.

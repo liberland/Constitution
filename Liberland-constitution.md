@@ -120,7 +120,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
   * **§V.4(1)** to run day-to-day state affairs;
   * **§V.4(2)** to initiate a legislative procedure;
   * **§V.4(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§V.4(4)** to make international treaties with the consent of no fewer than three-quarters of the votes of the Assembly Representatives;
+  * **§V.4(4)** to make international treaties with the consent of no fewer than three-quarters of the votes of all Assembly Representatives;
   * **§V.4(5)** to execute in good faith the laws passed by the Assembly;
   * **§V.4(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§V.4(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee.

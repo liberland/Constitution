@@ -36,6 +36,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.18.** No law shall abridge the right of self-defence and/or defence of one's property against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
 * **§II.19.** No law shall institute price controls of goods and/or services, nor rent controls.
 * **§II.20.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
+* **§II.21.** No law shall exempt special interests or Assembly members from its operation, nor deny to any person the equal protection of the laws.
 
 ### Article III: Individual Rights
 

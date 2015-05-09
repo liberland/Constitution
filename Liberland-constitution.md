@@ -66,7 +66,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ## Political Institutions
 
-The Free Republic of Liberalnd shall be governed by the Public Authority in accoradance with the Constitution. It shall exercise the legislative, executive and judicial functions which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
+The Free Republic of Liberalnd shall be governed by the Public Authority in accordance with the Constitution. It shall exercise the legislative, executive and judicial functions which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
 
 ### Article IV: The Legislative Power
 

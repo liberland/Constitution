@@ -58,7 +58,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.10.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court, and no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
 * **§III.11.** No person shall either before or after trial be held incommunicado.
 * **§III.12.** An accused who does not speak the language in which the criminal proceedings are conducted shall be provided without expense with the services of an interpreter.
-* **§III.13.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty unless new evidence of high relevance came to light.
+* **§III.13.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty.
 * **§III.14.** No person shall be deprived of the right to own, manufacture, sell, and bear arms unless declared otherwise by a court of law on mental health grounds.
 * **§III.15.** No person shall be prevented from challenging an administrative decision given in his or her respect via the procedure of judicial review.
 * **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.

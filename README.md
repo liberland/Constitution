@@ -29,8 +29,10 @@ Available formats: [Markdown], [PDF], [HTML], [ePub], [Mobi]
 
 *in alphabetical order*
 
+* [@FellowTraveler](https://github.com/FellowTraveler)
 * Josh Harvey ([@joshmh](https://github.com/joshmh))
-* [@liberty90](https://github.com/liberty90)
+* Tinky Holloway ([@tinkyholloway](https://github.com/tinkyholloway))
+* Artur Klepacz ([@liberty90](https://github.com/liberty90))
 * Chris Pacia ([@cpacia](https://github.com/cpacia))
 * François-René Rideau ([@fare](https://github.com/fare))
 * Felipe Rotilho ([@rotilho](https://github.com/rotilho))

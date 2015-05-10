@@ -73,20 +73,20 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 * **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.
 * **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
 * **§IV.3.** No Assembly Representative shall hold the office for more than eight years.
-* **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter, "the Cabinet", with the majority of no fewer than eleven votes; all members of the Cabinet shall be drawn from citizenry.
-* **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with the majority of no fewer than eleven votes, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with the majority of no fewer than eleven votes.
+* **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter, "the Cabinet", with a majority vote of all Assembly Representatives; all members of the Cabinet shall be drawn from citizenry.
+* **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with a majority vote of all Assembly Representatives, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with a majority vote of all Assembly Representatives.
 * **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
-* **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
+* **§IV.8.** An ordinary Bill shall be passed into law with a three-quarters vote of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
 * **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present and participating in the vote, and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
-* **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
+* **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
   * **§IV.10(1)** No provision of the Annual Budget shall provide for more spending than revenue; the budget shall not be with deficit;
   * **§IV.10(2)** No provision of the Annual Budget shall provide for any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution.
   * **§IV.10(3)** No provision of the Annual Budget shall provide for any form of direct and/or indirect bail out of any legal and/or natural person;
   * **§IV.10(4)** No provision of the Annual Budget shall provide for funding or partial funding of any political party;
   * **§IV.10(5)** No provision of the Annual Budget shall provide for funding or partial funding of any form of healthcare services and/or pension schemes;
   * **§IV.10(6)** Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
-* **§IV.11.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with the majority of no fewer than eleven votes.
+* **§IV.11.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with a majority vote of all Assembly Representatives.
 * **§IV.12.** The powers of the Assembly shall be restricted to the following only:
   * **§IV.12(1)** to protect the rights of the people to their persons and property;
   * **§IV.12(2)** to conduct the financial affairs of the Public Administration;
@@ -120,7 +120,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
   * **§V.4(1)** to run day-to-day state affairs;
   * **§V.4(2)** to initiate a legislative procedure;
   * **§V.4(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§V.4(4)** to make international treaties with the consent of no fewer than fifteen votes of the Assembly Representatives;
+  * **§V.4(4)** to make international treaties with the consent of no fewer than three-quarters of all Assembly Representatives;
   * **§V.4(5)** to execute in good faith the laws passed by the Assembly;
   * **§V.4(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§V.4(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee.

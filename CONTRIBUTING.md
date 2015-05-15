@@ -20,7 +20,7 @@ If you want to add a new, numbered line to the constitution, add it as the last 
 
 ## Removing a line
 
-If you'd like to remove a line, keep the numbering and replace the text of the line with the word "REMOVED". This is so you don't have to change the numbering of any other item. Make sure you fix any references to the item you deleted.
+If you removed a line, please renumber all subsequent items in the current section (if any). Make sure you fix any references to the item you deleted and also to all renumbered items.
 
 ## Submit an issue
 

@@ -10,7 +10,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article I: General Provisions
 
-* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland.
+* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland, and any other persons under tried under the jurisdiction thereof.
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** Any person in public office who is convicted of intentional breach of this Constitution, shall be immediately removed from the office and shall not hold any other public office in the future.
 
@@ -18,7 +18,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 * **§II.1.** No ex post facto law shall be passed.
 * **§II.2.** No Bill of Attainder shall be passed.
-* **§II.3.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among adult persons, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
+* **§II.3.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among persons of age, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
 * **§II.4.** No law shall invade the privacy of peaceful persons by unreasonable searches, seizures, storage of personal information without consent of their rightful owners, including but not limited to, the use of digital means, freeze of assets of any natural and/or legal person, otherwise than in pursuit of a Warrant issued by a judge of appropriate court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate request, and particularly describing the place to be searched, and the persons or things to be seized or put under surveillance.
 * **§II.5.** No law shall allow for the private property be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
 * **§II.6.** No law shall create victimless and/or consensual crimes.
@@ -36,6 +36,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.18.** No law shall institute price controls of goods and/or services, nor rent controls.
 * **§II.19.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
 * **§II.20.** No law shall exempt Assembly Representatives from its operation, nor deny to any person the equal protection of the laws.
+* **§II.21.** No law shall allow any agent of the Public Administration to enlist any person to commit any criminal offence.
 
 ### Article III: Individual Rights
 
@@ -52,7 +53,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
   * **§III.7(4)** to confront witnesses and to compel witnesses to appear in court;
   * **§III.7(5)** to the assistance of legal counsel free of charge where appropriate;
   * **§III.7(6)** to be presumed innocent until proven guilty;
-  * **§III.7(7)** not to be compelled to be a witness against himself or herself.
+  * **§III.7(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself.
 * **§III.8.** No person shall be convicted, sentenced, or imprisoned without due process of law.
 * **§III.9.** A person who has been arrested, detained, imprisoned, tried, or sentenced either illegally or in error shall receive fair restitution.
 * **§III.10.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court, and no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
@@ -63,6 +64,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.15.** No person shall be prevented from challenging an administrative decision given in his or her respect via the procedure of judicial review.
 * **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
 * **§III.17.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
+* **§III.18.** No person shall be put into custody or tried before they are informed of their rights.
 
 ## Political Institutions
 
@@ -72,7 +74,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 
 * **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.
 * **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
-* **§IV.3.** No Assembly Representative shall hold the office for more than eight years.
+* **§IV.3.** No Assembly Representative shall hold the office for more than eight years in total.
 * **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter, "the Cabinet", with a majority vote of all Assembly Representatives; all members of the Cabinet shall be drawn from citizenry.
 * **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with a majority vote of all Assembly Representatives, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with a majority vote of all Assembly Representatives.
 * **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
@@ -114,7 +116,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 
 * **§V.1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
-* **§V.3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article I.
+* **§V.3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article IV.
 * **§V.4.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   * **§V.4(1)** to run day-to-day state affairs;
   * **§V.4(2)** to initiate a legislative procedure;
@@ -136,13 +138,15 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§VI.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§VI.3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body.
+* **§VI.3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body; ther remuneration shall never be lowered.
 * **§VI.4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
 * **§VI.5.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removed from their position by the Citizens with a simple majority in a referendum called by no less than 10% of population.
 * **§VI.6.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
-* **§VI.7.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens or with consent of the victim where appropriate. 
-* **§VI.8.** The criminal offenses shall be tried in the Criminal Court before a judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'; acquittal by Jury shall be final. The Jury shall render the verdict according to the law under advice of the judge, and shall determine the facts, but retains the unequivocal right to acquit, and shall be informed of this right.
-* **§VI.9.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
-* **§VI.10.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
-  * **§VI.10(1)** Nothing in this paragraph precludes the Supreme Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
+* **§VI.7.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
+* **§VI.8.** The Chief Public Prosecutor shall be removeable from the office by the Citizens with a simple majority in a referendum called by no less than 10% of population.
+* **§VI.9.** Prosecution shall be brought on behalf of the Citizens or with consent of the victim where appropriate; right to a private prosecution is also guaranteed. 
+* **§VI.10.** The criminal offenses shall be tried in the Criminal Court before a judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'; acquittal by Jury shall be final. The Jury shall render the verdict according to the law under advice of the judge, and shall determine the facts, but retains the unequivocal right to acquit, and shall be informed of this right.
+* **§VI.11.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
+* **§VI.12.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
+  * **§VI.12(1)** Nothing in this paragraph precludes the Supreme Court from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
 

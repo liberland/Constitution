@@ -65,6 +65,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
 * **§III.17.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
 * **§III.18.** No person shall be put into custody or tried before they are informed of their rights.
+* **§III.19.** No person shall be tried for any criminal offence any later than a year since the warrant for custody was issued or, if no warrant was issued, since the complanit was made to the appropriate authorities. 
 
 ## Political Institutions
 

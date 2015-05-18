@@ -10,7 +10,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article I: General Provisions
 
-* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland, and any other persons under tried under the jurisdiction thereof.
+* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland, and any other persons under the jurisdiction thereof.
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** Any person in public office who is convicted of intentional breach of this Constitution, shall be immediately removed from the office and shall not hold any other public office in the future.
 
@@ -65,7 +65,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
 * **§III.17.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
 * **§III.18.** No person shall be put into custody or tried before they are informed of their rights.
-* **§III.19.** No person shall be tried for any criminal offence any later than a year since the warrant for custody was issued or, if no warrant was issued, since the complanit was made to the appropriate authorities. 
+* **§III.19.** No person shall be tried for any criminal offence any later than a year since the warrant for custody was issued or, if no warrant was issued, since the complaint was made to the appropriate authorities. 
 
 ## Political Institutions
 
@@ -139,7 +139,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§VI.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§VI.3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body; ther remuneration shall never be lowered.
+* **§VI.3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body; their remuneration shall never be lowered.
 * **§VI.4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
 * **§VI.5.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removed from their position by the Citizens with a simple majority in a referendum called by no less than 10% of population.
 * **§VI.6.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.

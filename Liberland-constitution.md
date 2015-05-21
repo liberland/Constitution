@@ -8,64 +8,66 @@
 
 The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon all branches of the Public Administration. The following rights shall apply equally to all persons regardless of their citizenship, gender, ethnicity, opinions, religion, national origin, or peaceful lifestyle.
 
+
 ### Article I: General Provisions
 
 * **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland, and any other persons under the jurisdiction thereof.
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** Any person in public office who is convicted of intentional breach of this Constitution, shall be immediately removed from the office and shall not hold any other public office in the future.
+* **§I.4.** Any agent of the Public Administration shall be personally liable for any loss caused by him or her whilst acting in their official capacity but unlawfully and/or in error.
+* **§I.5.** No Assembly Representative shall be excluded from the operation of any law passed by the Assembly.
+* **§I.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with an express consent of at least three Justices of the Supreme Court.
+* **§I.7.** No agent of the Public Administration shall enlist any person to commit any criminal offence.
+* **§I.8.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified; and no information shall be classified unless it is absolutely necessary for the purposes of national security.
+* **§I.9.** Any administrative decision of the Public Administration shall be subject to the challenge in the Civil Court by a person in whose respect it was given.
+
 
 ### Article II: Legislative Restrictions
 
 * **§II.1.** No ex post facto law shall be passed.
 * **§II.2.** No Bill of Attainder shall be passed.
-* **§II.3.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among persons of age, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
-* **§II.4.** No law shall invade the privacy of peaceful persons by unreasonable searches, seizures, storage of personal information without consent of their rightful owners, including but not limited to, the use of digital means, freeze of assets of any natural and/or legal person, otherwise than in pursuit of a Warrant issued by a judge of appropriate court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate request, and particularly describing the place to be searched, and the persons or things to be seized or put under surveillance.
-* **§II.5.** No law shall allow for the private property be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
-* **§II.6.** No law shall create victimless and/or consensual crimes.
-* **§II.7.** No law shall mandate any person to associate and/or transact with any other person; nor shall it prohibit it.
-* **§II.8.** No law shall abridge the freedom of thought, feeling, belief, opinion, and conscience, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community.
-* **§II.9.** No law shall abridge the right to assemble peacefully where no rights of others are infringed.
-* **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
-* **§II.11.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
-* **§II.12.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
-* **§II.13.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
-* **§II.14.** No law shall establish and/or regulate the institution of marriage between persons of age.
-* **§II.15.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
-* **§II.16.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
-* **§II.17.** No law shall abridge the right of self-defence and/or defence of one's property against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
-* **§II.18.** No law shall institute price controls of goods and/or services, nor rent controls.
-* **§II.19.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
-* **§II.20.** No law shall exempt Assembly Representatives from its operation, nor deny to any person the equal protection of the laws.
-* **§II.21.** No law shall allow any agent of the Public Administration to enlist any person to commit any criminal offence.
+* **§II.3.** No law shall create victimless and/or consensual crimes.
+* **§II.4.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
+* **§II.5.** No law shall allow for the private property to be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
+* **§II.6.** No law shall mandate nor forbid any natural and/or legal person to associate and/or transact with any other natural and/or legal person.
+* **§II.7.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among persons of age, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
+* **§II.8.** No law shall abridge the freedom of thought, feeling, belief, opinion, and conscience, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community. 
+* **§II.9.** No law shall abridge the right to assemble peacefully where no negative rights of others are infringed.
+* **§II.10.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
+* **§II.11.** No law shall abridge the right of self-defence and/or defence of one's property and the close ones against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
+* **§II.12.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
+* **§II.13.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
+* **§II.14.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
+* **§II.15.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
+* **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
+* **§II.17.** No law shall establish and/or regulate the institution of marriage between persons of age.
+
 
 ### Article III: Individual Rights
 
-* **§III.1.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified, and no information shall be classified unless it is absolutely necessary for the purposes of national security.
-* **§III.2.** No excessive bail shall be required, nor excessive fines imposed.
-* **§III.3.** No torture or other cruel, unusual, or degrading treatment shall be inflicted on any person by any agent of any branch of the Public Administration or with consent or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent; any person whatsoever responsible shall be held personally accountable for such a crime against human dignity, regardless of any law, policy, command or suggestion which might have been authorising such conduct.
-* **§III.4.** No person shall be convicted of an illegal disclosure of classified information if that piece of information proves or could be reasonably believed to be proving that any agent of any branch of the Public Administration has breached, remains in breach or intends to breach the law.
-* **§III.5.** Any agent of the Public Administration shall be personally liable for any loss caused by him or her whilst acting in their official capacity but unlawfully and/or in error.
-* **§III.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with an express consent of at least three Justices of the Supreme Court.
-* **§III.7.** In criminal cases, the defendant shall have the right to the following:
-  * **§III.7(1)** to a speedy and public trial;
-  * **§III.7(2)** to trial by an impartial jury composed of twelve Citizens;
-  * **§III.7(3)** to be informed of criminal charges;
-  * **§III.7(4)** to confront witnesses and to compel witnesses to appear in court;
-  * **§III.7(5)** to the assistance of legal counsel free of charge where appropriate;
-  * **§III.7(6)** to be presumed innocent until proven guilty;
-  * **§III.7(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself.
-* **§III.8.** No person shall be convicted, sentenced, or imprisoned without due process of law.
-* **§III.9.** A person who has been arrested, detained, imprisoned, tried, or sentenced either illegally or in error shall receive fair restitution.
-* **§III.10.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court, and no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
-* **§III.11.** No person shall either before or after trial be held incommunicado.
-* **§III.12.** An accused who does not speak the language in which the criminal proceedings are conducted shall be provided without expense with the services of an interpreter.
-* **§III.13.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty.
-* **§III.14.** No person shall be deprived of the right to own, manufacture, sell, transport, and bear arms unless declared otherwise by a court of law on mental health grounds, nor shall licensing be used to infringe upon this right.
-* **§III.15.** No person shall be prevented from challenging an administrative decision given in his or her respect via the procedure of judicial review.
-* **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
-* **§III.17.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
-* **§III.18.** No person shall be put into custody or tried before they are informed of their rights.
-* **§III.19.** No person shall be tried for any criminal offence any later than a year since the warrant for custody was issued or, if no warrant was issued, since the complaint was made to the appropriate authorities. 
+* **§III.1.** No person shall be subjected to torture or other cruel, unusual, or degrading treatment by any agent of the Public Administration or with consent or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent; any person whatsoever responsible shall be held personally accountable for such a crime against human dignity, regardless of any law, policy, command or suggestion which might have been authorising such conduct.
+* **§III.2.** No person’s privacy shall be violated by freeze of assets, searches, seizures, surveillance, accessing and gathering of their personal information without consent, including obtaining it from the 3rd parties and/or using digital means, otherwise than in pursuit of a Warrant issued by a judge of Criminal Court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate request, and particularly describing the assets to be frozen, the places to be searched, the things or persons to be seized, the persons to be put under surveillance, including the maximum period of that surveillance, and the data to be obtained and stored, including the period for which it can be retained.
+* **§III.3.** No person shall be deprived of the right to own, manufacture, sell, transport, and bear arms unless declared otherwise by a court of law on mental health grounds, nor shall licensing be used to infringe upon this right.
+* **§III.4.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court; no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
+* **§III.5.** No person shall be convicted of any criminal offence on the grounds of disclosure of classified information if that piece of information proves or could be reasonably believed to be proving that any agent of any branch of the Public Administration has breached, remains in breach or intends to breach the law.
+* **§III.6.** No person shall be convicted, sentenced, or imprisoned without due process of law; any person who has been arrested, detained, imprisoned, tried, or sentenced either illegally or in error shall receive fair compensation.
+* **§III.7.** No person shall be held incommunicado either before or after the trial.
+* **§III.8.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty.
+* **§III.9.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
+* **§III.10.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
+* **§III.11.** No person shall be put into custody or tried before they are informed of their rights.
+* **§III.12.** No person shall be tried for any criminal offence any later than a year since the Warrant for custody was issued or, if no warrant was issued, since the complaint was made to the appropriate authorities.
+* **§III.13.** No person shall be required to pay excessive bail and/or fines.
+* **§III.14.** In criminal proceedings, the defendant shall have the right to the following:
+  * **§III.14(1)** to a speedy and public trial;
+  * **§III.14(2)** to trial by an impartial jury composed of twelve Citizens;
+  * **§III.14(3)** to be informed of criminal charges;
+  * **§III.14(4)** to confront witnesses and to compel witnesses to appear in court;
+  * **§III.14(5)** to the assistance of legal counsel free of charge where appropriate;
+  * **§III.14(6)** to be presumed innocent until proven guilty;
+  * **§III.14(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself.
+   * **§III.14(8)** to be provided without expense with the services of an interpreter if he or she does not speak the language of proceedings. 
+
 
 ## Political Institutions
 

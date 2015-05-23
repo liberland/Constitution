@@ -152,4 +152,4 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 * **§VI.11.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
 * **§VI.12.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
   * **§VI.12(1)** Nothing in this paragraph precludes the Supreme Court from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
-
+* **§VI.13.** The Supreme Court shall have a jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts.

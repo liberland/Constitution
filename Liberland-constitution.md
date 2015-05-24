@@ -120,6 +120,29 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 * **§IV.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.20, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
 * **§IV.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the 31st day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
 
+-### Article V: The Executive Power
+-
+-* **§V.1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
+-* **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
+-* **§V.3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article IV.
+-* **§V.4.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
+-  * **§V.4(1)** to run day-to-day state affairs;
+-  * **§V.4(2)** to initiate a legislative procedure;
+-  * **§V.4(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+-  * **§V.4(4)** to make international treaties with the consent of no fewer than three-quarters of all Assembly Representatives;
+-  * **§V.4(5)** to execute in good faith the laws passed by the Assembly;
+-  * **§V.4(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
+-  * **§V.4(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;
+-  * **§V.4(8)** to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
+-* **§V.5.** The Cabinet shall consist of the following Departments only:
+-  * **§V.5(1)** Department of Justice
+-  * **§V.5(2)** Department of Internal Affairs
+-  * **§V.5(3)** Department of Security
+-  * **§V.5(4)** Department of Foreign Affairs
+-  * **§V.5(5)** Department of Treasury
+-* **§V.6.** Each Department shall be headed by the Secretary of State for the respective Department who shall answer to the Chancellor and the Assembly.
+-* **§V.7.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
+
 ### Article VI: The Judicial Power
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.

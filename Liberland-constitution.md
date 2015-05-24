@@ -127,7 +127,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
   * **§V.4(4)** to make international treaties with the consent of no fewer than three-quarters of all Assembly Representatives;
   * **§V.4(5)** to execute in good faith the laws passed by the Assembly;
   * **§V.4(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
-  * **§V.4(7)** to appoint the Chief Public Prosecutor; Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;
+  * **§V.4(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;
   * **§V.4(8)** to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
 * **§V.5.** The Cabinet shall consist of the following Departments only:
   * **§V.5(1)** Department of Justice

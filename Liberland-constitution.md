@@ -146,16 +146,23 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 ### Article VI: The Judicial Power
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
-* **§VI.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§VI.3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body; their remuneration shall never be lowered.
-* **§VI.4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
-* **§VI.5.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removed from their position by the Citizens with a simple majority in a referendum called by no less than 10% of population.
-* **§VI.6.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
-* **§VI.7.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
-* **§VI.8.** The Chief Public Prosecutor shall be removeable from the office by the Citizens with a simple majority in a referendum called by no less than 10% of population.
-* **§VI.9.** Prosecutions shall be brought on behalf of the Citizens or with consent of the victim where appropriate; right to a private prosecution is guaranteed. 
-* **§VI.10.** The criminal offenses shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'; the Jury shall render the verdict according to the law under advice of the judge, and shall determine the facts, but retains the unequivocal right to acquit, and shall be informed of this right; the acquittal by the Jury shall be final. 
-* **§VI.11.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
-* **§VI.12.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
-  * **§VI.12(1)** Nothing in this paragraph precludes the Supreme Court from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
-* **§VI.13.** The Supreme Court shall have a jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts.
+* **§VI.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
+* **§VI.3.** The Courts of the Free Republic of Liberland shall protect the Citizens of the Free Republic of Liberland and other residents from any unlawful  trespasses into their rights by any branch or agent of the Public Administration.
+* **§VI.4.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
+* **§VI.5.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body; their remuneration shall not be lowered.
+* **§VI.6.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions with a simple majority.
+* **§VI.7.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by no less than 10% of population.
+* **§VI.8.** The Supreme Court shall have a jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts.
+* **§VI.9.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission.
+* **§VI.10.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
+  * **§VI.10(1)** Nothing in this paragraph precludes the Supreme Court from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
+* **§VI.11.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges reaching a decision with a simple majority.
+* **§VI.12.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
+* **§VI.13.** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by no less than 10% of population.
+* **§VI.14.** Prosecutions shall be brought on behalf of the Citizens or with the consent of the victim where appropriate; the right to a private prosecution is guaranteed. 
+* **§VI.15.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.
+  * **§VI.15(1)** The Jury shall be composed of twelve impartial Citizens;
+  * **§VI.15(2)** The Jury shall determine the facts and render the verdict according to the law under advice of the Judge;
+  * **§VI.15(3)** The jury shall deliberate in camera and shall never be required to give reasons for the verdict;
+  * **§VI.15(4)** The Jury shall retain the unequivocal right to acquit, and shall be informed of this right;
+  * **§VI.15(5)** The acquittal by the Jury shall be final.

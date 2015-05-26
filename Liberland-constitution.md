@@ -26,7 +26,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 * **§II.1.** No ex post facto law shall be passed.
 * **§II.2.** No Bill of Attainder shall be passed.
-* **§II.3.** No law shall create victimless and/or consensual crimes.
+* **§II.3.** No law shall create victimless and/or consensual crimes; no person shall be considered a victim of his or her own actions or omissions.
 * **§II.4.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.5.** No law shall allow for the private property to be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
 * **§II.6.** No law shall mandate nor forbid any natural and/or legal person to associate and/or transact with any other natural and/or legal person.
@@ -92,7 +92,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
     * **§IV.11(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
     * **§IV.11(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
     * **§IV.11(3)(c)** funding or partial funding of any political party;
-    * **§IV.11(3)(d)** funding or partial funding of any form of healthcare services and/or pension schemes;
+    * **§IV.11(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes;
 * **§IV.12.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
 * **§IV.13.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only.
   * **§IV.13(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.

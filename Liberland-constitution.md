@@ -110,7 +110,8 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
   * **§IV.15(5)** to maintain the system of the Administration of Justice;
   * **§IV.15(6)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
   * **§IV.15(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland;
-  * **§IV.15(8)** to debate on matters important to the well-being of the state.
+  * **§IV.15(8)** to debate on matters important to the well-being of the state;
+  * **§IV.15(9)** to ratify international treaties proposed by the Cabinet; such treaty shall be directly enforceable provided it has passed all procedural requirements related to ordianry Bills.
 * **§IV.16.** Any ordinary Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
   * **§IV.16(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§IV.17.** The referendum provided for in §IV.16 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.

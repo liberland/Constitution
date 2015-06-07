@@ -82,44 +82,43 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 * **§IV.5.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.6.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with a majority vote of all Assembly Representatives only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with a majority vote of all Assembly Representatives.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only which shall be exercised only once a year upon the State of the Republic speech.
-* **§IV.8.** An ordinary Bill shall be passed into law with a majority of three-quarters of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.16; an ordinary Bill is any Bill which is not a Constitutional Bill under §IV.9., or Taxation Bill under §IV.10., or Financial Bill under §IV.11.
+* **§IV.8.** An ordinary Bill shall be passed into law with a majority of three-quarters of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.16; an ordinary Bill is any Bill which is not a Constitutional Bill under §IV.9., or Financial Bill under §IV.10.
 * **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present, and shall be subject to the power of general veto by the Citizens as provided in §IV.18.
-* **§IV.10.** A Taxation Bill proposing taxation no other than tax on actual land and/or sales tax shall be the only Bill capable of levying tax burdens in the Free Republic of Liberland, and shall be passed with a majority of three-quarters of all Assembly Representatives, and shall be subject to the power of general veto by the Citizens as provided in §IV.18.
-* **§IV.11.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a simple majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §IV.16.
-  * **§IV.11(1)** The budget shall not be with deficit.
-  * **§IV.11(2)** Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
-  * **§IV.11(3)** No provision of the Annual Budget shall provide for: 
+* **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a simple majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §IV.16.
+  * **§IV.10(1)** The budget shall not be with deficit.
+  * **§IV.10(2)** Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
+  * **§IV.10(3)** No provision of the Annual Budget shall provide for: 
     * **§IV.11(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
     * **§IV.11(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
     * **§IV.11(3)(c)** funding or partial funding of any political party;
     * **§IV.11(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes;
-* **§IV.12.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
-* **§IV.13.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only.
-  * **§IV.13(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.
-* **§IV.14.** Any Bill which is not voted on before the next State of the Republic Speech and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Speech.
-* **§IV.15.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with a majority vote of all Assembly Representatives.
-* **§IV.16.** The powers of the Assembly shall be restricted to the following only:
-  * **§IV.16(1)** to protect the rights of the people to their persons and property;
-  * **§IV.16(2)** to conduct the financial affairs of the Public Administration;
-  * **§IV.16(3)** to lay and collect taxes provided for in the Taxation Bill for one or more of the following purposes only:
-    * **§IV.16(3)(a)** covering the expenses of the Public Administration;
-    * **§IV.16(3)(b)** maintaining the internal security;
-    * **§IV.16(3)(c)** providing for the system of Administration of Justice;
-    * **§IV.16(3)(d)** securing and promoting the interests of the Free Republic of Liberland worldwide.
-  * **§IV.16(4)** to establish a militia to maintain the internal security;
-  * **§IV.16(5)** to maintain the system of the Administration of Justice;
-  * **§IV.16(6)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
-  * **§IV.16(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland;
-  * **§IV.16(8)** to debate on matters important to the well-being of the state;
-  * **§IV.16(9)** to ratify international treaties proposed by the Cabinet; such treaty shall be directly enforceable provided it has passed all procedural requirements related to ordianry Bills.
-* **§IV.17.** Any ordinary Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
-  * **§IV.17(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.18.** The referendum provided for in §IV.16 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
-* **§IV.19.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part in that referendum vote ‘No’.
-* **§IV.20** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least 3 years.
-* **§IV.21.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.16, or on the day the Bill obtained the assent of the Citizens in referendum under §IV.17 or §IV.18.
-* **§IV.22.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.20, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
-* **§IV.23.** The law of the Free Republic of Liberland shall enter into force no sooner than on the 31st day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
+* **§IV.11.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
+* **§IV.12.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only.
+  * **§IV.12(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.
+* **§IV.13.** Any Bill which is not voted on before the next State of the Republic Speech and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Speech.
+* **§IV.14.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with a majority vote of all Assembly Representatives.
+* **§IV.15.** The powers of the Assembly shall be restricted to the following only:
+  * **§IV.15(1)** to protect the rights of the people to their persons and property;
+  * **§IV.15(2)** to conduct the financial affairs of the Public Administration;
+  * **§IV.15(3)** to lay and collect taxes provided for in the Taxation Bill for one or more of the following purposes only:
+    * **§IV.15(3)(a)** covering the expenses of the Public Administration;
+    * **§IV.15(3)(b)** maintaining the internal security;
+    * **§IV.15(3)(c)** providing for the system of Administration of Justice;
+    * **§IV.15(3)(d)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+  * **§IV.15(4)** to establish a militia to maintain the internal security;
+  * **§IV.15(5)** to maintain the system of the Administration of Justice;
+  * **§IV.15(6)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
+  * **§IV.15(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland;
+  * **§IV.15(8)** to debate on matters important to the well-being of the state;
+  * **§IV.15(9)** to ratify international treaties proposed by the Cabinet; such treaty shall be directly enforceable provided it has passed all procedural requirements related to ordianry Bills.
+* **§IV.16.** Any ordinary Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
+  * **§IV.16(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+* **§IV.17.** The referendum provided for in §IV.15 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
+* **§IV.18.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part in that referendum vote ‘No’.
+* **§IV.191** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least 3 years.
+* **§IV.20.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.16, or on the day the Bill obtained the assent of the Citizens in referendum under §IV.16 or §IV.17.
+* **§IV.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.19, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
+* **§IV.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the 31st day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
 
 ### Article V: The Executive Power
 

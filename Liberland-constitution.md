@@ -167,3 +167,4 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
   * **§VI.15(3)** The jury shall deliberate in camera and shall never be required to give reasons for the verdict;
   * **§VI.15(4)** The Jury shall retain the unequivocal right to acquit, and shall be informed of this right;
   * **§VI.15(5)** The acquittal by the Jury shall be final.
+  * **§VI. 16** The Chef Public Prosecutor is appointed by the Chancellor for life. 

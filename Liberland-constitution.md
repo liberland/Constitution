@@ -77,7 +77,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 ### Article IV: The Legislative Power
 
 * **§IV.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.
-* **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years; no person shall hold the office of a judge of one of the courts of the Free Republic of Liberland and a Assembly Representative at the same time.
+* **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years; no person shall hold the office of a judge of one of the courts of the Free Republic of Liberland and an Assembly Representative at the same time.
 * **§IV.3.** No Assembly Representative shall hold the office for more than eight years in total.
 * **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter, "the Cabinet", with a majority vote of all Assembly Representatives; all members of the Cabinet shall be drawn from the citizenry.
 * **§IV.5.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
@@ -117,7 +117,6 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.17(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§IV.18.** The referendum provided for in §IV.17 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
 * **§IV.19.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'yes'.
-* the majority of the Citizens taking part in that referendum vote ‘No’.
 * **§IV.20** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least 3 years.
 * **§IV.21.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.17, or on the day the Bill obtained the assent of the Citizens in referendum under §IV.18 or §IV.19.
 * **§IV.22.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.21, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".

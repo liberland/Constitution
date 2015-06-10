@@ -165,6 +165,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§VI.15.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.
   * **§VI.15(1)** The Jury shall be composed of twelve impartial Citizens;
   * **§VI.15(2)** The Jury shall determine the facts and render the verdict according to the law under advice of the Judge;
-  * **§VI.15(3)** The jury shall deliberate in camera and shall never be required to give reasons for the verdict;
-  * **§VI.15(4)** The Jury shall retain the unequivocal right to acquit, and shall be informed of this right;
-  * **§VI.15(5)** The acquittal by the Jury shall be final.
+  * **§VI.15(3)** The Jury shall deliberate in camera and shall not be required to give reasons for the verdict;
+  * **§VI.15(4)** The Jury shall not be reprimanded for their verdict;
+  * **§VI.15(5)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right;
+  * **§VI.15(6)** The acquittal by the Jury shall be final.

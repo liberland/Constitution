@@ -17,15 +17,14 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§I.4.** All agents of the Public Administration shall be personally liable for any loss caused by him or her whilst acting in their official capacity but unlawfully and/or in error.
 * **§I.5.** No Assembly Representative shall be excluded from the operation of any law passed by the Assembly.
 * **§I.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with an express consent of at least three Justices of the Supreme Court.
-* **§I.7.** No agent of the Public Administration shall enlist any person to commit any criminal offence.
-* **§I.8.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified; and no information shall be classified unless it is absolutely necessary for the purposes of national security.
-* **§I.9.** All administrative decisions of the Public Administration shall be subject to the challenge in the Civil Court by a person in whose respect it was given, or any other person who can prove his or her interest in that decision.
-
+* **§I.7.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified; and no information shall be classified unless it is absolutely necessary for the purposes of national security.
+* **§I.8.** All administrative decisions of the Public Administration shall be subject to the challenge in the Civil Court by a person in whose respect it was given, or any other person who can prove his or her interest in that decision.
+* **§I.9.** No agent of the Public Administration shall operate undercover without a warrant issued by a judge of the Criminal Court; no agent of the Public Administration operating undercover shall pursue incriminating evidence through any method of entrapment, nor shall any agent of the Public Administration act outside of their specified mission unless to protect themselves or others in direct threat; all actions by any agent of the Public Administration operating undercover shall be scrutinized in any court proceedings which include any evidence collected from an agent operating undercover, unless said agent is still legally operating undercover in pursuit of a related warrant.
 
 ### Article II: Legislative Restrictions
 
-* **§II.1.** No ex post facto law shall be passed.
-* **§II.2.** No Bill of Attainder shall be passed.
+* **§II.1.** No law shall retroactively change the legal consequences and/or status of actions that were already committed, or relationships that already existed, before the enactment of that law
+* **§II.2.** No law shall establish and/or regulate the institution of marriage between persons of age; nor shall it regulate the rules regarding inheretance where there is a valid will in place.
 * **§II.3.** No law shall create victimless and/or consensual crimes; no person of age shall be considered a victim of his or her own actions or omissions.
 * **§II.4.** No law shall establish the institution of slavery, conscription, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.5.** No law shall allow for the private property to be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
@@ -36,19 +35,18 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.10.** No law shall abridge the right of any person to use or issue any commodity or item as currency unless either party to the transaction is legally prohibited to possess such item or commodity; nor shall the Public Administration engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
 * **§II.11.** No law shall abridge the right of self-defence and/or defence of one's property, the close ones and others who are under a direct threat, against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
 * **§II.12.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person other than an agent of the Public Administration; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
-* **§II.13.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
+* **§II.13.** No law shall regulate any printed materials, radio, television, the Internet or any other medium of exchange of information; no law shall regulate the rules concerning uploading, transmitting, displaying, accessing and/or publishing such information; nor shall any law introduce licensing and/or registration to infringe upon these rights; nothing in this provision shall prevent Assembly from regulating the rules concerning protection of sources used by journalists, accessing information without consent of the rightful owners and protection of persons under age.
 * **§II.14.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
 * **§II.15.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
-* **§II.17.** No law shall establish and/or regulate the institution of marriage between persons of age; nor shall it regulate the rules regarding inheretance where there is a valid will in place.
-* **§II.18.** No law shall allow any body of any branch of the Public Administration to assign a number to any citizen, nor shall he or she be required to procure, carry, or otherwise maintain identification materials of any form without his or her consent unless upon the conviction in a court of law and for the duration of the sentence only; no person shall be compelled to identify themselves to any agent of the Public Administration, otherwise than upon arrest with probable cause or pursuant to a warrant issued by a judge of the Criminal Court; all data collected by any body of any branch of the Public Administration shall be used only for the direct and necessary purposes for which it was originally collected, and shall be kept confidential and shared only with the consent of the rightful owner or pursuant to a court order or otherwise in accordance with the provisions of this Constitution
+* **§II.17.** No law shall allow any body of any branch of the Public Administration to assign a number to any citizen, nor shall he or she be required to procure, carry, or otherwise maintain identification materials of any form without his or her consent unless upon the conviction in a court of law and for the duration of the sentence only; no person shall be compelled to identify themselves to any agent of the Public Administration, otherwise than upon arrest with probable cause or pursuant to a warrant issued by a judge of the Criminal Court; all data collected by any body of any branch of the Public Administration shall be used only for the direct and necessary purposes for which it was originally collected, and shall be kept confidential and shared only with the consent of the rightful owner or pursuant to a court order or otherwise in accordance with the provisions of this Constitution
 
 
 ### Article III: Individual Rights
 
 * **§III.1.** No person shall be subjected to torture or other cruel, unusual, or degrading treatment by any agent of the Public Administration or with consent or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent; any person whatsoever responsible shall be held personally accountable for such a crime against human dignity, regardless of any law, policy, command or suggestion which might have been authorising such conduct.
 * **§III.2.** No person’s privacy shall be violated by freeze of assets, searches, seizures, surveillance, accessing and gathering of their personal information without consent, including obtaining it from third parties and/or using digital means, otherwise than in pursuit of a Warrant issued by a judge of Criminal Court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate request, and particularly describing the assets to be frozen, the places or persons to be searched, the things or persons to be seized, the persons to be put under surveillance, including the maximum period of that surveillance, and the data to be obtained and stored, including the period for which it can be retained.
-* **§III.3.** No person of age shall be deprived of the right to own, manufacture, sell, transfer, transport, bear and use any small arms, arms accessories, or ammunition, be they now historic, contemporary and/or experimental, regardless of condition, unless decided otherwise by a decision of the court where law allows it as punishment for crime, or on medical grounds where a person would constitute a threat to others; no form of licensing and/or registration shall be used to infringe upon these rights. 
+* **§III.3.** No person of age shall be deprived of the right to own, manufacture, sell, transfer, transport, bear and use any small arms, arms accessories, or ammunition, be they now historic, contemporary and/or experimental, regardless of condition, unless decided otherwise by a decision of the court where law allows it as punishment for crime, or on medical grounds where a person would constitute a threat to others; no form of licensing and/or registration shall be used to infringe upon these rights.; the owner of the premises shall determine whether arms can be carried on such premises except for the members of the law enforcement where acting upon warrant.
 * **§III.4.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court; no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others or where the accused is likely to escape justice or interfere with the investigation; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
 * **§III.5.** No person shall be convicted of any criminal offence on the grounds of disclosure of classified information if that piece of information proves or could be reasonably believed to be proving that any agent of the Public Administration has breached, remains in breach or intends to breach the law or Constitution.
 * **§III.6.** No person shall be convicted, sentenced, or imprisoned without due process of law; any person who has been arrested, detained, imprisoned, tried, or sentenced either illegally or in error shall receive fair compensation.
@@ -59,15 +57,16 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.11.** No person shall be put into custody or tried before they are informed of their rights.
 * **§III.12.** No person shall be tried for any criminal offence any later than a year since the warrant for custody of said person was executed and the person was taken into custody; the deadline shall be renewed for any and all subsequent warrants for custody in the event of escape and/or subsequent offence.
 * **§III.13.** No person shall be required to pay excessive bail and/or fines.
-* **§III.14.** In criminal proceedings, the defendant shall have the right to the following:
-  * **§III.14(1)** to a speedy and public trial;
-  * **§III.14(2)** to trial by an impartial jury;
-  * **§III.14(3)** to be informed of criminal charges;
-  * **§III.14(4)** to confront witnesses and to compel witnesses to appear in court;
-  * **§III.14(5)** to the assistance of legal counsel free of charge where appropriate;
-  * **§III.14(6)** to be presumed innocent until proven guilty;
-  * **§III.14(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself.
-   * **§III.14(8)** to be provided without expense with the services of an interpreter if he or she does not speak the language of proceedings. 
+* **§III.14.** No person shall be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by any number of members of the law enforcement that is uncorroborated by any other presented physical and/or digital evidence and/or third party witness testimony. 
+* **§III.15.** In criminal proceedings, the defendant shall have the right to the following:
+  * **§III.15(1)** to a speedy and public trial;
+  * **§III.15(2)** to trial by an impartial jury;
+  * **§III.15(3)** to be informed of criminal charges;
+  * **§III.15(4)** to confront witnesses and to compel witnesses to appear in court;
+  * **§III.15(5)** to the assistance of legal counsel free of charge where appropriate;
+  * **§III.15(6)** to be presumed innocent until proven guilty;
+  * **§III.15(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself.
+   * **§III.15(8)** to be provided without expense with the services of an interpreter if he or she does not speak the language of proceedings. 
 
 
 ## Political Institutions
@@ -83,44 +82,47 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.5.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.6.** The Assembly shall have the power to withdraw confidence from the Chancellor along with the Cabinet by passing the constructive motion of no confidence with a simple majority vote of all Assembly Representatives only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with a simple majority vote of all Assembly Representatives.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only which shall be exercised only once a year upon the State of the Republic speech.
-* **§IV.8.** An ordinary Bill shall be passed into law with a majority of three-quarters of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.16; an ordinary Bill is any Bill which is not a Constitutional Bill under §IV.9., or Taxation Bill under §IV.10., or Financial Bill under §IV.11.
-* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present, and shall be subject to the power of general veto by the Citizens as provided in §IV.18.
-* **§IV.10.** A Taxation Bill proposing taxation no other than tax on actual land and/or sales tax shall be the only Bill capable of levying tax burdens in the Free Republic of Liberland, and shall be passed with a majority of three-quarters of all Assembly Representatives, and shall be subject to the power of general veto by the Citizens as provided in §IV.18.
-* **§IV.11.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a simple majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §IV.16.
-  * **§IV.11(1)** The budget shall not be with deficit.
-  * **§IV.11(2)** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
-  * **§IV.11(3)** No provision of the Annual Budget shall provide for: 
-    * **§IV.11(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
-    * **§IV.11(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
-    * **§IV.11(3)(c)** funding or partial funding of any political party;
-    * **§IV.11(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes;
-* **§IV.12.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
-* **§IV.13.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only.
-  * **§IV.13(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.
-* **§IV.14.** Any Bill which is not voted on before the next State of the Republic Speech and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Speech.
-* **§IV.15.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with a simple majority vote of all Assembly Representatives.
-* **§IV.16.** The powers of the Assembly shall be restricted to the following only:
-  * **§IV.16(1)** to protect the rights of the people to their persons and property;
-  * **§IV.16(2)** to conduct the financial affairs of the Public Administration;
-  * **§IV.16(3)** to lay and collect taxes provided for in the Taxation Bill for one or more of the following purposes only:
-    * **§IV.16(3)(a)** covering the expenses of the Public Administration;
-    * **§IV.16(3)(b)** maintaining the internal security;
-    * **§IV.16(3)(c)** providing for the system of Administration of Justice;
-    * **§IV.16(3)(d)** securing and promoting the interests of the Free Republic of Liberland worldwide.
-  * **§IV.16(4)** to establish a militia to maintain the internal security;
-  * **§IV.16(5)** to maintain the system of the Administration of Justice;
-  * **§IV.16(6)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
-  * **§IV.16(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland;
-  * **§IV.16(8)** to debate on matters important to the well-being of the state;
-  * **§IV.16(9)** to ratify international treaties proposed by the Cabinet; such treaty shall be directly enforceable provided it has passed all procedural requirements related to ordinary Bills.
-* **§IV.17.** Any ordinary Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
-  * **§IV.17(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.18.** The referendum provided for in §IV.17 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
-* **§IV.19.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'yes'.
-* **§IV.20** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least 3 years.
-* **§IV.21.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.17, or on the day the Bill obtained the assent of the Citizens in referendum under §IV.18 or §IV.19.
-* **§IV.22.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.21, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
-* **§IV.23.** The law of the Free Republic of Liberland shall enter into force no sooner than on the 31st day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
+* **§IV.8.** One-fourth of all Assembly Representatives shall have the right to oblige the Cabinet to consider a draft of a Bill prepared by them; if such draft is rejected by the Cabinet as potential Bill, the Cabinet shall publicly give detailed reasons behind its decision; nothing in this provision shall oblige the Cabinet to submit such a draft as a Bill to the Assembly .
+* **§IV.9.** An ordinary Bill shall be passed into law with a majority of three-quarters of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.19; an ordinary Bill is any Bill which is not a Constitutional Bill under §IV.10., or Taxation Bill under §IV.11., or Treaty Bill under §IV.12, or Financial Bill under §IV.13.
+* **§IV.10.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present, and shall be subject to the power of general veto by the Citizens as provided in §IV.21.
+* **§IV.11.** A Taxation Bill proposing taxation no other than tax on actual land and/or sales tax shall be the only Bill capable of levying tax burdens in the Free Republic of Liberland, and shall be passed into law with a majority of three-quarters of all Assembly Representatives, and shall be subject to the power of general veto by the Citizens as provided in §IV.21.
+* **§IV.12.** A Treaty Bll ratifying an international treaty signed by the Cabinet shall be passed into law with a majority of three-quarters of all Assembly Representatives, and shall be subject to the power of general veto by the Citizens as provided in §IV.19.
+  * **§IV.12(1)** All international treaties must be signed by the Chancellor on behalf of the Cabinet and ratified by the Assembly in order to constitute the law of the land in the Free Republic in Liberland.
+* **§IV.13.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a simple majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §IV.19.
+  * **§IV.13(1)** The budget shall not be with deficit.
+  * **§IV.13(2)** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
+  * **§IV.13(3)** No provision of the Annual Budget shall provide for: 
+    * **§IV.13(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
+    * **§IV.13(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
+    * **§IV.13(3)(c)** funding or partial funding of any political party;
+    * **§IV.13(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes;
+* **§IV.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
+* **§IV.15.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only; all Bills proposed by the Cabinet shall be made public prior to the Assembly's debate on them; all drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
+  * **§IV.15(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.
+* **§IV.16.** Any Bill which is not voted on before the next State of the Republic Speech and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Speech.
+* **§IV.17.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with a simple majority vote of all Assembly Representatives.
+* **§IV.18.** The powers of the Assembly shall be restricted to the following only:
+  * **§IV.18(1)** to protect the rights of the people to their persons and property;
+  * **§IV.18(2)** to conduct the financial affairs of the Public Administration;
+  * **§IV.18(3)** to lay and collect taxes provided for in the Taxation Bill for one or more of the following purposes only:
+    * **§IV.18(3)(a)** covering the expenses of the Public Administration;
+    * **§IV.18(3)(b)** maintaining the internal security;
+    * **§IV.18(3)(c)** providing for the system of Administration of Justice;
+    * **§IV.18(3)(d)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+  * **§IV.18(4)** to establish a militia to maintain the internal security;
+  * **§IV.18(5)** to maintain the system of the Administration of Justice;
+  * **§IV.18(6)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
+  * **§IV.18(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland with any status the Assembly might determine;
+  * **§IV.18(8)** to debate on matters important to the well-being of the state;
+  * **§IV.18(9)** to ratify international treaties signed by the Cabinet.
+* **§IV.19.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
+  * **§IV.19(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+* **§IV.20.** The referendum provided for in §IV.19 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
+* **§IV.21.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'yes'.
+* **§IV.22** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least 3 years.
+* **§IV.23.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.19, or on the day the Bill obtained the assent of the Citizens in referendum under §IV.20 or §IV.21.
+* **§IV.24.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.21, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
+* **§IV.25.** The law of the Free Republic of Liberland shall enter into force no sooner than on the 31st day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
 
 ### Article V: The Executive Power
 
@@ -132,7 +134,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.5(1)** to run day-to-day state affairs;
   * **§V.5(2)** to initiate a legislative procedure;
   * **§V.5(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§V.5(4)** to make international treaties with the consent of no fewer than three-quarters of all Assembly Representatives;
+  * **§V.5(4)** to make international treaties with the consent of a simple majority of all Assembly Representatives;
   * **§V.5(5)** to execute in good faith the laws passed by the Assembly;
   * **§V.5(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§V.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;

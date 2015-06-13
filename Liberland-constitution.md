@@ -168,4 +168,4 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§VI.15(3)** The Jury shall deliberate in camera and shall not be required to give reasons for the verdict;
   * **§VI.15(4)** The Jury shall not be reprimanded for their verdict;
   * **§VI.15(5)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right;
- 
+  * **§VI.15(6)** The acquittal by the Jury shall be final.

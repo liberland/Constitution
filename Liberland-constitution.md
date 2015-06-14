@@ -93,7 +93,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.13(1)** The budget shall not be with deficit.
   * **§IV.13(2)** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
   * **§IV.13(3)** No provision of the Annual Budget shall provide for: 
-    * **§IV.13(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
+    * **§IV.13(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by the Public Authority for purposes other than recognised by this Constitution;
     * **§IV.13(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
     * **§IV.13(3)(c)** funding or partial funding of any political party;
     * **§IV.13(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes;
@@ -152,9 +152,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§VI.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
-* **§VI.3.** The Courts of the Free Republic of Liberland shall protect the Citizens of the Free Republic of Liberland and other residents from any unlawful  trespasses into their rights by any branch or agent of the Public Administration.
+* **§VI.3.** The Courts of the Free Republic of Liberland shall protect the Citizens of the Free Republic of Liberland and other residents from any unlawful trespasses into their rights by the Public Administration.
 * **§VI.4.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§VI.5.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body; their remuneration shall not be lowered.
+* **§VI.5.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the Public Administration; and shall regulate their own affairs within a non-departmental body; their remuneration shall not be lowered.
 * **§VI.6.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions with a simple majority.
 * **§VI.7.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by no less than 10% of population.
 * **§VI.8.** The Supreme Court shall have jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts in all future proceedings where applicable.

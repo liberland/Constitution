@@ -57,7 +57,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.11.** No person shall be put into custody or tried before they are informed of their rights.
 * **§III.12.** No person shall be tried for any criminal offence any later than a year since the warrant for custody of said person was executed and the person was taken into custody; the deadline shall be renewed for any and all subsequent warrants for custody in the event of escape and/or subsequent offence.
 * **§III.13.** No person shall be required to pay excessive bail and/or fines.
-* **§III.14.** No person shall be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by any number of members of the law enforcement that is uncorroborated by any other presented physical and/or digital evidence and/or third party witness testimony. 
+* **§III.14.** No person shall be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by law enforcement that is uncorroborated by any other presented physical and/or digital evidence and/or third party witness testimony. 
 * **§III.15.** In criminal proceedings, the defendant shall have the right to the following:
   * **§III.15(1)** to a speedy and public trial;
   * **§III.15(2)** to trial by an impartial jury;

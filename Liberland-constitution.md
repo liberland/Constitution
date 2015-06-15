@@ -21,6 +21,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§I.8.** All administrative decisions of the Public Administration shall be subject to the challenge in the Civil Court by a person in whose respect it was given, or any other person who can prove his or her interest in that decision.
 * **§I.9.** No agent of the Public Administration shall operate undercover without Warrant; no agent of the Public Administration operating undercover shall pursue incriminating evidence through any method of entrapment, nor shall any agent of the Public Administration act outside of their specified mission unless to protect themselves or others in direct threat; all actions by any agent of the Public Administration operating undercover shall be scrutinized in any court proceedings which include any evidence collected from an agent operating undercover, unless said agent is still legally operating undercover in pursuit of a related Warrant.
 * **§I.10.** All Warrants in the Free Republic of Liberland shall be issued by a judge of the Criminal Court upon request by a member of the law enforcement or the Office of the Public Prosecutor and shall be supported by evidence of probable cause; every Warrant granted for a continuous action shall expire within one year and shall be renewed by another judge in accordance with the ordinary procedure.
+* **§I.11.** The affairs of the Assembly and all Supreme Court challenges shall be video recorded and made public contemporaneously. 
 
 ### Article II: Legislative Restrictions
 

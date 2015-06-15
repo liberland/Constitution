@@ -24,7 +24,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article II: Legislative Restrictions
 
-* **§II.1.** No law shall retroactively change the legal consequences and/or status of actions that were already committed, or relationships that already existed, before the enactment of that law
+* **§II.1.** No law shall retroactively change the legal consequences and/or status of actions that were already committed, or relationships that already existed, before the enactment of that law.
 * **§II.2.** No law shall establish and/or regulate the institution of marriage between persons of age; nor shall it regulate the rules regarding inheretance where there is a valid will in place.
 * **§II.3.** No law shall create victimless and/or consensual crimes; no person of age shall be considered a victim of his or her own actions or omissions.
 * **§II.4.** No law shall establish the institution of slavery, conscription, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
@@ -66,7 +66,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
   * **§III.15(4)** to confront witnesses and to compel witnesses to appear in court;
   * **§III.15(5)** to the assistance of legal counsel free of charge where appropriate;
   * **§III.15(6)** to be presumed innocent until proven guilty;
-  * **§III.15(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself.
+  * **§III.15(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself;
    * **§III.15(8)** to be provided without expense with the services of an interpreter if he or she does not speak the language of proceedings. 
 
 
@@ -96,7 +96,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
     * **§IV.13(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
     * **§IV.13(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
     * **§IV.13(3)(c)** funding or partial funding of any political party;
-    * **§IV.13(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes;
+    * **§IV.13(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes.
 * **§IV.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
 * **§IV.15.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only; all Bills proposed by the Cabinet shall be made public prior to the Assembly's debate on them; all drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
   * **§IV.15(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.
@@ -141,11 +141,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;
   * **§V.5(8)** to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
 * **§V.6.** The Cabinet shall consist of the following Departments only:
-  * **§V.6(1)** Department of Justice
-  * **§V.6(2)** Department of Internal Affairs
-  * **§V.6(3)** Department of Security
-  * **§V.6(4)** Department of Foreign Affairs
-  * **§V.6(5)** Department of Treasury
+  * **§V.6(1)** Department of Justice;
+  * **§V.6(2)** Department of Internal Affairs;
+  * **§V.6(3)** Department of Security;
+  * **§V.6(4)** Department of Foreign Affairs;
+  * **§V.6(5)** Department of Treasury.
 * **§V.7.** Each Department shall be headed by the Secretary of State for the respective Department who shall answer to the Chancellor and the Assembly.
 
 ### Article VI: The Judicial Power

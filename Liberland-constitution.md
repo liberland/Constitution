@@ -72,7 +72,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ## Political Institutions
 
-The Free Republic of Liberland shall be governed by the Public Administration in accordance with the Constitution. It shall exercise the legislative, executive and judicial powers which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
+The Free Republic of Liberland shall be governed by the Public Administration in accordance with the Constitution. It shall observe the rule of law and exercise only such legislative, executive and judicial powers which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
 
 ### Article IV: The Legislative Power
 

@@ -93,7 +93,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.13(1)** The budget shall not be with deficit.
   * **§IV.13(2)** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
   * **§IV.13(3)** No provision of the Annual Budget shall provide for: 
-    * **§IV.13(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution;
+    * **§IV.13(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Administration for purposes other than recognised by this Constitution;
     * **§IV.13(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural person;
     * **§IV.13(3)(c)** funding or partial funding of any political party;
     * **§IV.13(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes.

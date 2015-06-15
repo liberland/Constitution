@@ -15,7 +15,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** Any person in public office who is convicted of intentional breach of this Constitution, shall be immediately removed from the office and shall not hold any other public office in the future.
 * **§I.4.** All agents of the Public Administration shall be personally liable for any loss caused by him or her whilst acting in their official capacity but unlawfully and/or in error.
-* **§I.5.** No Assembly Representative shall be excluded from the operation of any law passed by the Assembly.
+* **§I.5.** No member or agent of the Public Administration shall be excluded from the operation of any law passed by the Assembly.
 * **§I.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with an express consent of at least three Justices of the Supreme Court.
 * **§I.7.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified; and no information shall be classified unless it is absolutely necessary for the purposes of national security.
 * **§I.8.** All administrative decisions of the Public Administration shall be subject to the challenge in the Civil Court by a person in whose respect it was given, or any other person who can prove his or her interest in that decision.

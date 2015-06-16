@@ -19,8 +19,9 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§I.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with the express consent of at least three Justices of the Supreme Court.
 * **§I.7.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of the Public Administration which is not classified; and no information shall be classified unless it is absolutely necessary for the purposes of national security; the affairs of the Assembly and the Supreme Court shall be video recorded and made public contemporaneously; any Assembly debate and votes or decision of any Court shall be recorded and archived and made available to the general public.
 * **§I.8.** All administrative decisions of the Public Administration shall be subject to the challenge in the Civil Court by a person in whose respect it was given, or any other person who can prove his or her interest in that decision.
-* **§I.9.** No agent of the Public Administration shall operate undercover without a Warrant; no agent of the Public Administration operating undercover shall pursue incriminating evidence through any method of entrapment, nor shall any agent of the Public Administration act outside of their specified mission unless to protect themselves or others in direct threat; all actions by any agent of the Public Administration operating undercover shall be scrutinized in any court proceedings which include any evidence collected from an agent operating undercover, unless said agent is still legally operating undercover pursuant to a related Warrant.
-* **§I.10.** All Warrants in the Free Republic of Liberland shall be issued by a judge of the Criminal Court upon request by a member of the law enforcement or the Office of the Public Prosecutor and shall be supported by evidence of probable cause; every Warrant granted for a continuous action shall expire within one year and shall be renewed by another judge in accordance with the ordinary procedure.
+* **§I.9.** All persons shall have the right to exclude from their property any member of the law enforcement where acting without Warrant and any other person acting without an appropriate order of a court of law.
+* **§I.10.** All persons staying within the territory of the Free Republic of Liberland shall be bound to observe the Constitution and other laws passed by the Assembly in accordance with this Constitution.
+* **§I.11.** All Warrants in the Free Republic of Liberland shall be issued by a judge of the Criminal Court upon request by a member of the law enforcement or the Office of the Public Prosecutor and shall be supported by evidence of probable cause; every Warrant granted for a continuous action shall expire within one year and shall be renewed by another judge in accordance with the ordinary procedure.
 
 ### Article II: Legislative Restrictions
 
@@ -29,8 +30,8 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.3.** No law shall create victimless and/or consensual crimes; no person of age shall be considered a victim of his or her own actions or omissions.
 * **§II.4.** No law shall establish the institution of slavery, conscription, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.5.** No law shall allow for the private property to be fully or partially taken for the public use without the express and informed consent of, and mutually agreeable compensation to, the owner.
-* **§II.6.** No law shall mandate nor forbid any natural and/or legal person to associate and/or transact with any consenting natural and/or legal person.
-* **§II.7.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary relations, including those of contractual nature, among persons of age, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
+* **§II.6.** No law shall mandate nor forbid any natural person of age and/or legal person to associate and/or transact with any consenting natural person of age and/or legal person.
+* **§II.7.** No law shall abridge the right of persons of age to the control of their own bodies and property, nor interfere with voluntary relations, including those of contractual nature, among persons of age, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
 * **§II.8.** No law shall abridge the freedom of thought, feeling, belief, opinion, and conscience, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community. 
 * **§II.9.** No law shall abridge the right to assemble peacefully where no negative rights of others are infringed; all public areas within the Free Republic of Liberland shall constitute free speech zones.
 * **§II.10.** No law shall abridge the right of any person to use or issue any commodity or item as currency unless either party to the transaction is legally prohibited to possess such item or commodity; nor shall the Public Administration engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
@@ -41,6 +42,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.15.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
 * **§II.17.** No law shall allow the Public Administration to assign a number to any citizen, nor shall he or she be required to procure, carry, or otherwise maintain identification materials of any form without his or her express and informed consent unless upon conviction in a court of law and for the duration of the sentence only; no person shall be compelled to identify themselves to any agent of the Public Administration, otherwise upon arrest for a period not exceeding twenty-four hours or pursuant to a Warrant; any and all data collected by the Public Administration shall be used only for the direct and necessary purposes for which it was originally collected, and shall be kept confidential and shared only with the express and informed consent of the rightful owner or pursuant to a court order or otherwise in accordance with the provisions of this Constitution.
+* **§II.17.** No law shall allow any agent of the Public Administration shall operate undercover without a Warrant; no agent of the Public Administration operating undercover shall pursue incriminating evidence through any method of entrapment, nor shall any agent of the Public Administration act outside of their specified mission unless to protect themselves or others in direct threat; all actions by any agent of the Public Administration operating undercover shall be scrutinized in any court proceedings which include any evidence collected from an agent operating undercover, unless said agent is still legally operating undercover pursuant to a related Warrant.
 
 
 ### Article III: Individual Rights
@@ -59,15 +61,16 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.12.** No person shall be tried for any criminal offence any later than a year since the Warrant for custody of said person was executed and the person was taken into custody; the deadline shall be renewed for any and all subsequent Warrants for custody in the event of escape and/or subsequent offence.
 * **§III.13.** No person shall be required to pay excessive bail and/or fines.
 * **§III.14.** No person shall be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by any number of members of the law enforcement that is uncorroborated by any other presented physical and/or digital evidence and/or victim or third party witness testimony. 
-* **§III.15.** In criminal proceedings, the defendant shall have the right to the following:
-  * **§III.15(1)** to a speedy and public trial;
-  * **§III.15(2)** to trial by an impartial jury;
-  * **§III.15(3)** to be informed of criminal charges;
-  * **§III.15(4)** to confront witnesses and to compel witnesses to appear in court;
-  * **§III.15(5)** to the assistance of legal counsel free of charge where appropriate;
-  * **§III.15(6)** to be presumed innocent until proven guilty;
-  * **§III.15(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself;
-   * **§III.15(8)** to be provided without expense with the services of an interpreter if he or she does not speak the language of proceedings. 
+* **§III.15.** No person shall be detained randomly or without any evidence but only under specified charges, upon probable cause and by a member of the law enforcement acting openly and respecting all rights the detainee enjoys under this Constitution and any laws passed by the Assembly in accordance thereof.
+* **§III.16.** In criminal proceedings, the defendant shall have the right to the following:
+  * **§III.16(1)** to a speedy and public trial;
+  * **§III.16(2)** to trial by an impartial jury;
+  * **§III.16(3)** to be informed of criminal charges;
+  * **§III.16(4)** to confront witnesses and to compel witnesses to appear in court;
+  * **§III.16(5)** to the assistance of legal counsel free of charge where appropriate;
+  * **§III.16(6)** to be presumed innocent until proven guilty;
+  * **§III.16(7)** not to be compelled to be a witness against himself or herself, or persons whose penalization he or she would rightfully feel as the penalization of himself or herself;
+   * **§III.16(8)** to be provided without expense with the services of an interpreter if he or she does not speak the language of proceedings. 
 
 
 ## Political Institutions
@@ -101,7 +104,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.15.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only; all Bills proposed by the Cabinet shall be made public prior to the Assembly's debate on them; all drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
   * **§IV.15(1)** No Assembly Representative shall be deprived of the right to express his or her opinion on the proposed Bill at least once before the vote takes place.
 * **§IV.16.** Any Bill which is not voted on before the next State of the Republic Speech and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Speech.
-* **§IV.17.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with a simple majority vote of all Assembly Representatives.
+* **§IV.17.** One-fourth of all Assembly Representatives shall have the right to propose a resolution dissolving the Assembly; such resolution shall be passed with a majority of two-thirds of all Assembly Representatives; should the Assembly be dissolved, general election shall be held within six weeks; the Assembly shall regulate its own affairs and elect the Assembly Speaker who shall preside over the business of the Assembly, with a simple majority vote of all Assembly Representatives.
 * **§IV.18.** The powers of the Assembly shall be restricted to the following only:
   * **§IV.18(1)** to protect the rights of the people to their persons and property;
   * **§IV.18(2)** to conduct the financial affairs of the Public Administration;
@@ -172,3 +175,4 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§VI.15(4)** The Jury shall not be reprimanded for their verdict;
   * **§VI.15(5)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right;
   * **§VI.15(6)** The acquittal by the Jury shall be final.
+* **§VI.16.** No special tribunals shall be instituted, nor any courts which are not recognised by this Constitution; no person shall be threatened with or subjected to penalties other than those provided by the law.

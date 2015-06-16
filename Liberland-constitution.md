@@ -6,7 +6,7 @@
 
 ## Bill of Rights
 
-The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon all branches of the Public Administration. The following rights shall apply equally to all persons unless stated otherwise.
+The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon all branches of the Public Administration. The following rights shall apply equally to all persons under the jurisdiction of the Free Republic of Liberland unless stated otherwise.
 
 
 ### Article I: General Provisions

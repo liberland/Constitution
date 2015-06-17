@@ -2,7 +2,7 @@
 host = https://www.transifex.com
 
 [constitution.constitution]
-file_filter = translations/Liberland-constitution_<lang>.md
+file_filter = translations/Liberland-constitution-<lang>.md
 source_file = Liberland-constitution.md
 source_lang = en
 type = TXT

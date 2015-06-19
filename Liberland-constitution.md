@@ -123,8 +123,8 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.20(6)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
   * **§IV.20(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland with any status the Assembly might determine;
   * **§IV.20(8)** to debate on matters important to the well-being of the state;
-  * **§IV.20(9)** to ratify international treaties signed by the Cabinet.
-  * **§IV.20(10)** to establish the Assembly Committee
+  * **§IV.20(9)** to ratify international treaties signed by the Cabinet;
+  * **§IV.20(10)** to establish the Assembly Committee.
 * **§IV.21.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
   * **§IV.21(1)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§IV.22.** The referendum provided for in §IV.21 shall be triggered by the request of no less than 3% of the overall number of Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.

@@ -26,7 +26,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 * **§II.1.** No ex post facto law shall be passed.
 * **§II.2.** No Bill of Attainder shall be passed.
-* **§II.3.** No law shall create victimless and/or consensual crimes; no person of age shall be considered a victim of his or her own actions or omissions.
+* **§II.3.** No law shall create victimless and/or consensual crimes; no person of age shall be charged with committing a crime against society in general or be considered a victim of his or her own actions or omissions.
 * **§II.4.** No law shall establish the institution of slavery, conscription, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.5.** No law shall allow for the private property to be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
 * **§II.6.** No law shall mandate nor forbid any natural and/or legal person to associate and/or transact with any consenting natural and/or legal person.

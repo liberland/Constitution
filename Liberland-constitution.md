@@ -27,7 +27,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 * **§II.1.** No law shall retroactively change the legal consequences and/or status of actions that were already committed, or relationships that already existed, before the enactment of that law.
 * **§II.2.** No law shall establish and/or regulate the institution of marriage between persons of age; nor shall it regulate the rules regarding inheretance where there is a valid will in place.
-* **§II.3.** No law shall create victimless and/or consensual crimes; no person of age shall be considered a victim of one's own actions or omissions.
+* **§II.3.** No law shall create victimless and/or consensual crimes, nor shall it consider a victim as anything other than a person whose rights have been violated; no person of age shall be considered a victim of one's own actions or omissions.
 * **§II.4.** No law shall establish the institution of slavery, conscription, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.5.** No law shall allow for the private property to be fully or partially taken for the public use without the express and informed consent of, and mutually agreeable compensation to, the owner.
 * **§II.6.** No law shall abridge the right of persons of age to the control of their own bodies and property, nor interfere with voluntary relations, including those of contractual nature, among persons of age, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.

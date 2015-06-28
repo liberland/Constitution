@@ -144,7 +144,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.5(1)** to run day-to-day state affairs;
   * **§V.5(2)** to initiate a legislative procedure;
   * **§V.5(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§V.5(4)** to make international treaties with the consent of a simple majority of all Assembly Representatives;
+  * **§V.5(4)** to make international treaties with the consent of a majority of three-quarters of all Assembly Representatives;
   * **§V.5(5)** to execute in good faith the laws passed by the Assembly;
   * **§V.5(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§V.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;

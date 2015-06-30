@@ -56,20 +56,22 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.27.** No law shall allow for any Person to be put twice in jeopardy of a penalty for the same offence.
 * **§II.28.** No law shall allow for any Person to be prosecuted for disobedience against an unlawful action of any Agent of the Public Administration and/or against unconstitutional law.
 * **§II.29.** No law shall allow for any Citizen to be deprived of one's Citizenship other than by a court of law; no Person shall be rendered stateless in any event.
-* **§II.30.** No law shall allow for any Person to be prosecuted for any criminal offence any later than a year since the Warrant for custody of said Person was executed and the Person was taken into custody; the deadline shall be renewed for any and all subsequent Warrants for custody in the event of escape and/or subsequent offence.
-* **§II.31.** No law shall require any Person to pay excessive bail and/or fines.
-* **§II.32.** No law shall allow for any Person to be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by any number of Agents of the Law Enforcement that is uncorroborated by any other presented physical and/or digital evidence and/or victim or third party witness testimony.
-* **§II.33.** No law shall allow for any Person to be prosecuted for more than one criminal offence for one act or omission they committed.
-* **§II.34.** No law shall allow for any evidence which was obtained illegally or unconstitutionally to be admitted in the Criminal Court unless the violation of law was merely incidental to the manner in which said evidence was obtained; in any event, any Person responsible for the breach of law or Constitution shall be prosecuted.
-* **§II.35.** No law shall deprive a defendant under prosecution of one’s right to the following:
-  * **§II.35(1)** a speedy and public trial;
-  * **§II.35(2)** a trial by an impartial jury;
-  * **§II.35(3)** to be informed of criminal charges;
-  * **§II.35(4)** to confront witnesses and to compel witnesses to appear in court;
-  * **§II.35(5)** to be presumed innocent until proven guilty;
-  * **§II.35(6)** to not be compelled to be a witness against oneself, or Persons whose penalization one would rightfully feel as the penalization of oneself;
-  * **§II.35(7)** to the assistance of legal counsel free of charge where appropriate;
-  * **§II.35(8)** to the assistance of an interpreter if one does not speak the language in which the hearing is conducted, free of charge where appropriate. 
+* **§II.30.** No law shall allow for war to be declared by any branch of the Public Administration on any Nation or group; no standing army shall be established; should any voluntary territorial defence rise, it shall not be used outside the territory of the Free Republic of Liberland.
+* **§II.31.** No law shall introduce any state of emergency or war, or any other special state in which one or more of the Rights guaranteed by this Constitution would be suspended or revoked.
+* **§II.32.** No law shall allow for any Person to be prosecuted for any criminal offence any later than a year since the Warrant for custody of said Person was executed and the Person was taken into custody; the deadline shall be renewed for any and all subsequent Warrants for custody in the event of escape and/or subsequent offence.
+* **§II.33.** No law shall require any Person to pay excessive bail and/or fines.
+* **§II.34.** No law shall allow for any Person to be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by any number of Agents of the Law Enforcement that is uncorroborated by any other presented physical and/or digital evidence and/or victim or third party witness testimony.
+* **§II.35.** No law shall allow for any Person to be prosecuted for more than one criminal offence for one act or omission they committed.
+* **§II.36.** No law shall allow for any evidence which was obtained illegally or unconstitutionally to be admitted in the Criminal Court unless the violation of law was merely incidental to the manner in which said evidence was obtained; in any event, any Person responsible for the breach of law or Constitution shall be prosecuted.
+* **§II.37.** No law shall deprive a defendant under prosecution of one’s right to the following:
+  * **§II.37(1)** a speedy and public trial;
+  * **§II.37(2)** a trial by an impartial jury;
+  * **§II.37(3)** to be informed of criminal charges;
+  * **§II.37(4)** to confront witnesses and to compel witnesses to appear in court;
+  * **§II.37(5)** to be presumed innocent until proven guilty;
+  * **§II.37(6)** to not be compelled to be a witness against oneself, or Persons whose penalization one would rightfully feel as the penalization of oneself;
+  * **§II.37(7)** to the assistance of legal counsel free of charge where appropriate;
+  * **§II.37(8)** to the assistance of an interpreter if one does not speak the language in which the hearing is conducted, free of charge where appropriate. 
 
 
 ## Political Institutions

@@ -189,9 +189,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
 * **§V.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses into their rights by the Public Administration.
 * **§V.4.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration; 
- * §V.4(1) The Judges shall regulate their own affairs within a non-departmental body.
- * §V.4(2) The remuneration of the Judges shall not be lowered.
- * §V.4(3) No Judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with the express consent of at least three Justices of the Supreme Court.
+ * **§V.4(1)** The Judges shall regulate their own affairs within a non-departmental body.
+ * **§V.4(2)** The remuneration of the Judges shall not be lowered.
+ * **§V.4(3)** No Judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with the express consent of at least three Justices of the Supreme Court.
 * **§V.5.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
 * **§V.6.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other Judges called the Justices of the Supreme Court.
   * **§V.6(1)** The Supreme Court shall reach its decisions with a simple majority.

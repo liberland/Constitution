@@ -2,7 +2,7 @@
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
-*We, the Citizens of the Free Republic of Liberland, in order to secure Liberty, Life and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those willing to assume responsiblity over the course of their lives. Being aware of a long and shameful list of governments’ trespasses to the Rights of the sovereign Individuals, we hereby declare that the Public Administration governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise only such functions as have been delegated to it under this Constitution. Therefore, we declare that whenever the Public Administration becomes an obstacle to, rather than a guarantor of, our Rights, it shall be our duty to alter or abolish such government, and to institute a new government for the restoration of the Rights which we consider inherent in all human beings.*
+*We, the Citizens of the Free Republic of Liberland, in order to secure Liberty, Life and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those willing to assume responsibility over the course of their lives. Being aware of a long and shameful list of governments’ trespasses to the Rights of the sovereign Individuals, we hereby declare that the Public Administration governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise only such functions as have been delegated to it under this Constitution. Therefore, we declare that whenever the Public Administration becomes an obstacle to, rather than a guarantor of, our Rights, it shall be our duty to alter or abolish such government, and to institute a new government for the restoration of the Rights which we consider inherent in all human beings.*
 
 ## General Provisions
 
@@ -99,7 +99,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.4(4)** The Assembly Committee shall have the right to summon Members and Agents of the Public Administration to hear testimonies given under oath.
   * **§III.4(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence (if any) of said misconduct or mismanagement; such conclusions shall not have any legal effect. 
   * **§III.4(6)** The Final Conclusions shall be made public as well as passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee; the Conclusions shall not bind the Chief Public Prosecutor to institute any prosecution.
-  * **§III.4(7)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be prosecuted in regular manner.
+  * **§III.4(7)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be prosecuted in a regular manner.
 * **§III.5.** The powers of the Assembly shall be restricted to the following only:
   * **§III.5(1)** to protect the rights of the people to their Persons and property;
   * **§III.5(2)** to conduct the financial affairs of the Public Administration;
@@ -115,7 +115,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.5(8)** to debate on matters important to the well-being of the state;
   * **§III.5(9)** to ratify international treaties signed by the Cabinet;
   * **§III.5(10)** to establish the Assembly Committee;
-  * **§III.5(11)** to assent to classification of information for the purposes of national security as proposed by a Secretary of State.
+  * **§III.5(11)** to assent to the classification of information for the purposes of national security as proposed by a Secretary of State.
 * **§III.6.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
   * **§III.6(1)** The Bill shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget.
   * **§III.6(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
@@ -144,11 +144,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.15.** A Treaty Bill ratifying an international treaty signed by the Cabinet shall be passed into law with a majority of three-quarters of all Assembly Representatives, and shall be subject to the power of general veto by the Citizens as provided in §III.17.
   * **§III.15(1)** All international treaties must be signed by the Chancellor on behalf of the Cabinet and ratified by the Assembly in order to constitute the law of the land in the Free Republic in Liberland.
 * **§III.16.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a simple majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §III.17.
-  * **§III.16(1)** The Annual Budget shall not be with deficit.
+  * **§III.16(1)** The Annual Budget shall not be with a deficit.
   * **§III.16(2)** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
   * **§III.16(3)** No provision of the Annual Budget shall provide for:
     * **§IV.16(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by the Public Administration for purposes other than recognised by this Constitution;
-    * **§III.16(3)(b)** any form of direct and/or indirect bail out of any legal and/or natural Person;
+    * **§III.16(3)(b)** any form of direct and/or indirect bailout of any legal and/or natural Person;
     * **§III.16(3)(c)** funding or partial funding of any political party;
     * **§III.16(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes.
 * **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.

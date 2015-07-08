@@ -74,6 +74,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
   * **§II.39(6)** to not be compelled to be a witness against oneself, or Persons whose penalization one would rightfully feel as the penalization of oneself;
   * **§II.39(7)** to the assistance of legal counsel free of charge where appropriate;
   * **§II.39(8)** to the assistance of an interpreter if one does not speak the language in which the hearing is conducted, free of charge where appropriate. 
+* * **§II.40.** No law shall allow for any Person to be detained or imprisoned in any way provided that he poses no future and/or present threat to others and their property, otherwise pursuant to a Warrant.  
 
 
 ## Political Institutions

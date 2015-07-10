@@ -10,7 +10,7 @@ The General Provisions shall constitute an integral part of the Constitution and
 
 ### Article I
 
-* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
+* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland; all Rights enumerated in this Constitution shall be exercisable only where no negative rights of others are infringed by force, fraud, of threat thereof, or unbeknownst to them.
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** Any Person in public office who is convicted of intentional breach of this Constitution shall be immediately removed from the office and shall not hold any other public office in the future.
 * **§I.4.** All Agents of the Public Administration shall be personally liable for any loss caused by themselves whilst acting in their official capacity but unlawfully and/or in error.
@@ -19,9 +19,8 @@ The General Provisions shall constitute an integral part of the Constitution and
 * **§I.7.** All Warrants in the Free Republic of Liberland shall be issued by a Judge of the Criminal Court upon request by an Agent of the Law Enforcement or the Office of the Public Prosecutor and shall be supported by evidence of probable cause; such Warrants shall be as detailed as possible; every Warrant granted for a continuous action shall expire no later than after one year and shall be renewed by another Judge in accordance with ordinary procedure.
 * **§I.8.** The state of the Free Republic of Liberland, or any part thereof, shall not be incorporated to any other jurisdiction.
 * **§I.9.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated following a conviction in a court of law; the term “Agent of the Public Administration” shall signify any Person working for, or contractually bound with, any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify anyone who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for, or acting pursuant to a Warrant made public by, the Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify anyone holding the Citizenship of the Free Republic of Liberland; the term “Resident” shall signify anyone within the jurisdiction of the Free Republic of Liberland who is not a Citizen.
-* **§I.10.** All Rights enumerated in this Constitution shall be exercisable only where no negative rights of others are infringed by force, fraud, of threat thereof, or unbeknownst to them.
-* **§I.11.** All Members of the Public Administration shall hold the citizenship of the Free Republic of Liberland.
-* **§I.12.** All Individuals holding the citizenship of the Free Republic of Liberland shall have the right to register for participation in all elections and referendums in the Free Republic of Liberland.
+* **§I.10.** All Members of the Public Administration shall hold the citizenship of the Free Republic of Liberland.
+* **§I.11.** All Individuals holding the citizenship of the Free Republic of Liberland shall have the right to register for participation in all elections and referendums in the Free Republic of Liberland.
 
 
 ## Bill of Rights

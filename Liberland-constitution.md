@@ -67,7 +67,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.35.** No law shall require any Person to pay excessive bail and/or fines.
 * **§II.36.** No law shall allow for any Person to be prosecuted for any criminal offence if the only evidence incriminating him or her is testimony given by any number of Agents of the Public Administration that is uncorroborated by any other presented physical and/or digital evidence and/or victim or third party witness testimony.
 * **§II.37.** No law shall allow for any Person to be prosecuted for more than one criminal offence for one act or omission they committed.
-* **§II.38.** No law shall allow for any evidence which was obtained illegally or unconstitutionally to be admitted in the Criminal Court unless the violation of law was merely incidental to the manner in which said evidence was obtained; in any event, any Person responsible for the breach of law or Constitution shall be prosecuted.
+* **§II.38.** No law shall allow for any evidence which was obtained illegally or unconstitutionally by any Agent of the Public Administration to be admitted in the Criminal Court unless the violation of law was committed by a third party who did not act under direction and/or supervision of said Agent or knowledge thereof; in any event, all Agents of the Public Administration responsible for intentional breaches of the law or the Constitution in search of evidence shall be prosecuted.
 * **§II.39.** No law shall deprive a defendant under prosecution of one’s right to the following:
   * **§II.39(1)** a speedy and public trial;
   * **§II.39(2)** a trial by an impartial jury;

@@ -74,7 +74,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
   * **§II.39(6)** to not be compelled to be a witness against oneself, or Persons whose penalization one would rightfully feel as the penalization of oneself;
   * **§II.39(7)** to the assistance of legal counsel free of charge where appropriate;
   * **§II.39(8)** to the assistance of an interpreter if one does not speak the language in which the hearing is conducted, free of charge where appropriate. 
-  * **§II.40.** No law shall allow for non-individuals to be subjected to any form of treatment without the expressed approval of their Guardian otherwise pursuant to a Warrant and under exigent circumstances where the Guardian is refusing to allow for essential medical treatment; nor shall it allow non-individuals to be subjected to any permanent and/or harmful treatment which is not medically necessary by their Guardians or anybody else.    
+  * **§II.40.** No law shall allow for Non-individuals to be subjected to any form of treatment without the expressed approval of their Guardian otherwise pursuant to a Warrant and under exigent circumstances where the Guardian is refusing to allow for essential medical treatment; nor shall it allow non-individuals to be subjected to any permanent and/or harmful treatment which is not medically necessary by their Guardians or anybody else.    
 
 
 ## Political Institutions

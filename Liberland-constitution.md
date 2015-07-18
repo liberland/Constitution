@@ -127,7 +127,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.8(1)** Any Assembly Representative who is found filibustering on duty shall have his/her speech regarding the proposed bill put to a halt.
   * **§III.8(2)** To deem someone as filibustering, the following requirments must be met:
     * **§III.8(2)(a)** The speech must be at least one hour long. 
-    * **§III.8(2)(b)** Three fourths of the Assembly Representatives must vote 'Aye' to an Assembly Representative filibustering.
+    * **§III.8(2)(b)** Three fourths of the Assembly Representatives must vote 'Aye' to deem an Assembly Representative of filibustering.
       * **§III.8(2)(b)(A)** A vote regarding an Assembly Representative filibustering shall be held immediately if at least five Assembly Representatives indicate they would like to vote, putting a temporary pause on one's speech; the speech may proceed if no change has occurred.
 * **§III.9.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland with a simple majority vote of all Assembly Representatives.
   * **§III.9(1)** If no Chancellor is elected for more than ninety days, the General Election must be held.

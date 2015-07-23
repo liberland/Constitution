@@ -14,13 +14,12 @@ The General Provisions shall constitute an integral part of the Constitution and
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** All Members and Agents of the Public Administration intentionally acting in breach of the law or the Constitution shall be criminally liable for their actions and, upon conviction, shall be removed from the office and shall never hold any public office again; any loss caused by Agents of the Public Administration acting contrary to the law or the Constitution, or in error, shall be personally compensated; acting pursuant to an Act which has been approved as prima facie constitutional by the Supreme Court shall not be deemed as acting unconstitutionally regardless of any future declaration of any Court as to the Act's true constitutionality; introducing, lobbying and voting for a Bill which is declared unconstitutional shall not be deemed as acting unconstitutionally.
 * **§I.4.** All Persons staying within the territory of the Free Republic of Liberland shall be bound to observe the Constitution and all laws passed by the Assembly in accordance with this Constitution; no Member or Agent of the Public Administration shall be excluded from the operation of any law passed by the Assembly.
-* **§I.5.** All administrative decisions of the Public Administration shall be subject to challenge in the Civil Court by a Person in whose respect it was given, or any other Person who can prove one's interest in that decision.
-* **§I.6.** All decisions of any branch of the Public Administration other than a court of law shall be subject to challenge in the Civil Court by a Person in whose respect it was given, or any other Person who can prove one's interest in that decision; the right shall be exercisable once all administrative appeals have been exhausted.
-* **§I.7.** The state of the Free Republic of Liberland, or any part thereof, shall not be incorporated to any other jurisdiction.
-* **§I.8.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated following a conviction in a court of law; the term “Agent of the Public Administration” shall signify any Person working for, or contractually bound with, any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify anyone who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for, or acting pursuant to a Warrant made public by, the Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify anyone holding the Citizenship of the Free Republic of Liberland; the term “Resident” shall signify anyone within the jurisdiction of the Free Republic of Liberland who is not a Citizen.
-* **§I.9.** All Members of the Public Administration shall hold the citizenship of the Free Republic of Liberland.
-* **§I.10.** All Individuals holding the citizenship of the Free Republic of Liberland shall have the right to register for participation in all elections and referendums in the Free Republic of Liberland.
-* **§I.11.** All Warrants in the Free Republic of Liberland, other than the Supreme Warrant, shall be issued by a Judge of the Criminal Court upon request by an Agent of the Law Enforcement and shall be supported by evidence of probable cause; such Warrants shall be as detailed as possible; every Warrant granted for a continuous action shall expire no later than after one year and shall be renewed by another Judge in accordance with ordinary procedure.
+* **§I.5.** All decisions of any branch of the Public Administration other than a court of law shall be subject to challenge in the Civil Court by a Person in whose respect it was given, or any other Person who can prove one's interest in that decision; the right shall be exercisable once all administrative appeals have been exhausted.
+* **§I.6.** The state of the Free Republic of Liberland, or any part thereof, shall not be incorporated to any other jurisdiction.
+* **§I.7.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated following a conviction in a court of law; the term “Agent of the Public Administration” shall signify any Person working for, or contractually bound with, any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify anyone who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for, or acting pursuant to a Warrant made public by, the Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify anyone holding the Citizenship of the Free Republic of Liberland; the term “Resident” shall signify anyone within the jurisdiction of the Free Republic of Liberland who is not a Citizen.
+* **§I.8.** All Members of the Public Administration shall hold the citizenship of the Free Republic of Liberland.
+* **§I.9.** All Individuals holding the citizenship of the Free Republic of Liberland shall have the right to register for participation in all elections and referendums in the Free Republic of Liberland.
+* **§I.10.** All Warrants in the Free Republic of Liberland, other than the Supreme Warrant, shall be issued by a Judge of the Criminal Court upon request by an Agent of the Law Enforcement and shall be supported by evidence of probable cause; such Warrants shall be as detailed as possible; every Warrant granted for a continuous action shall expire no later than after one year and shall be renewed by another Judge in accordance with ordinary procedure.
 
 
 ## Bill of Rights
@@ -86,7 +85,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§III.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland which shall exercise it on behalf of the Citizens.
   * **§III.1(1)** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
-  * **§III.1(2)** No Person shall hold the office of a Judge of one of the courts of the Free Republic of Liberland and be an Assembly Representative at the same time.
+  * **§III.1(2)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland and be an Assembly Representative at the same time.
   * **§III.1(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to one's trial.
   * **§III.1(4)** No Assembly Representative shall hold the office for more than eight years in total.
 * **§III.2.** One-fourth of all Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
@@ -124,17 +123,17 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.6(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
   * **§III.6(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
 * **§III.7.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Speech, shall be debated on, and shall be voted on once only.
-  * **§III.7(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate on them.
+  * **§III.7(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
   * **§III.7(2)** All drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
 * **§III.8.** Every Assembly Representative shall have the right to express one's opinion on the proposed Bill at least once before the vote takes place, without any time limit.
 * **§III.9.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland with a simple majority vote of all Assembly Representatives.
   * **§III.9(1)** If no Chancellor is elected for more than ninety days, the General Election must be held.
   * **§III.9(2)** The Assembly shall have the power to withdraw confidence from the Chancellor along with the Cabinet by passing the constructive motion of no confidence with a simple majority vote of all Assembly Representatives only if there is a majority for a prospective successor.
   * **§III.9(3)** The Assembly shall have the power to withdraw confidence from a single Member of the Cabinet by passing the ordinary motion of no confidence with a simple majority vote of all Assembly Representatives.
-* **§III.10.** The power to initiate a legislative procedure shall lie with the Cabinet only which shall be exercised only once a year upon the State of the Republic speech.
-  * **§III.10(1)** Any Bill which is not voted on before the next State of the Republic Speech and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Speech.
+* **§III.10.** The power to initiate a legislative procedure shall lie with the Cabinet only which shall be exercised only once a year upon the State of the Republic Address.
+  * **§III.10(1)** Any Bill which is not voted on before the next State of the Republic Address and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Address.
 * **§III.11.** One-fourth of all Assembly Representatives shall have the right to oblige the Cabinet to consider a draft of a Bill prepared by them.
-  * **§III.11(1)** Drafts prepared by the Assembly Representatives may be rejected or accepted by the Cabinet as potential Bill.
+  * **§III.11(1)** The Draft prepared by the Assembly Representatives may be rejected or accepted by the Cabinet as a potential Bill.
   * **§III.11(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
 * **§III.12.** An ordinary Bill shall be passed into law with a majority of three-quarters of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §III.17.
   * **§III.12(1)** An ordinary Bill is any Bill which is not a Constitutional Bill, or Taxation Bill, or Treaty Bill, or Financial Bill.
@@ -151,26 +150,25 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.16(3)** No provision of the Annual Budget shall provide for:
     * **§IV.16(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by the Public Administration for purposes other than recognised by this Constitution;
     * **§III.16(3)(b)** any form of direct and/or indirect bailout of any legal and/or natural Person;
-    * **§III.16(3)(c)** funding or partial funding of any political party;
-    * **§III.16(3)(d)** funding or partial funding of any form of healthcare and/or education services, and/or pension schemes.
-* **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
-  * **§III.17(1)** The referendum shall be triggered by the request of 3% of the Citizenry, and shall be submitted within ninety days after the Bill was passed by the Assembly.
-  * **§III.17(2)** The Bill shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote 'Nay'.
+    * **§III.16(3)(c)** funding or partial funding of any political party, any form of healthcare,education services and/or pension schemes.
+* **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
+  * **§III.17(1)** The referendum shall be triggered by the request of 3% of all Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly.
+  * **§III.17(2)** The Bill shall be deemed to veto the legislative proposal if a simple majority of the Citizens taking part in that referendum vote 'Nay'.
   * **§III.17(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§III.18.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly. 
   * **§III.18(1)** The Bill shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'Aye'.
 * **§III.19.** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least three years.
 * **§III.20.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.17., or on the day the Bill obtained the assent of the Citizens in referendum under §III.17. or §III.18.
 * **§III.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §III.20., and was declared constitutional by the Supreme Court of the Free Republic of Liberland.
-* **§III.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the 31st day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
+* **§III.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the thirty-first day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
 
 ### Article IV: The Executive Power
 
 * **§IV.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet.
 * **§IV.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
-  * **§IV.2(1)** No Person shall hold the office of a Judge of one of the courts of the Free Republic of Liberland and be a Member of the Cabinet at the same time.
+  * **§IV.2(1)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland and be a Member of the Cabinet at the same time.
 * **§IV.3.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
-* **§IV.4.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall Judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
+* **§IV.4.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
 * **§IV.5.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   * **§IV.5(1)** to run day-to-day state affairs;
   * **§IV.5(2)** to initiate a legislative procedure;
@@ -201,7 +199,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.6.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of the Chief Justice and four other Judges called the Justices of the Supreme Court.
   * **§V.6(1)** The Supreme Court shall reach its decisions with a simple majority.
   * **§V.6(2)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
-  * **§V.6(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by 10% of the Citizenry.
+  * **§V.6(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
   * **§V.6(4)** The Supreme Court shall have jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts in all future proceedings where applicable.
   * **§V.6(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
   * **§V.6(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
@@ -209,7 +207,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.7.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
 * **§V.8.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
   * **§V.8(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§V.8(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by 10% of the Citizenry.
+  * **§V.8(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
   * **§V.8(3)** Prosecutions shall be brought on behalf of the Citizens or with the express and informed consent of the victim where appropriate.
   * **§V.8(4)** The right to a private prosecution shall be guaranteed where no public prosecution is instituted within one year since the complaint was made.
 * **§V.9.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.

@@ -15,7 +15,7 @@ The General Provisions shall constitute an integral part of the Constitution and
 * **§I.3.** All Members and Agents of the Public Administration intentionally acting in breach of the law or the Constitution shall be criminally liable for their actions and, upon conviction, shall be removed from the office and shall never hold any public office again; any loss caused by Agents of the Public Administration acting contrary to the law or the Constitution, or in error, shall be personally compensated; acting pursuant to an Act which has been approved as prima facie constitutional by the Supreme Court shall not be deemed as acting unconstitutionally regardless of any future declaration of any Court as to the Act's true constitutionality; introducing, lobbying and voting for a Bill which is declared unconstitutional shall not be deemed as acting unconstitutionally.
 * **§I.4.** All Persons staying within the territory of the Free Republic of Liberland shall be bound to observe the Constitution and all laws passed by the Assembly in accordance with this Constitution; no Member or Agent of the Public Administration shall be excluded from the operation of any law passed by the Assembly.
 * **§I.5.** All decisions of any branch of the Public Administration other than a court of law shall be subject to challenge in the Civil Court by a Person in whose respect it was given, or any other Person who can prove one's interest in that decision; the right shall be exercisable once all administrative appeals have been exhausted.
-* **§I.6.** The state of the Free Republic of Liberland, or any part thereof, shall not be incorporated to any other jurisdiction.
+* **§I.6.** No branch of the Public Administration, nor any number of Citizens or Residents of the Free Republic of Liberland, shall propose and/or consent to the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
 * **§I.7.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated following a conviction in a court of law; the term “Agent of the Public Administration” shall signify any Person working for, or contractually bound with, any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify anyone who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for, or acting pursuant to a Warrant made public by, the Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify anyone holding the Citizenship of the Free Republic of Liberland; the term “Resident” shall signify anyone within the jurisdiction of the Free Republic of Liberland who is not a Citizen.
 * **§I.8.** All Members of the Public Administration shall hold the citizenship of the Free Republic of Liberland.
 * **§I.9.** All Individuals holding the citizenship of the Free Republic of Liberland shall have the right to register for participation in all elections and referendums in the Free Republic of Liberland.
@@ -40,7 +40,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.10.** No law shall abridge the right to assemble peacefully; all public areas within the Free Republic of Liberland shall constitute free speech zones.
 * **§II.11.** No law shall abridge the right to use or issue any commodity or item as currency unless either party to the transaction is legally prohibited to possess such item or commodity; nor shall the Public Administration engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
 * **§II.12.** No law shall abridge the right of self-defence and/or defence of one's property, the close ones and others who are under a direct threat, against initiators of aggression, including the Agents of the Public Administration where acting unlawfully and/or in error.
-* **§II.13.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any Person other than Agents and Members of the Public Administration; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
+* **§II.13.** No law shall regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
 * **§II.14.** No law shall regulate any printed materials, radio, television, the Internet or any other medium of exchange of information; no law shall regulate the rules concerning uploading, transmitting, displaying, accessing and/or publishing such information; nor shall any law introduce licensing and/or registration to infringe upon these rights; nothing in this provision shall prevent the Assembly from regulating the rules concerning accessing of private information without the consent of the rightful owner, protection of journalists' sources and minors; no order preventing sharing any information shall be served unless sanctioned by a court of law for the sole purposes of protection of vulnerable parties to a civil or criminal trial or Agents of the Law Enforcement while acting undercover pursuant to a Warrant; the fact that an order has been served shall not be a subject matter of another order.
 * **§II.15.** No law shall prohibit video and/or audio recording of any Agent of the Public Administration in public space and whilst on duty.
 * **§II.16.** No law shall interfere with the content of any contract, nor shall it mandate or forbid any Individual to enter into contractual relations with any other Individual and/or legal Person, or any body of the Public Administration; nor shall it provide any incentive in that respect.
@@ -75,8 +75,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
   * **§II.38(7)** to the assistance of legal counsel free of charge where appropriate;
   * **§II.38(8)** to the assistance of an interpreter if one does not speak the language in which the hearing is conducted, free of charge where appropriate.
 * **§II.39.** No law shall allow for any Individual to be subjected to any medical treatment without one's express and informed consent absent exigent circumstances where an Individual is incapable of consenting or refusing; nor shall any Minors or those who lack mental capacity be subjected to any form of treatment without either express approval of their Guardian or with their own consent where appropriate unless under exigent circumstances where consent or rejection cannot be obtained; Guardian's decision shall be capable of being overridden by an order of the Civil Court where the doctors are able to prove that the decision in question is not in the best interest of the patient and the treatment is essential for one's life; nor shall Minors and those who lack mental capacity be subjected to any permanent and/or harmful treatment which is not medically necessary by their Guardians or anybody else, otherwise in special cases where both the Minor and those lacking capacity and their Guardian consent to the treatment.
-* **§II.41.** No law shall deprive any Individual of the right to collect damages of any kind from those who have harmed him and are responsible for his losses; nor shall it diminish the amount of money paid to a victim to below the cost of damages he has incurred; no special protection against liability shall be created for any individual or group regardless of their position.
-
+* **§II.40.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any Person other than Agents and Members of the Public Administration; all Agents of the Public Administration shall be employed solely on basis of their merits and following appropriate examination; no Member of the Public Administration shall employ or enable employment of any Agent who has not passed relevant tests solely on the basis of one's personal connection or political affiliation.
 
 
 ## Political Institutions
@@ -98,11 +97,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.4.** One-fourth of all Assembly Representatives shall have the right to propose a resolution instituting the Assembly Committee.
   * **§III.4(1)** The resolution shall be passed with a simple majority of all Assembly Representatives.
   * **§III.4(2)** The Assembly Committee shall be composed of five Assembly Representatives.
-  * **§III.4(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Member or Agent of the Public Administration.
+  * **§III.4(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Member or Agent of the Public Administration in order to investigate the allegations.
   * **§III.4(4)** The Assembly Committee shall have the right to summon Members and Agents of the Public Administration to hear testimonies given under oath.
   * **§III.4(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence (if any) of said misconduct or mismanagement; such conclusions shall not have any legal effect. 
   * **§III.4(6)** The Final Conclusions shall be made public as well as passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee; the Conclusions shall not bind the Chief Public Prosecutor to institute any prosecution.
-  * **§III.4(7)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be prosecuted in a regular manner.
+  * **§III.4(7)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be prosecuted in the Criminal Court in a regular manner.
   * **§III.4(8)** The Assembly Committee shall only deal with the matter for which it was established and shall cease to work no later than one year since its creation.
 * **§III.5.** The powers of the Assembly shall be restricted to the following only:
   * **§III.5(1)** to protect the rights of the people to their Persons and property;
@@ -152,7 +151,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.16(3)** No provision of the Annual Budget shall provide for:
     * **§IV.16(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by the Public Administration for purposes other than recognised by this Constitution;
     * **§III.16(3)(b)** any form of direct and/or indirect bailout of any legal and/or natural Person;
-    * **§III.16(3)(c)** funding or partial funding of any political party, any form of healthcare,education services and/or pension schemes.
+    * **§III.16(3)(c)** funding or partial funding of any political party, any form of healthcare, education services and/or pension schemes.
 * **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
   * **§III.17(1)** The referendum shall be triggered by the request of 3% of all Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly.
   * **§III.17(2)** The Bill shall be deemed to veto the legislative proposal if a simple majority of the Citizens taking part in that referendum vote 'Nay'.
@@ -161,7 +160,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.18(1)** The Bill shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'Aye'.
 * **§III.19.** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least three years.
 * **§III.20.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.17., or on the day the Bill obtained the assent of the Citizens in referendum under §III.17. or §III.18.
-* **§III.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §III.20., and was declared constitutional by the Supreme Court of the Free Republic of Liberland.
+* **§III.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §III.20., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.
 * **§III.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the thirty-first day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
 
 ### Article IV: The Executive Power
@@ -179,7 +178,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.5(5)** to execute in good faith the laws passed by the Assembly;
   * **§IV.5(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§IV.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;
-  * **§IV.5(8)** to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
+  * **§IV.5(8)** to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland;
+  * **§IV.5(9)** to appoint the Chief Public Prosecutor and the State Attorney;
+  * **§IV.5(10)** to supervise all Agents of the executive branch of the Public Administration
 * **§IV.6.** The Cabinet shall consist of the following Departments only:
   * **§IV.6(1)** Department of Justice;
   * **§IV.6(2)** Department of Internal Affairs;
@@ -187,6 +188,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.6(4)** Department of Foreign Affairs;
   * **§IV.6(5)** Department of Treasury.
 * **§IV.7.** Each Department shall be headed by the Secretary of State for the respective Department who shall answer to the Chancellor and the Assembly.
+* **§IV.8.** The Chancellor and the Cabinet shall be advised as to the law by the State Attorney.
+  * **§IV.8(1)** The Office of the State Attorney shall represent all bodies of the Public Administration in all civil proceedings.
+  * **§IV.8(2)** The State Attorney shall be appointed by the Chancellor for a term not exceeding six years.
 
 ### Article V: The Judicial Power
 
@@ -194,7 +198,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
 * **§V.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses into their rights by the Public Administration.
 * **§V.4.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration;
-  * **§V.4(1)** The Judges shall regulate their own affairs within a non-departmental body.
+  * **§V.4(1)** The Judges shall regulate their own affairs within a non-departmental body headed by the Chief Justice of the Supreme Court.
   * **§V.4(2)** The remuneration of the Judges shall not be lowered.
   * **§V.4(3)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant issued by a simple majority of the Supreme Court.
 * **§V.5.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
@@ -206,7 +210,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.6(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
   * **§V.6(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
   * **§V.6(7)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict. 
-* **§V.7.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
+* **§V.7.** All civil disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
+  * **§V.7(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
+  * **§V.7(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
 * **§V.8.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
   * **§V.8(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term not exceeding six years.
   * **§V.8(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.

@@ -150,7 +150,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.16(3)** No provision of the Annual Budget shall provide for:
     * **§IV.16(3)(a)** any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by the Public Administration for purposes other than recognised by this Constitution;
     * **§III.16(3)(b)** any form of direct and/or indirect bailout of any legal and/or natural Person;
-    * **§III.16(3)(c)** funding or partial funding of any political party, any form of healthcare,education services and/or pension schemes.
+    * **§III.16(3)(c)** funding or partial funding of any political party, any form of healthcare, education services and/or pension schemes.
 * **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
   * **§III.17(1)** The referendum shall be triggered by the request of 3% of all Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly.
   * **§III.17(2)** The Bill shall be deemed to veto the legislative proposal if a simple majority of the Citizens taking part in that referendum vote 'Nay'.

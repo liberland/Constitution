@@ -180,7 +180,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Committee;
   * **§IV.5(8)** to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland;
   * **§IV.5(9)** to appoint the Chief Public Prosecutor and the State Attorney;
-  * **§IV.5(10)** to supervise all Agents of the executive branch of the Public Administration
+  * **§IV.5(10)** to supervise all Agents of the executive branch of the Public Administration.
 * **§IV.6.** The Cabinet shall consist of the following Departments only:
   * **§IV.6(1)** Department of Justice;
   * **§IV.6(2)** Department of Internal Affairs;

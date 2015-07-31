@@ -19,6 +19,7 @@ The General Provisions shall constitute an integral part of the Constitution and
 * **§I.7.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated following a conviction in a court of law; the term “Agent of the Public Administration” shall signify any Person working for, or contractually bound with, any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify anyone who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for, or acting pursuant to a Warrant made public by, the Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify anyone holding the Citizenship of the Free Republic of Liberland; the term “Resident” shall signify anyone within the jurisdiction of the Free Republic of Liberland who is not a Citizen.
 * **§I.8.** All Members of the Public Administration shall hold the citizenship of the Free Republic of Liberland; all Individuals holding the citizenship of the Free Republic of Liberland shall have the right to register for participation in all elections and referendums in the Free Republic of Liberland.
 * **§I.9.** All Warrants in the Free Republic of Liberland, other than the Supreme Warrant, shall be issued by a Judge of the Criminal Court upon request by an Agent of the Law Enforcement and shall be supported by evidence of probable cause; such Warrants shall be as detailed as possible and shall refer to one Person only; every Warrant granted for a continuous action shall expire no later than after one year and shall be renewed by another Judge in accordance with ordinary procedure.
+* **§I.10.** The Constitution of the Free Republic of Liberland shall be the supreme law of the Free Republic of Liberland and all Acts passed by the Assembly and all forms of delegated powers as well as all contracts made under the jurisdiction of the Free Republic of Liberland shall comply with the Constitution.
 
 
 ## Bill of Rights
@@ -92,8 +93,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.2.** One-fourth of all Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
   * **§III.2(1)** The resolution shall be passed with a majority of two-thirds of all Assembly Representatives.
   * **§III.2(2)** Should the Assembly be dissolved, the General Election shall be held within six weeks.
-* **§III.3.** The Assembly shall regulate its own affairs with a simple majority vote of all Assembly Representatives.
-  * **§III.3(1)** The Assembly shall elect the Assembly Speaker, who shall preside over the business of the Assembly.
+* **§III.3.** The Assembly shall elect the Assembly Speaker with a simple majority vote of all Assembly Representatives.
+  * **§III.3(1)** The Assembly Speaker shall head the Bureau of the Assembly of the Free Republic of Liberland. 
+  * **§III.3(2)** The Bureau of the Assembly shall administer the work of the Assembly.
+  * **§III.3(3)** The Bureau of the Assembly shall supervise all Agents of the legislative branch of the Public Administration.
+  * **§III.3(4)** No Agent of the Law Enforcement shall enter the premises of the Assembly unless with the express and informed consent of the the Bureau of the Assembly or pursuant to a Warrant.
 * **§III.4.** One-fourth of all Assembly Representatives shall have the right to propose a resolution instituting the Assembly Committee.
   * **§III.4(1)** The resolution shall be passed with a simple majority of all Assembly Representatives.
   * **§III.4(2)** The Assembly Committee shall be composed of five Assembly Representatives.
@@ -201,32 +205,42 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§V.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
 * **§V.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses into their rights by the Public Administration.
-* **§V.4.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration;
-  * **§V.4(1)** The Judges shall regulate their own affairs within a non-departmental body headed by the Chief Justice of the Supreme Court.
-  * **§V.4(2)** The remuneration of the Judges shall not be lowered.
-  * **§V.4(3)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant issued by a simple majority of the Supreme Court.
-* **§V.5.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§V.6.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of the Chief Justice and four other Judges called the Justices of the Supreme Court.
-  * **§V.6(1)** The Supreme Court shall reach its decisions with a simple majority.
-  * **§V.6(2)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
-  * **§V.6(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
-  * **§V.6(4)** The Supreme Court shall have jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts in all future proceedings where applicable.
-  * **§V.6(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
-  * **§V.6(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
-  * **§V.6(7)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict. 
-* **§V.7.** All civil disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
-  * **§V.7(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
-  * **§V.7(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
-* **§V.8.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
-  * **§V.8(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§V.8(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
-  * **§V.8(3)** Prosecutions shall be brought on behalf of the Citizens or with the express and informed consent of the victim where appropriate.
-  * **§V.8(4)** The right to a private prosecution shall be guaranteed where no public prosecution is instituted within one year since the complaint was made.
-* **§V.9.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.
-  * **§V.9(1)** The Jury shall be composed of twelve impartial Citizens;
-  * **§V.9(2)** The Jury shall determine the facts and render the verdict according to the law under advice of the Judge;
-  * **§V.9(3)** The Jury shall deliberate in camera and shall not be required to give reasons for the verdict;
-  * **§V.9(4)** The Jury shall not be reprimanded for their verdict;
-  * **§V.9(5)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right;
-  * **§V.9(6)** The acquittal by the Jury shall be final.
-* **§V.10.** No special tribunals shall be instituted, nor any courts which are not recognised by this Constitution; no Person shall be threatened with or subjected to penalties other than those provided by the law.
+* **§V.4.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
+  * **§V.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
+  * **§V.4(2)** The Secretariat of the Judiciary shall supervise the Judicial Appointment Commission.
+  * **§V.4(3)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
+* **§V.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration.
+  * **§V.5(1)** The remuneration of the Judges as provided for in the Annual Budget shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
+ * **§V.5(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a threat to others or where vital evidence may be destroyed; in such case the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
+ * **§V.5(3)** The Supreme Warrant shall be issued by the Secretariat of the Judiciary of the Free Republic of Liberland as signed by the Chief Justice of the Supreme Court or at least three Justices of the Supreme Court upon the request of the Office of the Public Prosecutor supported by solid clear and convincing evidence of the alleged offence.
+* **§V.6.** All Judges, other than the Justices of the Supreme Court, shall be appointed by the Chief Justice of the Supreme Court upon the recommendation of the the Judicial Appointment Commission.
+  * **§V.6(1)** The Judicial Appointment Commission shall be composed of four Justices of the Supreme Court as well as three other members appointed by the Chief Justice of the Supreme Court.
+  * **§V.6(2)** The Judicial Appointment Commission shall make decisions with a simple majority vote.
+  * **§V.6(3)** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of all Judges of all Courts in the Free Republic of Liberland.
+  * **§V.6(4)** The Judicial Appointment Commission shall have the power to recommend the removal of all Judges, other than the Justices of the Supreme Court, from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
+  * **§V.6(5)** The removal of a Judge from the office shall be executed by the Chief Justice of the Supreme Court.
+* **§V.7.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
+* **§V.8.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of the Chief Justice and four other Judges called the Justices of the Supreme Court.
+  * **§V.8(1)** The Supreme Court shall reach its decisions with a simple majority.
+  * **§V.8(2)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
+  * **§V.8(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
+  * **§V.8(4)** The Supreme Court shall have jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts in all future proceedings where applicable.
+  * **§V.8(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
+  * **§V.8(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
+  * **§V.8(7)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict. 
+* **§V.9.** All civil disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
+  * **§V.9(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
+  * **§V.9(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
+* **§V.10.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
+  * **§V.10(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term not exceeding six years.
+  * **§V.10(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
+  * **§V.10(3)** Prosecutions shall be brought on behalf of the Citizens or with the express and informed consent of the victim where appropriate.
+  * **§V.10(4)** The right to a private prosecution shall be guaranteed where no public prosecution is instituted within one year since the complaint was made.
+* **§V.11.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.
+  * **§V.11(1)** The Jury shall be composed of twelve impartial Citizens;
+  * **§V.11(2)** The Jury shall determine the facts and render the verdict according to the law under advice of the Judge;
+  * **§V.11(3)** The Jury shall deliberate in camera and shall not be required to give reasons for the verdict;
+  * **§V.11(4)** The Jury shall not be reprimanded for their verdict;
+  * **§V.11(5)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right;
+  * **§V.11(6)** The acquittal by the Jury shall be final.
+* **§V.12.** No special tribunals shall be instituted, nor any courts which are not recognised by this Constitution; no Person shall be threatened with or subjected to penalties other than those provided by the law.

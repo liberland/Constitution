@@ -196,7 +196,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§V.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§V.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
-* **§V.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses into their rights by the Public Administration.
+* **§V.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses into their rights.
 * **§V.4.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
   * **§V.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
   * **§V.4(2)** The Secretariat of the Judiciary shall supervise the Judicial Appointment Commission.
@@ -210,16 +210,16 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.6(2)** The Judicial Appointment Commission shall make decisions with a simple majority vote.
   * **§V.6(3)** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of all Judges of all Courts in the Free Republic of Liberland.
   * **§V.6(4)** The Judicial Appointment Commission shall have the power to recommend the removal of all Judges, other than the Justices of the Supreme Court, from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
-  * **§V.6(5)** The removal of a Judge from the office shall be executed by the Chief Justice of the Supreme Court.
+  * **§V.6(5)** The removal of a Judge from the office shall be executed by the Chief Justice of the Supreme Court or at least three Justices of the Supreme Court.
 * **§V.7.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§V.8.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of the Chief Justice and four other Judges called the Justices of the Supreme Court.
+* **§V.8.** The Supreme Court shall comprise the Chief Justice and four other Justices of the Supreme Court, and shall be presided over by the Chief Justice of the Supreme Court.
   * **§V.8(1)** The Supreme Court shall reach its decisions with a simple majority.
   * **§V.8(2)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
   * **§V.8(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
   * **§V.8(4)** The Supreme Court shall have jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts in all future proceedings where applicable.
   * **§V.8(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
   * **§V.8(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
-  * **§V.8(7)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict. 
+  * **§V.8(7)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict.
 * **§V.9.** All civil disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
   * **§V.9(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
   * **§V.9(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.

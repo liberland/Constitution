@@ -215,7 +215,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.8.** The Supreme Court shall comprise the Chief Justice and four other Justices of the Supreme Court, and shall be presided over by the Chief Justice of the Supreme Court.
   * **§V.8(1)** The Supreme Court shall reach its decisions with a simple majority.
   * **§V.8(2)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
-  * **§V.8(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
+  * **§V.8(3)** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removable from their position by the Citizens with a majority of two-thirds vote in a referendum called by 10% of all Citizens.
   * **§V.8(4)** The Supreme Court shall have jurisdiction to issue statements which clarify the law of the Free Republic of Liberland upon the request submitted by the Cabinet; such statements are binding upon lower Courts in all future proceedings where applicable.
   * **§V.8(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
   * **§V.8(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
@@ -225,7 +225,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.9(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
 * **§V.10.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
   * **§V.10(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§V.10(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds votes in a referendum called by 10% of all Citizens.
+  * **§V.10(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of all Citizens.
   * **§V.10(3)** Prosecutions shall be brought on behalf of the Citizens or with the express and informed consent of the victim where appropriate.
   * **§V.10(4)** The right to a private prosecution shall be guaranteed where no public prosecution is instituted within one year since the complaint was made.
 * **§V.11.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.

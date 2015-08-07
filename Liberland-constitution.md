@@ -79,7 +79,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 ### Article III: The Legislative Power
 
 * **§III.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland which shall exercise it on behalf of the Citizens.
-  * **§III.1(1)** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
+  * **§III.1(1)** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years. No Person can not be elected to Assembly more then two times.
   * **§III.1(2)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland while holding the position of Assembly Representative concurrently.
   * **§III.1(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to one's trial.
   * **§III.1(4)** No Assembly Representative shall hold the office for more than eight years in total.

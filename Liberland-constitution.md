@@ -181,7 +181,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.5(1)** to run day-to-day state affairs;
   * **§IV.5(2)** to initiate a legislative procedure;
   * **§IV.5(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§IV.5(4)** to make international treaties with the consent of two-thirds of all Assembly Representatives;
+  * **§IV.5(4)** to sign international treaties provided the Supreme Court confirmed constitutionality of such treaties;
   * **§IV.5(5)** to execute in good faith the laws passed by the Assembly;
   * **§IV.5(6)** to produce byelaws in a form of Delegated Instruments under the powers expressly granted to it by Acts of the Assembly;
   * **§IV.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Appointment Commission;
@@ -227,6 +227,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.8(5)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where the Supreme Court grants a permission; such verdicts are binding upon lower courts on the point of law in all future proceedings where applicable.
   * **§V.8(6)** The Supreme Court shall review prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
   * **§V.8(7)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict.
+  * **§V.8(8)** The Supreme Court shall review constitutionality of international treaties the Cabinet intends to sign.
 * **§V.9.** All civil disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
   * **§V.9(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
   * **§V.9(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.

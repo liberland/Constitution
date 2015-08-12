@@ -172,6 +172,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.20.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.17., or on the day the Bill obtained the assent of the Citizens in referendum under §III.17. or §III.18.
 * **§III.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §III.20., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.
 * **§III.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the thirty-first day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
+* **§III.23.** Any Act originating as an ordinary Bill or Treaty Bill shall be subject to the right of general repeal by the Citizens as expressed in the referendum.
+  * **§III.23(1)** The referendum shall be triggered by the request of 10% of all Citizens unless the Act is exempt from general repeal as defined in §III.23(3).
+  * **§III.23(2)** The Act shall be deemed to be repealed if a simple majority of the Citizens taking part in that referendum vote 'Aye'.
+  * **§III.23(3)** Should the referendum fail to repeal the Act, the Act shall be exempt from general repeal for a period of five years after the referendum.
 
 ### Article IV: The Executive Power
 

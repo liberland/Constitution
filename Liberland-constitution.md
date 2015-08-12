@@ -164,7 +164,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.16(12)** The funds gathered in the State Reserve System shall be diversified therefore kept in various stable currencies and precious metals.
 * **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
   * **§III.17(1)** The referendum shall be triggered by the request of 3% of all Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly.
-  * **§III.17(2)** The Bill shall be deemed to be vetoed unless a majority of three-fifths of all those taking part in a referendum vote 'Aye'.
+  * **§III.17(2)** The Bill shall be deemed to be vetoed unless a majority of three-fifths of all those taking part in the triggered referendum vote 'Aye'.
   * **§III.17(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§III.18.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly. 
   * **§III.18(1)** The Bill shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'Aye'.

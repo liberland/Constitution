@@ -239,11 +239,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.9(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
   * **§V.9(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
   * **§V.9(3)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute; contracts shall be allowed to require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
-* **§V.10.** The criminal offences in the Free Republic of Liberland shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor.
+* **§V.10.** The Office of the Public Prosecutor shall be the main body in charge of prosecuting on behalf of the Public Administration, headed by the Chief Public Prosecutor.
   * **§V.10(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term not exceeding six years.
   * **§V.10(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of all Citizens.
-  * **§V.10(3)** Prosecutions shall be brought on behalf of the Citizens or with the express and informed consent of the victim where appropriate.
-  * **§V.10(4)** The right to a private prosecution shall be guaranteed where no public prosecution is instituted within one year since the complaint was made.
+  * **§V.10(3)** The Public Prosecutor shall deal only on issues involving the Public Administration.
 * **§V.11.** The criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.
   * **§V.11(1)** The Jury shall be composed of twelve impartial Citizens;
   * **§V.11(2)** The Jury shall determine the facts and render the verdict according to the law under advice of the Judge;

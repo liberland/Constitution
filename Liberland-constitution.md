@@ -172,7 +172,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.17(2)** The Bill shall be deemed to veto the legislative proposal if a simple majority of the Citizens taking part in that referendum vote 'Nay'.
   * **§III.17(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§III.18.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly. 
-  * **§III.18(1)** The Bill shall be deemed to be vetoed unless a majority of two-thirds of all those taking part in a referendum vote 'Aye'.
+  * **§III.18(1)** The Bill shall be deemed to be vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote 'Aye'.
 * **§III.19.** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least three years.
 * **§III.20.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.17., or on the day the Bill obtained the assent of the Citizens in referendum under §III.17. or §III.18.
 * **§III.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §III.20., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.

@@ -118,7 +118,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.5(8)** to ratify international treaties signed by the Cabinet as provided in a Treaty Bill;
   * **§III.5(9)** to establish the Assembly Committee;
   * **§III.5(10)** to assent to the classification of information for the purposes of national security as proposed by a Secretary of State;
-  * **§III.5(11)** to appoint the Chancellor and the Cabinet and to withdraw the confidence if necessary.
+  * **§III.5(11)** to appoint the Chancellor and the Cabinet and to withdraw confidence thereof if necessary.
 * **§III.6.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
   * **§III.6(1)** The Bill shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget.
   * **§III.6(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.

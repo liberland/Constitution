@@ -211,10 +211,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.7(1)** No special Departments shall be established; every Agency shall be supervised by the relevant Department and no Agency shall operate outside the jurisdiction of its Department.
 * **§IV.8.** The Chancellor and the Cabinet shall be advised as to the law by the Chief Attorney of the Republic, who shall be independent.
   * **§IV.8(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
-  * **§IV.8(2)** The Office of the Chief Attorney of the Republic shall represent all bodies of the Public Administration in all civil proceedings
-  * **§IV.8(3)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§IV.8(4)** The Chief Attorney of the Republic shall have the right to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
-  * **§IV.8(5)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic.
+  * **§IV.8(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term not exceeding six years.
+  * **§IV.8(3)** The Chief Attorney of the Republic shall have the right to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
+  * **§IV.8(4)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
 
 ### Article V: The Judicial Power
 

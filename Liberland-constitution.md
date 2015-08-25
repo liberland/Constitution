@@ -82,102 +82,133 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 ### Article III: The Legislative Power
 
 * **§III.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland which shall exercise it on behalf of the Citizens.
-  * **§III.1(1)** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
-  * **§III.1(2)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland whilst holding the position of Assembly Representative concurrently.
-  * **§III.1(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to one's trial.
-  * **§III.1(4)** No Assembly Representative shall hold the office for more than eight years in total.
-  * **§III.1(5)** Any Assembly Representative may be recalled by the Citizens with a simple majority vote in a referendum called by 5% of all Citizens.
-  * **§III.1(6)** Should any Assembly Representative step down, the Supplementary Election shall be held within 90 days and no vote whatsoever shall take place until a new Assembly Representative is sworn in.
-  * **§III.1(7)** The Assembly shall be in session for three weeks of every month for nine months a year; the Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker.
-  * **§III.1(8)** All Assembly Representatives shall receive remuneration for their service as provided in the Annual Budget.
-* **§III.2.** One-fourth of all Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
-  * **§III.2(1)** The resolution shall be passed with a majority of two-thirds of all Assembly Representatives.
-  * **§III.2(2)** Should the Assembly be dissolved, the General Election shall be held within six weeks.
-* **§III.3.** The Assembly shall elect the Assembly Speaker with a simple majority vote of all Assembly Representatives.
-  * **§III.3(1)** The Assembly Speaker shall head the Bureau of the Assembly of the Free Republic of Liberland. 
-  * **§III.3(2)** The Bureau of the Assembly shall administer the work of the Assembly.
-  * **§III.3(3)** The Bureau of the Assembly shall supervise all Agents of the legislative branch of the Public Administration.
-  * **§III.3(4)** No Agent of the Law Enforcement shall enter the premises of the Assembly unless with the express and informed consent of the the Bureau of the Assembly or pursuant to a Warrant.
-* **§III.4.** One-fourth of all Assembly Representatives shall have the right to propose a resolution instituting the Assembly Committee.
-  * **§III.4(1)** The resolution shall be passed with a simple majority of all Assembly Representatives.
-  * **§III.4(2)** The Assembly Committee shall be composed of five Assembly Representatives.
-  * **§III.4(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Member or Agent of the Public Administration in order to investigate the allegations.
-  * **§III.4(4)** The Assembly Committee shall have the right to summon Members and Agents of the Public Administration to hear testimonies given under oath.
-  * **§III.4(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence (if any) of said misconduct or mismanagement; such conclusions shall not have any legal effect. 
-  * **§III.4(6)** The Final Conclusions shall be made public as well as passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee; the Conclusions shall not bind the Chief Public Prosecutor to institute any prosecution.
-  * **§III.4(7)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be prosecuted in the Criminal Court in a regular manner.
-  * **§III.4(8)** The Assembly Committee shall only deal with the matter for which it was established and shall cease to work no later than one year since its creation.
-* **§III.5.** The powers of the Assembly shall be restricted to the following only:
-  * **§III.5(1)** to pass legislation necessary for carrying into force the powers enumerated in this provision and no others;
-  * **§III.5(2)** to conduct the financial affairs of the Public Administration as provided in the Financial Bill;
-  * **§III.5(3)** to lay the tax on land provided for in the Taxation Bill;
-  * **§III.5(4)** to maintain the Courts of the Free Republic of Liberland without interfering with the affairs of the judiciary;
-  * **§III.5(5)** to establish the Law Enforcement to maintain the internal security;
-  * **§III.5(6)** to assent to the incorporation of any new territories to the Free Republic of Liberland with any status the Assembly shall determine;
-  * **§III.5(7)** to debate on matters important to the well-being of the state;
-  * **§III.5(8)** to ratify international treaties signed by the Cabinet as provided in a Treaty Bill;
-  * **§III.5(9)** to establish the Assembly Committee;
-  * **§III.5(10)** to assent to the classification of information for the purposes of national security as proposed by a Secretary of State;
-  * **§III.5(11)** to appoint the Chancellor and the Cabinet and to withdraw the confidence if necessary.
-* **§III.6.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
-  * **§III.6(1)** The Bill shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget.
-  * **§III.6(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
-  * **§III.6(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
-* **§III.7.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Address, shall be debated on, and shall be voted on once only.
-  * **§III.7(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
-  * **§III.7(2)** All drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
-  * **§III.7(3)** No Bill shall be voted on unless all Assembly Representatives are successfully notified about the date and hour of the debate and the vote.
-* **§III.8.** Every Assembly Representative shall have the right to express one's opinion on the proposed Bill at least once before the vote takes place, without any time limit.
-* **§III.9.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland with a simple majority vote of all Assembly Representatives.
-  * **§III.9(1)** If no Chancellor is elected for more than ninety days, the General Election must be held.
-  * **§III.9(2)** The Assembly shall have the power to withdraw confidence from the Chancellor along with the Cabinet by passing the constructive motion of no confidence with a simple majority vote of all Assembly Representatives only if there is a majority for a prospective successor.
-  * **§III.9(3)** The Assembly shall have the power to withdraw confidence from a single Member of the Cabinet by passing the ordinary motion of no confidence with a simple majority vote of all Assembly Representatives.
-* **§III.10.** The power to initiate a legislative procedure shall lie with the Cabinet only which shall be exercised only once a year upon the State of the Republic Address.
-  * **§III.10(1)** Any Bill which is not voted on before the next State of the Republic Address and any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived otherwise than by resubmission by the Cabinet upon another State of the Republic Address.
-* **§III.11.** One-fourth of all Assembly Representatives shall have the right to oblige the Cabinet to consider a draft of a Bill prepared by them.
-  * **§III.11(1)** The Draft prepared by the Assembly Representatives may be rejected or accepted by the Cabinet as a potential Bill.
-  * **§III.11(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
-* **§III.12.** An ordinary Bill shall be passed into law with a majority of three-quarters of all Assembly Representatives subject to the power of general veto by the Citizens as provided in §III.17.
-  * **§III.12(1)** An ordinary Bill is any Bill which is not a Constitutional Bill, or Taxation Bill, or Treaty Bill, or Financial Bill.
-* **§III.13.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present, and shall be subject to the power of general veto by the Citizens as provided in §III.18.
-* **§III.14.** A Taxation Bill proposing taxation shall be passed into law with the unanimous vote, and shall be subject to the power of general veto by the Citizens as provided in §III.18.
-  * **§III.14(1)** The Bill shall introduce the tax on actual land.
-  * **§III.14(2)** The tax shall be fixed per meter square.
-  * **§III.14(3)** No other form of tax shall be levied in the Free Republic of Liberland.
-  * **§III.14(4)** No other Bill shall be capable of levying any tax in the Free Republic of Liberland.
-  * **§III.14(5)** The overall tax revenue shall not exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
-  * **§III.14(6)** The tax shall be levied for one or more of the following purposes only:
-    * **§III.14(6)(a)** maintaining the infrastructure of the Public Administration;
-    * **§III.14(6)(b)** providing for the Law Enforcement;
-    * **§III.14(6)(c)** providing for the Courts of the Free Republic of Liberland;
-    * **§III.14(6)(d)** providing for Agents and Members of the Public Administration;
-    * **§III.14(6)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
-  * **§III.14(7)** Neither the Taxation Bill, nor any other Bill, shall impose any form of duty on goods, services and/or capital exported from, or imported into, the Free Republic of Liberland.
-* **§III.15.** A Treaty Bill ratifying an international treaty signed by the Cabinet shall be passed into law with a majority of three-quarters of all Assembly Representatives, and shall be subject to the power of general veto by the Citizens as provided in §III.17.
-  * **§III.15(1)** All international treaties must be signed by the Chancellor on behalf of the Cabinet and ratified by the Assembly in order to constitute the law of the land in the Free Republic of Liberland.
-* **§III.16.** The Financial Bill containing the provisions of the Annual Budget shall be passed with a simple majority vote of all Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §III.17.
-  * **§III.16(1)** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
-  * **§III.16(2)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
-  * **§III.16(3)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
-  * **§III.16(4)** All fees collected by the Public Administration and all pledged systematic voluntary donations shall be transferred to the State Treasury and thereby included in the Annual Budget.
-  * **§III.16(5)** All fines and spontaneous voluntary donations shall be transferred to the State Reserve System.
-  * **§III.16(6)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue. 
-  * **§III.16(7)** The size of the Annual Budget shall not exceed the previous year actual revenue.
-  * **§III.16(8)** Should the actual revenue exceeded the anticipated revenue, the surplus shall be transferred to the State Reserve System.
-  * **§III.16(9)** Should the actual revenue fall short of the anticipated revenue, the deficit shall be covered from the funds gathered in the State Reserve System.
-  * **§III.16(10)** Should the funds gathered in the State Reserve System not be able to cover the deficit, all Assembly Representatives who voted in favor of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
-  * **§III.16(11)** The State Reserve System shall be maintained by the Bureau of the Assembly.
-  * **§III.16(12)** The funds gathered in the State Reserve System shall be diversified therefore kept in various stable currencies and precious metals.
-* **§III.17.** Any ordinary Bill or Treaty Bill or Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
-  * **§III.17(1)** The referendum shall be triggered by the request of 5% of all Citizens, and shall be submitted within ninety days after the Bill was passed by the Assembly.
-  * **§III.17(2)** The Bill shall be deemed to veto the legislative proposal if a simple majority of the Citizens taking part in that referendum vote 'Nay'.
-  * **§III.17(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§III.18.** Any Taxation Bill or Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly. 
-  * **§III.18(1)** The Bill shall be deemed to be vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote 'Aye'.
-* **§III.19.** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least three years.
-* **§III.20.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.17., or on the day the Bill obtained the assent of the Citizens in referendum under §III.17. or §III.18.
-* **§III.21.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §III.20., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.
-* **§III.22.** The law of the Free Republic of Liberland shall enter into force no sooner than on the thirty-first day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
+  * **§III.1(1)** The Assembly shall be in session for three weeks of every month for nine months a year.
+  * **§III.1(2)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker.
+  * **§III.1(3)** The Assembly shall not be dissolved, nor shall its session be interrupted, by any other branch of the Public Administration.
+* **§III.2.** The Assembly shall consist of twenty Assembly Representatives.
+  * **§III.2(1)** All Assembly Representatives shall receive remuneration for their service as provided in the Annual Budget.
+  * **§III.2(2)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland whilst holding the position of Assembly Representative concurrently.
+  * **§III.2(3)** No Person shall hold the office of a Member of the Cabinet whilst holding the position of Assembly Representative concurrently.
+  * **§III.2(4)** No Assembly Representative shall be precluded from taking part in any Assembly vote and/or debate by virtue of being detained prior to one's trial.
+  * **§III.2(5)** No Assembly Representative shall hold the office for more than eight years in total.
+* **§III.3.** The Assembly Representatives shall be elected by the Citizens in the General Election held every four years.
+  * **§III.3(1)** Any Assembly Representative may be recalled by the Citizens with a simple majority vote in a referendum called by 5% of all Citizens.
+  * **§III.3(2)** Should any Assembly Representative step down, the Supplementary Election shall be held within thirty days. 
+  * **§III.3(3)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate.
+* **§III.4.** One-fourth of the overall number of all Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
+  * **§III.4(1)** The resolution shall be passed with a majority of two-thirds of all Assembly Representatives.
+  * **§III.4(2)** Should the Assembly be dissolved, the General Election shall be held within ninety days.
+* **§III.5.** The Assembly shall elect the Assembly Speaker with a simple majority vote of the overall number of all Assembly Representatives.
+  * **§III.5(1)** The Assembly Speaker shall chair the business of the Assembly.
+  * **§III.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
+* **§III.6.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
+  * **§III.6(1)** The Bureau of the Assembly shall supervise all Agents of the legislative branch of the Public Administration.
+  * **§III.6(2)** The Bureau of the Assembly shall maintain the State Reserve System.
+  * **§III.6(3)** No Agent of the Law Enforcement shall enter the premises of the Assembly unless with the express and informed consent of the Bureau of the Assembly or pursuant to a Warrant.
+* **§III.7.** The powers of the Assembly shall be restricted to the following only:
+  * **§III.7(1)** to pass legislation necessary for carrying into force the powers enumerated in this provision and no others;
+  * **§III.7(2)** to conduct the financial affairs of the Public Administration as provided in the Financial Bill;
+  * **§III.7(3)** to lay the tax on land as provided for in the Taxation Bill;
+  * **§III.7(4)** to maintain the Courts of the Free Republic of Liberland without interfering with the affairs of the judiciary;
+  * **§III.7(5)** to establish the Law Enforcement in order to maintain the internal security;
+  * **§III.7(6)** to establish rules regarding peaceful coexistence of Persons and security of their Property and Rights;
+  * **§III.7(7)** to assent to the incorporation of any new territories to the Free Republic of Liberland with any status the Assembly shall determine;
+  * **§III.7(8)** to debate on matters important to the well-being of the Republic;
+  * **§III.7(9)** to ratify international treaties signed by the Cabinet as provided in a Treaty Bill;
+  * **§III.7(10)** to establish the Assembly Committee;
+  * **§III.7(11)** to assent to the classification of information for the purposes of national security as proposed by a Secretary of State;
+  * **§III.7(12)** to appoint and impeach the Chancellor and/or Members of the Cabinet.
+* **§III.8.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of all Assembly Representatives.
+  * **§III.8(1)** Should no Chancellor be elected for more than thirty days, the General Election shall be held within ninety days.
+  * **§III.8(2)** The Assembly shall have the power to impeach the Chancellor by passing the Constructive Motion of No Confidence with a simple majority vote of the overall number of all Assembly Representatives provided there is a majority for a prospective successor.
+  * **§III.8(2)** The Assembly shall have the power to impeach a single Member of the Cabinet by passing the Ordinary Motion of No Confidence with a simple majority vote of the overall number of all Assembly Representatives.
+* **§III.9.** One-fourth of the overall number of all Assembly Representatives shall have the right to propose a resolution instituting the Assembly Committee.
+  * **§III.9(1)** The resolution shall be passed with a simple majority of the overall number of all Assembly Representatives.
+  * **§III.9(2)** The Assembly Committee shall be composed of five Assembly Representatives.
+  * **§III.9(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Member or Agent of the Public Administration in order to investigate the allegations.
+  * **§III.9(4)** The Assembly Committee shall have the right to summon Members and Agents of the Public Administration to hear testimonies given under oath.
+  * **§III.9(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence (if any) of said misconduct or mismanagement.
+  * **§III.9(6)** The Final Conclusions shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
+  * **§III.9(7)** The Final Conclusions shall not have any binding effect.
+  * **§III.9(8)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be prosecuted in the Criminal Court in a regular manner.
+  * **§III.9(9)** The Assembly Committee shall only deal with the matter for which it was established and shall cease to work no later than one year since its creation.
+* **§III.10.** The power to initiate a legislative procedure shall lie with the Cabinet only.
+  * **§III.10(1)** The power to initiate a legislative procedure shall be exercised only once a year upon the State of the Republic Address by submitting a Bill to the Assembly.
+  * **§III.10(2)** The Assembly shall be under obligation to vote on all Bills submitted by the Cabinet until the next State of the Republic Address.
+  * **§III.10(3)** Any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
+* **§III.11.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Address, shall be debated on, and shall be voted on once only.
+  * **§III.11(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
+  * **§III.11(2)** No Bill shall be voted on unless all Assembly Representatives are successfully notified about the date and time of the debate and the vote.
+  * **§III.11(3)** Every Assembly Representative shall have the right to express one's opinion on the proposed Bill at least once before the vote takes place, without any time limit.
+* **§III.12.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
+  * **§III.12(1)** The Bill shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget.
+  * **§III.12(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
+  * **§III.12(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
+* **§III.13.** One-fourth of the overall number of all Assembly Representatives shall have the right to oblige the Cabinet to consider a draft of a Bill prepared by them.
+  * **§III.13(1)** The Draft prepared by the Assembly Representatives may be rejected or accepted by the Cabinet as a Bill.
+  * **§III.13(2)** All drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
+  * **§III.13(3)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
+* **§III.14.** The Cabinet shall have the power to propose five types of Bills.
+  * **§III.14(1)** an ordinary Bill;
+  * **§III.14(2)** a Constitutional Bill;
+  * **§III.14(3)** a Taxation Bill;
+  * **§III.14(4)** a Treaty Bill;
+  * **§III.14(5)** a Financial Bill.
+* **§III.15.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
+  * **§III.15(1)** All ordinary Bills shall be passed with a majority of three-quarters of the overall number of all Assembly Representatives.
+  * **§III.15(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §III.21.
+* **§III.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
+  * **§III.16(1)** All Constitutional Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of all Assembly Representatives.
+  * **§III.16(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §III.22.
+* **§III.17.** A Taxation Bill shall propose, or alter, the tax on land of the Free Republic of Liberland.
+  * **§III.17(1)** All Taxation Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of all Assembly Representatives.
+  * **§III.17(2)** All Taxation Bills shall be subject to the power of general veto by the Citizens as provided in §III.22.
+  * **§III.17(3)** The tax shall be fixed per meter square.
+  * **§III.17(4)** No other form of tax shall be levied in the Free Republic of Liberland.
+  * **§III.17(5)** No other Bill shall be capable of levying any tax in the Free Republic of Liberland.
+  * **§III.17(6)** Neither the Taxation Bill, nor any other Bill, shall impose any form of duty on goods, services and/or capital exported from, or imported into, the Free Republic of Liberland.
+  * **§III.17(7)** The overall tax revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
+  * **§III.17(8)** The tax shall be levied for one or more of the following purposes only:
+   * **§III.17(8)(a)** maintaining the infrastructure of the Public Administration;
+   * **§III.17(8)(b)** providing for the Law Enforcement;
+   * **§III.17(8)(c)** providing for the Courts of the Free Republic of Liberland;
+   * **§III.17(8)(d)** providing for Agents and Members of the Public Administration;
+   * **§III.17(8)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+* **§III.18.** A Treaty Bill shall ratify an international treaty signed by the Cabinet.
+  * **§III.18(1)** All Treaty Bills shall be passed with a majority of three-quarters of the overall number of all Assembly Representatives.
+  * **§III.18(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §III.21.
+  * **§III.18(3)** All international treaties must be signed by the Chancellor on behalf of the Cabinet and ratified by the Assembly in order to constitute the law of the land in the Free Republic of Liberland.
+* **§III.19.** The Financial Bill shall contain the provisions of the Annual Budget.
+  * **§III.19(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of all Assembly Representatives.
+  * **§III.19(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §III.21.
+  * **§III.19(3)** The Financial Bill shall contain the Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget. 
+  * **§III.19(4)** The Alteration Clause shall be exercisable should the Cabinet realise that the actual revenue shall not meet the anticipated revenue as provided in the Annual Budget. 
+  * **§III.19(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing spending.
+  * **§III.19(6)** Under no circumstances shall the Cabinet lower the remuneration of Judges and/or Assembly Representatives unless with the express and informed consent of relevant bodies.
+* **§III.20.** The Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
+  * **§III.20(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
+  * **§III.20(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
+  * **§III.20(3)** All fees collected by the Public Administration and all pledged systematic voluntary donations shall be transferred to the State Treasury and thereby included in the Annual Budget.
+  * **§III.20(4)** All fines and spontaneous voluntary donations shall be transferred to the State Reserve System.
+  * **§III.20(5)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
+  * **§III.20(6)** The size of the Annual Budget shall not exceed the previous year actual revenue.
+  * **§III.20(7)** Should the actual revenue exceeded the anticipated revenue, the surplus shall be transferred to the State Reserve System.
+  * **§III.20(8)** Should the actual revenue fall short of the anticipated revenue, the deficit shall be covered from the funds gathered in the State Reserve System.
+  * **§III.20(9)** Should the funds gathered in the State Reserve System not be able to cover the deficit, all Assembly Representatives who voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
+  * **§III.20(10)** The State Reserve System shall be maintained by the Bureau of the Assembly.
+* **§III.21.** All ordinary Bills or Treaty Bills or the Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
+  * **§III.21(1)** The referendum shall be triggered by the request of 5% of all Citizens, and shall be submitted within ninety days after the Bill was declared constitutional by the Supreme Court.
+  * **§III.21(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote 'Aye'.
+* **§III.22.** All Taxation Bills or Constitutional Bills shall be subject to the mandatory referendum.
+  * **§III.22(1)** The referendum shall take place within ninety days after the Bill was declared constitutional by the Supreme Court.
+  * **§III.22(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote 'Aye'.
+* **§III.23.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
+  * **§III.23(1)** Should an ordinary Bill or a Treaty Bill be vetoed, it shall not be resubmitted to the Assembly for at least three years.
+  * **§III.23(2)** Should a Constitutional Bill or Taxation Bill be vetoed, it shall not be resubmitted to the Assembly for at least ten years.
+  * **§III.23(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+* **§III.24.** A Bill shall become “Under Consideration” once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.21., or on the day the Bill obtained the assent of the Citizens in referendum under §III.21. or §III.22.
+* **§III.25.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became “Under Consideration” in accordance with the procedure provided for in §III.24., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.
+* **§III.26.** The law of the Free Republic of Liberland shall enter into force on the day specified in the Act but no sooner than on the thirty-first day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
 
 ### Article IV: The Executive Power
 

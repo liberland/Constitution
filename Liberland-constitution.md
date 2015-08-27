@@ -121,7 +121,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.7(12)** to appoint and impeach the Chancellor and/or Members of the Cabinet.
 * **§III.8.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
   * **§III.8(1)** Should no Chancellor be elected for more than thirty days, the General Election shall be held within ninety days.
-  * **§III.8(2)** The Assembly shall have the power to impeach the Chancellor by passing the Constructive Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a majority for a prospective successor.
+  * **§III.8(2)** The Assembly shall have the power to impeach the Chancellor along with the Cabinet by passing the Constructive Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a majority for a prospective successor.
   * **§III.8(3)** On the first meeting after the General Election, the Chancellor along with the Cabinet shall request the Assembly to vote on the Motion of Confidence.
   * **§III.8(4)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Chancellor along with the Cabinet shall resign.
 * **§III.9.** One-fourth of the overall number of Assembly Representatives shall have the right to propose a resolution instituting the Assembly Committee.
@@ -216,37 +216,49 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§IV.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet.
 * **§IV.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
-  * **§IV.2(1)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland whilst holding the position of  Member of the Cabinet concurrently.
+  * **§IV.2(1)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland whilst holding the position of Member of the Cabinet concurrently.
   * **§IV.2(2)** No Person shall hold the position of Chancellor or Member of the Cabinet whilst holding the position of Assembly Representative concurrently.
   * **§IV.2(3)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
-* **§IV.3.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
-* **§IV.4.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
-* **§IV.5.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
-  * **§IV.5(1)** to run day-to-day state affairs;
-  * **§IV.5(2)** to initiate a legislative procedure;
-  * **§IV.5(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§IV.5(4)** to sign international treaties provided the Supreme Court confirmed the constitutionality of such treaties;
-  * **§IV.5(5)** to execute in good faith the laws passed by the Assembly;
-  * **§IV.5(6)** to produce byelaws in the form of Executive Measures under the powers expressly granted by the Acts of the Assembly;
-  * **§IV.5(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Appointment Commission;
-  * **§IV.5(8)** to maintain the State Treasury;
-  * **§IV.5(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
-  * **§IV.5(10)** to supervise all Agents of the executive branch of the Public Administration;
-  * **§IV.5(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and the idea of liberty worldwide;
-  * **§IV.5(12)** to be the Commander-in-Chief of the voluntary Territorial Defence, should it rise.
-* **§IV.6.** The Cabinet shall consist of the following Departments only:
-  * **§IV.6(1)** Department of Justice;
-  * **§IV.6(2)** Department of Internal Affairs;
-  * **§IV.6(3)** Department of Security;
-  * **§IV.6(4)** Department of Foreign Affairs;
-  * **§IV.6(5)** Department of Treasury.
-* **§IV.7.** Each Department shall be headed by the Secretary of State for the respective Department who shall answer to the Chancellor and the Assembly.
-  * **§IV.7(1)** No special Departments shall be established; every Agency shall be supervised by the relevant Department and no Agency shall operate outside the jurisdiction of its Department.
-* **§IV.8.** The Chancellor and the Cabinet shall be advised as to the law by the Chief Attorney of the Republic, who shall be independent.
-  * **§IV.8(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
-  * **§IV.8(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§IV.8(3)** The Chief Attorney of the Republic shall have the right to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
-  * **§IV.8(4)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
+* **§IV.3.** The Chancellor may, at any time, resign from the office.
+  * **§IV.3(1)** Should the Chancellor resign, the Assembly shall elect a new Chancellor according to the provisions of Article III.
+  * **§IV.3(2)** Should the Chancellor resign, all Secretaries of State shall resign.
+* **§IV.4.** The Cabinet shall execute in good faith all laws passed by the Assembly unless any law conflicts with the Constitution.
+* **§IV.5.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
+* **§IV.6.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
+  * **§IV.6(1)** to run day-to-day state affairs;
+  * **§IV.6(2)** to initiate a legislative procedure;
+  * **§IV.6(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+  * **§IV.6(4)** to sign international treaties provided the Supreme Court confirmed the constitutionality of such treaties;
+  * **§IV.6(6)** to produce byelaws in the form of Executive Measures under the powers expressly granted by the Acts of the Assembly;
+  * **§IV.6(7)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Appointment Commission;
+  * **§IV.6(8)** to maintain the State Treasury;
+  * **§IV.6(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
+  * **§IV.6(10)** to supervise all Agents of the executive branch of the Public Administration;
+  * **§IV.6(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and the idea of liberty worldwide;
+  * **§IV.6(12)** to appoint and remove the Chief Commissioner;
+  * **§IV.6(13)** to be the Commander-in-Chief of the voluntary Territorial Defence, should it rise;
+  * **§IV.6(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution.
+* **§IV.7.** The Cabinet shall consist of the following Departments only:
+  * **§IV.7(1)** Department of Justice;
+  * **§IV.7(2)** Department of Internal Affairs;
+  * **§IV.7(3)** Department of Security;
+  * **§IV.7(4)** Department of Foreign Affairs;
+  * **§IV.7(5)** Department of Treasury.
+* **§IV.8.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
+  * **§IV.8(1)** Departments shall be allowed to establish Agencies. 
+  * **§IV.8(2)** Every Agency shall be supervised by the relevant Department and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
+* **§IV.9.** Each Department shall be headed by the Secretary of State for the respective Department.
+  * **§IV.9(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+* **§IV.10.** The Chancellor and the Cabinet shall be advised as to the law by the Chief Attorney of the Republic, who shall be independent.
+  * **§IV.10(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
+  * **§IV.10(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
+  * **§IV.10(3)** The Chief Attorney of the Republic shall have the right to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
+  * **§IV.10(4)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
+* **§IV.11.** The work of the Law Enforcement shall be overseen by the Chief Commissioner. 
+  * **§IV.11(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years.
+  * **§IV.11(2)** The Chief Commissioner shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+  * **§IV.11(3)** The Chief Commissioner shall be removable form the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered with the Electoral Register at the time of the last General Election.
+* **§IV.12.** The Chief Public Prosecutor, Chief Attorney of the Republic and the Chief Commissioner shall not be deemed Members of the Cabinet.
 
 ### Article V: The Judicial Power
 

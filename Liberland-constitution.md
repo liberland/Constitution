@@ -75,6 +75,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.42.** No law shall deprive any Individual holding the citizenship of the Free Republic of Liberland of the right to private registration and confidential ballots in all elections and referendums in the Free Republic of Liberland; such registration shall be executed by entering one’s name into the Electoral Register; keeping one’s name in the Electoral Register may entail certain obligations as prescribed by law; taking part in all elections and referendums shall be voluntary; no Person shall be compelled to vote in a specific manner, nor shall one be reprimanded for the manner in which the vote was cast; all elections and referendums shall be free from any coercion and fraud.
 * **§II.43.** No law shall allow for war to be declared and/or waged by any branch of the Public Administration on any Nation or group; no standing army shall be established; should any voluntary Territorial Defence rise, it shall not be used outside the territory of the Free Republic of Liberland, but only to defend the borders of the Free Republic of Liberland against external enemies; under no circumstances shall the Territorial Defence be used instead of, or in support of, the Law Enforcement against Citizens or other Residents of the Free Republic of Liberland; such voluntary Territorial Defence shall have the Chancellor as its Commander-in-Chief; the Commander-in-Chief shall not have say on the creation and/or dissolution of the potential voluntary Territorial Defence.
 * **§II.44.** No law shall allow the Law Enforcement to be in disposition of any weaponry other than small arms equal to ones in disposition of Individuals; should the voluntary Territorial Defence rise, it shall not be in disposition of any weaponry other than small arms and light weapons.
+* **§II.45.** No law shall introduce any form of taxation within the Free Republic of Liberland, nor shall any periodic fees, other than the fee on land as provided in the Land Bill, be imposed on any natural or legal Person for any reason; only spontaneous fees for services provided by the Public Administration or as punishment for culpable behaviour shall be allowed; nor any form of duty on goods, services and/or capital exported from, or imported into, the Free Republic of Liberland shall be introduced.
 
 ## Political Institutions
 
@@ -109,7 +110,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.7.** The powers of the Assembly shall be restricted to the following only:
   * **§III.7(1)** to pass legislation necessary for carrying into force the powers enumerated in this provision and no others;
   * **§III.7(2)** to conduct the financial affairs of the Public Administration as provided in the Financial Bill;
-  * **§III.7(3)** to lay the tax on land as provided for in the Taxation Bill;
+  * **§III.7(3)** to impose the fee on land as provided for in the Land Bill;
   * **§III.7(4)** to maintain the Courts of the Free Republic of Liberland without interfering with the affairs of the judiciary;
   * **§III.7(5)** to establish the Law Enforcement in order to maintain the internal security;
   * **§III.7(6)** to establish rules regarding peaceful coexistence of Persons and security of their Property and Rights;
@@ -153,7 +154,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.14.** The Cabinet shall have the power to propose five types of Bills:
   * **§III.14(1)** an ordinary Bill;
   * **§III.14(2)** a Constitutional Bill;
-  * **§III.14(3)** a Taxation Bill;
+  * **§III.14(3)** a Land Bill;
   * **§III.14(4)** a Treaty Bill;
   * **§III.14(5)** a Financial Bill.
 * **§III.15.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
@@ -162,20 +163,18 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
   * **§III.16(1)** All Constitutional Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
   * **§III.16(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §III.22.
-* **§III.17.** A Taxation Bill shall propose, or alter, the tax on land of the Free Republic of Liberland.
-  * **§III.17(1)** All Taxation Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
-  * **§III.17(2)** All Taxation Bills shall be subject to the power of general veto by the Citizens as provided in §III.22.
-  * **§III.17(3)** The tax shall be fixed per meter square.
-  * **§III.17(4)** No other form of tax shall be levied in the Free Republic of Liberland.
-  * **§III.17(5)** No other Bill shall be capable of levying any tax in the Free Republic of Liberland.
-  * **§III.17(6)** Neither the Taxation Bill, nor any other Bill, shall impose any form of duty on goods, services and/or capital exported from, or imported into, the Free Republic of Liberland.
-  * **§III.17(7)** The overall tax revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
-  * **§III.17(8)** The tax shall be levied for one or more of the following purposes only:
-   * **§III.17(8)(a)** maintaining the infrastructure of the Public Administration;
-   * **§III.17(8)(b)** providing for the Law Enforcement;
-   * **§III.17(8)(c)** providing for the Courts of the Free Republic of Liberland;
-   * **§III.17(8)(d)** providing for Agents and Members of the Public Administration;
-   * **§III.17(8)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+* **§III.17.** A Land Bill shall propose, or alter, the fee on land of the Free Republic of Liberland.
+  * **§III.17(1)** AAll Land Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
+  * **§III.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §III.22.
+  * **§III.17(3)** The fee shall be fixed per meter square of land.
+  * **§III.17(4)** The fee shall be payable once a year by some or all owners of land within the territory of the Free Republic of Liberland other than the Public Administration, as prescribed in the Bill.
+  * **§III.17(5)** The overall fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
+  * **§III.17(6)** The fee shall be levied for one or more of the following purposes only:
+   * **§III.17(6)(a)** maintaining the infrastructure of the Public Administration;
+   * **§III.17(6)(b)** providing for the Law Enforcement;
+   * **§III.17(6)(c)** providing for the Courts of the Free Republic of Liberland;
+   * **§III.17(6)(d)** providing for Agents and Members of the Public Administration;
+   * **§III.17(6)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
 * **§III.18.** A Treaty Bill shall ratify an international treaty signed by the Cabinet.
   * **§III.18(1)** All Treaty Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
   * **§III.18(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §III.21.
@@ -201,12 +200,12 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§III.21.** All ordinary Bills or Treaty Bills or the Financial Bill passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in the referendum.
   * **§III.21(1)** The referendum shall be triggered by the request of 5% of all Citizens, and shall be submitted within ninety days after the Bill was declared constitutional by the Supreme Court.
   * **§III.21(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote 'Aye'.
-* **§III.22.** All Taxation Bills or Constitutional Bills shall be subject to the mandatory referendum.
+* **§III.22.** All Land Bills or Constitutional Bills shall be subject to the mandatory referendum.
   * **§III.22(1)** The referendum shall be triggered by the request of 5% of the overall number of Citizens registered with the Electoral Register at the time of the last General Election, and shall be submitted within ninety days after the Bill was declared constitutional by the Supreme Court.
   * **§III.22(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote 'Aye'.
 * **§III.23.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
   * **§III.23(1)** Should an ordinary Bill or a Treaty Bill be vetoed, it shall not be resubmitted to the Assembly for at least three years.
-  * **§III.23(2)** Should a Constitutional Bill or Taxation Bill be vetoed, it shall not be resubmitted to the Assembly for at least ten years.
+  * **§III.23(2)** Should a Constitutional Bill or Land Bill be vetoed, it shall not be resubmitted to the Assembly for at least ten years.
   * **§III.23(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
 * **§III.24.** A Bill shall become “Under Consideration” once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.21., or on the day the Bill obtained the assent of the Citizens in referendum under §III.21. or §III.22.
 * **§III.25.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became “Under Consideration” in accordance with the procedure provided for in §III.24., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.

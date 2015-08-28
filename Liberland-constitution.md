@@ -303,16 +303,16 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.11(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
   * **§V.11(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
   * **§V.11(3)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute; contracts shall be allowed to require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
-* **§V.12.** The Victim(s) of a criminal offence shall have the inherent right to institute the Private Prosecution of the accused. 
-  * **§V.12(1)** The Private Prosecution may be instituted by the Victim(s) in person or by Proxy on its behalf.
+* **§V.12.** The Victim(s) of a criminal offence shall have the inherent right to institute a Private Prosecution of the accused. 
+  * **§V.12(1)** A Private Prosecution may be instituted by the Victim(s) in person or by Proxy on its behalf.
   * **§V.12(2)** Both the Victim(s) or the Proxy shall not enjoy the privileges of the Law Enforcement by virtue of pursuing prosecution.
-  * **§V.12(3)** The Victim(s) may expressly waive the right to institute the Private Prosecution.
-  * **§V.12(4)** The Victim(s) shall be deemed to have waived the right to institute the Private Prosecution should it not be brought within three months since an alleged offence took place.
-* **§V.13.** The Public Prosecution of the accused shall be instituted by the Office of the Public Prosecutor.
-  * **§V.13(1)** The Office of the Public Prosecutor shall retain the right to institute the Public Prosecution should the Victim(s) waive, either expressly or impliedly, the right to the Private Prosecution and give its informed and express consent to the prosecution.
-  * **§V.13(2)** Should a criminal offence leave no Victim(s) capable of instituting the Private Prosecution, the Office of the Public Prosecutor shall have the inherent right to institute the Public Prosecution on behalf of the state of the Free Republic of Liberland.
-  * **§V.13(3)** Should the right to the Private Prosecution be waived and evidence be sufficient, the Office of the Public Prosecutor shall be under obligation to institute the Public Prosecution.
-  * **§V.13(4)** Should the Public Prosecution be instituted, the Victim(s) shall have the right:
+  * **§V.12(3)** The Victim(s) may expressly waive the right to institute a Private Prosecution.
+  * **§V.12(4)** The Victim(s) shall be deemed to have waived the right to institute a Private Prosecution should it not be brought within three months since an alleged offence took place.
+* **§V.13.** A Public Prosecution of the accused shall be instituted by the Office of the Public Prosecutor.
+  * **§V.13(1)** The Office of the Public Prosecutor shall retain the power to institute a Public Prosecution should the Victim(s) waive, either expressly or impliedly, the right to a Private Prosecution and give its informed and express consent to the prosecution.
+  * **§V.13(2)** Should a criminal offence leave no Victim(s) capable of instituting the Private Prosecution, the Office of the Public Prosecutor shall have the inherent right to institute a Public Prosecution on behalf of the state of the Free Republic of Liberland.
+  * **§V.13(3)** Should the right to a Private Prosecution be waived and evidence be sufficient, the Office of the Public Prosecutor shall be under obligation to institute a Public Prosecution.
+  * **§V.13(4)** Should a Public Prosecution be instituted, the Victim(s) shall have the right:
    * **§V.13(4)(a)** to be notified about the schedule of the judicial proceedings; 
    * **§V.13(4)(b)** to address the Criminal Court before the sentence is determined; 
    * **§V.13(4)(c)** to be advised of release from custody or escape of the accused offender.

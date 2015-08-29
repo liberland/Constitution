@@ -204,12 +204,12 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.22(1)** The referendum shall take place within ninety days after the Bill was declared constitutional by the Supreme Court.
   * **§III.22(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote 'Aye'.
 * **§III.23.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
-  * **§III.23(1)** Should an ordinary Bill or a Treaty Bill be vetoed, it shall not be resubmitted to the Assembly for at least three years.
-  * **§III.23(2)** Should a Constitutional Bill or Land Bill be vetoed, it shall not be resubmitted to the Assembly for at least ten years.
+  * **§III.23(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
+  * **§III.23(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
   * **§III.23(3)** Should the Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§III.24.** A Bill shall become “Under Consideration” once it is passed by the Assembly in accordance with the provisions of this Article, and either ninety days have passed and no referendum was called in accordance with §III.21., or on the day the Bill obtained the assent of the Citizens in referendum under §III.21. or §III.22.
-* **§III.25.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became “Under Consideration” in accordance with the procedure provided for in §III.24., and was declared constitutional by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.
-* **§III.26.** The law of the Free Republic of Liberland shall enter into force on the day specified in the Act but no sooner than on the thirty-first day after it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court, which shall take place upon the declaration of constitutionality.
+* **§III.24.** A Bill shall become “Passed” upon passage by the Assembly in accordance with the provisions of this Article.
+* **§III.25.** A Bill shall become “Under Consideration” upon constitutional declaration by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article V.
+* **§III.26.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it has become “Under Consideration” in accordance with the procedure provided for in §III.25., and either ninety days have passed and no referendum was called in accordance with §III.21., or on the day the Bill obtained the assent of the Citizens in referendum under §III.21. or §III.22.
 
 ### Article IV: The Executive Power
 
@@ -279,9 +279,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.6.** All Judges, other than the Justices of the Supreme Court, shall be appointed by the Chief Justice of the Supreme Court upon the recommendation of the Judicial Appointment Commission.
   * **§V.6(1)** The Judicial Appointment Commission shall be composed of the four Justices of the Supreme Court and three other members appointed by the Chief Justice of the Supreme Court.
   * **§V.6(2)** The Judicial Appointment Commission shall reach its decisions with a simple majority.
-  * **§V.6(3)** The Judicial Appointment Commission shall recommend to the Chief Justice of the Supreme Court only excellent and experienced lawyers for the judgeship. 
+  * **§V.6(3)** The Judicial Appointment Commission shall recommend to the Chief Justice of the Supreme Court qualified lawyers for the Judgeship. 
   * **§V.6(4)** Should the office of the Chief Justice of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor one of the Justices of the Supreme Court to be appointed the new Chief Justice.
-  * **§V.6(5)** Should the office of any of the Justices of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor an experienced Judge of impeccable reputation for the replacement.
+  * **§V.6(5)** Should the office of any of the Justices of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor a qualified Judge for the replacement.
 * **§V.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of all Judges of all Courts in the Free Republic of Liberland other than the Chief Justice and other Justices of the Supreme Court.
   * **§V.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Free Republic of Liberland and Agents of the Public Administration to hear testimonies given under oath. 
   * **§V.7(2)** The Judicial Appointment Commission may recommend the removal of any Judge from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.

@@ -167,7 +167,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.17(1)** All Land Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
   * **§III.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §III.22.
   * **§III.17(3)** The fee shall be fixed per meter square of land.
-  * **§III.17(4)** The fee shall be payable once a year by some or all owners of land within the territory of the Free Republic of Liberland other than the Public Administration, as prescribed in the Bill.
+  * **§III.17(4)** The fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Bill.
   * **§III.17(5)** The overall fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
   * **§III.17(6)** The fee shall be levied for one or more of the following purposes only:
    * **§III.17(6)(a)** maintaining the infrastructure of the Public Administration;

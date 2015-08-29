@@ -280,7 +280,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.6(1)** The Judicial Appointment Commission shall be composed of the four Justices of the Supreme Court and three other members appointed by the Chief Justice of the Supreme Court.
   * **§V.6(2)** The Judicial Appointment Commission shall reach its decisions with a simple majority.
   * **§V.6(3)** The Judicial Appointment Commission shall recommend to the Chief Justice of the Supreme Court qualified lawyers for the Judgeship. 
-  * **§V.6(4)** Should the office of the Chief Justice of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor one of the Justices of the Supreme Court to be appointed the new Chief Justice.
+  * **§V.6(4)** Should the office of the Chief Justice of the Supreme Court become vacant, the Chancellor shall appoint the most senior Justice of the Supreme Court to be the new Chief Justice.
   * **§V.6(5)** Should the office of any of the Justices of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor a qualified Judge for the replacement.
 * **§V.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of all Judges of all Courts in the Free Republic of Liberland other than the Chief Justice and other Justices of the Supreme Court.
   * **§V.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Free Republic of Liberland and Agents of the Public Administration to hear testimonies given under oath. 

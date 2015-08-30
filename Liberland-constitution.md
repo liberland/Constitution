@@ -306,11 +306,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§V.12.** The Victim(s) of a criminal offence shall have the inherent right to institute the Private Prosecution of the accused. 
   * **§V.12(1)** The Private Prosecution may be instituted by the Victim(s) in person or by Proxy on its behalf.
   * **§V.12(2)** Both the Victim(s) or the Proxy shall not enjoy the privileges of the Law Enforcement by virtue of pursuing prosecution.
-  * **§V.12(3)** The Victim(s) may request the Office of the Public Prosecution to institute free-of-charge Public Prosecution on its behalf.
+  * **§V.12(3)** The Victim(s) may request the Office of the Public Prosecutor to institute free-of-charge Public Prosecution on its behalf.
 * **§V.13.** The Public Prosecution of the accused shall be instituted by the Office of the Public Prosecutor.
-  * **§V.13(1)** The Office of the Public Prosecutor shall retain the power to institute the Public Prosecution should the Victim(s) expressly requested so.
+  * **§V.13(1)** The Office of the Public Prosecutor shall retain the power to institute the Public Prosecution should the Victim(s) expressly request it so.
   * **§V.13(2)** Should an alleged criminal offence leave no Victim(s) or Proxy capable of instituting the Private Prosecution, the Office of the Public Prosecutor shall have the power to institute the Public Prosecution on behalf of the state of the Free Republic of Liberland.
-  * **§V.13(3)** Should the Victim(s) requested the Office of the Public Prosecution to institute the Public Prosecution and evidence be sufficient, it shall be under obligation to act.
+  * **§V.13(3)** Should the Victim(s) request the Office of the Public Prosecutor to institute the Public Prosecution and evidence be sufficient, it shall be under obligation to act.
   * **§V.13(4)** Should the Public Prosecution be instituted, the Victim(s) shall have the right:
    * **§V.13(4)(a)** to be notified about the schedule of the judicial proceedings; 
    * **§V.13(4)(b)** to address the Criminal Court before the sentence is determined; 

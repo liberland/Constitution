@@ -360,7 +360,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.15(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register.
   * **§IV.15(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
   * **§IV.15(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
-  * **§IV.15(4)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
+  * **§IV.15(4)** The Jury shall retain the unequivocal right to acquit based on personal sense of justice, and shall be informed of this right; such acquittal shall be final.
   * **§IV.15(5)** The Jury shall convict with no fewer than eleven votes.
   * **§IV.15(6)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
   * **§IV.15(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.

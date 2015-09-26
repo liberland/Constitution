@@ -30,6 +30,7 @@ Available formats: [Markdown], [PDF], [HTML], [ePub], [Mobi]
 *in alphabetical order*
 
 * [@FellowTraveler](https://github.com/FellowTraveler)
+* [@terrorist96](https://github.com/terrorist96)
 * Josh Harvey ([@joshmh](https://github.com/joshmh))
 * Tinky Holloway ([@tinkyholloway](https://github.com/tinkyholloway))
 * Artur Klepacz ([@liberty90](https://github.com/liberty90))

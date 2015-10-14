@@ -213,115 +213,149 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 ### Article III: The Executive Power
 
-* **§IV.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet.
-* **§IV.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
-  * **§IV.2(1)** No Person shall hold the office of a Judge of one of the Courts of the Free Republic of Liberland whilst holding the position of Member of the Cabinet concurrently.
-  * **§IV.2(2)** No Person shall hold the position of Chancellor or Member of the Cabinet whilst holding the position of Assembly Representative concurrently.
-  * **§IV.2(3)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
-* **§IV.3.** The Chancellor may, at any time, resign from the office.
-  * **§IV.3(1)** Should the Chancellor resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article III.
-  * **§IV.3(2)** Should the Chancellor resign, all Members of the Cabinet shall resign.
-* **§IV.4.** The Cabinet shall execute in good faith all laws passed by the Assembly unless any law conflicts with the Constitution.
-* **§IV.5.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article III.
-* **§IV.6.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
-  * **§IV.6(1)** to run day-to-day state affairs;
-  * **§IV.6(2)** to initiate a legislative procedure;
-  * **§IV.6(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§IV.6(4)** to sign international treaties provided the Supreme Court confirmed the constitutionality of such treaties;
-  * **§IV.6(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by the Acts of the Assembly;
-  * **§IV.6(6)** to appoint the Chief Justice of the Supreme Court and other Justices of the Supreme Court upon the recommendation of the Judicial Appointment Commission;
-  * **§IV.6(7)** to maintain the State Treasury;
-  * **§IV.6(8)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
-  * **§IV.6(9)** to supervise all Agents of the executive branch of the Public Administration;
-  * **§IV.6(10)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and the idea of liberty worldwide;
-  * **§IV.6(11)** to appoint and remove the Chief Commissioner;
-  * **§IV.6(12)** to be the Commander-in-Chief of the voluntary Territorial Defence, should it rise;
-  * **§IV.6(13)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution.
-* **§IV.7.** The Cabinet shall consist of the following Departments only:
-  * **§IV.7(1)** Department of Justice;
-  * **§IV.7(2)** Department of Internal Affairs;
-  * **§IV.7(3)** Department of Security;
-  * **§IV.7(4)** Department of Foreign Affairs;
-  * **§IV.7(5)** Department of Treasury.
-* **§IV.8.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
-  * **§IV.8(1)** Departments shall be allowed to establish Agencies. 
-  * **§IV.8(2)** Every Agency shall be supervised by the relevant Department and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
-* **§IV.9.** Each Department shall be headed by the Secretary of State for the respective Department.
-  * **§IV.9(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-* **§IV.10.** The Chancellor and the Cabinet shall be advised as to the law by the Chief Attorney of the Republic, who shall be independent.
-  * **§IV.10(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
-  * **§IV.10(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
-  * **§IV.10(3)** The Chief Attorney of the Republic shall have the right to request the Supreme Court to issue a statement clarifying the law of the Free Republic of Liberland.
-  * **§IV.10(4)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
-* **§IV.11.** The Office of the Chief Public Prosecutor shall be independent and shall be headed by the Chief Public Prosecutor. 
-  * **§IV.11(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term of six years.
-  * **§IV.11(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered with the Electoral Register at the time of the last General Election.
-  * **§IV.11(3)** The Chief Public Prosecutor shall appoint, and be responsible for the work of, Public Prosecutors.
-* **§IV.12.** The work of the Law Enforcement shall be overseen by the Chief Commissioner. 
-  * **§IV.12(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§IV.12(2)** The Chief Commissioner shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-  * **§IV.12(3)** The Chief Commissioner shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered with the Electoral Register at the time of the last General Election.
-* **§IV.13.** The Chief Public Prosecutor, Chief Attorney of the Republic and the Chief Commissioner shall not be deemed Members of the Cabinet.
+* **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet.
+* **§III.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
+  * **§III.2(1)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
+  * **§III.2(2)** No Person shall hold the office of the Chancellor or Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
+* **§III.3.** The Chancellor may, at any time, resign from the office.
+  * **§III.3(1)** Should the Chancellor resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article II.
+  * **§III.3(2)** Should the Chancellor resign, all Members of the Cabinet shall immediately cease to hold their offices.
+* **§III.4.** Should the Chancellor become unable to perform one’s duties, the Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority.
+  * **§III.4(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
+  * **§III.4(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon the Assembly’s failure to pass a Motion of Confidence. 
+  * **§III.4(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
+  * **§III.4(4)** Should the Chancellor not be able to return within sixty days, the Vice-Chancellor shall request the Assembly to pass the Motion of Confidence.
+  * **§III.4(5)** Should the Assembly fail to pass the Motion of Confidence with a simple majority of the overall number of Assembly Representatives, the Vice-Chancellor along with all Members of the Cabinet shall cease to hold their office and the Assembly shall elect the new Chancellor in accordance with Article II.
+* **§III.5.** The Cabinet shall execute in good faith all laws passed by the Assembly in accordance with Article II.
+* **§III.6.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
+* **§III.7.** The powers of the Chancellor and/or the Cabinet shall be restricted to the following only:
+  * **§III.7(1)** to run day-to-day state affairs;
+  * **§III.7(2)** to initiate a legislative procedure;
+  * **§III.7(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+  * **§III.7(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
+  * **§III.7(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
+  * **§III.7(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
+  * **§III.7(7)** to appoint the Justices of the Supreme Court upon the recommendation of the Judicial Appointment Commission;
+  * **§III.7(8)** to maintain the State Treasury;
+  * **§III.7(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
+  * **§III.7(10)** to supervise all Agents of the executive branch of the Public Administration;
+  * **§III.7(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and the idea of liberty worldwide;
+  * **§III.7(12)** to appoint and remove the Chief Commissioner;
+  * **§III.7(13)** to be the Commander-in-Chief of the voluntary Territorial Defence force, should it be constituted;
+  * **§III.7(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution.
+* **§III.8.** The Cabinet shall consist of the following Departments only:
+  * **§III.8(1)** Department of Justice;
+  * **§III.8(2)** Department of Internal Affairs;
+  * **§III.8(3)** Department of Security;
+  * **§III.8(4)** Department of Foreign Affairs;
+  * **§III.8(5)** Department of Treasury.
+* **§III.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
+  * **§III.9(1)** Departments may establish Agencies.
+  * **§III.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
+* **§III.10.** Each Department shall be headed by the Secretary of State for the respective Department.
+  * **§III.10(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+* **§III.11.** The Chancellor and the Cabinet shall be advised as to the law by the Chief Attorney of the Republic, who shall be independent.
+  * **§III.11(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
+  * **§III.11(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
+  * **§III.11(3)** The Chief Attorney of the Republic shall have the power to request the Supreme Court to issue a declaration as to the law of the Free Republic of Liberland.
+  * **§III.11(4)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
+  * **§III.11(5)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution. 
+* **§III.12.** The Office of the Chief Public Prosecutor shall be independent and shall be headed by the Chief Public Prosecutor.
+  * **§III.12(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term of six years.
+  * **§III.12(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§III.12(3)** The Chief Public Prosecutor shall appoint, and be responsible for the work of, Public Prosecutors acting in accordance with Article IV.
+* **§III.13.** The work of Law Enforcement shall be overseen by the Chief Commissioner.
+  * **§III.13(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years.
+  * **§III.13(2)** The Chief Commissioner shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+  * **§III.13(3)** The Chief Commissioner shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§III.13(4)** The Chief Commissioner shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would jeopardise any Agent of Law Enforcement operating undercover pursuant to a Warrant. 
+* **§III.14.** The Chief Public Prosecutor, Chief Attorney of the Republic and the Chief Commissioner shall not be deemed Members of the Cabinet.
+  * **§III.14(1)** No Person shall hold the office of the Chief Public Prosecutor, Chief Attorney of the Republic or the Chief Commissioner whilst holding any other public office concurrently.
 
-### Article V: The Judicial Power
+### Article IV: The Judicial Power
 
-* **§V.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
-* **§V.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
-* **§V.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses into their Rights.
-* **§V.4.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
-  * **§V.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
-  * **§V.4(2)** The Secretariat of the Judiciary shall supervise the Judicial Appointment Commission.
-  * **§V.4(3)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
-* **§V.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration.
-  * **§V.5(1)** The remuneration of the Judges as provided for in the Annual Budget shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
- * **§V.5(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a threat to others or where vital evidence may be destroyed; in such case the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
- * **§V.5(3)** The Supreme Warrant shall be issued by the Secretariat of the Judiciary of the Free Republic of Liberland as signed by the Chief Justice of the Supreme Court or at least three Justices of the Supreme Court upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of the alleged offence.
-* **§V.6.** All Judges, other than the Justices of the Supreme Court, shall be appointed by the Chief Justice of the Supreme Court upon the recommendation of the Judicial Appointment Commission.
-  * **§V.6(1)** The Judicial Appointment Commission shall be composed of the four Justices of the Supreme Court and three other members appointed by the Chief Justice of the Supreme Court.
-  * **§V.6(2)** The Judicial Appointment Commission shall reach its decisions with a simple majority.
-  * **§V.6(3)** The Judicial Appointment Commission shall recommend to the Chief Justice of the Supreme Court qualified lawyers for the Judgeship. 
-  * **§V.6(4)** Should the office of the Chief Justice of the Supreme Court become vacant, the Chancellor shall appoint the most senior Justice of the Supreme Court to be the new Chief Justice.
-  * **§V.6(5)** Should the office of any of the Justices of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor a qualified Judge for the replacement.
-* **§V.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of all Judges of all Courts in the Free Republic of Liberland other than the Chief Justice and other Justices of the Supreme Court.
-  * **§V.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Free Republic of Liberland and Agents of the Public Administration to hear testimonies given under oath. 
-  * **§V.7(2)** The Judicial Appointment Commission may recommend the removal of any Judge from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
-  * **§V.7(3)** The removal of a Judge from the office shall be executed by the Chief Justice of the Supreme Court or three Justices of the Supreme Court acting together. 
-  * **§V.7(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
-* **§V.8.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§V.9.** The Supreme Court shall comprise the Chief Justice and four other Justices of the Supreme Court.
-  * **§V.9(1)** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court and it shall reach its decisions with a simple majority.
-  * **§V.9(2)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
-  * **§V.9(3)** The Chief Justice or any Justice of the Supreme Court shall only be removable from their position by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered with the Electoral Register at the time of the last General Election.
-* **§V.10.** The Supreme Court may hear appeals from the Civil Court and the Criminal Court on the point of law or severity of sentence.
-  * **§V.10(1)** The Supreme Court shall issue statements which clarify the law of the Free Republic of Liberland upon request by the Chief Attorney of the Republic.
-  * **§V.10(2)** The Supreme Court shall review the prima facie constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
-  * **§V.10(3)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall cease to be in force immediately after the verdict.
-  * **§V.10(4)** The Supreme Court shall review the constitutionality of all international treaties the Cabinet intends to sign; no international treaty shall be signed unless the Supreme Court, unanimously, declares the treaty to be constitutional.
-  * **§V.10(5)** The Supreme Court shall have jurisdiction to judge the validity of all elections and referendums held in the Free Republic of Liberland.
-  * **§V.10(6)** All verdicts and statements of the Supreme Court shall be binding upon the Public Administration, public and the Civil and Criminal Court on the point of law in all future proceedings where applicable.
-* **§V.11.** All civil disputes shall be adjudicated in the Civil Court by a panel of three Judges reaching a decision with a simple majority.
-  * **§V.11(1)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens and Residents of the Free Republic of Liberland and any body of the Public Administration.
-  * **§V.11(2)** The Civil Court shall retain the inherent jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
-  * **§V.11(3)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute; contracts shall be allowed to require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
-* **§V.12.** The Victim(s) of a criminal offence shall have the inherent right to institute the Private Prosecution of the accused. 
-  * **§V.12(1)** The Private Prosecution may be instituted by the Victim(s) in person or by Proxy on its behalf.
-  * **§V.12(2)** Both the Victim(s) or the Proxy shall not enjoy the privileges of the Law Enforcement by virtue of pursuing prosecution.
-  * **§V.12(3)** The Victim(s) may request the Office of the Public Prosecutor to institute free-of-charge Public Prosecution on its behalf.
-* **§V.13.** The Public Prosecution of the accused shall be instituted by the Office of the Public Prosecutor.
-  * **§V.13(1)** The Office of the Public Prosecutor shall retain the power to institute the Public Prosecution should the Victim(s) expressly request it so.
-  * **§V.13(2)** Should an alleged criminal offence leave no Victim(s) or Proxy capable of instituting the Private Prosecution, the Office of the Public Prosecutor shall have the power to institute the Public Prosecution on behalf of the state of the Free Republic of Liberland.
-  * **§V.13(3)** Should the Victim(s) request the Office of the Public Prosecutor to institute the Public Prosecution and evidence be sufficient, it shall be under obligation to act.
-  * **§V.13(4)** Should the Public Prosecution be instituted, the Victim(s) shall have the right:
-   * **§V.13(4)(a)** to be notified about the schedule of the judicial proceedings; 
-   * **§V.13(4)(b)** to address the Criminal Court before the sentence is determined; 
-   * **§V.13(4)(c)** to be advised of release from custody or escape of the accused.
-* **§V.14.** All criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'.
-  * **§V.14(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register. 
-  * **§V.14(2)** The Jury shall determine the facts and render the verdict according to the law under advice of the Judge.
-  * **§V.14(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
-  * **§V.14(4)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
-  * **§V.14(5)** The Jury shall convict only with the unanimous vote of all twelve Jurors.
-  * **§V.14(6)** Every defendant who has been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
-  * **§V.14(7)** The Jury shall render the verdict free from any form of coercion; should the independence of the Jury be required, the Judge may order sequestration of the Jurors.
-  * **§V.14(8)** Without prejudice to the powers of arrest of the Law Enforcement as enumerated in this Constitution, no Person shall be punished with imprisonment unless convicted in the Criminal Court by the Jury.
-* **§V.15.** No special tribunals shall be instituted, nor any Courts which are not recognised by this Constitution; no Person shall be threatened with or subjected to penalties other than those provided by the law.
+* **§IV.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
+* **§IV.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland, and any laws passed by the Assembly in accordance with this Constitution.
+* **§IV.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses upon their Rights.
+* **§IV.4.** TThe Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
+  * **§IV.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
+  * **§IV.4(2)** The Secretariat of the Judiciary shall supervise the Judicial Appointment Commission.
+  * **§IV.4(3)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
+  * **§IV.4(4)** No Agent of Law Enforcement shall enter the premises of any Court of the Free Republic of Liberland unless with the express and informed consent of the Secretariat of the Judiciary or pursuant to a Warrant.
+* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration.
+  * **§IV.5(1)** The remuneration of the Judges shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
+ * **§IV.5(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a threat to others or where vital evidence may be destroyed.
+ * **§IV.5(3)** Where a Judge is placed under arrest without a Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge; should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
+ * **§IV.5(4)**The Supreme Warrant shall be issued by the Secretariat of the Judiciary of the Free Republic of Liberland as signed by the Chief Justice of the Supreme Court or at least three Justices of the Supreme Court acting together upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
+* **§IV.6.** All Judges, other than the Justices of the Supreme Court, shall be appointed by the Chief Justice of the Supreme Court upon the recommendation of the Judicial Appointment Commission.
+  * **§IV.6(1)** No Person shall hold the office of a Judge whilst holding any other public office within the legislative or executive branch of the Public Administration concurrently.
+  * **§IV.6(2)** The Judicial Appointment Commission shall be composed of the four Justices of the Supreme Court and three other members appointed by the Chief Justice of the Supreme Court.
+  * **§IV.6(3)** The Judicial Appointment Commission shall reach its decisions with a simple majority.
+  * **§IV.6(4)** The Judicial Appointment Commission shall recommend to the Chief Justice of the Supreme Court qualified lawyers to hold the office of a Judge of the Civil Court or Criminal Court.
+  * **§IV.6(5)** Should the office of any of the Justices of the Supreme Court become vacant, the Judicial Appointment Commission shall recommend to the Chancellor a qualified Judge for the replacement.
+  * **§IV.6(6)** Should the office of the Chief Justice of the Supreme Court become vacant, the Chancellor shall appoint the most senior Justice of the Supreme Court to be the new Chief Justice of the Supreme Court.
+* **§IV.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of any Judge of any Court of the Free Republic of Liberland other than the Chief Justice and other Justices of the Supreme Court.
+  * **§IV.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Free Republic of Liberland and Agents of the Public Administration to hear testimonies given under oath.
+  * **§IV.7(2)** The Judicial Appointment Commission may recommend the removal of any Judge from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
+  * **§IV.7(3)** The removal of a Judge from the office shall be executed by the Chief Justice of the Supreme Court or three Justices of the Supreme Court acting together.
+  * **§IV.7(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+* **§IV.8.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
+  * **§IV.8(1)** Should a defendant consider evidence gathered against him or her as grossly insufficient or a prosecution or claim as clearly unconstitutional, he or she may request the Civil Court or Criminal Court to hold a Preliminary Hearing.
+  * **§IV.8(2)** Should a defendant request a Preliminary Hearing, it shall be held by one Judge of the relevant Court who may dismiss the case or appeal before it proceeds to a full trial on the grounds of the lack of sufficient evidence or clear unconstitutionality of the prosecution or claim.
+  * **§IV.8(3)** The Judge shall have the power to issue such orders as deemed necessary and within the powers of the relevant Court; such orders shall be reviewable at a full trial.  
+* **§IV.9.** The Supreme Court shall comprise the Chief Justice and four other Justices of the Supreme Court.
+  * **§IV.9(1)** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court who shall nominate three Justices of the Supreme Court, or two Justices of the Supreme Court and himself or herself, to hear cases and inquiries referred to the Supreme Court.
+  * **§IV.9(2)** All declarations of constitutionality shall be issued by the full bench of the Supreme Court; all cases concerned with the constitutionality of any law passed by the Assembly and any other case or inquiry of extraordinary importance as deemed by the Chief Justice of the Supreme Court shall also be heard by the full bench of the Supreme Court.
+  * **§IV.9(3)** The Supreme Court shall reach its decisions with a simple majority unless required otherwise in this Constitution.
+  * **§IV.9(4)** All verdicts and declarations of the Supreme Court shall be binding upon the Public Administration, public at large and the Civil Court and the Criminal Court on the point of law in all future proceedings where applicable.
+  * **§IV.9(5)** All verdicts and declaration given by the full bench of the Supreme Court shall be binding upon the Supreme Court on the point of law in all future proceedings where applicable; should a verdict or declaration be given by a three-judge bench, the full bench of the Supreme Court shall be subsequently able to depart from it; all declaration of constitutionality and all verdicts concerned with the constitutionality of any law passed by the Assembly shall not be binding upon the full bench of the Supreme Court in any event.
+  * **§IV.9(6)** The Chief Justice and other Justices of the Supreme Court shall be appointed by the Chancellor for life.
+  * **§IV.9(7)** The Chief Justice or any Justice of the Supreme Court shall only be removable from their position by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+* **§IV.10.** The Supreme Court shall have appellate and inherent jurisdiction as prescribed in this Constitution and powers to issue Warrants, injunctions and other orders as prescribed by law.
+  * **§IV.10(1)** The Supreme Court may hear appeals from the Civil Court and the Criminal Court on the point of law, severity of sentence or material procedural irregularity. 
+  * **§IV.10(2)** The Supreme Court shall have inherent jurisdiction to issue declarations as to the law of the Free Republic of Liberland upon request by the Chief Attorney of the Republic.
+  * **§IV.10(3)** The Supreme Court shall have inherent jurisdiction to review the prima facie constitutionality of all Bills passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
+  * **§IV.10(4)** Should a Bill be declared unconstitutional by reason only of parts of the Bill which may reasonably be excised from the whole, the Supreme Court shall send the reminder of such Bill to the Assembly which may pass a resolution authorising the reminder of the Bill to enter into force, subject to the power of general veto of Citizens as provided in Article II.
+  * **§IV.10(5)** The Supreme Court shall retain the power to strike down any provision of any Act passed by the Assembly as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of constitutionality; such provision shall be disapplied on the appeal in question and shall be deemed no longer in force at the time the verdict is given.
+  * **§IV.10(6)** The Supreme Court shall have inherent jurisdiction to review the constitutionality of all international treaties the Cabinet intends to sign and no international treaty shall be signed unless the Supreme Court, unanimously, declares the treaty to be constitutional.
+  * **§IV.10(7)** The Supreme Court shall have inherent jurisdiction to review the validity of any election or referendum upon the request of one-quarter of the overall number of Assembly Representatives or 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§IV.10(8)** The Supreme Court shall have inherent jurisdiction to rule on the Chancellor's ability to perform his or her duties upon request by a simple majority of all Members of the Cabinet or the Vice-Chancellor.
+ * **§IV.11.** Civil disputes shall be adjudicated in the Civil Court.
+  * **§IV.11(1)** All disputes which do not involve criminal prosecution shall be considered civil disputes.
+  * **§IV.11(2)** All disputes concerning subject matter of small value as prescribed by law shall be adjudicated by one Judge.
+  * **§IV.11(3)** All other disputes shall be adjudicated by a panel of three Judges reaching a decision with a simple majority.
+* **§IV.12.** The Civil Court shall have jurisdiction to adjudicate all disputes concerning contracts which were made under, and civil wrongs which took place within, the jurisdiction of the Free Republic of Liberland.
+  * **§IV.12(1)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute; whether arbitration proceedings are fair shall be subject to a challenge in this Court.
+  * **§IV.12(2)** Contracts may require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
+  * **§IV.12(3)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens or Residents of the Free Republic of Liberland and any body of the Public Administration.
+  * **§IV.12(4)** The Civil Court shall have jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
+  * **§IV.12(5)** The Civil Court may adjudicate civil disputes concerning contracts made outside the jurisdiction of the Free Republic of Liberland as prescribed by law. 
+  * **§IV.12(6)** The Civil Court shall have the power to issue Publication Orders in accordance with this Constitution and Warrants, injunctions and other orders as prescribed by law.
+* **§IV.13.** The Victim of a criminal offence shall have the inherent right to institute a Private Prosecution of an accused Person.
+  * **§IV.13(1)** The Private Prosecution may be instituted by the Victim in person or by appointed Proxy on her or his behalf.
+  * **§IV.13(2)** Proxy may be any legal or natural Person expressly appointed by the Victim, whether inter vivos or in a last will, to be in charge of the prosecution in question.
+  * **§IV.13(3)** Neither the Victim, nor the Proxy shall enjoy the privileges of Law Enforcement by virtue of pursuing prosecution.
+  * **§IV.13(4)** The Victim may request the Office of the Public Prosecutor to institute a Public Prosecution free of charge on her or his behalf.
+* **§IV.14.** A Public Prosecution of an accused Person shall be instituted by the Office of the Public Prosecutor on behalf of the Victim or the Citizens of the Free Republic of Liberland. 
+  * **§IV.14(1)** Should an alleged criminal offence leave no Victim or Proxy capable of instituting a Private Prosecution, the Office of the Public Prosecutor shall have the power to institute a Public Prosecution on behalf of the Citizens of the Free Republic of Liberland.
+  * **§IV.14(2)** Should the Victim (if any) request the Office of the Public Prosecutor to institute a Public Prosecution and evidence be sufficient, it shall be under an obligation to institute such a prosecution.
+  * **§IV.14(3)** Should a Public Prosecution be instituted, the Victim shall have the right:
+   * **§IV.14(3)(a)** to be notified about the schedule of the judicial proceedings; 
+   * **§IV.14(3)(b)** to address the Criminal Court before the sentence is determined; 
+   * **§IV.14(3)(c)** to be advised of release from custody or escape of the accused.
+* **§IV.14.** All criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of “Guilty” or “Not guilty”.
+  * **§IV.14(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register.
+  * **§IV.14(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
+  * **§IV.14(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
+  * **§IV.14(4)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
+  * **§IV.14(5)** The Jury shall convict with no fewer than eleven votes.
+  * **§IV.14(6)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
+  * **§IV.14(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
+  * **§IV.14(8)** The Criminal Court shall have the power to issue Warrants as prescribed by the Constitution and injunctions and other orders as prescribed by law.
+* **§IV.15.** No special tribunals shall be instituted, nor any Courts which are not recognised by this Constitution; no Person shall be threatened with or subjected to penalties other than those provided by the law.
+* **§IV.16.** All powers, and restrictions placed upon those powers, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
+* **§IV.17.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing before a verdict is rendered.
+* **§IV.18.** Without prejudice to the powers of arrest as described in the Constitution, no Person shall be imprisoned unless upon conviction in the Criminal Court by the Jury.
+  * **§IV.18(1)** Nothing in this provision shall affect the power of any Court of the Free Republic of Liberland to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
+  * **§IV.18(2)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment. 
+* **§IV.19.** No special tribunals shall be instituted, nor any Court which is not recognised by this Constitution.

@@ -94,7 +94,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.3(3)** All Assembly Representatives shall be sworn in by pledging allegiance to the state and the Constitution of the Free Republic of Liberland; should any Assembly Representative refuse to be sworn in, he or she shall cease to hold the office.
   * **§II.3(4)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate.
 * **§II.4.** One-quarter of the overall number of Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
-  * **§II.4(1)** The resolution shall be passed with a majority of two-thirds of all Assembly Representatives.
+  * **§II.4(1)** The resolution shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§II.4(2)** Should the Assembly be dissolved, a General Election shall be held within sixty days.
 * **§II.5.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§II.5(1)** The Assembly Speaker shall chair the business of the Assembly.
@@ -123,15 +123,15 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.8(2)** The Assembly shall have the power to impeach the Chancellor along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
   * **§II.8(3)** On the first meeting after the General Election, the Chancellor along with the Cabinet shall request the Assembly to vote on the Motion of Confidence.
   * **§II.8(4)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Chancellor along with the Members of the Cabinet shall immediately cease to hold their offices.
-* **§II.9.** One-quarter of the overall number of Assembly Representatives shall have the right to propose a resolution instituting the Assembly Committee.
+* **§II.9.** One-quarter of the overall number of Assembly Representatives shall have the power to propose a resolution instituting the Assembly Committee.
   * **§II.9(1)** The resolution shall be passed with a simple majority of the overall number of Assembly Representatives.
-  * **§II.9(2)** The Assembly Committee shall be composed of five Assembly Representatives.
+  * **§II.9(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
   * **§II.9(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the Public Administration, other than Judges of any Court of the Free Republic of Liberland, in order to investigate the allegations.
   * **§II.9(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the Public Administration, other than Judges of any Court of the Free Republic of Liberland, to hear testimonies given under oath.
   * **§II.9(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence (if any) of said misconduct or mismanagement.
   * **§II.9(6)** The Final Conclusions shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
-  * **§II.9(7)** The Final Conclusions shall not have any binding effect.
-  * **§II.9(8)** No Person shall be penalised by the Assembly Committee; testimonies given in breach of the oath shall be convicted in the Criminal Court in a regular manner.
+  * **§II.9(7)** Should any Agent or Member of the Public Administration be found by the Assembly Committee in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant law.
+  * **§II.9(8)** Any Person who has given testimonies in breach of the oath shall be prosecuted in the Criminal Court in a regular manner.
   * **§II.9(9)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
 * **§II.10.** The power to initiate a legislative procedure shall lie with the Cabinet only.
   * **§II.10(1)** This power shall be exercised only once a year upon the State of the Republic Address by submitting a Bill to the Assembly.

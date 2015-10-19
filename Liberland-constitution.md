@@ -138,7 +138,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.10(2)** A legislative procedure shall involve the Assembly debating on and passing or rejecting a Bill submitted by the Cabinet.
   * **§II.10(3)** The Assembly shall be under obligation to vote on all Bills submitted by the Cabinet until the next State of the Republic Address.
   * **§II.10(4)** Any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
-* **§II.11.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Address shall be debated, and voted on, once only.
+* **§II.11.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Address shall be debated and voted on once only.
   * **§II.11(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
   * **§II.11(2)** No vote whatsoever shall take place unless the Bureau of the Assembly has published a schedule of the affairs of the Assembly.
   * **§II.11(3)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill at least once before the vote takes place, without any time limit.
@@ -165,7 +165,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.17.** A Land Bill shall propose to introduce, or to alter, the Fee on land of the Free Republic of Liberland.
   * **§II.17(1)** All Land Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
   * **§II.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §II.22.
-  * **§II.17(3)** The Fee on and may be abolished by an ordinary Bill.
+  * **§II.17(3)** The Fee on land may be abolished by an ordinary Bill.
   * **§II.17(4)** The Fee shall be fixed per square metre of land.
   * **§II.17(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Bill.
   * **§II.17(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
@@ -198,7 +198,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.20(9)** Should the funds gathered in the State Reserve System not be able to cover the deficit, all Assembly Representatives who voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
   * **§II.20(10)** The State Reserve System shall be maintained by the Bureau of the Assembly.
 * **§II.21.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in a referendum.
-  * **§II.21(1)** Such a referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§II.21(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
   * **§II.21(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
 * **§II.22.** All Land Bills and Constitutional Bills shall be subject to a mandatory referendum.
   * **§II.22(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.

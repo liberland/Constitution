@@ -350,7 +350,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.15(4)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
   * **§IV.15(5)** The Jury shall convict with no fewer than eleven votes.
   * **§IV.15(6)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
-  * **§IV.15(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jurthiy.
+  * **§IV.15(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
   * **§IV.15(8)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
 * **§IV.16.** No special tribunals shall be instituted, nor any Courts which are not recognised by this Constitution; no Person shall be threatened with or subjected to penalties other than those provided by the law.
 * **§IV.17.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.

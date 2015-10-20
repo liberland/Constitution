@@ -128,9 +128,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.9(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
   * **§II.9(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the Public Administration, other than Judges of any Court of the Free Republic of Liberland, in order to investigate the allegations.
   * **§II.9(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the Public Administration, other than Judges of any Court of the Free Republic of Liberland, to hear testimonies given under oath.
-  * **§II.9(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence (if any) of said misconduct or mismanagement.
+  * **§II.9(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement.
   * **§II.9(6)** The Final Conclusions shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
-  * **§II.9(7)** Should any Agent or Member of the Public Administration be found by the Assembly Committee in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant law.
+  * **§II.9(7)** Should any Agent or Member of the Public Administration be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant law.
   * **§II.9(8)** Any Person who has given testimonies in breach of the oath shall be prosecuted in the Criminal Court in a regular manner.
   * **§II.9(9)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
 * **§II.10.** The power to initiate a legislative procedure shall lie with the Cabinet only.
@@ -325,7 +325,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.11(2)** All disputes concerning subject matter of small value as prescribed by law shall be adjudicated by one Judge.
   * **§IV.11(3)** All other disputes shall be adjudicated by a panel of three Judges reaching a decision with a simple majority.
 * **§IV.12.** The Civil Court shall have jurisdiction to adjudicate all disputes concerning contracts which were made under, and civil wrongs which took place within, the jurisdiction of the Free Republic of Liberland.
-  * **§IV.12(1)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute; whether arbitration proceedings are fair shall be subject to a challenge in this Court.
+  * **§IV.12(1)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute; the fairness of arbitration proceedings may be subject to a challenge in this Court.
   * **§IV.12(2)** Contracts may require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
   * **§IV.12(3)** The Civil Court shall have jurisdiction to adjudicate all administrative disputes between Citizens or Residents of the Free Republic of Liberland and any body of the Public Administration.
   * **§IV.12(4)** The Civil Court shall have jurisdiction to hear disputes related to the well-being of Minors and Persons lacking mental capacity.
@@ -338,7 +338,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.13(4)** The Victim may request the Office of the Public Prosecutor to institute a Public Prosecution free of charge on her or his behalf.
 * **§IV.14.** A Public Prosecution of an accused Person shall be instituted by the Office of the Public Prosecutor on behalf of the Victim or the Citizens of the Free Republic of Liberland. 
   * **§IV.14(1)** Should an alleged criminal offence leave no Victim or Proxy capable of instituting a Private Prosecution, the Office of the Public Prosecutor shall have the power to institute a Public Prosecution on behalf of the Citizens of the Free Republic of Liberland.
-  * **§IV.14(2)** Should the Victim request the Office of the Public Prosecutor to institute a Public Prosecution and evidence be sufficient, it shall be under an obligation to institute such a prosecution.
+  * **§IV.14(2)** Should the Victim request the Office of the Public Prosecutor to institute a Public Prosecution and evidence be sufficient, it shall be under obligation to institute such a prosecution.
   * **§IV.14(3)** Should a Public Prosecution be instituted, the Victim shall have the right:
    * **§IV.14(3)(a)** to be notified about the schedule of the judicial proceedings; 
    * **§IV.14(3)(b)** to address the Criminal Court before the sentence is determined; 
@@ -350,11 +350,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.15(4)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
   * **§IV.15(5)** The Jury shall convict with no fewer than eleven votes.
   * **§IV.15(6)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
-  * **§IV.15(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
-  * **§IV.15(8)** The Criminal Court shall have the power to issue Warrants as prescribed by the Constitution and injunctions and other orders as prescribed by law.
+  * **§IV.15(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jurthiy.
+  * **§IV.15(8)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
 * **§IV.16.** No special tribunals shall be instituted, nor any Courts which are not recognised by this Constitution; no Person shall be threatened with or subjected to penalties other than those provided by the law.
-* **§IV.17.** All powers, and restrictions placed upon those powers, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
+* **§IV.17.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
 * **§IV.18.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing before a verdict is rendered.
-* **§IV.19.** Without prejudice to the powers of arrest as described in the Constitution, no Person shall be imprisoned unless upon conviction in the Criminal Court by the Jury.
+* **§IV.19.** Without prejudice to the powers of arrest as described in this Constitution, no Person shall be imprisoned unless upon conviction in the Criminal Court by the Jury.
   * **§IV.19(1)** Nothing in this provision shall affect the power of any Court of the Free Republic of Liberland to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
   * **§IV.19(2)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment. 

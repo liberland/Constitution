@@ -200,7 +200,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.21.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in a referendum.
   * **§II.21(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
   * **§II.21(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-* **§II.22.** All Land Bills and Constitutional Bills shall be subject to a mandatory referendum.
+* **§II.22.** All Constitutional Bills and Land Bills shall be subject to a mandatory referendum.
   * **§II.22(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
   * **§II.22(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
 * **§II.23.** Any Bill vetoed by the Citizens in the referendum shall be considered void.

@@ -162,11 +162,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.23(1)** The Council shall regulate its own voting procedures.
   * **§II.23(2)** The Council shall be in session in perpetuity and independently from the Assembly.
   * **§II.23(3)** Should a Bill be rejected by the Council, it shall be discarded.
-  * **§II.23(4)** Should a Bill be approved by the Council, it shall proceed to the consideration by the Citizens. Supreme Court.
-* **§II.24.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly and the Council shall be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§II.23(4)** Should a Bill be approved by the Council, it shall proceed to the consideration by the Supreme Court.
+* **§II.24.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
   * **§II.24(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
   * **§II.24(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-* **§II.25.** All Constitutional Bills and Land Bills shall be subject to a mandatory referendum.
+* **§II.25.** All Constitutional Bills and Land Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to a mandatory referendum.
   * **§II.25(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
   * **§II.25(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
 * **§II.26.** Any Bill vetoed by the Citizens in the referendum shall be considered void.

@@ -39,11 +39,11 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 ### Article II: The Legislative Power
 
-* **§II.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland which shall exercise it on behalf of the Citizens.
+* **§II.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, the Assembly of the Free Republic of Liberland and the Council of the Free Republic of Liberland which shall exercise it on behalf of the Citizens.
   * **§II.1(1)** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
   * **§II.1(2)** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
   * **§II.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker.
-  * **§II.1(4)** The Assembly shall not be dissolved, nor shall its session be interrupted, by any other branch of the Public Administration.
+  * **§II.1(4)** The Assembly shall not be dissolved, nor shall its session be interrupted, by any other body of the Public Administration.
 * **§II.2.** The Assembly shall consist of twenty Assembly Representatives.
   * **§II.2(1)** All Assembly Representatives shall receive symbolic remuneration for their service which does not constitute a significant burden on the Annual Budget and does not exceed 5% of the Annual Budget spending in any event.
   * **§II.2(2)** No Person shall hold the office of an Assembly Representative whilst holding any other public office within the executive or judicial branch of the Public Administration concurrently.
@@ -52,7 +52,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.3.** The Assembly Representatives shall be elected by the Citizens in a General Election held every six years.
   * **§II.3(1)** Any Assembly Representative may be recalled by the Citizens with a simple majority vote in a referendum called by 5% of the overall number of Citizens registered to vote at the time of the last General Election.
   * **§II.3(2)** Should any Assembly Representative step down, a Supplementary Election shall be held within thirty days.
-  * **§II.3(3)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate.
+  * **§II.3(3)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate
   * **§II.3(4)** No vote whatsoever shall take place without the recordation of the Yeas and Nays.
 * **§II.4.** One-quarter of the overall number of Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
   * **§II.4(1)** The resolution shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
@@ -63,10 +63,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
 * **§II.6.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
   * **§II.6(1)** The Bureau of the Assembly shall supervise all Agents of the legislative branch of the Public Administration.
-  * **§II.6(2)** The Bureau of the Assembly shall maintain the State Reserve System.
-  * **§II.6(3)** No Agent of Law Enforcement shall enter the premises of the Assembly unless with the express and informed consent of the Bureau of the Assembly or pursuant to a Warrant.
-* **§II.7.**  The Assembly shall have the power to pass Bills for the following purposes only:
-  * **§II.7(1)** to establish rules regarding peaceful coexistence of Persons and security of their Property and Rights and their enforcement as provided for in ordinary Bills;
+  * **§II.6(2)** No Agent of Law Enforcement shall enter the premises of the Assembly unless with the express and informed consent of the Bureau of the Assembly or pursuant to a Warrant.
+* **§II.7.**  TThe Assembly shall have the power to pass Bills for the following purposes only:
+  * **§II.7(1)** to establish rules regarding peaceful coexistence of Persons, security of their Property and Rights, their enforcement and protection of Minors, Persons lacking mental capacity and the environment as provided for in ordinary Bills;
   * **§II.7(2)** to conduct the financial affairs of the Public Administration as provided in Financial Bills;
   * **§II.7(3)** to impose the Fee on land as provided for in Land Bills;
   * **§II.7(4)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
@@ -77,7 +76,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.8(4)** to appoint and impeach the Chancellor;
   * **§II.8(5)** to consent to the use of the Territorial Defence force within the ten kilometre radius from the borders of the Free Republic of Liberland;
   * **§II.8(6)** to request the Supreme Court to review the validity of any election or referendum held within the Free Republic of Liberland;
-  * **§II.8(7)** to appoint the Assembly Speaker;
+  * **§II.8(7)** to appoint and replace the Assembly Speaker;
   * **§II.8(8)** to regulate its sessions and potential dissolution;
   * **§II.8(9)** to accept or reject the remainder of a Bill that has been declared partially unconstitutional to proceed to the stage of potential veto by the Citizens.
 * **§II.9.** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
@@ -85,7 +84,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.9(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
   * **§II.9(3)** All drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
 * **§II.10.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
-  * **§II.10(1)** Should no Chancellor be elected within thirty days of a General Election, a new General Election shall be held within sixty days.
+  * **§II.10(1)**  Should no Chancellor be elected within thirty days of a General Election, a new General Election shall be held within sixty days.
   * **§II.10(2)** The Assembly shall have the power to impeach the Chancellor along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
   * **§II.10(3)** On the first meeting after the General Election, the Chancellor along with the Cabinet shall request the Assembly to vote on the Motion of Confidence.
   * **§II.10(4)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Chancellor along with the Members of the Cabinet shall immediately cease to hold their offices.
@@ -99,10 +98,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.11(7)** Should any Agent or Member of the Public Administration be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant law; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
   * **§II.11(8)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
 * **§II.12.** The power to initiate a legislative procedure shall lie with the Cabinet only.
-  * **§II.12(1)** This power shall be exercised only once a year upon the State of the Republic Address by submitting a Bill to the Assembly.
-  * **§II.12(2)** A legislative procedure shall involve the Assembly debating on and passing or rejecting a Bill submitted by the Cabinet.
-  * **§II.12(3)** The Assembly shall be under obligation to vote on all Bills submitted by the Cabinet until the next State of the Republic Address.
-  * **§II.12(4)** Any Bill which is rejected by the Assembly in a vote shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
+  * **§II.12(1)** This power shall be exercised once a year only by submitting a Bill or Bills to the Assembly upon the State of the Republic Address on the 13th day of April.
+  * **§II.12(2)** A legislative procedure shall involve the Assembly and Council debating on and passing or rejecting any Bills submitted by the Cabinet.
+  * **§II.12(3)** The Assembly and the Council shall be under obligation to vote on all Bills submitted by the Cabinet until the next State of the Republic Address.
+  * **§II.12(4)** Any Bill which is rejected by the Assembly or the Council shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
 * **§II.13.** Any Bill proposed to the Assembly by the Cabinet upon the State of the Republic Address shall be debated and voted on once only.
   * **§II.13(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
   * **§II.13(2)** No vote whatsoever shall take place unless the Bureau of the Assembly has published a schedule of the affairs of the Assembly.
@@ -118,17 +117,17 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.15(4)** a Treaty Bill;
   * **§II.15(5)** a Financial Bill.
 * **§II.16.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
-  * **§II.16(1)** All ordinary Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
-  * **§II.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §II.22.
+  * **§II.16(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§II.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
 * **§II.17.** A Constitutional Bill shall propose an Amendment to this Constitution.
-  * **§II.17(1)** All Constitutional Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
-  * **§II.17(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.23.
+  * **§II.17(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§II.17(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
 * **§II.18.** A Land Bill shall propose to introduce, or to alter, the Fee on land of the Free Republic of Liberland.
-  * **§II.18(1)** All Land Bills shall only be voted on whilst all Assembly Representatives are present and passed with the unanimous vote of the overall number of Assembly Representatives.
-  * **§II.18(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §II.23.
+  * **§II.18(1)** All Land Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§II.18(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
   * **§II.18(3)** The Fee on land may be abolished by an ordinary Bill.
   * **§II.18(4)** The Fee shall be fixed per square metre of land.
-  * **§II.18(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Bill.
+  * **§II.18(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Act.
   * **§II.18(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
   * **§II.18(7)** The Fee shall be levied for one or more of the following purposes only:
    * **§II.18(7)(a)** maintaining the infrastructure of the Public Administration;
@@ -137,13 +136,13 @@ The Free Republic of Liberland shall be governed by the Public Administration in
    * **§II.18(7)(d)** providing for Agents and Members of the Public Administration;
    * **§II.18(7)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
 * **§II.19.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
-  * **§II.19(1)** All Treaty Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
-  * **§II.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.22.
+  * **§II.19(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§II.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
   * **§II.19(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and obligation shall be enforceable before the Courts of the Free Republic of Liberland.
   * **§II.19(4)** Should any international treaty ratified by the Assembly render the Free Republic of Liberland a member of any international organisation and such organisation issue any form of legal document that purports to bestow rights upon, or create obligation for, Persons, enforceable in the domestic Courts, such legal document shall be of no effect unless it is separately ratified by the Assembly in the form of a Treaty Bill.
 * **§II.20.** The Financial Bill shall contain the provisions of the Annual Budget.
   * **§II.20(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of Assembly Representatives.
-  * **§II.20(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.22.
+  * **§II.20(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
   * **§II.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
   * **§II.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
   * **§II.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing spending.
@@ -151,27 +150,32 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.21.** The Annual Budget shall constitute the only source of financial provisions for the Public Administration.
   * **§II.21(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
   * **§II.21(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
-  * **§II.21(3)** All fees collected by the Public Administration and all pledged regular voluntary donations shall be transferred to the State Treasury and thereby included in the Annual Budget.
-  * **§II.21(4)** All fines and spontaneous voluntary donations shall be transferred to the State Reserve System.
-  * **§II.21(5)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
-  * **§II.21(6)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
-  * **§II.21(7)** Should the actual revenue exceed the anticipated revenue, the surplus shall be transferred to the State Reserve System.
-  * **§II.21(8)** Should the actual revenue fall short of the anticipated revenue, the deficit shall be covered from such funds as may be gathered in the State Reserve System.
-  * **§II.21(9)** Should the funds gathered in the State Reserve System not be able to cover the deficit, all Assembly Representatives who voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
-  * **§II.21(10)** The State Reserve System shall be maintained by the Bureau of the Assembly.
-* **§II.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly under this Constitution shall be subject to the right of general veto by the Citizens as expressed in a referendum.
-  * **§II.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
-  * **§II.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-* **§II.23.** All Constitutional Bills and Land Bills shall be subject to a mandatory referendum.
-  * **§II.23(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
-  * **§II.23(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
-* **§II.24.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
-  * **§II.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
-  * **§II.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
-  * **§II.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§II.25.** A Bill shall become “Passed” upon passage by the Assembly in accordance with the provisions of this Article.
-* **§II.26.** A Bill shall become “Under Consideration” upon constitutional declaration by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article IV.
-* **§II.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it has become “Under Consideration” in accordance with the procedure provided for in §II.26., and either sixty days have passed and no referendum has been called in accordance with §II.22., or on the day the Bill obtained the assent of the Citizens in referendum under §II.22. or §II.23.
+  * **§II.21(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
+  * **§II.21(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
+  * **§II.21(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Assembly Representatives who voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
+* **§II.22.** All Bills which have been passed by the Assembly in accordance with the provisions of this Article shall be considered by the Council.
+  * **§II.22(1)** The Council shall be composed of Individuals who hold shares of the Fund of the Free Republic of Liberland.
+  * **§II.22(2)** Should any Individual hold any public office whatsoever, he or she shall not have the right to participate in the business of the Council irrespective of any shareholding. 
+  * **§II.22(3)** The position of the Councillor shall not be considered to be public office.
+  * **§II.22(4)** The Councillors shall not receive any remuneration for their service.
+* **§II.23.** The Council shall debate and vote on all Bills passed by the Assembly.
+  * **§II.23(1)** The Council shall regulate its own voting procedures.
+  * **§II.23(2)** The Council shall be in session in perpetuity and independently from the Assembly.
+  * **§II.23(3)** Should a Bill be rejected by the Council, it shall be discarded.
+  * **§II.23(4)** Should a Bill be approved by the Council, it shall proceed to the consideration by the Citizens. Supreme Court.
+* **§II.24.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly and the Council shall be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§II.24(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§II.24(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
+* **§II.25.** All Constitutional Bills and Land Bills shall be subject to a mandatory referendum.
+  * **§II.25(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§II.25(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
+* **§II.26.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
+  * **§II.26(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
+  * **§II.26(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
+  * **§II.26(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+* **§II.27.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article.
+* **§II.28.** A Bill shall become “Under Consideration” upon constitutional declaration by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article IV.
+* **§II.29.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it has become “Under Consideration” in accordance with the procedure provided for in §II.28., and either sixty days have passed and no referendum has been called in accordance with §II.24., or on the day the Bill obtained the assent of the Citizens in referendum under §II.24. or §II.25.
 
 ### Article III: The Executive Power
 

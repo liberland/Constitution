@@ -179,22 +179,21 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 ### Article III: The Executive Power
 
-* **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet.
+* **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Chancellor and the Cabinet.
 * **§III.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
   * **§III.2(1)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
   * **§III.2(2)** No Person shall hold the office of the Chancellor or Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
-* **§III.3.** The Chancellor may, at any time, resign from the office.
-  * **§III.3(1)** Should the Chancellor resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article II.
-  * **§III.3(2)** Should the Chancellor resign, all Members of the Cabinet shall immediately cease to hold their offices.
-* **§III.4.** Should the Chancellor become unable to perform one’s duties, the Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority.
+* **§III.3.** Should the Chancellor resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article II.
+  * **§III.3(1)** Should the Chancellor resign, all Members of the Cabinet shall immediately cease to hold their offices.
+* **§III.4.** Should the Chancellor become unable to perform one’s duties, the Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority vote.
   * **§III.4(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
   * **§III.4(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon the Assembly’s failure to pass a Motion of Confidence.
   * **§III.4(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
   * **§III.4(4)** Should the Chancellor not be able to return within sixty days, the Vice-Chancellor shall request the Assembly to pass the Motion of Confidence.
-  * **§III.4(5)** Should the Assembly fail to pass the Motion of Confidence with a simple majority of the overall number of Assembly Representatives, the Vice-Chancellor along with all Members of the Cabinet shall cease to hold their office and the Assembly shall elect the new Chancellor in accordance with Article II.
+  * **§III.4(5)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Vice-Chancellor along with all Members of the Cabinet shall cease to hold their office and the Assembly shall elect the new Chancellor in accordance with Article II.
 * **§III.5.** The Cabinet shall execute in good faith all laws passed by the Assembly in accordance with Article II.
 * **§III.6.** The Chancellor and the Cabinet shall comply, in performing their obligations and exercising their powers, with jus cogens and erga omnes rules and other aspects of customary international law insofar as it does not contravene the Constitution or any law passed by the Assembly in accordance therewith, as advised by the Chief Attorney of the Republic.
-* **§III.7.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
+* **§III.7.** The Chancellor, on behalf of the Cabinet, shall once a year on the 13th day of April publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
 * **§III.8.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   * **§III.8(1)** to run day-to-day state affairs;
   * **§III.8(2)** to initiate a legislative procedure;
@@ -202,14 +201,14 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.8(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
   * **§III.8(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
   * **§III.8(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
-  * **§III.8(7)** to appoint the Justices of the Supreme Court upon the recommendation of the Judicial Appointment Commission;
+  * **§III.8(7)** to appoint a Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
   * **§III.8(8)** to maintain the State Treasury;
   * **§III.8(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
   * **§III.8(10)** to supervise all Agents of the executive branch of the Public Administration;
   * **§III.8(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and the idea of liberty worldwide;
   * **§III.8(12)** to appoint and remove the Chief Commissioner;
   * **§III.8(13)** to be the Commander-in-Chief of the voluntary Territorial Defence force, should it be constituted;
-  * **§III.8(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution.
+  * **§III.8(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 * **§III.9.** The Cabinet shall consist of the following Departments only:
   * **§III.9(1)** Department of Justice;
   * **§III.9(2)** Department of Internal Affairs;
@@ -221,19 +220,19 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.10(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
 * **§III.11.** Each Department shall be headed by the Secretary of State for the respective Department.
   * **§III.11(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-* **§III.12.** The Chancellor and the Cabinet shall be advised as to the law by the Chief Attorney of the Republic, who shall be independent.
+* **§III.12.** The Chief Attorney of the Republic shall be independent and shall advise the Chancellor and the Cabinet as to the law.
   * **§III.12(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
   * **§III.12(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
   * **§III.12(3)** The Chief Attorney of the Republic shall have the power to request the Supreme Court to issue a declaration as to the law of the Free Republic of Liberland.
-  * **§III.12(4)** The Chief Attorney of the Republic shall appoint, and be responsible for the work of, Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
-  * **§III.12(5)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution.
+  * **§III.12(4)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
+  * **§III.12(5)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
   * **§III.12(6)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with a precise and impartial piece of advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
-* **§III.13.** The Office of the Chief Public Prosecutor shall be independent and shall be headed by the Chief Public Prosecutor.
+* **§III.13.** The Chief Public Prosecutor shall be independent and shall head the Office of the Chief Public Prosecutor.
   * **§III.13(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term of six years.
   * **§III.13(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
-  * **§III.13(3)** The Chief Public Prosecutor shall appoint, and be responsible for the work of, Public Prosecutors acting in accordance with Article IV.
+  * **§III.13(3)** The Office of the Chief Public Prosecutor shall employ Public Prosecutors acting in accordance with Article IV.
   * **§III.13(4)** The Chief Public Prosecutor shall be under obligation to take all available measures to ensure all public prosecutions are undertaken in good faith and in the interest of a Victim or the Citizens of the Free Republic of Liberland where applicable.
-* **§III.14.** The work of Law Enforcement shall be overseen by the Chief Commissioner.
+* **§III.14.** The Chief Commissioner shall supervise the work of Law Enforcement.
   * **§III.14(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years.
   * **§III.14(2)** The Chief Commissioner shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
   * **§III.14(3)** The Chief Commissioner shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.

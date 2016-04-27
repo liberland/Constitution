@@ -50,10 +50,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.2(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote and/or debate by virtue of being detained prior to his or her trial.
   * **§II.2(4)** No Assembly Representative shall hold the office for more than twelve years in total.
 * **§II.3.** The Assembly Representatives shall be elected by the Citizens in a General Election held every six years.
-  * **§II.3(1)** Any Assembly Representative may be recalled by the Citizens with a simple majority vote in a referendum called by 5% of the overall number of Citizens registered to vote at the time of the last General Election.
-  * **§II.3(2)** Should any Assembly Representative step down, a Supplementary Election shall be held within thirty days.
-  * **§II.3(3)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate.
-  * **§II.3(4)** No vote whatsoever shall take place without the recordation of the Yeas and Nays.
+  * **§II.3(1)** Should any Assembly Representative step down, a Supplementary Election shall be held within thirty days.
+  * **§II.3(2)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate.
+  * **§II.3(3)** No vote whatsoever shall take place without the recordation of the Yeas and Nays.
 * **§II.4.** One-quarter of the overall number of Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
   * **§II.4(1)** The resolution shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§II.4(2)** Should the Assembly be dissolved, a General Election shall be held within sixty days.

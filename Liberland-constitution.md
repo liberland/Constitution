@@ -309,7 +309,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.12.** The Victim of a criminal offence shall have the inherent right to institute a Private Prosecution of an accused Person.
   * **§IV.12(1)** The Private Prosecution may be instituted by the Victim in person or by appointed Proxy on her or his behalf.
   * **§IV.12(2)** Proxy may be any legal or natural Person expressly appointed by the Victim, whether inter vivos or in a last will, to be in charge of the prosecution in question.
-  * **§IV.12(3)** Should the Victim be a minor, his or her carer shall deemed to be a Proxy unless he or she is involved in the comission of the relevant offence in which case a Public Prosecution may be instituted.
+  * **§IV.12(3)** Should the Victim be a minor, his or her carer shall be deemed to be a Proxy unless he or she is involved in the comission of the relevant offence in which case a Public Prosecution may be instituted.
   * **§IV.12(4)** The Victim may request the Office of the Public Prosecutor to institute a Public Prosecution free of charge on her or his behalf.
 * **§IV.13.** A Public Prosecution of an accused Person shall be instituted by the Office of the Public Prosecutor on behalf of the Victim or the Citizens of the Free Republic of Liberland.
   * **§IV.13(1)** Should an alleged criminal offence leave no Victim or Proxy capable of instituting a Private Prosecution, the Office of the Public Prosecutor shall have the power to institute a Public Prosecution on behalf of the Citizens of the Free Republic of Liberland.

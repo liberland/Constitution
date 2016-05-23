@@ -342,7 +342,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 
 ### Article V: CIVIL RIGHTS
 
-* THE RIGHTS OF THE CITIZENRY SHALL BE SECURED
+#### THE RIGHTS OF THE CITIZENRY SHALL BE SECURED
 
 * **§V.1.** Any Person who has fulfilled relevant requirements, as prescribed by law, shall be eligible to obtain citizenship of the Free Republic of Liberland; should a Person be born to parents of whom both are Citizen of the Free Republic of Liberland, he or she shall automatically be entitled to citizenship thereof; multiple citizenship shall be allowed; no Citizen shall be deprived of his or her citizenship unless by the Criminal Court upon conviction for a criminal offence and as a part of punishment as prescribed by law; no Person shall be rendered stateless in any event.
 * **§V.2.** All Citizens of the Free Republic of Liberland shall have the right of free-of-charge access to information which relates to any aspect of the functioning of the Public Administration which is not classified as a state secret and in so far as it does not contain any private personal information; information shall be classified as a state secret by a responsible Secretary of State with the express and informed consent of two-thirds of the overall number of Assembly Representatives as discussed in camera, and for the purposes of national security only, and for a period not exceeding one year. 

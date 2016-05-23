@@ -338,7 +338,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.18.** Without prejudice to the powers of arrest as described in this Constitution, no Person shall have his or her liberty restricted unless upon conviction in the Criminal Court by the Jury.
   * **§IV.18(1)** Nothing in this provision shall affect the power of any Court of the Free Republic of Liberland to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
   * **§IV.18(2)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-* **§IV.19.** Should any proceeding before any Court of the Free Republic of Liberland be concerned with the interpretation of any international treaty as ratified in a Treaty Act, the Court shall apply standard rules on interpretation and shall not treat any statements made by any other branch of the Public Administration in this regard as conclusive.
+* **§IV.19.** Should any proceeding before any Court of the Free Republic of Liberland be concerned with any provision of any international treaty or any rule of customary international law binding the Cabinet, its interpretation shall lie within competences of the Court of the Free Republic of Liberland.
 * **§IV.20.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
 
 ## Article V: Bill of Rights

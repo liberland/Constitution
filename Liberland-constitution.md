@@ -99,7 +99,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.11(8)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
 * **§II.12.** The power to initiate a legislative procedure shall lie with the Cabinet only.
   * **§II.12(1)** This power shall be exercised once a year only by submitting a Bill or Bills to the Assembly upon the State of the Republic Address on the 13th day of April.
-  * **§II.12(2)** Should any provision of any Act of the Assembly be struck down by the Supreme Court following the declaration of constitutionality, the Cabinet shall have the power to initiate a legislative procedure to address the legal vacum which might have been created by the verdict of the Supreme Court within 60 days.
+  * **§II.12(2)** Should any provision of any Act of the Assembly be struck down by the Supreme Court following the declaration of constitutionality, the Cabinet shall have the power to initiate a legislative procedure to address any potential legal vacuum which might have been created by the verdict of the Supreme Court within 60 days.
   * **§II.12(3)** A legislative procedure shall involve the Assembly and Council debating on and passing or rejecting any Bills submitted by the Cabinet.
   * **§II.12(4)** The Assembly and the Council shall be under obligation to vote on all Bills submitted by the Cabinet until the next State of the Republic Address.
   * **§II.12(5)** Any Bill which is rejected by the Assembly or the Council shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.

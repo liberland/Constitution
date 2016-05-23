@@ -351,7 +351,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 
 ### ARTICLE VI: FREEDOM OF SPEECH
 
-### THE FREEDOM OF SPEECH AND EXPRESSION SHALL BE SECURED
+#### THE FREEDOM OF EXPRESSION AND ACCESS TO INFORMATION SHALL BE SECURED
 
 * **§VI.1.** No law shall regulate any printed materials, radio, television, the Internet or any other medium of exchange of information; no law shall regulate the rules concerning uploading, transmitting, displaying, accessing and/or publishing such information; nor shall any law introduce licensing and/or registration to infringe upon these rights; nothing in this provision shall prevent the Assembly from protecting the interests of Minors and/or those lacking mental capacity; publishing and/or sharing information classified as state secret or related to the work of Agents of Law Enforcement operating undercover pursuant to a Warrant shall be subject to control as described in this Constitution.
 * **§VI.2.** No law shall abridge the freedom of thought and expression thereof; no Person shall be convicted of any criminal offence for any statement of opinion, whether offensive or otherwise; free expression shall be allowed in all public areas within the Free Republic of Liberland.
@@ -359,9 +359,9 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VI.4.** No law shall prohibit video and/or audio recording of any Agent of the Public Administration whilst on duty in public space and all other areas where there is no reasonable expectation of privacy.
 * **§VI.5.** All affairs of the Assembly, other than the debate and vote on the classification of information as a state secret, and all proceedings of the Courts, other than those involving information classified as state secret and Warrants concerned with Agents of Law Enforcement operating undercover, shall be recorded and transmitted contemporaneously as well as archived and made available to the general public to attend; all Bills passed by the Assembly and all verdicts and decisions given by all Courts of the Free Republic of Liberland shall be archived and published.
 
-### ARTICLE VII: RIGHT TO PROPERTY
+### ARTICLE VII: PROPERTY RIGHTS
 
-### THE RIGHT TO PROPERTY AND FREEDOM OF CONTRACT SHALL BE SECURED
+#### THE RIGHT TO PROPERTY AND FREEDOM OF CONTRACT SHALL BE SECURED
 
 * **§VII.1.** No form of taxation shall be introduced within the Free Republic of Liberland, nor shall any periodic fees, other than the Fee on land as provided in Land Acts, be imposed on any natural or legal Person for any reason; only spontaneous fees for services provided by the Public Administration and fines imposed as punishment for culpable behaviour shall be allowed; nor any form of duty on goods, services and/or capital exported from, or imported into, the Free Republic of Liberland shall be introduced.
 * **§VII.2.** No law shall interfere with the validity and/or content of any contract made exclusively between Individuals and/or legal Persons; nor shall any law mandate or forbid any Individual to enter into contractual relations with any other Individual and/or legal Person, or any body of the Public Administration, nor shall it provide any financial incentive in that respect; nothing in this provision shall prevent the Courts from modifying any contract in order to, and insofar as to, give effect to the provisions of this Constitution; nor shall the Assembly be prevented from establishing general rules governing the creation and interpretation of contracts.
@@ -371,9 +371,9 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VII.6.** All Individuals shall have the right to exclude from their property any Person, including any Agent of Law Enforcement where acting without, or beyond the limits of, a Warrant; Persons in charge of any premises shall have the right to regulate the conduct of every Person on the property, other than Agents of Law Enforcement where acting pursuant to, and within the limits of, a Warrant.
 * **§VII.7.** All Persons shall have the right to fair compensation for any loss caused by any branch of the Public Administration acting pursuant to a provision of an Act which is subsequently declared unconstitutional by any Court of the Free Republic of Liberland within one year; any loss caused by any Agent of the Public Administration acting contrary to the law or the Constitution, or in error, shall be personally compensated by the Agent so acting; should said Agent not have the means to make such payment from her or his personal assets, the difference shall be met by the Public Administration, provided that the Agent shall remain liable to the Public Administration to repay such sums.
 
-### ARTICLE VIII: RIGHT TO PRIVACY
+### ARTICLE VIII: PRIVACY RIGHTS
 
-### THE RIGHT TO PRIVACY AND PERSONAL DEVELOPMENT SHALL BE SECURED
+#### THE RIGHT TO PRIVACY AND PERSONAL DEVELOPMENT SHALL BE SECURED
 
 * **§VIII.1.** All private personal data collected by the Public Administration shall be used only for the purposes for which they were collected, shall be kept confidential and shared only with the express and informed consent of the all Persons to whom it relates, unless sharing such information is necessary for the performance of duties provided for under this Constitution; all Individuals whose data are stored by any body of the Public Administration other than Law Enforcement shall be entitled to obtain a copy of such data and require that they be destroyed if the purposes for which they were collected no longer apply; nothing in this provision shall prevent the Public Administration from (a) maintaining a fully public register of land, its owners, and charges, (b) recording and publishing the affairs of the Assembly and the Courts of the Free Republic of Liberland as provided in the Constitution, (c) storing data of Agents and Members of the Public Administration and any other legal or natural Person contracting therewith, or (d) maintaining a register of all births and deaths of Citizens or other Residents of the Free Republic of Liberland.
 * **§VIII.2.** No Person shall have his or her privacy violated by freezing of assets, searches, seizures, surveillance, accessing and gathering of his or her private personal information without his or her express and informed consent, including obtaining it from third parties and/or using digital means, unless pursuant to a Warrant, and only to the extent which is necessary to achieve the purpose for which the Warrant was issued and particularly describing the assets to be frozen, the places or Persons to be searched, the things or Persons to be seized, the Persons to be put under surveillance, including the maximum period of that surveillance, and the data to be obtained and stored, including the period for which it may be retained; nothing in this provision shall prevent the collection of information which has been made available to the public or shared voluntarily.
@@ -385,9 +385,9 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VIII.8.** No law regulating conduct of Persons other than Members and/or Agents of the Public Administration shall extend beyond the territory of the Free Republic of Liberland, including aircrafts and watercrafts registered in the Free Republic of Liberland; nothing in this provision shall prevent the Assembly from granting the Criminal Court jurisdiction over international crimes.
 * **§VIII.9.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any Individual other than Agents and Members of the Public Administration; all Agents of the Public Administration shall be employed solely on the basis of their merit and successful completion of appropriate examination; no Member of the Public Administration shall employ or enable employment of any Agent who has not passed relevant tests.
 
-### ARTICLE IX: RIGHT TO FAIR TRIAL
+### ARTICLE IX: FAIR TRIAL RIGHTS
 
-### THE RIGHTS OF THE ACCUSED AND DEFENDANTS SHALL BE SECURED
+#### THE RIGHTS OF THE ACCUSED AND THE DEFENDANT SHALL BE SECURED
 
 * **§IX.1.** No Person shall be convicted of any criminal offence which has not been expressly created by an Act of the Assembly unless it flows from this Constitution as deemed by the Courts; all criminal offences created by Acts of the Assembly shall specify the maximum penalty they carry.
 * **§IX.2.** All Warrants for the purposes of criminal proceedings, other than the Supreme Warrant, shall be issued by a Judge of the Criminal Court upon request by an Agent of Law Enforcement and shall be supported by evidence of probable cause; such Warrants shall be as detailed as possible and shall refer to one Person only; every Warrant granted for a continuous action shall expire no later than after one year and shall be renewed by another Judge in accordance with ordinary procedure.
@@ -408,9 +408,9 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§IX.17.** No torture or cruel or degrading treatment shall be inflicted by any Agent or Member of the Public Administration or under the supervision or knowledge thereof against any Person; nor shall any experiments, medical or otherwise, be conducted against any Person without his or her express and informed consent; no Individual shall be medically examined or otherwise tested unless pursuant to a Warrant or with the Individual's express and informed consent.
 * **§IX.18.** No law shall retroactively change the legal consequences and/or status of actions that have been already committed, or relationships that already existed, before the enactment of said law.
 
-### ARTICLE X: RIGHT TO LIBERTY
+### ARTICLE X: PHYSICAL LIBERTY RIGHTS
 
-### THE RIGHT TO PHYSICAL LIBERTY AND FREE MOVEMENT SHALL BE SECURED
+#### THE RIGHT TO PHYSICAL LIBERTY AND FREE MOVEMENT SHALL BE SECURED
 
 * **§X.1.** The powers of arrest in the Free Republic of Liberland shall lie with Agents of Law Enforcement, Citizens and other Residents of the Free Republic of Liberland and the Courts of the Free Republic of Liberland as described in this Constitution and any laws passed in accordance therewith; such powers shall not be exercised arbitrarily or without any evidence but only upon probable cause and where it is necessary for the protection of others or where an accused would otherwise be likely to escape justice or interfere with the investigation.
 * **§X.2.** No Person shall be placed under arrest by any Agent of Law Enforcement for more than twenty-four hours without a Warrant; Agents of Law Enforcement executing arrests shall act openly and shall inform the detainee about the relevant rights he or she enjoys under this Constitution and any laws passed in accordance therewith; all arrests pursuant to a Warrant shall not be longer than necessary to bring the accused to trial; should the accused already be under arrest, he or she shall be able to address the Court at the hearing regarding the Warrant in question, either in person or by way of legal representation; where a Person is placed under arrest, Agents of Law Enforcement shall immediately inform his or her close ones as prescribed by law about the detention.
@@ -420,9 +420,9 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§X.6.** No law shall restrict the free movement of any Individual within the Free Republic of Liberland; all Individuals shall have the right to reside in any part of the Free Republic of Liberland.
 * **§X.7.** All Persons shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards before, during and/or after the trial, should the case be dismissed or should said Person be found not guilty by the Jury or should a guilty verdict be overturned on the appeal; such compensation shall be paid by the Secretariat of the Judiciary.
 
-### ARTICLE XI: RIGHT TO SELF-DEFENCE
+### ARTICLE XI: SELF-DEFENCE RIGHTS
 
-### THE RIGHT TO SELF-DEFENCE AND DEFENCE OF ONE’S RIGHTS AND PROPERTY SHALL BE SECURED
+#### THE RIGHT TO SELF-DEFENCE AND DEFENCE OF ONE’S RIGHTS AND PROPERTY SHALL BE SECURED
 
 * **§XI.1.** All Persons shall have the right of self-defence and/or defence of their property and constitutional Rights, and others who are under a direct and real threat, against initiators of aggression, including any Agent of the Public Administration acting unlawfully or in error; no Person shall be convicted of any criminal offence for any act or omission which took place on his or her property and which is a direct response to another Person trespassing on that property and acting in breach of the law or the Constitution resulting in such threat as described in this provision.
 * **§XI.2.** All Individuals shall have the right to own, manufacture, sell, transfer, transport, bear and use any small arms, as defined internationally, arms accessories or ammunition, be they historic, contemporary and/or experimental, regardless of condition; no form of licensing and/or registration shall be used to infringe upon these rights; the Person in charge of the premises shall determine whether arms may be carried on such premises except for Agents of Law Enforcement where acting pursuant to, and within the limits of, a Warrant.
@@ -432,7 +432,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 
 ### ARTICLE XII: INTERESTS OF VULNERABLE PERSONS
 
-### THE INTERESTS OF MINORS AND PERSONS LACKING MENTAL CAPACITY SHALL BE SECURED
+#### THE INTERESTS AND RIGHTS OF MINORS AND PERSONS LACKING MENTAL CAPACITY SHALL BE SECURED
 
 * **§XII.1.** No Person shall be declared to be lacking mental capacity unless by an order issued by the Civil Court under relevant laws passed by the Assembly; all Persons declared to be lacking mental capacity shall be appointed a Guardian by the Court; any order declaring a Person to be lacking mental capacity shall automatically expire within three years; after the expiration such Person shall be deemed to have regained metal capacity unless the Court renews its order; the relevance of any order in such matter may be challenged by the Person concerned or his or her Guardian once in every six months before it expires.
 * **§XII.2.** No Minors or those who lack mental capacity shall be subjected to any form of treatment without either the express and informed consent of their Guardian or with their own consent where allowed by law unless under exigent circumstances where neither the Guardian nor the patient is capable of consenting; a Guardian's decision shall be capable of being overridden by an order of the Civil Court where it is proved to the satisfaction of the Civil Court that the decision in question is not in the best interest of the patient and the treatment is essential for his or her life or designed to prevent any serious permanent injury; nor shall Minors and those who lack mental capacity be subjected to any permanent and/or harmful treatment which is not medically necessary.

@@ -336,8 +336,8 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.20(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
   * **§IV.20(3)** Upon an order of the Civil Court committing a Minor to an in-house care;
   * **§IV.20(4)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
-  * **§IV.20(5)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-  * **§IV.20(6)** Nothing in this provision shall affect the powers of arrest, pre-deportation detention and sequestration of Jurors as enumerated in this Constitution.
+    * **§IV.20(4)(a)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
+  * **§IV.20(5)** Nothing in this provision shall affect the powers of arrest, pre-deportation detention and sequestration of Jurors as enumerated in this Constitution.
 
 ## Bill of Rights
 

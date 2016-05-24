@@ -3,7 +3,7 @@
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
 *We, the Citizens of the Free Republic of Liberland, in order to secure Life, Liberty and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those willing to assume responsibility over the course of their lives. Being aware of a long and shameful list of governments’ trespasses to the Rights of the sovereign Individuals, we hereby declare that the Public Administration governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise only such functions as have been delegated to it under this Constitution. Therefore, we declare that whenever the Public Administration becomes an obstacle to, rather than a guarantor of, our Rights, it shall be our duty to alter or abolish such government, and to institute a new government for the restoration of the Rights which we consider inherent in all human beings.*
-
+v
 
 ## General Provisions
 
@@ -356,7 +356,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VI.1.** No law shall regulate any printed materials, radio, television, the Internet or any other medium of exchange of information; no law shall regulate the rules concerning uploading, transmitting, displaying, accessing and/or publishing such information; nor shall any law introduce licensing and/or registration to infringe upon these rights; nothing in this provision shall prevent the Assembly from protecting the interests of Minors and/or those lacking mental capacity; publishing and/or sharing information classified as state secret or related to the work of Agents of Law Enforcement operating undercover pursuant to a Warrant shall be subject to control as described in this Constitution.
 * **§VI.2.** No law shall abridge the freedom of thought and expression thereof; no Person shall be convicted of any criminal offence for any statement of opinion, whether offensive or otherwise; free expression shall be allowed in all public areas within the Free Republic of Liberland.
 * **§VI.3.** All Individuals shall have the right to assemble peaceably; no law shall interfere with any voluntary relations or cooperative ventures formed by Individuals.
-* **§VI.4.** No law shall prohibit video and/or audio recording of any Agent of the Public Administration whilst on duty in public space and all other areas where there is no reasonable expectation of privacy.
+* **§VI.4.** No law shall prohibit video and/or audio recording on public property and all other areas where there is no reasonable expectation of privacy; nothing in this provision shall be construed as to allow for general surveillance by the Public Administration.
 * **§VI.5.** All affairs of the Assembly, other than the debate and vote on the classification of information as a state secret, and all proceedings of the Courts, other than those involving information classified as state secret and Warrants concerned with Agents of Law Enforcement operating undercover, shall be recorded and transmitted contemporaneously as well as archived and made available to the general public to attend; all Bills passed by the Assembly and all verdicts and decisions given by all Courts of the Free Republic of Liberland shall be archived and published.
 
 ### ARTICLE VII: PROPERTY RIGHTS

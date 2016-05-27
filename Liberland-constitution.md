@@ -341,7 +341,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 The Bill of Rights shall constitute an integral part of the Constitution and shall be binding upon all branches of the Public Administration and its Members and Agents both within and outside the territory of the Free Republic of Liberland. It shall also be capable of creating criminal offences prosecuted before the Courts of the Free Republic of Liberland.
 
-### Article V: CIVIL RIGHTS
+### Article V: Civil Rights
 
 #### THE RIGHTS OF THE CITIZENRY SHALL BE SECURED
 
@@ -350,7 +350,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§V.3.** All Individuals who hold citizenship of the Free Republic of Liberland shall have the right to private registration and confidential ballots in all elections and referendums in the Free Republic of Liberland; such registration shall be executed by entering one’s name into the Electoral Register; keeping one’s name in the Electoral Register may entail certain obligations as prescribed by law; taking part in all elections and referendums shall be voluntary; no Person shall be compelled to vote in a specific manner, nor shall any Person be reprimanded for the manner in which the vote was cast; all elections and referendums shall be valid only if free from any coercion and fraud.
 * **§V.4.** Only Individuals above the age of twenty-one who hold citizenship of the Free Republic of Liberland shall have the right to submit his or her candidacy for a public office unless he or she has been convicted of a breach of law or the Constitution related to his or her previous position.
 
-### ARTICLE VI: FREEDOM OF SPEECH
+### ARTICLE VI: Freedom of Speech
 
 #### THE FREEDOM OF EXPRESSION AND ACCESS TO INFORMATION SHALL BE SECURED
 
@@ -360,7 +360,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VI.4.** No law shall prohibit video and/or audio recording where there is no reasonable expectation of privacy, including Agents of the Public Administration; nothing in this provision shall be construed as to allow for general surveillance by the Public Administration.
 * **§VI.5.** All affairs of the Assembly, other than the debate and vote on the classification of information as a state secret, and all proceedings of the Courts, other than those involving information classified as state secret and Warrants concerned with Agents of Law Enforcement operating undercover, shall be recorded and transmitted contemporaneously as well as archived and made available to the general public to attend; all Bills passed by the Assembly and all verdicts and decisions given by all Courts of the Free Republic of Liberland shall be archived and published.
 
-### ARTICLE VII: PROPERTY RIGHTS
+### ARTICLE VII: Property Rights
 
 #### THE RIGHT TO PROPERTY AND FREEDOM OF CONTRACT SHALL BE SECURED
 
@@ -372,7 +372,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VII.6.** All Individuals shall have the right to exclude from their property any Person, including any Agent of Law Enforcement where acting without, or beyond the limits of, a Warrant; Persons in charge of any premises shall have the right to regulate the conduct of every Person on the property, other than Agents of Law Enforcement where acting pursuant to, and within the limits of, a Warrant.
 * **§VII.7.** All Persons shall have the right to fair compensation for any loss caused by any branch of the Public Administration acting pursuant to a provision of an Act which is subsequently declared unconstitutional by any Court of the Free Republic of Liberland within one year; any loss caused by any Agent of the Public Administration acting contrary to the law or the Constitution, or in error, shall be personally compensated by the Agent so acting; should said Agent not have the means to make such payment from her or his personal assets, the difference shall be met by the Public Administration, provided that the Agent shall remain liable to the Public Administration to repay such sums.
 
-### ARTICLE VIII: PRIVACY RIGHTS
+### ARTICLE VIII: Privacy Rights
 
 #### THE RIGHT TO PRIVACY AND PERSONAL DEVELOPMENT SHALL BE SECURED
 
@@ -385,7 +385,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VIII.7.** No law regulating conduct of Persons other than Members and/or Agents of the Public Administration shall extend beyond the territory of the Free Republic of Liberland, including aircrafts and watercrafts registered in the Free Republic of Liberland; nothing in this provision shall prevent the Assembly from granting the Criminal Court jurisdiction over international crimes.
 * **§VIII.8.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any Individual other than Agents and Members of the Public Administration; all Agents of the Public Administration shall be employed solely on the basis of their merit and successful completion of appropriate examination; no Member of the Public Administration shall employ or enable employment of any Agent who has not passed relevant tests.
 
-### ARTICLE IX: FAIR TRIAL RIGHTS
+### ARTICLE IX: Fair Trial Rights
 
 #### THE RIGHTS OF THE ACCUSED AND THE DEFENDANT SHALL BE SECURED
 
@@ -408,7 +408,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§IX.17.** No torture or cruel or degrading treatment shall be inflicted by any Agent or Member of the Public Administration or under the supervision or knowledge thereof against any Person; nor shall any experiments, medical or otherwise, be conducted against any Person without his or her express and informed consent; no Individual shall be medically examined or otherwise tested unless pursuant to a Warrant or with the Individual's express and informed consent.
 * **§IX.18.** No law shall retroactively change the legal consequences and/or status of actions that have been already committed, or relationships that already existed, before the enactment of said law.
 
-### ARTICLE X: PHYSICAL LIBERTY RIGHTS
+### ARTICLE X: Physical Liberty Rights
 
 #### THE RIGHT TO PHYSICAL LIBERTY AND FREE MOVEMENT SHALL BE SECURED
 
@@ -430,7 +430,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§XI.3.** No law shall promote any gender; nor shall any law distinguish between genders unless such distinction is necessary owing to physiological differences between the sexes; standards of all examinations conducted by any branch of the Public Administration prior to offering employment shall equally apply to all genders; all Persons shall be assigned their natural gender on birth; all Individuals shall have the right to change the gender assigned to them on birth without any excessive administrative burdens in a manner prescribed by law.
 * **§XI.4.**  No Person shall be deprived of his or her personality before the law; all Persons within the jurisdiction of the Free Republic of Liberland shall be bound to observe the Constitution; all bodies of the Public Administration, its Members and Agents, shall act within the realms of the Constitution and all laws passed in accordance therewith.
 
-### ARTICLE XII: SELF-DEFENCE RIGHTS
+### ARTICLE XII: Self-Defence Rights
 
 #### THE RIGHT TO SELF-DEFENCE AND DEFENCE OF ONE’S RIGHTS AND PROPERTY SHALL BE SECURED
 
@@ -440,7 +440,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§XII.4.** Voluntary Territorial Defence force may rise as a private initiative of the Citizens of the Free Republic of Liberland, such Territorial Defence shall have the Chancellor as its Commander-in-Chief; the Commander-in-Chief shall not have the power to unilaterally call or disband the Territorial Defence force in any event; the Territorial Defence force shall be used only to defend the borders of the Free Republic of Liberland against external enemies; under no circumstances shall it be used instead of, or in support of, Law Enforcement against Citizens and other Residents of the Free Republic of Liberland.
 * **§XII.5.** Should the Territorial Defence force rise, it may operate within the one kilometre radius from the borders of the Free Republic of Liberland upon the order of the Commander-in-Chief; the Territorial Defence force may also operate within the ten kilometre radius from the borders of the Free Republic of Liberland upon the order of the Commander-in-Chief and the express and informed consent of two-thirds of the overall number of Assembly Representatives; the Territorial Defence force shall not operate outside the ten kilometres radius from the borders of the Free Republic of Liberland in any event; nor shall the Territorial Defence force take part in any collective international military operation whatsoever.
 
-### ARTICLE XIII: INTERESTS OF VULNERABLE PERSONS
+### ARTICLE XIII: Interests of Vulnerable Persons 
 
 #### THE INTERESTS AND RIGHTS OF MINORS AND PERSONS LACKING MENTAL CAPACITY SHALL BE SECURED
 

@@ -200,7 +200,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.8(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
   * **§III.8(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
   * **§III.8(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
-  * **§III.8(7)** to appoint a Judge or a former Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
+  * **§III.8(7)** to appoint a current or former Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
   * **§III.8(8)** to maintain the State Treasury;
   * **§III.8(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
   * **§III.8(10)** to supervise all Agents of the executive branch of the Public Administration;

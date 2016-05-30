@@ -424,7 +424,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§X.7.** All Persons held by any Agent or any body of the Public Administration against their will under any circumstances shall have the right to petition the Criminal Court for a writ of habeas corpus.
 * **§X.8.** No relationship amounting to slavery or any other form of involuntary servitude shall exist between any legal or natural Person and any other Person; no conscription or any other form of compulsory service shall be introduced by any branch of the Public Administration; no Persons shall be convicted of any criminal offence for the failure to fulfil his or her contractual obligations.
 * **§X.9.** No law shall restrict the free movement of any Individual within the Free Republic of Liberland; all Individuals shall have the right to reside in any part of the Free Republic of Liberland.
-* **§X.10.** All Persons shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards before, during and/or after the trial, should the case be dismissed or should said Person be found not guilty by the Jury or should a guilty verdict be overturned on the appeal; such compensation shall be paid by the Secretariat of the Judiciary.
+* **§X.10.** All Persons shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards, should his or her case be dismissed at a Preliminary Hearing; such compensation shall be paid by the Secretariat of the Judiciary; Persons wrongfully convicted shall have a separate right to fair compensation as prescribed by law.
 
 ### Article XI: Equality Rights
 

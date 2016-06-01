@@ -319,7 +319,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.14(6)** Should the Jury not be able to render a verdict with 11 votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
   * **§IV.14(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
   * **§IV.14(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
-  * **§IV.14(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is present within the territory of the Free Republic of Liberland.
+  * **§IV.14(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
   * **§IV.14(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
 * **§IV.15.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
 * **§IV.16.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
@@ -338,7 +338,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 ## Chapter 3: Bill of Rights
 
-The Bill of Rights shall constitute an integral part of the Constitution and shall be binding upon all branches of the Public Administration and its Members and Agents both within and outside the territory of the Free Republic of Liberland. It shall also be capable of creating criminal offences prosecuted before the Courts of the Free Republic of Liberland.
+The Bill of Rights shall constitute an integral part of the Constitution and shall be binding upon all branches of the Public Administration and its Members and Agents both within and outside the jurisdiction of the Free Republic of Liberland. It shall also be capable of creating criminal offences prosecuted before the Courts of the Free Republic of Liberland.
 
 ### Article V: Civil Rights
 

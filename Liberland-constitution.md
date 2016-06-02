@@ -24,9 +24,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§I.13.** No branch of the Public Administration shall give any form of foreign aid to any state or entity, whether directly or via any international institution, be it a non-repayable grant, loan or any other financial support; nothing in this provision shall prevent the Public Administration from meeting its financial liabilities flowing from the membership in any intergovernmental organisation.
 * **§I.14.** No branch of the Public Administration shall establish any standing army; nor shall it declare war and/or carry out military activities other than in defence of the border of the Free Republic of Liberland in reaction to an act of armed aggression against the Free Republic of Liberland which has already taken place or is imminent; nor shall any branch of the Public Administration invite any armed forces of any other state or organisation into the jurisdiction of the Free Republic of Liberland except for a reasonable number of security personnel accompanying a foreign diplomat.
 * **§I.15.** No branch of the Public Administration shall finance, or partially finance, any private organisation, corporation or service contracted between any natural and/or legal Persons; no assets shall be transferred by any branch of the Public Administration, be it in the form of a loan, non-repayable grant or periodic payments, to any legal and/or natural Person unless as remuneration for contracted goods and/or services necessary for the functioning of the Public Administration as envisaged in the Constitution.
-* **§I.16.** Any ambiguity in this Constitution or any laws passed in accordance therewith shall be resolved so as to give the greatest liberty from restraint imposed by law or this Constitution on any Person's conduct; and so as to provide for the least extensive power for any branch of the Public Administration, their Members and Agents, consistent with the clear meaning of the provision in question; should any ambiguity arise as to the manner in which any procedure envisaged by this Constitution is to be carried into effect, it shall be specified by law.
-* **§I.17.** The jurisdiction of the Free Republic of Liberland shall extend to the whole territory of the Free Republic of Liberland, including premises of any of its extraterritorial diplomatic missions, its airspace, territorial waters, all vehicles registered therein whilst in an international space, and any area under the overall effective control of the Territorial Defence force.
-* **§I.18.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated before, during or after a trial; the term “Agent of the Public Administration” shall signify any Person working for any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify any Person who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article II and any Executive Measures as issued by the Cabinet in accordance with Article III.
+* **§I.16.** Customary international law shall form part of the legal system of the Free Republic of Liberland, and as such shall be directly enforceable before the Courts of the Free Republic of Liberland, insofar as it does not contravene the Constitution or any law passed in accordance therewith; where any party to any proceedings before any Court wishes to rely on any principle of customary international law or provision of any international treaty, its interpretation shall lie within competences of the Courts of the Free Republic of Liberland.
+* **§I.17.** Any ambiguity in this Constitution or any laws passed in accordance therewith shall be resolved so as to give the greatest liberty from restraint imposed by law or this Constitution on any Person's conduct; and so as to provide for the least extensive power for any branch of the Public Administration, their Members and Agents, consistent with the clear meaning of the provision in question; should any ambiguity arise as to the manner in which any procedure envisaged by this Constitution is to be carried into effect, it shall be specified by law.
+* **§I.18.** The jurisdiction of the Free Republic of Liberland shall extend to the whole territory of the Free Republic of Liberland, including premises of any of its extraterritorial diplomatic missions, its airspace, territorial waters, all vehicles registered therein whilst in an international space, and any area under the overall effective control of the Territorial Defence force.
+* **§I.19.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated before, during or after a trial; the term “Agent of the Public Administration” shall signify any Person working for any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify any Person who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article II and any Executive Measures as issued by the Cabinet in accordance with Article III.
 
 ## Chapter 2: Political Institutions
 
@@ -188,55 +189,54 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.4(4)** Should the Chancellor not be able to return within sixty days, the Vice-Chancellor shall request the Assembly to pass the Motion of Confidence.
   * **§III.4(5)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Vice-Chancellor along with all Members of the Cabinet shall cease to hold their office and the Assembly shall elect the new Chancellor in accordance with Article II.
 * **§III.5.** The Cabinet shall execute in good faith all laws passed by the Assembly in accordance with Article II.
-* **§III.6.** The Chancellor and the Cabinet shall comply, in performing their obligations and exercising their powers, with jus cogens and erga omnes rules and other aspects of customary international law insofar as it does not contravene the Constitution or any law passed in accordance therewith, as advised by the Chief Attorney of the Republic.
-* **§III.7.** The Chancellor, on behalf of the Cabinet, shall once a year on the 13th day of April publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
-* **§III.8.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
-  * **§III.8(1)** to run day-to-day state affairs;
-  * **§III.8(2)** to initiate a legislative procedure;
-  * **§III.8(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§III.8(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
-  * **§III.8(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
-  * **§III.8(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
-  * **§III.8(7)** to appoint a current or former Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
-  * **§III.8(8)** to maintain the State Treasury;
-  * **§III.8(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
-  * **§III.8(10)** to supervise all Agents of the executive branch of the Public Administration;
-  * **§III.8(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
-  * **§III.8(12)** to appoint and remove the Chief Commissioner;
-  * **§III.8(13)** to be the Commander-in-Chief of the voluntary Territorial Defence force, should it be constituted;
-  * **§III.8(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
-* **§III.9.** The Cabinet shall consist of the following Departments only:
-  * **§III.9(1)** Department of Justice;
-  * **§III.9(2)** Department of Internal Affairs;
-  * **§III.9(3)** Department of Security;
-  * **§III.9(4)** Department of Foreign Affairs;
-  * **§III.9(5)** Department of Treasury.
-* **§III.10.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
-  * **§III.10(1)** Departments may establish Agencies.
-  * **§III.10(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
-* **§III.11.** Each Department shall be headed by the Secretary of State for the respective Department.
-  * **§III.11(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-* **§III.12.** The Chief Attorney of the Republic shall be independent and shall advise the Chancellor and the Cabinet as to the law.
-  * **§III.12(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
-  * **§III.12(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
-  * **§III.12(3)** The Chief Attorney of the Republic shall have the power to request the Supreme Court to issue a declaration as to the law and/or the Constitution of the Free Republic of Liberland.
-  * **§III.12(4)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
-  * **§III.12(5)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
-  * **§III.12(6)** The Chief Attorney of the Republic shall have the power to appoint Members of the Judicial Appointment Commission.
-  * **§III.12(7)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
-* **§III.13.** The Chief Public Prosecutor shall be independent and shall head the Office of the Chief Public Prosecutor.
-  * **§III.13(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term of six years.
-  * **§III.13(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
-  * **§III.13(3)** The Office of the Chief Public Prosecutor shall employ Public Prosecutors acting in accordance with Article IV.
-  * **§III.13(4)** The Chief Public Prosecutor shall be under obligation to take all available measures to ensure all public prosecutions are undertaken in good faith and in the interest of a Victim or the Citizens of the Free Republic of Liberland where applicable.
-* **§III.14.** The Chief Commissioner shall supervise the work of Law Enforcement.
-  * **§III.14(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years.
-  * **§III.14(2)** The Chief Commissioner shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-  * **§III.14(3)** The Chief Commissioner shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
-  * **§III.14(4)** The Chief Commissioner shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would jeopardise any Agent of Law Enforcement operating undercover pursuant to a Warrant.
-  * **§III.14(5)** The Chief Commissioner shall be under obligation to take all available measures to ensure the enforcement of law in the Free Republic of Liberland by Law Enforcement is conducted in the least intrusive and most peaceful manner possible.
-* **§III.15.** The Chief Public Prosecutor, Chief Attorney of the Republic and the Chief Commissioner shall not be deemed Members of the Cabinet.
-  * **§III.15(1)** No Person shall hold the office of the Chief Public Prosecutor, Chief Attorney of the Republic or the Chief Commissioner whilst holding any other public office concurrently.
+* **§III.6.** The Chancellor, on behalf of the Cabinet, shall once a year on the 13th day of April publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
+* **§III.7.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
+  * **§III.7(1)** to run day-to-day state affairs;
+  * **§III.7(2)** to initiate a legislative procedure;
+  * **§III.7(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+  * **§III.7(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
+  * **§III.7(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
+  * **§III.7(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
+  * **§III.7(7)** to appoint a current or former Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
+  * **§III.7(8)** to maintain the State Treasury;
+  * **§III.7(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
+  * **§III.7(10)** to supervise all Agents of the executive branch of the Public Administration;
+  * **§III.7(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
+  * **§III.7(12)** to appoint and remove the Chief Commissioner;
+  * **§III.7(13)** to be the Commander-in-Chief of the voluntary Territorial Defence force, should it be constituted;
+  * **§III.7(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
+* **§III.8.** The Cabinet shall consist of the following Departments only:
+  * **§III.8(1)** Department of Justice;
+  * **§III.8(2)** Department of Internal Affairs;
+  * **§III.8(3)** Department of Security;
+  * **§III.8(4)** Department of Foreign Affairs;
+  * **§III.8(5)** Department of Treasury.
+* **§III.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
+  * **§III.9(1)** Departments may establish Agencies.
+  * **§III.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
+* **§III.10.** Each Department shall be headed by the Secretary of State for the respective Department.
+  * **§III.10(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+* **§III.11.** The Chief Attorney of the Republic shall be independent and shall advise the Chancellor and the Cabinet as to the law.
+  * **§III.11(1)** The Chief Attorney of the Republic shall head the Office of the Chief Attorney of the Republic.
+  * **§III.11(2)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
+  * **§III.11(3)** The Chief Attorney of the Republic shall have the power to request the Supreme Court to issue a declaration as to the law and/or the Constitution of the Free Republic of Liberland.
+  * **§III.11(4)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
+  * **§III.11(5)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
+  * **§III.11(6)** The Chief Attorney of the Republic shall have the power to appoint Members of the Judicial Appointment Commission.
+  * **§III.11(7)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
+* **§III.12.** The Chief Public Prosecutor shall be independent and shall head the Office of the Chief Public Prosecutor.
+  * **§III.12(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term of six years.
+  * **§III.12(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§III.12(3)** The Office of the Chief Public Prosecutor shall employ Public Prosecutors acting in accordance with Article IV.
+  * **§III.12(4)** The Chief Public Prosecutor shall be under obligation to take all available measures to ensure all public prosecutions are undertaken in good faith and in the interest of a Victim or the Citizens of the Free Republic of Liberland where applicable.
+* **§III.13.** The Chief Commissioner shall supervise the work of Law Enforcement.
+  * **§III.13(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years.
+  * **§III.13(2)** The Chief Commissioner shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+  * **§III.13(3)** The Chief Commissioner shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§III.13(4)** The Chief Commissioner shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would jeopardise any Agent of Law Enforcement operating undercover pursuant to a Warrant.
+  * **§III.13(5)** The Chief Commissioner shall be under obligation to take all available measures to ensure the enforcement of law in the Free Republic of Liberland by Law Enforcement is conducted in the least intrusive and most peaceful manner possible.
+* **§III.14.** The Chief Public Prosecutor, Chief Attorney of the Republic and the Chief Commissioner shall not be deemed Members of the Cabinet.
+  * **§III.14(1)** No Person shall hold the office of the Chief Public Prosecutor, Chief Attorney of the Republic or the Chief Commissioner whilst holding any other public office concurrently.
 
 ### Article IV: The Judicial Power
 
@@ -315,7 +315,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.14(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
   * **§IV.14(4)** The Jury shall retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
   * **§IV.14(5)** The Jury shall reach its decisions with no fewer than eleven votes.
-  * **§IV.14(6)** Should the Jury not be able to render a verdict with 11 votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
+  * **§IV.14(6)** Should the Jury not be able to render a verdict with eleven votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
   * **§IV.14(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
   * **§IV.14(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
   * **§IV.14(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
@@ -323,17 +323,16 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.15.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
 * **§IV.16.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
 * **§IV.17.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
-* **§IV.18.** Should any proceeding before any Court of the Free Republic of Liberland be concerned with any provision of any international treaty or any rule of customary international law binding the Cabinet, its interpretation shall lie within competences of the Courts of the Free Republic of Liberland.
-* **§IV.19.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
-* **§IV.20.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
-  * **§IV.20(1)** Upon a conviction in the Criminal Court by the Jury;
-  * **§IV.20(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
-  * **§IV.20(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
-  * **§IV.20(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
-  * **§IV.20(5)** Upon an order of the Civil Court providing for detention of a Resident pending deportation proceedings;
-  * **§IV.20(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
-  * **§IV.20(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-  * **§IV.20(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
+* **§IV.18.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
+* **§IV.19.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
+  * **§IV.19(1)** Upon a conviction in the Criminal Court by the Jury;
+  * **§IV.19(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
+  * **§IV.19(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
+  * **§IV.19(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
+  * **§IV.19(5)** Upon an order of the Civil Court providing for detention of a Resident pending deportation proceedings;
+  * **§IV.19(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
+  * **§IV.19(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
+  * **§IV.19(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
 
 ## Chapter 3: Bill of Rights
 
@@ -404,7 +403,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§IX.14.** All defendants in criminal proceedings shall have the right to be presumed innocent until proven guilty and to not be compelled to be a witness against himself or herself, or such other Persons as may be prescribed by law, without any negative inference; the Prosecution shall always carry the legal burden of proof, discharged beyond reasonable doubt, in relation to the defendant's guilt, including disproving any defence envisaged by the law which he or she might raise; nothing in this provision shall prevent the creation of defences which require the defendant to discharge the evidential burden of proof by raising the issue of defence available to him or her.
 * **§IX.15.** All defendants in criminal proceedings, and all Persons under arrest, shall have the right to be assisted by effective legal counsel and an interpreter, should they not speak the language of interrogation or court proceedings, and in case of trial, to have reasonable time for the preparation of their case; services of a counsel and an interpreter shall be contracted personally or, should one not be able to afford it, they shall be provided by the Secretariat of the Judiciary with the possibility to subsequently recover reasonable expenses should a defendant be convicted and the verdict not be overturned by the Supreme Court.
 * **§IX.16.** No Person shall be convicted of any criminal offence for disclosure of any information classified as state secret should that piece of information prove or could be reasonably believed to prove that any Agent or Member of the Public Administration has breached, remains in breach of or intends to breach the law or the Constitution.
-* **§IX.17.** No torture or cruel or degrading treatment shall be inflicted by any Agent or Member of the Public Administration or under the supervision or knowledge thereof against any Person; nor shall any experiments, medical or otherwise, be conducted against any Person without his or her express and informed consent; no Individual shall be medically examined or otherwise tested unless pursuant to a Warrant or with the Individual's express and informed consent.
+* **§IX.17.** No torture or cruel or degrading treatment shall be inflicted by any Agent or Member of the Public Administration or under the supervision or knowledge thereof against any Person; no Person shall be rendered to any state or group should there be a reasonable suspicion that such a state or group may inflict torture or cruel or degrading treatment on such a Person; nor shall any experiments, medical or otherwise, be conducted against any Person without his or her express and informed consent; no Individual shall be medically examined or otherwise tested unless pursuant to a Warrant or with the Individual's express and informed consent.
 * **§IX.18.** No law shall retroactively change the legal consequences and/or status of actions that have been already committed, or relationships that already existed, before the enactment of said law.
 
 ### ARTICLE X: Physical Liberty Rights
@@ -417,16 +416,17 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§X.4.** No Person shall be arrested by any Citizen or other Resident of the Free Republic of Liberland unless in exigent circumstances where no Agent of Law Enforcement is available to execute the arrest and only for so long as reasonably necessary to allow such an Agent to take custody of the detainee.
 * **§X.5.** Any Resident of the Free Republic of Liberland without a valid leave to remain shall be subject to deportation; no Resident subject to deportation shall be detained for more than fourteen days unless pursuant to an order of the Civil Court for further detention; such orders shall be issued only where necessary due to the complexity of the deportation proceedings.
 * **§X.6.** Any Person under reasonable suspicion by a medical practitioner of being infected with any highly contagious and deadly disease shall be subject to medical isolation pursuant to an Order of the Civil Court for such time as he or she remains a serious threat to the health or life of others.
-* **§X.7.** All Persons held by any Agent or any body of the Public Administration against their will under any circumstances shall have the right to petition the Criminal Court for a writ of habeas corpus.
-* **§X.8.** No relationship amounting to slavery or any other form of involuntary servitude shall exist between any legal or natural Person and any other Person; no conscription or any other form of compulsory service shall be introduced by any branch of the Public Administration; no Persons shall be convicted of any criminal offence for the failure to fulfil his or her contractual obligations.
-* **§X.9.** No law shall restrict the free movement of any Individual within the Free Republic of Liberland; all Individuals shall have the right to reside in any part of the Free Republic of Liberland.
-* **§X.10.** All Persons shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards should his or her case be dismissed at a Preliminary Hearing; such compensation shall be paid by the Secretariat of the Judiciary; Persons wrongfully convicted shall have a separate right to fair compensation as prescribed by law.
+* **§X.7.** No Person shall be detained or interrogated by any Agent of the Public Administration outside the jurisdiction of the Free Republic of Liberland.
+* **§X.8.** All Persons held by any Agent or any body of the Public Administration against their will under any circumstances shall have the right to petition the Criminal Court for a writ of habeas corpus.
+* **§X.9.** No relationship amounting to slavery or any other form of involuntary servitude shall exist between any legal or natural Person and any other Person; no conscription or any other form of compulsory service shall be introduced by any branch of the Public Administration; no Persons shall be convicted of any criminal offence for the failure to fulfil his or her contractual obligations.
+* **§X.10.** No law shall restrict the free movement of any Individual within the Free Republic of Liberland; all Individuals shall have the right to reside in any part of the Free Republic of Liberland.
+* **§X.11.** All Persons shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards should his or her case be dismissed at a Preliminary Hearing; such compensation shall be paid by the Secretariat of the Judiciary; Persons wrongfully convicted shall have a separate right to fair compensation as prescribed by law.
 
 ### Article XI: Equality Rights
 
 #### THE EQUALITY OF PERSONS BEFORE THE LAW SHALL BE SECURED
 
-* **§XI.1.** No Person shall be excluded from the operation of, or granted any privilege under, any law; nor shall any Person be denied equal protection under the law; nothing in this provision shall prevent the Members of the Public Administration and the Citizenry from enjoying certain special rights and immunities as described in this Constitution and no others; nor shall the Assembly be prevented from granting certain immunities related to legal personality, bankruptcy and vicarious liability.
+* **§XI.1.** No Person, or group of Persons, shall be excluded from the operation of, or granted any privilege under, any law; nor shall any Person be denied equal protection under the law; nothing in this provision shall prevent the Members of the Public Administration and the Citizenry from enjoying certain special rights and immunities as described in this Constitution and no others; nor shall the Assembly be prevented from granting certain immunities related to legal personality, bankruptcy and vicarious liability.
 * **§XI.2.** No law shall promote any religion; nor shall any law impose any religious beliefs on any Person; no law shall hinder practising of any religion on any premises which do not belong to any body of the Public Administration; no religious symbols shall be displayed on any premises belonging to any body of the Public Administration, nor shall any religious practice impeding the work of such body be allowed on such premises.
 * **§XI.3.** No law shall promote any gender; nor shall any law distinguish between genders unless such distinction is necessary owing to physiological differences between the sexes; standards of all examinations conducted by any branch of the Public Administration prior to offering employment shall equally apply to all genders; all Persons shall be assigned their natural gender on birth; all Individuals shall have the right to change the gender assigned to them on birth without any excessive administrative burdens in a manner prescribed by law.
 * **§XI.4.**  No Person shall be deprived of his or her personality before the law; all Persons within the jurisdiction of the Free Republic of Liberland shall be bound to observe the Constitution; all bodies of the Public Administration, its Members and Agents, shall act within the realms of the Constitution and all laws passed in accordance therewith.

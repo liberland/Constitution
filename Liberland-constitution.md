@@ -38,7 +38,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.1.** The legislative power in the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland, the Assembly of the Free Republic of Liberland and the Council of the Free Republic of Liberland which shall exercise it on behalf of the Citizens.
   * **§II.1(1)** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
   * **§II.1(2)** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
-  * **§II.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker.
+  * **§II.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker or request of one-quarter of the overall number of Assembly Representatives.
   * **§II.1(4)** The Assembly shall not be dissolved, nor shall its session be interrupted, by any other body of the Public Administration.
 * **§II.2.** The Assembly shall consist of twenty Assembly Representatives.
   * **§II.2(1)** All Assembly Representatives shall receive symbolic remuneration for their service which does not constitute a significant burden on the Annual Budget, and so that the total remuneration of all Assembly Representatives does not exceed 5% of the Annual Budget.

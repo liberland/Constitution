@@ -41,7 +41,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker or request of one-quarter of the overall number of Assembly Representatives.
   * **§II.1(4)** The Assembly shall not be dissolved, nor shall its session be interrupted, by any other body of the Public Administration.
 * **§II.2.** The Assembly shall consist of twenty Assembly Representatives.
-  * **§II.2(1)** The Assembly Representatives shall not receive any remuneration for their service other than compensation for charges incurred in their official capacity.
+  * **§II.2(1)** The Assembly Representatives shall not receive any remuneration for their service other than compensation for expenses incurred in their official capacity.
   * **§II.2(2)** No Person shall hold the office of an Assembly Representative whilst holding any other public office within the executive or judicial branch of the Public Administration concurrently.
   * **§II.2(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote and/or debate by virtue of being detained prior to his or her trial.
   * **§II.2(4)** No Assembly Representative shall hold the office for more than twelve years in total.

@@ -256,7 +256,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of any Judge of the Civil Court or the Criminal Court.
   * **§IV.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Civil Court and the Criminal Court and Agents of the Public Administration to hear testimonies given under oath.
   * **§IV.7(2)** The Judicial Appointment Commission may remove any Judge of the Civil Court or the Criminal Court from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
-  * **§IV.7(3)** Should there be suspicion that any Judge issues Warrants or Orders too leniently, the Judicial Appointment Commission shall have the power to inquire into the justifiability of such Warrants or Orders, and may remove such a Judge from his or her office upon proving that is the case.
+  * **§IV.7(3)** Should there be suspicion that any Judge of the Civil Court or the Criminal Court issues Warrants or Orders too leniently, the Judicial Appointment Commission shall have the power to inquire into the justifiability of such Warrants or Orders, and may remove such a Judge from his or her office upon proving that is the case.
   * **§IV.7(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
   * **§IV.7(5)** The Judicial Appointment Commission shall have the power to declare any Judge of any Court of the Free Republic of Liberland to be unable to continue to hold his or her office due to very poor health or old age but not before the age of seventy-five.
 * **§IV.8.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
@@ -331,7 +331,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.20(5)** Upon an order of the Civil Court providing for detention of a Resident pending deportation proceedings;
   * **§IV.20(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
   * **§IV.20(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-  * **§IV.19(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
+  * **§IV.20(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
 
 ## Chapter 3: Bill of Rights
 

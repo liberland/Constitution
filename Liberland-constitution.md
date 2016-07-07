@@ -241,11 +241,12 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
   * **§IV.4(2)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
   * **§IV.4(3)** No Agent of Law Enforcement shall enter the premises of any Court of the Free Republic of Liberland unless with the express and informed consent of the Secretariat of the Judiciary or pursuant to the Supreme Warrant.
-* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any Member of the other branches of the Public Administration.
+* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any other branch of the Public Administration.
   * **§IV.5(1)** The remuneration of the Judges shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
  * **§IV.5(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a direct threat to others or where vital evidence may be destroyed.
- * **§IV.5(3)** Where a Judge is placed under arrest without the Supreme Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge; should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
- * **§IV.5(4)** The Supreme Warrant shall be issued by the Chief Justice of the Supreme Court or by at least three Justices of the Supreme Court acting together upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
+ * **§IV.5(3)** Where a Judge is placed under arrest without the Supreme Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
+ * **§IV.5(4)** Should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
+ * **§IV.5(5)** The Supreme Warrant shall be issued by the Chief Justice of the Supreme Court, or by at least three Justices of the Supreme Court acting together, upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
 * **§IV.6.** The Judicial Appointment Commission shall appoint qualified lawyers for the positions of Judges of the Civil Court and the Criminal Court.
   * **§IV.6(1)** The Judicial Appointment Commission shall be composed of nine members appointed or elected for a term of six years:
    * **§IV.6(1)(a)** three members appointed by the Chief Justice of Supreme Court;
@@ -288,11 +289,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.11(4)** The Civil Court shall have jurisdiction to adjudicate all disputes between Citizens or other Residents of the Free Republic of Liberland and any body of the Public Administration.
   * **§IV.11(5)** The Civil Court shall have jurisdiction to adjudicate all disputes between two or more bodies of the Public Administration.
   * **§IV.11(6)** The Civil Court shall have jurisdiction to hear cases concerned with the well-being of Minors and Persons lacking mental capacity.
-  * **§IV.11(7)** The Civil Court may adjudicate civil disputes concerning contracts made outside the jurisdiction of the Free Republic of Liberland should such jurisdiction be conferred upon it by law.
-  * **§IV.11(8)** All disputes concerning subject matter of small value as prescribed by law shall be adjudicated by one Judge.
-  * **§IV.11(9)** All other disputes shall be adjudicated by a panel of three Judges reaching a decision with a simple majority.
-  * **§IV.11(10)** The Civil Court shall have the power to issue Publication Orders in accordance with this Constitution and Warrants, injunctions and other orders as prescribed by law.
-* **§IV.12.** All administrative decisions of any branch of the Public Administration, and actions undertaken by its Agents, which are capable of affecting any Person may be subject to challenge in the Civil Court by such a Person.
+  * **§IV.11(7)** The Civil Court may adjudicate civil disputes concerning contracts made outside the jurisdiction of the Free Republic of Liberland provided such jurisdiction has been conferred upon it by law.
+  * **§IV.11(8)** All disputes concerning subject matter of small value as prescribed by law shall be adjudicated by one Judge whereas all other disputes shall be adjudicated by a panel of three Judges reaching a decision with a simple majority.
+  * **§IV.11(9)** The Civil Court shall have the power to issue Publication Orders in accordance with this Constitution and Warrants, injunctions and other orders as prescribed by law.
+* **§IV.12.** All administrative decisions of any branch of the Public Administration, and actions undertaken by its Agents, which are capable of affecting any Person, may be subject to challenge in the Civil Court by such a Person.
   * **§IV.12(1)** All Executive Measures issued by the Cabinet may be subject to challenge in the Civil Court by a Person affected thereby or, in the absence of such a Person, by any association composed of no fewer than thirty Citizens.
   * **§IV.12(2)** Without prejudice to the appeal procedures, such challenge shall be admissible once only unless the original challenge was not genuine but brought in order to shield the defendant from liability or where a new challenge raises a different point of law.
   * **§IV.12(3)** The right described in this provision shall be exercisable once all administrative appeals have been exhausted.

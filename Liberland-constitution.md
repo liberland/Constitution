@@ -91,9 +91,8 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.12(4)** The Assembly and the Council shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
   * **§II.12(5)** Any Bill which is rejected by the Assembly or the Council shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
 * **§II.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
-  * **§II.13(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
-  * **§II.13(2)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
-  * **§II.13(3)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
+  * **§II.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
+  * **§II.13(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
 * **§II.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
   * **§II.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
   * **§II.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.

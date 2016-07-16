@@ -309,7 +309,8 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.16(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
   * **§IV.16(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
   * **§IV.16(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
-  * **§IV.16(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.* **§IV.17.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
+  * **§IV.16(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
+* **§IV.17.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
   * **§IV.17(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
   * **§IV.17(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants and Orders within the powers of the relevant Court which shall be reviewable at a full trial.
   * **§IV.17(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:

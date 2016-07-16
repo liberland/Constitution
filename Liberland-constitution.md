@@ -91,7 +91,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.12(4)** The Assembly and the Council shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
   * **§II.12(5)** Any Bill which is rejected by the Assembly or the Council shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
 * **§II.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
-  * **§II.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
+  * **§II.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
   * **§II.13(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
 * **§II.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
   * **§II.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
@@ -296,21 +296,20 @@ The Free Republic of Liberland shall be governed by the Public Administration in
    * **§IV.14(3)(a)** to be notified about the schedule of the judicial proceedings; 
    * **§IV.14(3)(b)** to address the Criminal Court before the sentence is determined; 
    * **§IV.14(3)(c)** to be advised of release from custody or escape of the accused.
-* **§IV.15.** All criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of “Guilty” or “Not guilty”.
-  * **§IV.15(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register.
-  * **§IV.15(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
-  * **§IV.15(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
-  * **§IV.15(4)** The Jury shall, under all circumstances, retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
-  * **§IV.15(5)** The Jury shall reach its decisions with no fewer than eleven votes.
-  * **§IV.15(6)** Should the Jury not be able to render a verdict with eleven votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
-  * **§IV.15(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
-  * **§IV.15(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
-  * **§IV.15(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
-  * **§IV.15(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
-* **§IV.16.** Should a criminal offence be allegedly committed by a Member or Agent of the Public Administration in the course of his or her official duties, and no one Victim has been left by such an offence, a public prosecution may be instituted.
-  * **§IV.16(1)** Where no public prosecution has been brought within a reasonable period of time, a private prosecution may be brought by any association composed of no fewer than thirty Citizens.
-  * **§IV.16(2)** Where a private prosecution is instituted in place of a public prosecution, the Office of the Public Prosecutor shall fully cooperate with the association in charge of the proceedings.
-* **§IV.17.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
+* **§IV.15.** Should a criminal offence be allegedly committed by a Member or Agent of the Public Administration in the course of his or her official duties, and no one Victim has been left by such an offence, a public prosecution may be instituted.
+  * **§IV.15(1)** Where no public prosecution has been brought within a reasonable period of time, a private prosecution may be brought by any association composed of no fewer than thirty Citizens.
+  * **§IV.15(2)** Where a private prosecution is instituted in place of a public prosecution, the Office of the Public Prosecutor shall fully cooperate with the association in charge of the proceedings.
+* **§IV.16.** All criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of “Guilty” or “Not guilty”.
+  * **§IV.16(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register.
+  * **§IV.16(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
+  * **§IV.16(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
+  * **§IV.16(4)** The Jury shall, under all circumstances, retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
+  * **§IV.16(5)** The Jury shall reach its decisions with no fewer than eleven votes.
+  * **§IV.16(6)** Should the Jury not be able to render a verdict with eleven votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
+  * **§IV.16(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
+  * **§IV.16(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
+  * **§IV.16(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
+  * **§IV.16(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.* **§IV.17.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
   * **§IV.17(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
   * **§IV.17(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants and Orders within the powers of the relevant Court which shall be reviewable at a full trial.
   * **§IV.17(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:

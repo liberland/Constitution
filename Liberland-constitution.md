@@ -166,19 +166,20 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 ### Article III: The Executive Power
 
-* **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Chancellor and the Cabinet of the Free Republic of Liberland.
+* **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
 * **§III.2.** The Cabinet shall fully, reasonably consistently and in good faith execute all laws passed by the Assembly in accordance with Article II.
-* **§III.3.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
-  * **§III.3(1)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
-  * **§III.3(2)** No Person shall hold the office of the Chancellor or Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
-* **§III.4.** Should the Chancellor resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article II.
-  * **§III.4(1)** Should the Chancellor resign, all Members of the Cabinet shall immediately cease to hold their offices.
-* **§III.5.** Should the Chancellor become unable to perform one’s duties, the Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority vote.
-  * **§III.5(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
-  * **§III.5(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon the Assembly’s failure to pass a Motion of Confidence.
-  * **§III.5(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
-* **§III.6.** The Chancellor, on behalf of the Cabinet, shall once a year on the thirteenth day of April publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
-* **§III.7.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
+* **§III.3.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall work towards the maintenance of international peace and seek political and economic cooperation with other Nations as far as possible.
+* **§III.4.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
+  * **§III.4(1)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
+  * **§III.4(2)** No Person shall hold the office of Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
+  * **§III.4(3)** Should the Chancellor cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.
+  * **§III.4(4)** Should the Chancellor resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article II.
+* **§III.5.** The Chancellor, on behalf of the Cabinet, shall once a year, on the thirteenth day of April, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
+* **§III.6.** Should the Chancellor become unable to perform one’s duties, the other Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority vote.
+  * **§III.6(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
+  * **§III.6(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence.
+  * **§III.6(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
+* **§III.7.** The powers of the Cabinet shall be restricted to the following only:
   * **§III.7(1)** to run day-to-day state affairs;
   * **§III.7(2)** to initiate a legislative procedure;
   * **§III.7(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;

@@ -40,17 +40,15 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.2.** The Assembly shall consist of twenty Assembly Representatives.
   * **§II.2(1)** The Assembly Representatives shall not receive any remuneration for their service other than compensation for expenses incurred in their official capacity.
   * **§II.2(2)** No Person shall hold the office of an Assembly Representative whilst holding any other public office within the executive or judicial branch of the Public Administration concurrently.
-  * **§II.2(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote and/or debate by virtue of being detained prior to his or her trial.
+  * **§II.2(3)** No Assembly Representative shall be precluded from taking part in any Assembly vote and/or debate by virtue of being detained unless his or her release would cause direct and grave danger to others, as certified by the Court on application by the Office of the Public Prosecutor or a medical practitioner where appropriate.
   * **§II.2(4)** No Assembly Representative shall hold the office for more than twelve years in total.
 * **§II.3.** The Assembly Representatives shall be elected by the Citizens in a General Election held every six years.
   * **§II.3(1)** Any Assembly Representative may be recalled by the Citizens with a simple majority vote in a referendum called by 5% of the overall number of Citizens registered to vote at the time of the last General Election.
   * **§II.3(2)** Should any Assembly Representative step down, a Supplementary Election shall be held within thirty days.
   * **§II.3(3)** No vote whatsoever shall take place unless all Assembly Representative are sworn in and eligible to participate.
-  * **§II.3(4)** No vote whatsoever shall take place without the recordation of the Yeas and Nays.
 * **§II.4.** One-quarter of the overall number of Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
   * **§II.4(1)** The resolution shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§II.4(2)** Should the Assembly be dissolved, a General Election shall be held within sixty days.
-  * **§II.4(3)** The newly elected Assembly shall hold its first session within fourteen days after the General Election.
 * **§II.5.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§II.5(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§II.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
@@ -75,12 +73,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.9.** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
   * **§II.9(1)** One-quarter of the overall number of Assembly Representatives shall have the power to oblige the Cabinet to consider a draft of a Bill prepared by them, which may be rejected or accepted by the Cabinet as a future Bill.
   * **§II.9(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
-  * **§II.9(3)** All drafts of Bills proposed to the Cabinet shall be made public before the Cabinet’s acceptance or rejection.
 * **§II.10.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
   * **§II.10(1)**  Should no Chancellor be elected within thirty days of a General Election, a new General Election shall be held within sixty days.
-  * **§II.10(2)** The Assembly shall have the power to impeach the Chancellor along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
-  * **§II.10(3)** On the first meeting after the General Election, the Chancellor along with the Cabinet shall request the Assembly to vote on the Motion of Confidence.
-  * **§II.10(4)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Chancellor along with the Members of the Cabinet shall immediately cease to hold their offices.
+  * **§II.10(2)** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
 * **§II.11.** One-quarter of the overall number of Assembly Representatives shall have the power to propose a resolution instituting the Assembly Committee.
   * **§II.11(1)** The resolution shall be passed with a simple majority of the overall number of Assembly Representatives.
   * **§II.11(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
@@ -97,7 +92,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.12(5)** Any Bill which is rejected by the Assembly or the Council shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
 * **§II.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
   * **§II.13(1)** The Bill proposed by the Cabinet shall be made public prior to the Assembly's debate.
-  * **§II.13(2)** No vote whatsoever shall take place unless the Bureau of the Assembly has published a schedule of the affairs of the Assembly.
+  * **§II.13(2)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
   * **§II.13(3)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
 * **§II.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
   * **§II.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
@@ -183,8 +178,6 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.5(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
   * **§III.5(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon the Assembly’s failure to pass a Motion of Confidence.
   * **§III.5(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
-  * **§III.5(4)** Should the Chancellor not be able to return within sixty days, the Vice-Chancellor shall request the Assembly to pass the Motion of Confidence.
-  * **§III.5(5)** Should the Assembly fail to pass the Motion of Confidence with a simple majority vote of the overall number of Assembly Representatives, the Vice-Chancellor along with all Members of the Cabinet shall cease to hold their office and the Assembly shall elect the new Chancellor in accordance with Article II.
 * **§III.6.** The Chancellor, on behalf of the Cabinet, shall once a year on the thirteenth day of April publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article II.
 * **§III.7.** The powers of the Chancellor and the Cabinet shall be restricted to the following only:
   * **§III.7(1)** to run day-to-day state affairs;
@@ -235,36 +228,32 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 ### Article IV: The Judicial Power
 
 * **§IV.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
-* **§IV.2.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland and any laws passed in accordance therewith.
-* **§IV.3.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses upon their Rights.
-* **§IV.4.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
-  * **§IV.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
-  * **§IV.4(2)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
-  * **§IV.4(3)** No Agent of Law Enforcement shall enter the premises of any Court of the Free Republic of Liberland unless with the express and informed consent of the Secretariat of the Judiciary or pursuant to the Supreme Warrant.
-* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any other branch of the Public Administration.
-  * **§IV.5(1)** The remuneration of the Judges shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
- * **§IV.5(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a direct threat to others or where vital evidence may be destroyed.
- * **§IV.5(3)** Where a Judge is placed under arrest without the Supreme Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
- * **§IV.5(4)** Should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
- * **§IV.5(5)** The Supreme Warrant shall be issued by the Chief Justice of the Supreme Court, or by at least three Justices of the Supreme Court acting together, upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
-* **§IV.6.** The Judicial Appointment Commission shall appoint qualified lawyers for the positions of Judges of the Civil Court and the Criminal Court.
-  * **§IV.6(1)** The Judicial Appointment Commission shall be composed of nine members appointed or elected for a term of six years:
-   * **§IV.6(1)(a)** three members appointed by the Chief Justice of Supreme Court;
-   * **§IV.6(1)(b)** three members appointed by the Chief Attorney of the Republic;
-   * **§IV.6(1)(c)** three members elected by the Citizens of the Free Republic of Liberland.
-  * **§IV.6(2)** The Judicial Appointment Commission shall sit en banc and it shall reach its decisions with no fewer than seven votes.
-  * **§IV.6(3)** No Person shall hold the office of any Judge of any Court of the Free Republic of Liberland whilst holding any other public office within the legislative or executive branch of the Public Administration concurrently.
-* **§IV.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of any Judge of the Civil Court or the Criminal Court.
-  * **§IV.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Civil Court and the Criminal Court and Agents of the Public Administration to hear testimonies given under oath.
-  * **§IV.7(2)** The Judicial Appointment Commission may remove any Judge of the Civil Court or the Criminal Court from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
-  * **§IV.7(3)** Should there be suspicion that any Judge of the Civil Court or the Criminal Court issues Warrants or Orders too leniently, the Judicial Appointment Commission shall have the power to inquire into the justifiability of such Warrants or Orders, and may remove such a Judge from his or her office upon proving that is the case.
-  * **§IV.7(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
-  * **§IV.7(5)** The Judicial Appointment Commission shall have the power to declare any Judge of any Court of the Free Republic of Liberland to be unable to continue to hold his or her office due to very poor health or old age but not before the age of seventy-five.
-* **§IV.8.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-  * **§IV.8(1)** Should a defendant consider evidence gathered against him or her as grossly insufficient or a prosecution or claim as clearly unconstitutional, he or she may request the Civil Court or Criminal Court to hold a Preliminary Hearing.
-  * **§IV.8(2)** Preliminary Hearings shall be held by one Judge of the relevant Court who may dismiss the case before it proceeds to a full trial on the following grounds: (a) lack of sufficient evidence, (b) clear unconstitutionality of the prosecution or claim or (c) violation of defendant's procedural rights.
-  * **§IV.8(3)** At the Preliminary Hearing a Judge shall have the power to issue such Warrants and Orders as deemed necessary and within the powers of the relevant Court; such Warrants and Orders shall be reviewable at a full trial.
-  * **§IV.8(4)** Should a claim or a prosecution be dismissed for frivolity at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
+* **§IV.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
+* **§IV.3.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland and any laws passed in accordance therewith.
+* **§IV.4.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses upon their Rights.
+* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
+  * **§IV.5(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
+  * **§IV.5(2)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
+  * **§IV.5(3)** No Agent of Law Enforcement shall enter the premises of any Court of the Free Republic of Liberland unless with the express and informed consent of the Secretariat of the Judiciary or pursuant to the Supreme Warrant.
+* **§IV.6.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any other branch of the Public Administration.
+  * **§IV.6(1)** The remuneration of the Judges shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
+  * **§IV.6(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a direct threat to others or where vital evidence may be destroyed.
+  * **§IV.6(3)** Where a Judge is placed under arrest without the Supreme Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
+  * **§IV.6(4)** Should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
+  * **§IV.6(5)** The Supreme Warrant shall be issued by the Chief Justice of the Supreme Court, or by at least three Justices of the Supreme Court acting together, upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
+* **§IV.7.** The Judicial Appointment Commission shall appoint qualified lawyers for the positions of Judges of the Civil Court and the Criminal Court.
+  * **§IV.7(1)** The Judicial Appointment Commission shall be composed of nine members appointed or elected for a term of six years:
+   * **§IV.7(1)(a)** three members appointed by the Chief Justice of Supreme Court;
+   * **§IV.7(1)(b)** three members appointed by the Chief Attorney of the Republic;
+   * **§IV.7(1)(c)** three members elected by the Citizens of the Free Republic of Liberland.
+  * **§IV.7(2)** The Judicial Appointment Commission shall sit en banc and it shall reach its decisions with no fewer than seven votes.
+  * **§IV.7(3)** No Person shall hold the office of any Judge of any Court of the Free Republic of Liberland whilst holding any other public office within the legislative or executive branch of the Public Administration concurrently.
+* **§IV.8.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of any Judge of the Civil Court or the Criminal Court.
+  * **§IV.8(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Civil Court and the Criminal Court and Agents of the Public Administration to hear testimonies given under oath.
+  * **§IV.8(2)** The Judicial Appointment Commission may remove any Judge of the Civil Court or the Criminal Court from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
+  * **§IV.8(3)** Should there be suspicion that any Judge of the Civil Court or the Criminal Court issues Warrants or Orders too leniently, the Judicial Appointment Commission shall have the power to inquire into the justifiability of such Warrants or Orders, and may remove such a Judge from his or her office upon proving that is the case.
+  * **§IV.8(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+  * **§IV.8(5)** The Judicial Appointment Commission shall have the power to declare any Judge of any Court of the Free Republic of Liberland to be unable to continue to hold his or her office due to very poor health or old age but not before the age of seventy-five.
 * **§IV.9.** The Supreme Court shall be composed of four Justices of the Supreme Court and the Chief Justice of the Supreme Court who shall preside over the Court.
   * **§IV.9(1)** The Supreme Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
   * **§IV.9(2)** All verdicts of the Supreme Court shall be binding upon the parties to the proceedings and the Civil Court and the Criminal Court on the point of law in all future proceedings where applicable.
@@ -319,19 +308,30 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.15(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
   * **§IV.15(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
   * **§IV.15(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
-* **§IV.16.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
-* **§IV.17.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
-* **§IV.18.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
-* **§IV.19.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
-* **§IV.20.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
-  * **§IV.20(1)** Upon a conviction in the Criminal Court by the Jury;
-  * **§IV.20(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
-  * **§IV.20(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
-  * **§IV.20(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
-  * **§IV.20(5)** Upon an order of the Civil Court providing for detention of a Resident pending deportation proceedings;
-  * **§IV.20(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
-  * **§IV.20(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-  * **§IV.20(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
+* **§IV.16.** Should a criminal offence be allegedly committed by a Member or Agent of the Public Administration in the course of his or her official duties, and no one Victim has been left by such an offence, a public prosecution may be instituted.
+  * **§IV.16(1)** Where no public prosecution has been brought within a reasonable period of time, a private prosecution may be brought by any association composed of no fewer than thirty Citizens.
+  * **§IV.16(2)** Where a private prosecution is instituted in place of a public prosecution, the Office of the Public Prosecutor shall fully cooperate with the association in charge of the proceedings.
+* **§IV.17.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
+  * **§IV.17(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
+  * **§IV.17(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants and Orders within the powers of the relevant Court which shall be reviewable at a full trial.
+  * **§IV.17(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:
+   * **§IV.17(3)(a)** no probable cause has been proven to the satisfaction of the Court;
+   * **§IV.17(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
+   * **§IV.17(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
+  * **§IV.17(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
+* **§IV.18.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
+* **§IV.19.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
+* **§IV.20.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
+* **§IV.21.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
+* **§IV.22.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
+  * **§IV.22(1)** Upon a conviction in the Criminal Court by the Jury;
+  * **§IV.22(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
+  * **§IV.22(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
+  * **§IV.22(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
+  * **§IV.22(5)** Upon an order of the Civil Court providing for detention of a Resident pending deportation proceedings;
+  * **§IV.22(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
+  * **§IV.22(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
+  * **§IV.22(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
 
 ## Chapter 3: Bill of Rights
 
@@ -354,7 +354,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VI.2.** No law shall abridge the freedom of thought and expression thereof; no Person shall be convicted of any criminal offence for any statement of opinion, whether offensive or otherwise; free expression shall be allowed in all public areas within the Free Republic of Liberland.
 * **§VI.3.** All Individuals shall have the right to assemble peaceably; no law shall interfere with any voluntary relations or cooperative ventures formed by Individuals.
 * **§VI.4.** No law shall prohibit video and/or audio recording where there is no reasonable expectation of privacy, including Agents of the Public Administration; nothing in this provision shall be construed as to allow for general surveillance by the Public Administration.
-* **§VI.5.** The Public Administration shall conduct its business openly by recording, transmitting, archiving, publishing, and rendering available to the general public to attend, where applicable, (a) all affairs of the Assembly other than the debate and vote on the classification of information as a state secret, (b) all proceedings before the Courts other than those concerned with Warrants and (c) all documents officially produced by the Cabinet; nothing in this provision shall prevent the Public Administration from protecting information classified as a state secret.
+* **§VI.5.** The Public Administration shall conduct its business openly by, where applicable, recording, transmitting, archiving, rendering available to the general public to attend and publishing planned and completed (a) all affairs of the Assembly other than the debate and vote on the classification of information as a state secret, (b) all proceedings before the Courts other than those concerned with Warrants and (c) all documents officially produced by the Cabinet; nothing in this provision shall prevent the Public Administration from protecting information classified as a state secret.
 * **§VI.6.** All Citizens of the Free Republic of Liberland shall have the right of free-of-charge access to information which relates to any aspect of the functioning of the Public Administration which is not classified as a state secret and in so far as it does not contain any private personal information; information shall be classified as a state secret by a responsible Secretary of State with the express and informed consent of two-thirds of the overall number of Assembly Representatives as discussed in camera, and for the purposes of national security only, and for a period not exceeding one year. 
 
 ### Article VII: Property Rights
@@ -407,7 +407,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 
 #### THE RIGHT TO PHYSICAL LIBERTY AND FREE MOVEMENT SHALL BE SECURED
 
-* **§X.1.** The powers of arrest in the Free Republic of Liberland shall not be exercised arbitrarily but only upon probable cause that the detainee (a) has committed or (b) is committing a criminal offence, and as such, should be brought to trial, or, that he or she is likely to have been made, or is soon to be made, a subject of a Court order regarding (c) a medical isolation on the account of a highly contagious and deadly disease, (d) an in-house care of a Minor, (e) an institutionalisation in a mental health facility, (f) deportation proceedings or (g) committal to prison for a breach of a Court order, and as such, should be brought to the disposition of the appropriate authorities or the Court.
+* **§X.1.** The powers of arrest in the Free Republic of Liberland shall not be exercised arbitrarily but only upon probable cause that the detainee (a) has committed or (b) is committing a criminal offence, or that he or she has been made, or is soon to be made, a subject of a Court order regarding (c) a medical isolation on the account of a highly contagious and deadly disease, (d) an in-house care of a Minor, (e) an institutionalisation in a mental health facility, (f) deportation proceedings or (g) committal to prison for a breach of a Court order, and as such, is to be brought to trial or to the disposition of the appropriate authorities or the Court respectively.
 * **§X.2.** Agents of Law Enforcement executing arrests shall act openly and shall inform the detainee about the relevant rights he or she enjoys under this Constitution and any laws passed in accordance therewith; where a Person is placed under arrest, Agents of Law Enforcement shall immediately inform his or her close ones as prescribed by law about the detention.
 * **§X.3.** No Person shall be placed under arrest for more than twenty-four hours without a Warrant; all arrest Warrants shall be issued only (a) where it is necessary for the protection of others, (b) where an accused would otherwise be likely to escape justice or (c) interfere with the investigation, and for no longer than necessary to bring him or her to trial; where the accused is already under arrest, he or she shall have the right to address the Court at the hearing regarding a Warrant for further detention, either in person or by way of legal representation.
 * **§X.4.** The primary power of arrest shall lie with Agents of Law Enforcement; in the absence of any such Agent, in exigent circumstances or pursuant to a public arrest warrant, a Person may be arrested by any Citizen or other Resident of the Free Republic of Liberland for so long as reasonably necessary to allow an Agent of Law Enforcement to take custody of the detainee.
@@ -461,9 +461,10 @@ The Constitution of the Free Republic of Liberland shall be construed in the lig
 ### Article XV: Overriding Provisions
 
 * **§XV.1.** Notwithstanding any provision of this Constitution, the Cabinet shall have the exclusive power to sign binding international treaties regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland, and to directly enforce those treaties on the borders of the Free Republic of Liberland; such power shall be reviewable by the Civil Court exclusively on the basis whether a treaty, and/or its enforcement, falls within the scope of this provision and whether the enforcement measures undertaken are the least intrusive measures available.
-* **§XV.2.** Notwithstanding any provision of this Constitution, the Public Administration shall have the power to maintain, fully public where appropriate, (a) a register of all land, its owners and charges, (b) a register of all deaths and births of Citizens and other Residents of the Free Republic of Liberland, (c) a register of all vehicles intended to be used outside the territory of the Free Republic of Liberland, (d) a register of all incorporated business entities for the purposes of conferring upon them a separate legal personality, (e) a register of all Citizens who have been issued passports of the Free Republic of Liberland, (f) a register of all Persons convicted of any criminal offence in the Free Republic of Liberland, (g) a register related to immigration procedure and (h) the Electoral Register.
-* **§XV.3.** No provision of this Constitution shall be construed as to prevent the Assembly from criminalising any act or omission which does not stem from the inherent right of self-defence but amounts to any (a) physical, or constitutionally recognised form of non-physical, violence towards any Person or animal capable of conscious behaviour, or threat thereof, (b) invasion of privacy, (c) fraud, (d) direct and grave interference with enjoyment of one’s property or (e) harm to environment beyond the boundaries of one’s property.
-* **§XV.4.** The enumeration of certain rights in this Constitution shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
+* **§XV.2.** Notwithstanding any provision of this Constitution, the Courts of the Free Republic of Liberland, or any body charged with arbitration proceedings, shall not enforce any contract for (a) a permanent service, (b) sexual services, (c) a transfer of parental rights, (d) a restrain of trade, (e) a participation in a criminal offence or (f) a marriage; in cases of contracts for a specific performance, should the performing Person refuse to comply with the terms of such a contract, it may, where appropriate, be enforced by way of financial restitution instead.
+* **§XV.3.** Notwithstanding any provision of this Constitution, the Public Administration shall have the power to maintain, fully public where appropriate, (a) a register of all land, its owners and charges, (b) a register of all deaths and births of Citizens and other Residents of the Free Republic of Liberland, (c) a register of all vehicles intended to be used outside the territory of the Free Republic of Liberland, (d) a register of all incorporated business entities for the purposes of conferring upon them a separate legal personality, (e) a register of all Citizens who have been issued passports of the Free Republic of Liberland, (f) a register of all Persons convicted of any criminal offence in the Free Republic of Liberland, (g) a register related to immigration procedure and (h) the Electoral Register.
+* **§XV.4.** No provision of this Constitution shall be construed as to prevent the Assembly from criminalising any act or omission which does not stem from the inherent right of self-defence but amounts to any (a) physical, or constitutionally recognised form of non-physical, violence towards any Person or animal capable of conscious behaviour, or threat thereof, (b) invasion of privacy, (c) fraud, (d) direct and grave interference with enjoyment of one’s property or (e) harm to environment beyond the boundaries of one’s property.
+* **§XV.5.** The enumeration of certain rights in this Constitution shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
 
 ### Article XVI: Interpretive Provisions
 

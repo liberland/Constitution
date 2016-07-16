@@ -318,19 +318,19 @@ The Free Republic of Liberland shall be governed by the Public Administration in
    * **§IV.17(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
    * **§IV.17(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
   * **§IV.17(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
-* **§IV.18.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
-* **§IV.19.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
-* **§IV.20.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
-* **§IV.21.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
-* **§IV.22.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
-  * **§IV.22(1)** Upon a conviction in the Criminal Court by the Jury;
-  * **§IV.22(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
-  * **§IV.22(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
-  * **§IV.22(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
-  * **§IV.22(5)** Upon an order of the Civil Court providing for detention of a Resident pending deportation proceedings;
-  * **§IV.22(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
-  * **§IV.22(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-  * **§IV.22(8)** Nothing in this provision shall affect the powers of arrest and sequestration of Jurors as enumerated in this Constitution.
+* **§IV.18.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
+  * **§IV.18(1)** Upon a conviction in the Criminal Court by the Jury;
+  * **§IV.18(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
+  * **§IV.18(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
+  * **§IV.18(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
+  * **§IV.18(5)** Upon an order of the Civil Court providing for further detention of a Resident pending deportation proceedings;
+  * **§IV.18(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
+  * **§IV.18(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
+  * **§IV.18(8)** Nothing in this provision shall affect the powers of arrest, short-term detention of a Resident pending deportation proceedings or sequestration of Jurors as enumerated in this Constitution.
+* **§IV.19.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
+* **§IV.20.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
+* **§IV.21.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
+* **§IV.22.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
 
 ## Chapter 3: Bill of Rights
 

@@ -229,109 +229,105 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§IV.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§IV.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§IV.3.** The Courts of the Free Republic of Liberland shall first and foremost uphold the Constitution of the Free Republic of Liberland and any laws passed in accordance therewith.
-* **§IV.4.** The Courts of the Free Republic of Liberland shall protect the Citizens thereof and other Residents from any unlawful trespasses upon their Rights.
-* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
-  * **§IV.5(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
-  * **§IV.5(2)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
-  * **§IV.5(3)** No Agent of Law Enforcement shall enter the premises of any Court of the Free Republic of Liberland unless with the express and informed consent of the Secretariat of the Judiciary or pursuant to the Supreme Warrant.
-* **§IV.6.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any other branch of the Public Administration.
-  * **§IV.6(1)** The remuneration of the Judges shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
-  * **§IV.6(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a direct threat to others or where vital evidence may be destroyed.
-  * **§IV.6(3)** Where a Judge is placed under arrest without the Supreme Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
-  * **§IV.6(4)** Should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
-  * **§IV.6(5)** The Supreme Warrant shall be issued by the Chief Justice of the Supreme Court, or by at least three Justices of the Supreme Court acting together, upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
-* **§IV.7.** The Judicial Appointment Commission shall appoint qualified lawyers for the positions of Judges of the Civil Court and the Criminal Court.
-  * **§IV.7(1)** The Judicial Appointment Commission shall be composed of nine members appointed or elected for a term of six years:
-   * **§IV.7(1)(a)** three members appointed by the Chief Justice of Supreme Court;
-   * **§IV.7(1)(b)** three members appointed by the Chief Attorney of the Republic;
-   * **§IV.7(1)(c)** three members elected by the Citizens of the Free Republic of Liberland.
-  * **§IV.7(2)** The Judicial Appointment Commission shall sit en banc and it shall reach its decisions with no fewer than seven votes.
-  * **§IV.7(3)** No Person shall hold the office of any Judge of any Court of the Free Republic of Liberland whilst holding any other public office within the legislative or executive branch of the Public Administration concurrently.
-* **§IV.8.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of any Judge of the Civil Court or the Criminal Court.
-  * **§IV.8(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Civil Court and the Criminal Court and Agents of the Public Administration to hear testimonies given under oath.
-  * **§IV.8(2)** The Judicial Appointment Commission may remove any Judge of the Civil Court or the Criminal Court from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
-  * **§IV.8(3)** Should there be suspicion that any Judge of the Civil Court or the Criminal Court issues Warrants or Orders too leniently, the Judicial Appointment Commission shall have the power to inquire into the justifiability of such Warrants or Orders, and may remove such a Judge from his or her office upon proving that is the case.
-  * **§IV.8(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
-  * **§IV.8(5)** The Judicial Appointment Commission shall have the power to declare any Judge of any Court of the Free Republic of Liberland to be unable to continue to hold his or her office due to very poor health or old age but not before the age of seventy-five.
-* **§IV.9.** The Supreme Court shall be composed of four Justices of the Supreme Court and the Chief Justice of the Supreme Court who shall preside over the Court.
-  * **§IV.9(1)** The Supreme Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
-  * **§IV.9(2)** All verdicts of the Supreme Court shall be binding upon the parties to the proceedings and the Civil Court and the Criminal Court on the point of law in all future proceedings where applicable.
-  * **§IV.9(3)** Should the office of any of the Justices of the Supreme Court become vacant, the Chancellor shall appoint a current or former Judge of the Criminal Court or the Civil Court for the position for life.
-  * **§IV.9(4)** Should the office of the Chief Justice of the Supreme Court become vacant, the Chancellor shall appoint the most senior Justice of the Supreme Court for the position for life.
-  * **§IV.9(5)** The Chief Justice or any Justice of the Supreme Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election or by the Judicial Appointment Commission as described in this Constitution.
-  * **§IV.9(6)** Should any Justice or the Chief Justice of the Supreme Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, he or she shall be replaced for the purposes or the proceedings in question by the most senior of Judges of the Civil Court and the Criminal Court.
-* **§IV.10.** The Supreme Court shall have compulsory appellate and inherent jurisdiction as prescribed in this Constitution and powers to issue Warrants, injunctions and other orders as prescribed by law.
-  * **§IV.10(1)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law, material procedural irregularity or severity of sentence.
-  * **§IV.10(2)** The Supreme Court shall have inherent jurisdiction to issue declarations as to the law and Constitution of the Free Republic of Liberland upon request by the Chief Attorney of the Republic.
-  * **§IV.10(3)** The Supreme Court shall have inherent jurisdiction to review the prima facie constitutionality of all Bills passed in accordance with Article II which shall take place within ninety days and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
-  * **§IV.10(4)** Upon reviewing the prima facie constitutionality of a Bill, the Supreme Court shall hear submissions, which are of relevance for the outcome of the determination, from the Cabinet and any association composed of no fewer than thirty Citizens.
-  * **§IV.10(5)** Should a Bill be declared unconstitutional by reason only of parts of the Bill which may reasonably be excised from the whole, the Supreme Court shall send the remainder of such Bill to the Assembly which may pass a resolution authorising the remainder of the Bill proceed for consideration of Citizens as provided in Article II.
-  * **§IV.10(6)** The Supreme Court shall retain the power to strike down any provision of any Act passed in accordance with Article II as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of the prima facie constitutionality; such provision shall be disapplied on the appeal in question and shall be deemed no longer in force at the time the verdict is given.
-  * **§IV.10(7)** The Supreme Court shall have inherent jurisdiction to review the constitutionality of all international treaties the Cabinet intends to sign and no international treaty shall be signed unless the Supreme Court, unanimously, declares the treaty to be constitutional.
-  * **§IV.10(8)** The Supreme Court shall have inherent jurisdiction to review the validity of any election or referendum upon the request of one-quarter of the overall number of Assembly Representatives or 3% of the overall number of Citizens registered to vote at the time of the last General Election.
-  * **§IV.10(9)** The Supreme Court shall have inherent jurisdiction to rule on the Chancellor's ability to perform his or her duties upon request by a simple majority of all Members of the Cabinet or the Vice-Chancellor.
-* **§IV.11.** The Civil Court shall have jurisdiction to adjudicate all disputes concerning contracts which were made under, and civil wrongs which took place within, the jurisdiction of the Free Republic of Liberland.
-  * **§IV.11(1)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute.
-  * **§IV.11(2)** The fairness of arbitration proceedings shall be judged in reference to proceedings taking place before the Civil Court and, if questioned, may be subject to a challenge in this Court.
-  * **§IV.11(3)** Contracts may require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
-  * **§IV.11(4)** The Civil Court shall have jurisdiction to adjudicate all disputes between Citizens or other Residents of the Free Republic of Liberland and any body of the Public Administration.
-  * **§IV.11(5)** The Civil Court shall have jurisdiction to adjudicate all disputes between two or more bodies of the Public Administration.
-  * **§IV.11(6)** The Civil Court shall have jurisdiction to hear cases concerned with the well-being of Minors and Persons lacking mental capacity.
-  * **§IV.11(7)** The Civil Court may adjudicate civil disputes concerning contracts made outside the jurisdiction of the Free Republic of Liberland provided such jurisdiction has been conferred upon it by law.
-  * **§IV.11(8)** All disputes concerning subject matter of small value as prescribed by law shall be adjudicated by one Judge whereas all other disputes shall be adjudicated by a panel of three Judges reaching a decision with a simple majority.
-  * **§IV.11(9)** The Civil Court shall have the power to issue Publication Orders in accordance with this Constitution and Warrants, injunctions and other orders as prescribed by law.
-* **§IV.12.** All administrative decisions of any branch of the Public Administration, and actions undertaken by its Agents, which are capable of affecting any Person, may be subject to challenge in the Civil Court by such a Person.
-  * **§IV.12(1)** All Executive Measures issued by the Cabinet may be subject to challenge in the Civil Court by a Person affected thereby or, in the absence of such a Person, by any association composed of no fewer than thirty Citizens.
-  * **§IV.12(2)** Without prejudice to the appeal procedures, such challenge shall be admissible once only unless the original challenge was not genuine but brought in order to shield the defendant from liability or where a new challenge raises a different point of law.
-  * **§IV.12(3)** The right described in this provision shall be exercisable once all administrative appeals have been exhausted.
-* **§IV.13.** The Victim of an alleged criminal offence shall have the inherent right to institute a Private Prosecution of an accused Person.
-  * **§IV.13(1)** The Private Prosecution may be instituted by the Victim in person or by appointed Proxy on her or his behalf.
-  * **§IV.13(2)** Proxy may be any legal or natural Person expressly appointed by the Victim, whether inter vivos or in a last will, to be in charge of the prosecution in question.
-  * **§IV.13(3)** Should the Victim be a Minor or a Person lacking mental capacity, his or her Guardian shall be deemed to be a Proxy unless he or she is involved in the commission of the relevant offence in which case a Public Prosecution may be instituted.
-  * **§IV.13(4)** The Victim or appointed Proxy may request the Office of the Public Prosecutor to institute a Public Prosecution free of charge on her or his behalf.
-* **§IV.14.** A Public Prosecution of an accused Person shall be instituted by the Office of the Public Prosecutor on behalf of the Victim or the Citizens of the Free Republic of Liberland.
-  * **§IV.14(1)** Should an alleged criminal offence leave no Victim or Proxy capable of instituting a Private Prosecution, the Office of the Public Prosecutor shall have the power to institute a Public Prosecution on behalf of the Citizens of the Free Republic of Liberland.
-  * **§IV.14(2)** Should the Victim or a Proxy request the Office of the Public Prosecutor to institute a Public Prosecution and evidence be sufficient, it shall be under obligation to institute such prosecution.
-  * **§IV.14(3)** Should a Public Prosecution be instituted, the Victim shall have the right:
-   * **§IV.14(3)(a)** to be notified about the schedule of the judicial proceedings; 
-   * **§IV.14(3)(b)** to address the Criminal Court before the sentence is determined; 
-   * **§IV.14(3)(c)** to be advised of release from custody or escape of the accused.
-* **§IV.15.** Should a criminal offence be allegedly committed by a Member or Agent of the Public Administration in the course of his or her official duties, and no one Victim has been left by such an offence, a public prosecution may be instituted.
-  * **§IV.15(1)** Where no public prosecution has been brought within a reasonable period of time, a private prosecution may be brought by any association composed of no fewer than thirty Citizens.
-  * **§IV.15(2)** Where a private prosecution is instituted in place of a public prosecution, the Office of the Public Prosecutor shall fully cooperate with the association in charge of the proceedings.
-* **§IV.16.** All criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of “Guilty” or “Not guilty”.
-  * **§IV.16(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register.
-  * **§IV.16(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
-  * **§IV.16(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
-  * **§IV.16(4)** The Jury shall, under all circumstances, retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
-  * **§IV.16(5)** The Jury shall reach its decisions with no fewer than eleven votes.
-  * **§IV.16(6)** Should the Jury not be able to render a verdict with eleven votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
-  * **§IV.16(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
-  * **§IV.16(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
-  * **§IV.16(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
-  * **§IV.16(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
-* **§IV.17.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
-  * **§IV.17(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
-  * **§IV.17(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants and Orders within the powers of the relevant Court which shall be reviewable at a full trial.
-  * **§IV.17(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:
-   * **§IV.17(3)(a)** no probable cause has been proven to the satisfaction of the Court;
-   * **§IV.17(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
-   * **§IV.17(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
-  * **§IV.17(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
-* **§IV.18.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
-  * **§IV.18(1)** Upon a conviction in the Criminal Court by the Jury;
-  * **§IV.18(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
-  * **§IV.18(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
-  * **§IV.18(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
-  * **§IV.18(5)** Upon an order of the Civil Court providing for further detention of a Resident pending deportation proceedings;
-  * **§IV.18(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
-  * **§IV.18(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
-  * **§IV.18(8)** Nothing in this provision shall affect the powers of arrest, short-term detention of a Resident pending deportation proceedings or sequestration of Jurors as enumerated in this Constitution.
-* **§IV.19.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
-* **§IV.20.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
-* **§IV.21.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
-* **§IV.22.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
+* **§IV.3.** The Courts of the Free Republic of Liberland shall first and foremost protect the Rights of Citizens and other Residents of the Free Republic of Liebrland by upholding the Constitution and any laws passed in accordance therewith.
+* **§IV.4.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
+  * **§IV.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
+  * **§IV.4(2)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.
+  * **§IV.4(3)** No Agent of Law Enforcement shall enter the premises of any Court of the Free Republic of Liberland unless with the express and informed consent of the Secretariat of the Judiciary or pursuant to the Supreme Warrant.
+* **§IV.5.** The Judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any other branch of the Public Administration.
+  * **§IV.5(1)** The remuneration of the Judges shall not be lowered without the express and informed consent of the Secretariat of the Judiciary of the Free Republic of Liberland.
+  * **§IV.5(2)** No Judge of any Court of the Free Republic of Liberland shall be arrested for any period whatsoever unless pursuant to the Supreme Warrant or under exigent circumstances where there is a direct threat to others or where vital evidence may be destroyed.
+  * **§IV.5(3)** Where a Judge is placed under arrest without the Supreme Warrant, the Chief Justice of the Supreme Court shall be immediately notified about the detainment and shall have the power to order immediate release of the detained Judge.
+  * **§IV.5(4)** Should the Chief Justice of the Supreme Court be the Judge arrested, the most senior Justice of the Supreme Court shall have the power to order the immediate release of him or her.
+  * **§IV.5(5)** The Supreme Warrant shall be issued by the Chief Justice of the Supreme Court, or by at least three Justices of the Supreme Court acting together, upon request by the Office of the Public Prosecutor supported by clear and convincing evidence of an alleged offence.
+* **§IV.6.** The Judicial Appointment Commission shall appoint qualified lawyers for the positions of Judges of the Civil Court and the Criminal Court.
+  * **§IV.6(1)** The Judicial Appointment Commission shall be composed of nine members appointed or elected for a term of six years:
+   * **§IV.6(1)(a)** three members appointed by the Chief Justice of Supreme Court;
+   * **§IV.6(1)(b)** three members appointed by the Chief Attorney of the Republic;
+   * **§IV.6(1)(c)** three members elected by the Citizens of the Free Republic of Liberland.
+  * **§IV.6(2)** The Judicial Appointment Commission shall sit en banc and it shall reach its decisions with no fewer than seven votes.
+  * **§IV.6(3)** No Person shall hold the office of any Judge of any Court of the Free Republic of Liberland whilst holding any other public office within the legislative or executive branch of the Public Administration concurrently.
+* **§IV.7.** The Judicial Appointment Commission shall have the power to inquire into alleged misconduct of any Judge of the Civil Court or the Criminal Court.
+  * **§IV.7(1)** The Judicial Appointment Commission shall have the power to subpoena Judges of the Civil Court and the Criminal Court and Agents of the Public Administration to hear testimonies given under oath.
+  * **§IV.7(2)** The Judicial Appointment Commission may remove any Judge of the Civil Court or the Criminal Court from the office upon a proven case of gross misconduct or intentional procurement of the miscarriage of justice.
+  * **§IV.7(3)** Should there be suspicion that any Judge of the Civil Court or the Criminal Court issues Warrants or Orders too leniently, the Judicial Appointment Commission shall have the power to inquire into the justifiability of such Warrants or Orders, and may remove such a Judge from his or her office upon proving that is the case.
+  * **§IV.7(4)** Should the Judicial Appointment Commission find evidence of any criminal conduct, it shall be passed to the Office of the Chief Public Prosecutor; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+  * **§IV.7(5)** The Judicial Appointment Commission shall have the power to declare any Judge of any Court of the Free Republic of Liberland to be unable to continue to hold his or her office due to very poor health or old age but not before the age of seventy-five.
+* **§IV.8.** The Supreme Court shall be composed of four Justices of the Supreme Court and the Chief Justice of the Supreme Court who shall preside over the Court.
+  * **§IV.8(1)** The Supreme Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
+  * **§IV.8(2)** All verdicts of the Supreme Court shall be binding upon the parties to the proceedings and the Civil Court and the Criminal Court on the point of law in all future proceedings where applicable.
+  * **§IV.8(3)** Should the office of any of the Justices of the Supreme Court become vacant, the Chancellor shall appoint a current or former Judge of the Criminal Court or the Civil Court for the position for life.
+  * **§IV.8(4)** Should the office of the Chief Justice of the Supreme Court become vacant, the Chancellor shall appoint the most senior Justice of the Supreme Court for the position for life.
+  * **§IV.8(5)** The Chief Justice or any Justice of the Supreme Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election or by the Judicial Appointment Commission as described in this Constitution.
+  * **§IV.8(6)** Should any Justice or the Chief Justice of the Supreme Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, he or she shall be replaced for the purposes or the proceedings in question by the most senior of Judges of the Civil Court and the Criminal Court.
+* **§IV.9.** The Supreme Court shall have compulsory appellate and inherent jurisdiction as prescribed in this Constitution and powers to issue Warrants, injunctions and other orders as prescribed by law.
+  * **§IV.9(1)** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law, material procedural irregularity or severity of sentence.
+  * **§IV.9(2)** The Supreme Court shall have inherent jurisdiction to issue declarations as to the law and Constitution of the Free Republic of Liberland upon request by the Chief Attorney of the Republic.
+  * **§IV.9(3)** The Supreme Court shall have inherent jurisdiction to review the prima facie constitutionality of all Bills passed in accordance with Article II which shall take place within ninety days and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, unanimously, declares the Bill to be constitutional.
+  * **§IV.9(4)** Upon reviewing the prima facie constitutionality of a Bill, the Supreme Court shall hear submissions, which are of relevance for the outcome of the determination, from the Cabinet and any association composed of no fewer than thirty Citizens.
+  * **§IV.9(5)** Should a Bill be declared unconstitutional by reason only of parts of the Bill which may reasonably be excised from the whole, the Supreme Court shall send the remainder of such Bill to the Assembly which may pass a resolution authorising the remainder of the Bill proceed for consideration of Citizens as provided in Article II.
+  * **§IV.9(6)** The Supreme Court shall retain the power to strike down any provision of any Act passed in accordance with Article II as unconstitutional at any criminal or civil proceedings notwithstanding the declaration of the prima facie constitutionality; such provision shall be disapplied on the appeal in question and shall be deemed no longer in force at the time the verdict is given.
+  * **§IV.9(7)** The Supreme Court shall have inherent jurisdiction to review the constitutionality of all international treaties the Cabinet intends to sign and no international treaty shall be signed unless the Supreme Court, unanimously, declares the treaty to be constitutional.
+  * **§IV.9(8)** The Supreme Court shall have inherent jurisdiction to review the validity of any election or referendum upon the request of one-quarter of the overall number of Assembly Representatives or 3% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§IV.9(9)** The Supreme Court shall have inherent jurisdiction to rule on the Chancellor's ability to perform his or her duties upon request by a simple majority of all Members of the Cabinet or the Vice-Chancellor.
+* **§IV.10.** The Civil Court shall have jurisdiction to adjudicate all disputes concerning contracts which were made under, and civil wrongs which took place within, the jurisdiction of the Free Republic of Liberland.
+  * **§IV.10(1)** The jurisdiction of the Civil Court shall not be ousted by any contract unless fair arbitration proceedings are envisaged in case of dispute.
+  * **§IV.10(2)** The fairness of arbitration proceedings shall be judged in reference to proceedings taking place before the Civil Court and, if questioned, may be subject to a challenge in this Court.
+  * **§IV.10(3)** Contracts may require parties to attempt mediation before the jurisdiction of the Court becomes exercisable.
+  * **§IV.10(4)** The Civil Court shall have jurisdiction to adjudicate all disputes between Citizens or other Residents of the Free Republic of Liberland and any body of the Public Administration.
+  * **§IV.10(5)** The Civil Court shall have jurisdiction to adjudicate all disputes between two or more bodies of the Public Administration.
+  * **§IV.10(6)** The Civil Court shall have jurisdiction to hear cases concerned with the well-being of Minors and Persons lacking mental capacity.
+  * **§IV.10(7)** The Civil Court may adjudicate civil disputes concerning contracts made outside the jurisdiction of the Free Republic of Liberland provided such jurisdiction has been conferred upon it by law.
+  * **§IV.10(8)** All disputes concerning subject matter of small value as prescribed by law shall be adjudicated by one Judge whereas all other disputes shall be adjudicated by a panel of three Judges reaching a decision with a simple majority.
+  * **§IV.10(9)** The Civil Court shall have the power to issue Publication Orders in accordance with this Constitution and Warrants, injunctions and other orders as prescribed by law.
+* **§IV.11.** All administrative decisions of any branch of the Public Administration, and actions undertaken by its Agents, which are capable of affecting any Person, may be subject to challenge in the Civil Court by such a Person.
+  * **§IV.11(1)** All Executive Measures issued by the Cabinet may be subject to challenge in the Civil Court by a Person affected thereby or, in the absence of such a Person, by any association composed of no fewer than thirty Citizens.
+  * **§IV.11(2)** Without prejudice to the appeal procedures, such challenge shall be admissible once only unless the original challenge was not genuine but brought in order to shield the defendant from liability or where a new challenge raises a different point of law.
+  * **§IV.11(3)** The right described in this provision shall be exercisable once all administrative appeals have been exhausted.
+* **§IV.12.** The Victim of an alleged criminal offence shall have the inherent right to institute a Private Prosecution of an accused Person.
+  * **§IV.12(1)** The Private Prosecution may be instituted by the Victim in person or by appointed Proxy on her or his behalf.
+  * **§IV.12(2)** Proxy may be any legal or natural Person expressly appointed by the Victim, whether inter vivos or in a last will, to be in charge of the prosecution in question.
+  * **§IV.12(3)** Should the Victim be a Minor or a Person lacking mental capacity, his or her Guardian shall be deemed to be a Proxy unless he or she is involved in the commission of the relevant offence in which case a Public Prosecution may be instituted.
+  * **§IV.12(4)** The Victim or appointed Proxy may request the Office of the Public Prosecutor to institute a Public Prosecution free of charge on her or his behalf in which case the Office of the Public Prosecutor shall be under obligation to institute such prosecution where evidence is sufficient.
+  * **§IV.12(5)** Where a Public Prosecution is instituted on behalf of the Victim, he or she shall have the right:
+   * **§IV.12(5)(a)** three members appointed by the Chief Justice of Supreme Court;to be notified about the schedule of the judicial proceedings;
+   * **§IV.12(5)(b)** to address the Criminal Court before the sentence is determined;
+   * **§IV.12(5)(c)** to be advised of release from custody or escape of the accused.
+* **§IV.13.** Should an alleged criminal offence leave no Victim or Proxy capable of instituting a Private Prosecution, the Office of the Public Prosecutor shall have the power to institute a Public Prosecution on behalf of the Citizens of the Free Republic of Liberland.
+  * **§IV.13(1)** Should a criminal offence be allegedly committed by a Member or Agent of the Public Administration in the course of his or her official duties, and no public prosecution has been brought within a reasonable period of time, a Private Prosecution may be brought by any association composed of no fewer than thirty Citizens.
+  * **§IV.13(2)** Where a Private Prosecution is instituted in place of a Public Prosecution, the Office of the Public Prosecutor shall fully cooperate with the association in charge of the proceedings.
+* **§IV.14.** All criminal offences shall be tried in the Criminal Court before a Judge with a panel of Jury to give a verdict of “Guilty” or “Not guilty”.
+  * **§IV.14(1)** The Jury shall be composed of twelve impartial Citizens drawn randomly from the Electoral Register.
+  * **§IV.14(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
+  * **§IV.14(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
+  * **§IV.14(4)** The Jury shall, under all circumstances, retain the unequivocal right to acquit and shall be informed of this right; such acquittal shall be final.
+  * **§IV.14(5)** The Jury shall reach its decisions with no fewer than eleven votes.
+  * **§IV.14(6)** Should the Jury not be able to render a verdict with eleven votes within reasonable time, the Judge shall order retrial with a newly appointed Jury; such retrial shall be considered to be a continuation of the original proceedings.
+  * **§IV.14(7)** The Jury shall render the verdict free from any form of coercion; the Judge may order sequestration of the Jurors should it be required for the independence of the Jury.
+  * **§IV.14(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
+  * **§IV.14(9)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is within the jurisdiction of the Free Republic of Liberland.
+  * **§IV.14(10)** The Criminal Court shall have the power to issue Warrants as prescribed by this Constitution and injunctions and other orders as prescribed by law.
+* **§IV.15.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
+  * **§IV.15(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
+  * **§IV.15(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants and Orders within the powers of the relevant Court which shall be reviewable at a full trial.
+  * **§IV.15(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:
+   * **§IV.15(3)(a)** no probable cause has been proven to the satisfaction of the Court;
+   * **§IV.15(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
+   * **§IV.15(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
+  * **§IV.15(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
+* **§IV.16.** No Person shall have his or her physical liberty restricted unless pursuant to a decision of the Courts of the Free Republic of Liberland in the following circumstances:
+  * **§IV.16(1)** Upon a conviction in the Criminal Court by the Jury;
+  * **§IV.16(2)** Upon an order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
+  * **§IV.16(3)** Upon an order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
+  * **§IV.16(4)** Upon an order of the Civil Court committing a Minor to an in-house care;
+  * **§IV.16(5)** Upon an order of the Civil Court providing for further detention of a Resident pending deportation proceedings;
+  * **§IV.16(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
+  * **§IV.16(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.
+  * **§IV.16(8)** Nothing in this provision shall affect the powers of arrest, short-term detention of a Resident pending deportation proceedings or sequestration of Jurors as enumerated in this Constitution.
+* **§IV.17.** No special commissions or tribunals shall be instituted, nor any military Courts or otherwise which are not recognised by this Constitution; no Person shall be threatened with, or subjected to, penalties other than those provided by the law, including those provided for criminal offences created by Acts of the Assembly and those offences which flow from the Constitution.
+* **§IV.18.** All powers, and restrictions placed thereon, of the Civil Court and the Criminal Court shall equally apply to the Supreme Court upon appeals from such Courts.
+* **§IV.19.** All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
+* **§IV.20.** Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
 
 ## Chapter 3: Bill of Rights
 

@@ -163,7 +163,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§II.27.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article pending the consideration by the Supreme Court.
 * **§II.28.** A Bill shall become “Under Consideration” upon the declaration of constitutionality by the Supreme Court in accordance with the procedure laid down in Article IV.
 * **§II.29.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §II.28., and either sixty days have passed and no referendum has been called in accordance with §II.24., or on the day the Bill obtained the assent of the Citizens in referendum under §II.24. or §II.25.
-* **§II.30.** An Act shall enter into force on the date prescribed therein but no sooner than on the thirty-first day after it became the law of the Free Republic of Liberland in accordane with §II.29.
+* **§II.30.** An Act shall enter into force on a date prescribed therein but no sooner than after thirty days of vacatio legis from the date it became the law of the Free Republic of Liberland in accordane with §II.29.
 
 ### Article III: The Executive Power
 

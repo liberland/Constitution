@@ -168,7 +168,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
 * **§III.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
-  * **§III.2(1)** The Cabinet shall be composed of the Chancellor, Secretaries of States, Under-Secretaries of State and other Members as determined by internal rules adopted by the Cabinet.
+  * **§III.2(1)** The Cabinet shall be composed of the Chancellor, Secretaries of States, Under-Secretaries of State and any other Members as determined by the Chancellor.
   * **§III.2(2)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
   * **§III.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
   * **§III.2(4)** Should the Chancellor, or Vice-Chancellor where applicable, cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.
@@ -206,7 +206,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§III.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
 * **§III.10.** Each Department shall be headed by the Secretary of State for the respective Department.
   * **§III.10(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-  * **§III.10(2)** All Secretaries of State may appoint and remove Under-Secretaries of State for their Departments as deemed appropriate.
+  * **§III.10(2)** All Secretaries of State may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
 * **§III.11.** The Chief Attorney of the Republic shall be independent and shall head the Office of the Chief Attorney of the Republic.
   * **§III.11(1)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
   * **§III.11(2)** The Chief Attorney of the Republic shall have the power to request the Supreme Court to issue a declaration as to the law and/or the Constitution of the Free Republic of Liberland.

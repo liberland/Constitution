@@ -160,9 +160,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§II.26(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
   * **§II.26(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
   * **§II.26(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§II.27.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article.
-* **§II.28.** A Bill shall become “Under Consideration” upon constitutional declaration by the Supreme Court of the Free Republic of Liberland according to the procedure laid down in Article IV.
-* **§II.29.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it has become “Under Consideration” in accordance with the procedure provided for in §II.28., and either sixty days have passed and no referendum has been called in accordance with §II.24., or on the day the Bill obtained the assent of the Citizens in referendum under §II.24. or §II.25.
+* **§II.27.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article pending the consideration by the Supreme Court.
+* **§II.28.** A Bill shall become “Under Consideration” upon the declaration of constitutionality by the Supreme Court in accordance with the procedure laid down in Article IV.
+* **§II.29.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §II.28., and either sixty days have passed and no referendum has been called in accordance with §II.24., or on the day the Bill obtained the assent of the Citizens in referendum under §II.24. or §II.25.
+* **§II.30.** An Act shall enter into force on the date prescribed therein but no sooner than on the thirty-first day after it became the law of the Free Republic of Liberland in accordane with §II.29.
 
 ### Article III: The Executive Power
 

@@ -293,10 +293,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.12(2)** Proxy may be any legal or natural Person expressly appointed by the Victim, whether inter vivos or in a last will, to be in charge of the prosecution in question.
   * **§IV.12(3)** Should the Victim be a Minor or a Person lacking mental capacity, his or her Guardian shall be deemed to be a Proxy unless he or she is involved in the commission of the relevant offence in which case a Public Prosecution may be instituted.
   * **§IV.12(4)** The Victim or appointed Proxy may request the Office of the Public Prosecutor to institute a Public Prosecution free of charge on her or his behalf in which case the Office of the Public Prosecutor shall be under obligation to institute such prosecution where evidence is sufficient.
-  * **§IV.12(5)** Where a Public Prosecution is instituted on behalf of the Victim, he or she shall have the right:
+  * **§IV.12(5)** Where a Public Prosecution is instituted on behalf of the Victim or the Proxy, he or she shall have the right:
    * **§IV.12(5)(a)** to be notified about the schedule of the judicial proceedings;
    * **§IV.12(5)(b)** to address the Criminal Court before the sentence is determined;
-   * **§IV.12(5)(c)** to be advised of release from custody or escape of the accused.
+   * **§IV.12(5)(c)** to be advised of release from custody or escape of the defendant.
 * **§IV.13.** Should an alleged criminal offence leave no Victim or Proxy capable of instituting a Private Prosecution, the Office of the Public Prosecutor shall have the power to institute a Public Prosecution on behalf of the Citizens of the Free Republic of Liberland.
   * **§IV.13(1)** Should a criminal offence be allegedly committed by a Member or Agent of the Public Administration in the course of his or her official duties, and no public prosecution has been brought within a reasonable period of time, a Private Prosecution may be brought by any association composed of no fewer than thirty Citizens.
   * **§IV.13(2)** Where a Private Prosecution is instituted in place of a Public Prosecution, the Office of the Public Prosecutor shall fully cooperate with the association in charge of the proceedings.

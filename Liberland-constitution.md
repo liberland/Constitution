@@ -170,7 +170,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§III.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
 * **§III.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
-  * **§III.2(1)** The Cabinet shall be composed of the Chancellor, Secretaries of States, Under-Secretaries of State and any other Members as determined by the Chancellor.
+  * **§III.2(1)** The Cabinet shall be composed of the Chancellor, the five Secretaries of States, Under-Secretaries of State and any other Members the Chancellor may determine.
   * **§III.2(2)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
   * **§III.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
   * **§III.2(4)** Should the Chancellor, or Vice-Chancellor where applicable, cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.

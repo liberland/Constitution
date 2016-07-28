@@ -245,7 +245,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§VI.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
-* **§VI.3.** The Courts of the Free Republic of Liberland shall first and foremost protect the Rights of Citizens and other Residents of the Free Republic of Liebrland by upholding the Constitution and any laws passed in accordance therewith.
+* **§VI.3.** The Courts of the Free Republic of Liberland shall first and foremost protect the Rights of Citizens and other Residents of the Free Republic of Liberland by upholding the Constitution and any laws passed in accordance therewith.
 * **§VI.4.** The Judges of the Courts of the Free Republic of Liberland shall regulate their own affairs within the Secretariat of the Judiciary of the Free Republic of Liberland.
   * **§VI.4(1)** The Secretariat of the Judiciary shall be headed by the Chief Justice of the Supreme Court.
   * **§VI.4(2)** The Secretariat of the Judiciary shall supervise all Agents of the judicial branch of the Public Administration.

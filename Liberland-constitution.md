@@ -62,7 +62,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.4.** One-quarter of the overall number of Assembly Representatives shall have the right to propose a resolution dissolving the Assembly.
   * **§IV.4(1)** The resolution shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§IV.4(2)** Should the Assembly be dissolved, a General Election shall be held within sixty days.
-* **§IV.5.** The Assembly shall, among themselves, elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives. 
+* **§IV.5.** The Assembly shall, amongst themselves, elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§IV.5(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§IV.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
 * **§IV.6.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.

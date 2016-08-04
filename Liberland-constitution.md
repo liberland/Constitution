@@ -335,7 +335,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§VI.16(1)** Upon a conviction in the Criminal Court by the Jury;
   * **§VI.16(2)** Upon an Order of the Civil Court committing a Person lacking mental capacity to a mental health institution;
   * **§VI.16(3)** Upon an Order of the Civil Court providing for medical isolation of a Person suspected of being infected with any highly contagious and deadly disease;
-  * **§IVI.16(4)** Upon an Order of the Civil Court committing a Minor to an in-house care;
+  * **§VI.16(4)** Upon an Order of the Civil Court committing a Minor to an in-house care;
   * **§VI.16(5)** Upon an Order of the Civil Court providing for further detention of a Resident pending deportation proceedings;
   * **§VI.16(6)** Upon a decision of any Court to commit any Person to prison for no more than seven days for a contempt of court committed either by disruption of judicial proceedings or by disobeying a Court order.
   * **§VI.16(7)** Should such Person disobey the same order of a Court more than once, he or she shall be tried in a regular manner for a criminal offence as regulated by law and not limited to a seven-day imprisonment.

@@ -15,20 +15,20 @@ The Constitution of the Free Republic of Liberland shall lay the foundations of 
 * **§I.3.** Should the Public Administration abandon the Constitution and assume a despotic form of governance, and should no mechanism for peaceful transformation be available, the Citizens of the Free Republic of Liberland shall have the right and duty to abolish such government and restore the legal order envisaged by this Constitution.
 * **§I.4.** The Powers of the Public Administration shall be derived solely from the provisions of this Constitution and neither the Public Administration, nor any Agent or Member thereof, shall possess any inherent authority; the Public Administration shall neither have nor exercise any power other than those expressly conferred upon it by this Constitution.
 * **§I.5.** Customary international law shall form part of the legal system of the Free Republic of Liberland, and as such shall be directly enforceable before the Courts of the Free Republic of Liberland, insofar as it does not contravene the Constitution or any law passed in accordance therewith; where any party to any proceedings before any Court wishes to rely on any principle of customary international law or provision of any international treaty, its interpretation shall lie within competences of the Courts of the Free Republic of Liberland.
-* **§I.6.** Any law creating an obligation vis-a-vis any Person, shall contain a precise definition of such obligation and all of its elements, a general scope of its application, available defences and the nature and minimum (if any) and maximum extent of punishment that may be imposed for its breach; all criminal offences shall be enumerated in a single Criminal Code.
+* **§I.6.** Any law creating any obligation vis-a-vis any Person, shall contain a precise definition of such obligation and all of its elements, a general scope of its application, available defences and the nature and minimum (if any) and maximum extent of punishment that may be imposed for its breach; all criminal offences shall be enumerated in a single Criminal Code.
 
 ### Article II: Corners of Powers of the Public Administration
 
-* **§II.1.** No law shall prohibit any act or omission which does not directly harm any other Person or cause unwarranted suffering to an animal capable of conscious behaviour or harm to the environment beyond the boundaries of one’s property; nor shall any law prohibit any act or omission which has been validly consented to by another Individual; no Individual shall be considered a victim of one’s acts or omissions; nothing in this provision shall prevent the Assembly from criminalising conduct interfering with the constitutional functions of the Public Administration or attempting, preparing, threatening to commit, participating in, and benefiting from, a criminal offence.
+* **§II.1.** No law shall prohibit any act or omission which does not a) directly harm any other Person, b) cause unwarranted suffering to an animal capable of conscious behaviour or c) harm to the environment beyond the boundaries of one’s property; nor shall any law prohibit any act or omission which has been validly consented to by another Individual; no Individual shall be considered a victim of one’s acts or omissions; nothing in this provision shall prevent the Assembly from criminalising conduct interfering with the constitutional functions of the Public Administration or any form of direct or indirect participating in a criminal offence.
 * **§II.2.** No law shall retroactively change the legal consequences and/or status of actions that have been already committed, or relationships that already existed, before the enactment of said law.
 * **§II.3.** No Person shall be threatened with, or subjected to, any punishment which has not been expressly provided for by an Act of the Assembly or the Constitution, nor shall any Person be punished for any act or omission which has not been expressly forbidden by an Act of the Assembly or the Constitution.
-* **§II.4.** No branch of the Public Administration shall introduce any state of emergency or war, or any other special state in which one or more of the Rights guaranteed by this Constitution would be diminished or suspended or revoked; any purported such introduction shall of no effect.
-* **§II.5.** No branch of the Public Administration shall take a loan, be it foreign or domestic, short or long term, special or commercial; no government bond shall be issued; no debt shall be incurred by any branch of the Public Administration for any purpose; only voluntary donations with no expectation of repayment or quid pro quo shall be allowed.
+* **§II.4.** No branch of the Public Administration shall introduce any state of emergency or war, or any other special state in which one or more of the Rights guaranteed by this Constitution would be diminished or suspended or revoked; any purported such introduction shall be of no effect.
+* **§II.5.** No branch of the Public Administration shall take any form loan whatsoever; no government bond shall be issued; no debt shall be incurred by any branch of the Public Administration for any purpose.
 * **§II.6.** No branch of the Public Administration, nor any number of Citizens or other Residents of the Free Republic of Liberland, shall propose and/or consent to the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction; a majority of two-thirds of the overall number of Assembly Representatives may assent to the incorporation of any new territory to the Free Republic of Liberland upon the request of its people or government with any status the Assembly may determine.
-* **§II.7.** No branch of the Public Administration shall give any form of foreign aid to any state or entity, whether directly or via any international institution, be it a non-repayable grant, loan or any other financial support; nothing in this provision shall prevent the Public Administration from meeting its financial liabilities flowing from the membership in any intergovernmental organisation.
+* **§II.7.** No branch of the Public Administration shall give any form of foreign aid whatsoever to any state or entity, whether directly or via any international institution; nothing in this provision shall prevent the Public Administration from meeting its financial liabilities flowing from the membership in any intergovernmental organisation.
 * **§II.8.** No branch of the Public Administration shall establish any standing army; nor shall it declare war and/or carry out military activities other than in defence of the border of the Free Republic of Liberland in reaction to an act of armed aggression against the Free Republic of Liberland which has already taken place or is imminent; nor shall any branch of the Public Administration invite any armed forces of any other state or organisation into the jurisdiction of the Free Republic of Liberland except for a reasonable number of security personnel accompanying a foreign visit.
-* **§II.9.** No branch of the Public Administration shall finance, or partially finance, any private organisation, corporation or service contracted between any natural and/or legal Persons; no assets shall be transferred by any branch of the Public Administration, be it in the form of a loan, non-repayable grant or periodic payments, to any legal and/or natural Person unless as remuneration for contracted goods and/or services necessary for the functioning of the Public Administration as envisaged in the Constitution.
-* **§II.10.** No branch of the Public Administration shall contract with any legal or natural Person, state or entity for the purposes of acquiring data it itself is not entitled to acquire under this Constitution or any laws passed in accordance therewith; nor shall any branch of the Public Administration be allowed to procure any legal or natural person to commit what it itself is not entitled to commit under this Constitution or any laws passed in accordance therewith.
+* **§II.9.** No branch of the Public Administration shall finance, or partially finance, in any form whatsoever, any private association, corporation or service contracted between any natural and/or legal Persons; no assets shall be transferred by any branch of the Public Administration, to any legal and/or natural Person unless as remuneration for contracted goods and/or services necessary for the functioning of the Public Administration as envisaged in the Constitution.
+* **§II.10.** No branch of the Public Administration shall contract with any legal or natural Person, state or entity for the purposes of acquiring data it itself is not entitled to acquire under this Constitution or any laws passed in accordance therewith; nor shall any branch of the Public Administration be allowed to procure any legal or natural Person to commit what it itself is not entitled to commit under this Constitution or any laws passed in accordance therewith.
 
 ### Article III: Agents and Members of the Public Administration
 
@@ -65,37 +65,38 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.5.** The Assembly shall, amongst themselves, elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§IV.5(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§IV.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
-* **§IV.6.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
+* **§IV.6.** The Bureau of the Assembly shall administer the business of the Assembly.
   * **§IV.6(1)** The Bureau of the Assembly shall supervise all Agents of the legislative branch of the Public Administration.
   * **§IV.6(2)** No Agent of Law Enforcement shall enter the premises of the Assembly unless with the express and informed consent of the Bureau of the Assembly or pursuant to a Warrant.
-* **§IV.7.**  The Assembly shall have the power to pass Bills for the following purposes only:
-  * **§IV.7(1)** to establish rules regarding peaceful coexistence of Persons, security of their Property and Rights, their enforcement and protection of Minors, Persons lacking mental capacity and the environment as provided for in ordinary Bills;
-  * **§IV.7(2)** to conduct the financial affairs of the Public Administration as provided in Financial Bills;
-  * **§IV.7(3)** to impose the Fee on land as provided for in Land Bills;
-  * **§IV.7(4)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
+* **§IV.7.**  The Assembly shall have the power to pass the following types of Bills only:
+  * **§IV.7(1)** an ordinary Bill;
+  * **§IV.7(2)** a Financial Bill;
+  * **§IV.7(3)** a Land Bill;
+  * **§IV.7(4)** a Treaty Bill;
+  * **§IV.7(5)** a Constitutional Bill.
 * **§IV.8.** The Assembly shall have the power to pass Resolutions for the following purposes only:
   * **§IV.8(1)** to assent to the incorporation of any new territories to the Free Republic of Liberland;
   * **§IV.8(2)** to establish the Assembly Committee;
-  * **§IV.8(3)** to assent to the classification of information as a state secret for the purposes of national security as proposed by a Secretary of State;
+  * **§IV.8(3)** to assent to the classification of information as a state secret for the purposes of national security;
   * **§IV.8(4)** to appoint and impeach the Chancellor;
   * **§IV.8(5)** to consent to the use of the Territorial Defence force within the ten kilometre radius from the borders of the Free Republic of Liberland;
   * **§IV.8(6)** to request the Supreme Court to review the validity of any election or referendum held within the Free Republic of Liberland;
   * **§IV.8(7)** to appoint and replace the Assembly Speaker;
   * **§IV.8(8)** to regulate its sessions and dissolution;
-  * **§IV.8(9)** to accept or reject the remainder of a Bill that has been declared partially unconstitutional to proceed to the stage of potential veto by the Citizens.
-* **§IV.9.** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
+  * **§IV.8(9)** to accept or reject the remainder of a Bill that has been declared partially unconstitutional;
+* **§IV.9.** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any other Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
   * **§IV.9(1)** One-quarter of the overall number of Assembly Representatives shall have the power to oblige the Cabinet to consider a draft of a Bill prepared by them, which may be rejected or accepted by the Cabinet as a future Bill.
   * **§IV.9(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
 * **§IV.10.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
   * **§IV.10(1)**  Should no Chancellor be elected within thirty days of a General Election, a new General Election shall be held within sixty days.
   * **§IV.10(2)** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
-* **§IV.11.** One-quarter of the overall number of Assembly Representatives shall have the power to propose a resolution instituting the Assembly Committee.
-  * **§IV.11(1)** The resolution shall be passed with a simple majority of the overall number of Assembly Representatives.
-  * **§IV.11(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
+* **§IV.11.** One-quarter of the overall number of Assembly Representatives shall have the power to propose a Resolution instituting the Assembly Committee.
+  * **§IV.11(1)** The Resolution shall be passed with a simple majority of the overall number of Assembly Representatives.
+  * **§IV.11(2)** The Assembly Committee shall be composed of five Assembly Representatives as provided in the Resolution.
   * **§IV.11(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the Public Administration, other than Judges of any Court of the Free Republic of Liberland, in order to investigate the allegations.
   * **§IV.11(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the Public Administration, other than Judges of any Court of the Free Republic of Liberland, to hear testimonies given under oath.
   * **§IV.11(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement which shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
-  * **§IV.11(6)** Should any Agent or Member of the Public Administration be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+  * **§IV.11(6)** Should any Agent or Member of the Public Administration be found by the Assembly Committee to be in breach of the internal rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
   * **§IV.11(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
 * **§IV.12.** The power to initiate a legislative procedure shall lie with the Cabinet only.
   * **§IV.12(1)** This power shall be exercised once a year only by submitting a Bill or Bills to the Assembly upon the State of the Republic Address on the thirteenth day of April.
@@ -103,80 +104,82 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§IV.12(3)** A legislative procedure shall involve the Assembly and Council debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
   * **§IV.12(4)** The Assembly and the Council shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
   * **§IV.12(5)** Any Bill which is rejected by the Assembly or the Council shall be considered lost and shall not be revived unless by resubmission by the Cabinet upon another State of the Republic Address.
-* **§IV.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
-  * **§IV.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
+* **§IV.13.** Any Bill proposed to the Assembly by the Cabinet shall be voted on once only.
+  * **§IV.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution.
   * **§IV.13(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
+  * **§IV.13(3)** An official record shall be made of the Yeas and Nays of each and every Assembly Representatives taking part in the vote.
 * **§IV.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
   * **§IV.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
   * **§IV.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
   * **§IV.14(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
-* **§IV.15.** The Cabinet shall have the power to propose five types of Bills:
-  * **§IV.15(1)** an ordinary Bill;
-  * **§IV.15(2)** a Constitutional Bill;
-  * **§IV.15(3)** a Land Bill;
-  * **§IV.15(4)** a Treaty Bill;
-  * **§IV.15(5)** a Financial Bill.
-* **§IV.16.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
-  * **§IV.16(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
-* **§IV.17.** A Constitutional Bill shall propose an Amendment to this Constitution.
-  * **§IV.17(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
-  * **§IV.17(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
-* **§IV.18.** A Land Bill shall propose to introduce, or to alter, the Fee on land of the Free Republic of Liberland.
-  * **§IV.18(1)** All Land Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
-  * **§IV.18(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §IV25.
-  * **§IV.18(3)** The Fee on land may be abolished by an ordinary Bill.
-  * **§IV.18(4)** The Fee shall be fixed per square metre of land.
-  * **§IV.18(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Act.
-  * **§IV.18(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
-  * **§IV.18(7)** The Fee shall be levied for one or more of the following purposes only:
-   * **§IV.18(7)(a)** maintaining the infrastructure of the Public Administration;
-   * **§IV.18(7)(b)** providing for Law Enforcement;
-   * **§IV.18(7)(c)** providing for the Courts of the Free Republic of Liberland;
-   * **§IV.18(7)(d)** providing for Agents and Members of the Public Administration;
-   * **§IV.18(7)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
-* **§IV.19.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
-  * **§IV.19(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
-  * **§IV.19(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
-  * **§IV.19(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
-* **§IV.20.** The Financial Bill shall contain the provisions of the Annual Budget.
-  * **§IV.20(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of Assembly Representatives.
-  * **§IV.20(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
-  * **§IV.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
-  * **§IV.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
-  * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the Public Administration.
-  * **§IV.20(6)** Under no circumstances shall the Cabinet lower the remuneration of Judges and/or Assembly Representatives unless with the express and informed consent of the relevant bodies.
-* **§IV.21.** The Annual Budget shall constitute the only source of financial provisions for the Public Administration.
-  * **§IV.21(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
-  * **§IV.21(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
-  * **§IV.21(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
-  * **§IV.21(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
-  * **§IV.21(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Assembly Representatives who voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
-* **§IV.22.** All Bills which have been passed by the Assembly in accordance with the provisions of this Article shall be considered by the Council.
-  * **§IV.22(1)** The Council shall be composed of Individuals who hold shares of the Fund of the Free Republic of Liberland.
-  * **§IV.22(2)** Should any Individual hold any public office whatsoever, he or she shall not have the right to participate in the business of the Council irrespective of any shareholding.
-  * **§IV.22(3)** The position of the Councillor shall not be considered to be public office.
-  * **§IV.22(4)** The Councillors shall not receive any remuneration for their service.
-* **§IV.23.** The Council shall debate and vote on all Bills passed by the Assembly.
-  * **§IV.23(1)** The Council shall regulate its own voting procedures.
-  * **§IV.23(2)** The Council shall be in session in perpetuity and independently from the Assembly.
-  * **§IV.23(3)** Should a Bill be rejected by the Council, it shall be discarded.
-  * **§IV.23(4)** Should a Bill be approved by the Council, it shall proceed to the consideration by the Supreme Court.
-* **§IV.24.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
-  * **§IV.24(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
-  * **§IV.24(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-* **§IV.25.** All Constitutional Bills and Land Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to a mandatory referendum.
-  * **§IV.25(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
-  * **§IV.25(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
-* **§IV.26.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
-  * **§IV.26(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
-  * **§IV.26(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
-  * **§IV.26(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.27.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article pending the consideration by the Supreme Court.
-* **§IV.28.** A Bill shall become “Under Consideration” upon the declaration of constitutionality by the Supreme Court in accordance with the procedure laid down in Article VI pending the consideration by the Citizens.
-* **§IV.29.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.28., and either sixty days have passed and no referendum has been called in accordance with §IV.24., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.24. or §IV.25.
-* **§IV.30.** An Act shall enter into force on a date prescribed therein but no sooner than after at least thirty days of vacatio legis from the date it became the law of the Free Republic of Liberland in accordane with §IV.29.
+* **§IV.15.** An ordinary Bill shall pertain to any matter which is not reserved for any other type of Bills.
+  * **§IV.15(1)** An ordinary Bill may propose one of the following legislative objectives:
+   * **§IV.15(1)(a)** to ensure peaceful coexistence of Persons;
+   * **§IV.15(1)(b)** to secure their Property;
+   * **§IV.15(1)(c)** to safeguard their Rights;
+   * **§IV.15(1)(d)** to protect Minors and Persons lacking mental capacity;
+   * **§IV.15(1)(e)** to preserve the environment and protect animals;
+   * **§IV.15(1)(f)** to establish procedures regulating the functioning of the Public Administration.
+  * **§IV.15(2)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.15(3)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
+* **§IV.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
+  * **§IV.16(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§IV.16(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
+* **§IV.17.** A Land Bill shall propose to introduce, or to alter, the Fee on land of the Free Republic of Liberland.
+  * **§IV.17(1)** All Land Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§IV.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §IV25.
+  * **§IV.17(3)** The Fee on land may be abolished by an ordinary Bill.
+  * **§IV.17(4)** The Fee shall be fixed per square metre of land.
+  * **§IV.17(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Act.
+  * **§IV.17(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
+  * **§IV.17(7)** The Fee shall be levied for one or more of the following purposes only:
+   * **§IV.17(7)(a)** maintaining the infrastructure of the Public Administration;
+   * **§IV.17(7)(b)** providing for Law Enforcement;
+   * **§IV.17(7)(c)** providing for the Courts of the Free Republic of Liberland;
+   * **§IV.17(7)(d)** providing for Agents and Members of the Public Administration;
+   * **§IV.17(7)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+* **§IV.18.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
+  * **§IV.18(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.18(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
+  * **§IV.18(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
+  * **§IV.18(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
+* **§IV.19.** The Financial Bill shall contain the provisions of the Annual Budget.
+  * **§IV.19(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of Assembly Representatives.
+  * **§IV.19(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
+  * **§IV.19(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
+  * **§IV.19(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
+  * **§IV.19(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the Public Administration.
+  * **§IV.19(6)** Under no circumstances shall the Cabinet lower the remuneration of Judges unless with the express and informed consent of the Secretariat of the Judiciary.
+* **§IV.20.** The Annual Budget shall constitute the only source of financial provisions for the Public Administration.
+  * **§IV.20(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
+  * **§IV.20(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
+  * **§IV.20(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
+  * **§IV.20(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
+  * **§IV.20(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Assembly Representatives who voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
+* **§IV.21.** All Bills which have been passed by the Assembly in accordance with the provisions of this Article shall be considered by the Council.
+  * **§IV.21(1)** The Council shall be composed of Individuals who hold shares of the Fund of the Free Republic of Liberland.
+  * **§IV.21(2)** No Person holding any public office whatsoever shall have the right to participate in the business of the Council irrespective of any shareholding.
+  * **§IV.21(3)** The position of the Councillor shall not be considered to be public office.
+  * **§IV.21(4)** The Councillors shall not receive any remuneration for their service.
+* **§IV.22.** The Council shall debate and vote on all Bills passed by the Assembly.
+  * **§IV.22(1)** The Council shall regulate its own voting procedures.
+  * **§IV.22(2)** The Council shall be in session in perpetuity and independently from the Assembly.
+  * **§IV.22(3)** Should a Bill be rejected by the Council, it shall be discarded.
+  * **§IV.22(4)** Should a Bill be approved by the Council, it shall proceed to the consideration by the Supreme Court.
+* **§IV.23.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§IV.23(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§IV.23(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
+* **§IV.24.** All Constitutional Bills and Land Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to a mandatory referendum.
+  * **§IV.24(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§IV.24(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
+* **§IV.25.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
+  * **§IV.25(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
+  * **§IV.25(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least seven years.
+  * **§IV.25(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+* **§IV.26.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article pending the consideration by the Supreme Court.
+* **§IV.27.** A Bill shall become “Under Consideration” upon the declaration of constitutionality by the Supreme Court in accordance with the procedure laid down in Article VI pending the consideration by the Citizens.
+* **§IV.28.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.27., and either sixty days have passed and no referendum has been called in accordance with §IV.24., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.23. or §IV.24.
+* **§IV.29.** An Act shall enter into force on a date prescribed therein but no sooner than after at least thirty days of vacatio legis from the date it became the law of the Free Republic of Liberland in accordane with §IV.28.
 
 ### Article V: The Executive Power
 

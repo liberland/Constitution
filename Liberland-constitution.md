@@ -126,10 +126,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 * **§IV.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
   * **§IV.16(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
   * **§IV.16(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
-* **§IV.17.** A Land Bill shall propose to introduce, or to alter, the Fee on land located within the jurisdiction of the Free Republic of Liberland.
+* **§IV.17.** A Land Bill shall propose to introduce, or to increase, the Fee on land located within the jurisdiction of the Free Republic of Liberland.
   * **§IV.17(1)** All Land Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
   * **§IV.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §IV25.
-  * **§IV.17(3)** The Fee on land may be abolished by an ordinary Bill.
+  * **§IV.17(3)** The Fee on land may be abolished or decreased by an ordinary Bill.
   * **§IV.17(4)** The Fee shall be fixed per square metre of land.
   * **§IV.17(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Act.
   * **§IV.17(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.

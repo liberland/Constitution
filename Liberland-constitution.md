@@ -121,7 +121,8 @@ The Free Republic of Liberland shall be governed by the Public Administration in
    * **§IV.15(1)(c)** to safeguard their Rights;
    * **§IV.15(1)(d)** to protect Minors and Persons lacking mental capacity;
    * **§IV.15(1)(e)** to preserve the environment and protect animals;
-   * **§IV.15(1)(f)** to establish procedures regulating the functioning of the Public Administration.
+   * **§IV.15(1)(f)** to establish procedures regulating the functioning of the Public Administration;
+   * **§IV.15(1)(g)** to abolish or decrease the Fee on land.
   * **§IV.15(2)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§IV.15(3)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
 * **§IV.16.** A Constitutional Bill shall propose an Amendment to this Constitution.

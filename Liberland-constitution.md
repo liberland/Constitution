@@ -434,8 +434,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§XII.7.** No Person shall be detained or interrogated by any Agent of the Public Administration outside the jurisdiction of the Free Republic of Liberland.
 * **§XII.8.** All Persons held by any Agent or any body of the Public Administration against their will under any circumstances whatsoever shall have the right to petition the Criminal Court for a writ of habeas corpus.
 * **§XII.9.** No relationship amounting to slavery or any other form of involuntary servitude shall exist between any legal or natural Person and any other Person; no conscription or any other form of compulsory service shall be introduced by any branch of the Public Administration other than community work as ordered by the Criminal Court with respect to a sentence upon conviction; no Persons shall be convicted of any criminal offence for the failure to fulfil his or her contractual obligations.
-* **§XII.10.** No law shall restrict the free movement of any Individual within the Free Republic of Liberland; all Individuals shall have the right to reside in any part of the Free Republic of Liberland.
-* **§XII.11.** All Persons arrested in error or contrary to the law or the Constitution shall have the right to fair compensation for the whole period of incarceration; all Persons placed under a valid arrest who have their charges subsequently dropped or dismissed at a Preliminary Hearing shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards; such compensation shall be paid by the Secretariat of the Judiciary; Persons wrongfully convicted shall have a separate right to fair compensation as prescribed by law.
+* **§XII.10.** All Persons arrested in error or contrary to the law or the Constitution shall have the right to fair compensation for the whole period of incarceration; all Persons placed under a valid arrest who have their charges subsequently dropped or dismissed at a Preliminary Hearing shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards; such compensation shall be paid by the Secretariat of the Judiciary; Persons wrongfully convicted shall have a separate right to fair compensation as prescribed by law.
 
 ### Article XIII: Equality Rights
 
@@ -463,9 +462,10 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 
 * **§XV.1.** No Citizen shall be prevented from entering the territory of the Free Republic of Liberland in any circumstances whatsoever.
 * **§XV.2.** No Person shall be prevented from leaving the jurisdiction of the Free Republic of Liberland unless pursuant to a Warrant on the grounds that criminal prosecution is being conducted against such Person and his or her presence in the Free Republic of Liberland is necessary for the prosecution to be effectuated.
-* **§XV.3.** No Person shall be rendered to any state or group should there be a reasonable suspicion that the aforementioned may inflict on such Person torture or cruel or degrading treatment.
+* **§XV.3.** No Individual shall be prevented from residing in any part of the Free Republic of Liberland or moving freely throughout its territory.
 * **§XV.4.** Any Resident of the Free Republic of Liberland without a valid leave to remain shall be subject to deportation.
-* **§XV.5.** Any Person seeking refuge in the Free Republic of Liberland shall only be admitted to the territory of the Free Republic of Liberland provided any one Citizen or association thereof financially vouch for his or her accommodation and maintenance and neither of those shall be provided by any body of the Public Administration. 
+* **§XV.5.** No Person shall be rendered to any state or group should there be a reasonable suspicion that the aforementioned may inflict on such Person torture or cruel or degrading treatment.
+* **§XV.6.** Any Person seeking refuge in the Free Republic of Liberland shall only be admitted to the territory of the Free Republic of Liberland provided any one Citizen or association thereof financially vouch for his or her accommodation and maintenance and neither of those shall be provided by any body of the Public Administration. 
 
 ### Article XVI: Interests of Vulnerable Persons 
 

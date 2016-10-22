@@ -326,7 +326,10 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§VI.14(4)** The Jury shall, under all circumstances, retain the unequivocal right to acquit and shall be informed of this right.
   * **§VI.14(5)** An acquittal of a defendant by the Jury shall be final and no appeal from such a verdict shall be allowed.
   * **§VI.14(6)** The Jury shall reach its decisions with no fewer than eleven votes.
-  * **§VI.14(7)** The Jury shall render the verdict free from any form of coercion and, should the situation require, the Judge may order sequestration of the Jurors in order to ensure their independence.
+  
+  
+  
+* **§VI.14(7)** The Jury shall render the verdict free from any form of coercion and, should the situation require, the Judge may order sequestration of the Jurors in order to ensure their independence.
   * **§VI.14(8)** The Judge shall have the power to order a retrial where the Jury is not able to render a verdict with eleven votes within reasonable time or where he or she has reasonable grounds to question its independence.
   * **§VI.14(9)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
   * **§VI.14(10)** The Criminal Court may exercise jurisdiction over international crimes provided it has been conferred upon it by law and only if the accused is present within the jurisdiction of the Free Republic of Liberland.

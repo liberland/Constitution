@@ -221,8 +221,9 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.8(4)** Department of Foreign Affairs;
   * **§V.8(5)** Department of Treasury.
 * **§V.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
-  * **§V.9(1)** Departments may establish Agencies.
-  * **§V.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
+  * **§V.9(1)** Departments shall act directly or through their Agencies were established by law.
+  * **§V.9(2)** Agencies shall be supervised by their Departments and shall be headed by Directors appointed by the responsible Secretary of State or the Chancellor himself or herself.
+  * **§V.9(3)** No Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
 * **§V.10.** Each Department shall be headed by the Secretary of State for the respective Department.
   * **§V.10(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
   * **§V.10(2)** All Secretaries of State may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.

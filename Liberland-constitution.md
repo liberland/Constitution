@@ -221,7 +221,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
   * **§V.8(4)** Department of Foreign Affairs;
   * **§V.8(5)** Department of Treasury.
 * **§V.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
-  * **§V.9(1)** Departments shall act directly or through their Agencies were established by law.
+  * **§V.9(1)** Departments shall act directly or through their Agencies as established by law.
   * **§V.9(2)** Agencies shall be supervised by their Departments and shall be headed by Directors appointed by the responsible Secretary of State or the Chancellor himself or herself.
   * **§V.9(3)** No Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
 * **§V.10.** Each Department shall be headed by the Secretary of State for the respective Department.
@@ -434,7 +434,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§XII.9.** No relationship amounting to slavery or any other form of involuntary servitude shall exist between any legal or natural Person and any other Person; no conscription or any other form of compulsory service shall be introduced by any branch of the Public Administration other than community work as ordered by the Criminal Court with respect to a sentence upon conviction; no Persons shall be convicted of any criminal offence for the failure to fulfil his or her contractual obligations.
 * **§XII.10.** All Persons arrested in error or contrary to the law or the Constitution shall have the right to fair compensation for the whole period of incarceration; all Persons placed under a valid arrest who have their charges subsequently dropped or dismissed at a Preliminary Hearing shall have the right to fair compensation for any and all days spent incarcerated from the twenty-fifth hour of detention onwards; such compensation shall be paid by the Secretariat of the Judiciary; Persons wrongfully convicted shall have a separate right to fair compensation as prescribed by law.
 
-### Article XVII: Due Process Rights
+### Article XIII: Due Process Rights
 
 #### THE RIGHT TO DUE PROCESS OF LAW SHALL BE SECURED
 

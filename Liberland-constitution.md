@@ -444,6 +444,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§XIII.5.** No ex post facto law retroactively changing the legal consequences and/or status of actions that have been already committed, or relationships that already existed, before the enactment of said law shall be passed; nor shall any Person be subjected to any punishment which was not available at the time an act or omission for which the punishment is to be imposed was committed.
 * **§XIII.6.** All parties to any proceedings before any Court of Law shall be given a fair hearing in accordance with the rules of natural justice, based on the adversarial process with full equality of arms, before any verdict is rendered by the Court and subsequently shall be served with legal reasons behind such a verdict.
 * **§XIII.7.** Access to any Court of Law shall not be impeded by any excessive formal or financial requirements; nor shall any Person be prevented from acting in his or her case before the Civil Court or Criminal Court.
+* **§XIII.8.** All criminal offences shall be classified either as misdemeanours or felonies, attracting different nature and severity of punishment, and shall be enumerated in a single Criminal Code; all such offences, other than capital offences, shall have expiration date upon which they shall no longer be prosecutable.
 
 ### Article XIV: Equality Rights
 

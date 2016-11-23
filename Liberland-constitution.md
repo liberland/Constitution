@@ -351,7 +351,7 @@ The Free Republic of Liberland shall be governed by the Public Administration in
 
 The Bill of Rights shall constitute an integral part of the Constitution and shall be binding upon all branches of the Public Administration and its Members and Agents both within and outside the jurisdiction of the Free Republic of Liberland. 
 
-### Article VII: Civil Rights
+### Article VII: Voting Rights
 
 #### THE RIGHTS OF THE CITIZENRY SHALL BE SECURED
 
@@ -361,7 +361,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 * **§VII.4.** No Persons other than Individuals above the age of twenty-one who hold citizenship of the Free Republic of Liberland and have never been convicted of the criminal offence of breach of the Constitution or of any law related to his or her previous official position shall have the right to submit his or her candidacy for a public office.
 * **§VII.5.** The 3% of the overall number of Citizens registered to vote at the time of the last General Election shall have the right to, within seven days of the publication of the results, request the Supreme Court to review the validity of any election or referendum held in the Free Republic of Liberland; such right shall also be vested in one-quarter of the overall number of Assembly Representatives; should the Supreme Court find any evidence of erroneous and/or fraudulent conduct, it shall have the power to declare such election or referendum invalid and order it anew.
 
-### Article VIII: Freedom of Speech
+### Article VIII: Free Speech Rights
 
 #### THE FREEDOM OF EXPRESSION AND ACCESS TO INFORMATION SHALL BE SECURED
 

@@ -400,7 +400,7 @@ The Bill of Rights shall constitute an integral part of the Constitution and sha
 
 ### Article XI: Fair Trial Rights
 
-#### THE RIGHTS OF THE ACCUSED AND THE DEFENDANT SHALL BE SECURED
+#### THE RIGHTS OF PERSONS IN CRIMINAL PROCESS SHALL BE SECURED
 
 * **§XI.1.** No Person shall be convicted of any criminal offence for, or have a civil claim brought against on the basis of, any act or omission which is alleged to have caused any form of non-physical bodily injury unless such an injury amounts to a recognised severe and prolonging mental illness.
 * **§XI.2.** No Person shall be convicted of any criminal offence by virtue of mere association with other Persons suspected or found guilty of the same or related offence; some form of active participation in the commission of such an offence must be proven before the Court; nor shall any Person be convicted of any criminal offence for merely considering potential commitment of an offence, whether by himself or herself or together with others; some form of active planning of such an offence must be proven before the Court; no Person shall be convicted of any criminal offence which would not require any form of guilty mind as a mens rea.

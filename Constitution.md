@@ -611,11 +611,7 @@ In the interest of keeping peace and preventing conflict and to safeguard Life, 
 § 59
 
 Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 2d136cf335a5a043f9d9abf6e73ab7dbf7f30dec
 
 § 60
 
@@ -1133,7 +1129,7 @@ Executive Power
 
  
 
-   **Art. 1**
+ **Art. 1**
 
  **The Powers of the Executive**
 

@@ -58,15 +58,13 @@ A human being owns the Property in their own human actions. They are free to act
 
 § 3
 
-A Person who acts and mixes their labour with a thing, an animal or with any other controllable natural phenomenon,henceforth: “Object”, which is as of yet unowned by another Person, shall be acknowledged as the owner of that Object and the Object becomes their Property. 
+A Person who acts and mixes their labor with a thing, an animal or with any other controllable natural phenomenon, henceforth: “Object”, which is as of yet unowned by another Person, shall be acknowledged as the owner of that Object and the Object becomes their Property. 
 
  
 
 § 4
 
 A Person shall in no wise be limited in their free disposal of their Property and they may change the Object of it or destroy the Object, as they see fit. 
-
- 
 
  
 
@@ -116,9 +114,11 @@ No Person shall act upon a Property of which they are not the owner without the 
 
 § 10
 
-​	1) It is a common practice amongst the People of the Free World to establish bodies based on voluntary cooperation which further coordinate human action. 
+1) It is a common practice amongst the People of the Free World to establish bodies based on voluntary cooperation which further coordinate human action. 
 
 2) The right of Persons to establish such bodies and to choose from amongst their membership their coordinators and representatives, shall be respected.
+
+
 
 ## Book 2
 
@@ -136,19 +136,19 @@ Public administration
 
 To ensure that the Right to Property shall under all circumstances be respected and efficiently protected, even in situations when it is not in the powers of the owner to ensure this protection themselves, the Public Administration of the Free Republic of Liberland,henceforth “Public Administration”, shall be established.
 
- 
+
 
 § 12
 
 The purpose of the Public Administration shall be to act as the public protector of the Right to Life and the Right to Property in Objects and as the public guarantor of the Non Aggression Principle. 
+
+
 
 § 13
 
 1) Public Administration shall only perform such actions to which it is empowered, directly or indirectly, by this Constitution and it shall only act inasmuch as is necessary to fulfill its purpose as stated in this Constitution.
 
 2) Public Administration shall act using its employees and other people, such as volunteers and contractors. Any Persons acting in this capacity shall be called Agents of the Public Administration,henceforth ‘Agents’.
-
- 
 
  
 
@@ -188,8 +188,6 @@ Public Administration shall obey its own regulations.
 
  
 
- 
-
 **Art. 2** 
 
 **Division of Power**
@@ -222,9 +220,9 @@ Public Administration shall obey its own regulations.
 
 1) Because Public Administration is mandated to further specify what is lawful in human action and it hereby sets boundaries on human action, it presents the risk that it could abuse the powers entrusted to it and use them against Persons in a manner which does not conform to the basic principles of this Constitution. 
 
-To mitigate this risk and to prevent this abuse of power where possible, Public Administration shall in any and all of their actions, in their policy making and in their day to day business respect and protect certain principles and limitations and affort certain rights to all human beings.
+2) To mitigate this risk and to prevent this abuse of power where possible, Public Administration shall in any and all of their actions, in their policy making and in their day to day business respect and protect certain principles and limitations and affort certain rights to all human beings.
 
-2) This Constitution provides the list of these principles, limitations and rights to which Public Administration shall always adhere and which shall form the cornerstone of their work ,henceforth “the Bill of Rights”.
+3) This Constitution provides the list of these principles, limitations and rights to which Public Administration shall always adhere and which shall form the cornerstone of their work ,henceforth “the Bill of Rights”.
 
  
 
@@ -292,17 +290,17 @@ The right of the people to be secure in their persons, houses, papers, and effec
 
 1) Liberland shall have no standing army and Persons shall never be conscripted for military purposes.
 
-2)Should circumstances demand it, Persons shall be free to organize a common defense of their Property to protect the Land collectively against threats.
+2) Should circumstances demand it, Persons shall be free to organize a common defense of their Property to protect the Land collectively against threats.
 
-​	3) Public Administration shall aid and abet this effort when deemed necessary and for that end shall organize the Territorial Defense Force, composed of armed and unarmed Agents protecting the land voluntarily.
+3) Public Administration shall aid and abet this effort when deemed necessary and for that end shall organize the Territorial Defense Force, composed of armed and unarmed Agents protecting the land voluntarily.
 
-​	4) Public Administration shall be only allowed to bind Liberland by international agreements providing for the defense of Liberland or agreements of collective defense in so far as those would be compatible with this Constitution. 
+4) Public Administration shall be only allowed to bind Liberland by international agreements providing for the defense of Liberland or agreements of collective defense in so far as those would be compatible with this Constitution. 
 
  
 
 § 30
 
-​	Should a decision of Public Administration in the case of a Person or an action by an Agent be recognized as unlawful and cause damage to private Property, Public administration shall cover that damage to the owner of that Property.
+Should a decision of Public Administration in the case of a Person or an action by an Agent be recognized as unlawful and cause damage to private Property, Public administration shall cover that damage to the owner of that Property.
 
  
 
@@ -322,17 +320,17 @@ The right of the people to be secure in their persons, houses, papers, and effec
 
 § 32
 
-​	1) No action shall be deemed a delict as long as it objectively harms no Person in Property to their Life, Health or Objects.
+1) No action shall be deemed a delict as long as it objectively harms no Person in Property to their Life, Health or Objects.
 
-​	2) Likewise shall no action be deemed a delict by a later law as long as that action was no delict during the time it took place.
+2) Likewise shall no action be deemed a delict by a later law as long as that action was no delict during the time it took place.
 
-​	3) Disputes shall be orderly decided with urgency and with no unnecessary delays.
+3) Disputes shall be orderly decided with urgency and with no unnecessary delays.
 
  
 
 § 33
 
-​	1) Every Person shall have the right to move freely within the territory of Liberland, freely to leave it and enter it and to dwell there, as long as the purpose of these actions is legal.
+1) Every Person shall have the right to move freely within the territory of Liberland, freely to leave it and enter it and to dwell there, as long as the purpose of these actions is legal.
 
 2) Public administration shall in her urban and development planning never restrict the development or habitation of certain areas based on gender, race, sexual orientation or other such criteria.
 
@@ -374,8 +372,6 @@ A slave shall always have the right to escape their bondage and shall always be 
 
  
 
- 
-
 **Art. 4**
 
 **Freedom of Information**
@@ -396,8 +392,6 @@ All Persons shall have the right to freedom of speech and to petition the Public
 
  
 
- 
-
 § 39
 
 1) Public Administration shall never regulate any printed materials, radio, television, the Internet or any other medium of exchange of information, neither shall they regulate the transmitting, displaying, accessing and/or publishing of such information.
@@ -409,10 +403,6 @@ All Persons shall have the right to freedom of speech and to petition the Public
 § 40
 
 Public Administration shall not prohibit any video and/or audio recording of conversations or events on which a Person participates, whether offline or online.
-
- 
-
- 
 
  
 
@@ -460,7 +450,7 @@ c) all the documents which the Public information might use as a background for 
 
 § 44
 
-​	1) Public Administration shall be financed in accordance with the Non Aggression Principle, based on contractual relationships, gifts and inheritances and other instruments of voluntary commerce. 
+1) Public Administration shall be financed in accordance with the Non Aggression Principle, based on contractual relationships, gifts and inheritances and other instruments of voluntary commerce. 
 
 2) Public Administration  shall also finance itself using, renting, selling and holding Property.
 
@@ -478,6 +468,8 @@ a) to demand payments of a Land Fee set up according to Law and this Constitutio
 
 b) to expropriate the real estate should the Land Fee be long overdue for payment and all the other options of obtaining the due payments or all attempts to find the other owners of the Property will have repeatedly failed. Public Administration shall make a Regulation which shall set up the details of this, including further conditions necessary to fulfill before this expropriation may take place.
 
+
+
 **Art. 7**
 
 **Freedom of Commerce**
@@ -489,6 +481,8 @@ b) to expropriate the real estate should the Land Fee be long overdue for paymen
 1) All individuals have the right to engage in commerce as they see fit, as long as their actions are lawful. 
 
 2) Public Administration shall never interfere with the validity and/or the content of any lawful contract.
+
+
 
 § 46
 
@@ -570,13 +564,13 @@ Public administration shall never impair special rights to banks and other finan
 
  
 
- 
-
 § 55
 
 1) Public Administration shall require no Person to register and/or share information about themselves, their religion, medical conditions, fingerprints, DNA, political affiliation and the like.
 
 2) Public Administration shall likewise not require no Person to register and/or share information about their whereabouts, be it permanent or temporary, assets, be it tangible or intangible, and/or signed contracts, be it employment, commercial or otherwise, unless pursuant to a Warrant.
+
+
 
 ## Book 3
 
@@ -616,11 +610,13 @@ Judicial Power
 
 § 59
 
-​	Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
+Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
+
+
 
 § 60
 
-​	1) Regulations and other actions of Public Administration shall be presumed correct by the Courts when not made part of the dispute by the choice of a Party, but their conformity with this Constitution shall be a possible point in every dispute before every Court in Libeerland. 
+1) Regulations and other actions of Public Administration shall be presumed correct by the Courts when not made part of the dispute by the choice of a Party, but their conformity with this Constitution shall be a possible point in every dispute before every Court in Libeerland. 
 
 2) Courts shall have the power to declare Regulations unconstitutional and actions of Public Administration illegal and that decision shall come into effect when there is no longer a possibility of any form of appeal. 
 
@@ -632,9 +628,7 @@ Judicial Power
 
 1) All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
 
-Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
-
-2) 
+2) Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
 
  
 
@@ -648,13 +642,9 @@ Access to any Court of the Free Republic of Liberland shall not be impeded by an
 
  
 
- 
-
 § 63
 
 No Agent of Law Enforcement shall enter the premises of any Court unless pursuant to a Warrant issued by the Supreme Court.
-
- 
 
  
 
@@ -687,8 +677,6 @@ The Chief Justice shall after their appointment without delay nominate two curre
 § 67
 
 Should any of the nominees for Justices of the Supreme Court not secure their appointment, they shall not become Justices. The organ nominating those Justices shall consult with the appointing organ the reasons for rejection and shall nominate another candidate who shall be more likely to secure appointment.
-
- 
 
  
 
@@ -746,7 +734,9 @@ The Supreme Court shall have the appellate jurisdiction of last instance from al
 
 2) Judges shall not be removable by Public Administration for as long as their Court remains established.
 
-2) No Person shall hold the office of a Judge whilst holding another office in the Public Administration.
+3) No Person shall hold the office of a Judge whilst holding another office in the Public Administration.
+
+
 
 § 73
 
@@ -822,7 +812,7 @@ No other Judge of any Court shall be arrested for any period whatsoever unless p
 
 § 80
 
-​	1) The Office of the Chief Public Prosecutor shall employ Prosecutors to represent Liberland in criminal cases where the State acts as the public accuser.
+1) The Office of the Chief Public Prosecutor shall employ Prosecutors to represent Liberland in criminal cases where the State acts as the public accuser.
 
 2) Prosecutors shall act independently and they shall strive to represent the interests of the victims. Although they shall be in the position of the accuser in any process, they shall nonetheless be mindful of the interests of justice.
 
@@ -841,8 +831,6 @@ Legislative Power
 § 81
 
 To facilitate the regularity of the application of collective power, Public Administration shall bestow upon certain Persons the right to enact Regulations upon themselves and others, even against the will of the recipients or without asking for their consent, but only within the strict limits of this Constitution. These Persons shall be known as Citizens.
-
- 
 
  
 
@@ -890,7 +878,7 @@ There shall be recognized no distinctions between the Citizens based on ethnicit
 
 **Art. 2**
 
- **Democracy**
+**Consensus**
 
  
 
@@ -908,6 +896,10 @@ Consensus
 
  
 
+**Art. 3**
+
+**Referenda**
+
 § 87
 
 Non Consensual Democracy
@@ -918,41 +910,39 @@ Realizing from history of governance that full Consensus is difficult to achieve
 
 § 88
 
-Referendum
+Public Veto
 
-1) A Citizen or a group of Citizens can propose a referendum for the removal of an existing Regulation or a part thereof. 
+1) A Citizen or a group of Citizens can propose a Referendum for the removal of an existing Regulation or a part thereof. 
 
-2) A Referendum can also be called to remove from office a Judge or a Justice
+2) The Law or this Constitution can also mandate situations where such a Veto Proposal shall be made by the Public Administration. 
 
-3) A Referendum shall be organized by bringing to Public Administration a petition of signatures of at least one tenth of all Citizens.
-
-4) The costs of a Referendum shall be the responsibility of the Citizens or the Citizen who should organize the referendum and their responsibility shall also be the physical organization thereof and the ensuring of its legality.
-
-5) At least one half of all Citizens must participate in a Referendum if it is to be valid; a proposal presented in a Referendum where less than that number of Citizens participated shall be Rejected.
-
-6) A proposal shall be Accepted when at least 50 percent of all votesplus one vote for its acceptance. A different tally can be used should a Regulation mandate that for a special type of referendum, but never lower than at least 50 percent of all votes plus one.
+3) A Veto Proposal shall be organized by bringing to Public Administration a petition of signatures of at least one tenth of all Citizens. This shall not be necessary if the Veto Proposal is organized by the Public Administration.
 
  
 
 § 89
 
-Constitutional Referendum
+Other Referenda
 
- 
+1) A Referendum can be called to remove from office a Judge or a Supreme Court Justice. 
 
-​	1) A Referendum where the proposal amounts to the amending of this Constitution shall require no less than two thirds of all Citizens to participate in and no less than two thirds of all participants shall be required to Accept the proposal.
+2) The Public Administration may pass a Regulation which would enable other types of Referenda to take place.
 
-​	2) The Supreme Court shall review such constitutional amendments if they should be Accepted, with special attention given to their conformity with the Basic Principles of this Constitution.
 
- 
 
 § 90
 
-Special Referenda
+Organizing a Referendum
 
-Public Administration shall draft and ensure the passing of a Regulation which shall further specify certain topics on which a referendum has to be organized with higher quora than what this Constitution prescribes in general, whether these should be quora for participation or for the acceptance.
+1) The costs of a Referendum shall be the responsibility of the Citizens or the Citizen who should organize the Referendum and their responsibility shall also be the physical organization thereof and the ensuring of its legality. Referenda organized by Public Administration shall be paid by Public Administration.
 
- 
+2) At least one half of all Citizens must participate in a Referendum if it is to be valid; a Referendum where less than that number of Citizens participated shall count as a Rejection of the Referendum proposal.
+
+3) A Referendum mandated by this Constitution shall be Accepted when at least 50 percent of all voters plus one vote for its acceptance. 
+
+4) A Referendum mandated by a Regulation shall require the participation of at least 65 percent of all Citizens and the Proposal shall be be accepted when at least 65 percent of all voters plus one vote for the acceptance. A different tally can be mandated by Regulation, but it shall never be lower than the 65 percent.
+
+
 
 **Art. 3**
 
@@ -962,11 +952,7 @@ Public Administration shall draft and ensure the passing of a Regulation which s
 
 § 91
 
-​	In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed
-
- 
-
- in a regular and competent manner, there shall be elements of Representative Democracy operative in Liberland. 
+In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed in a regular and competent manner, there shall be elements of Representative Democracy operative in Liberland. 
 
  
 
@@ -976,7 +962,7 @@ Public Administration shall draft and ensure the passing of a Regulation which s
 
 2) Representatives shall be appointed to propose, consider and pass new Regulations and to remove, in whole or in part, existing Regulations, instead and on behalf of Citizens.
 
-​	3) Elections shall be held perpetually in virtual space(s) prepared for this purpose and designated by Public Administration, henceforth “virtual space for elections”.
+3) Elections shall be held perpetually in virtual space(s) prepared for this purpose and designated by Public Administration, henceforth “virtual space for elections”.
 
  
 
@@ -1038,7 +1024,7 @@ No branch of Public Administration shall detain a Representative and neither sha
 
 2) A motion proposing a Decision will have to achieve at least the simple majority of all Representatives in order to pass.
 
-3) All decisions shall be published for at least 30 days before they become Valid, so that the People may, if they so choose, organize a Referendum to  veto it and for other review procedures as prescribed by this Constitution to take place.
+3) All decisions shall be published for at least 30 days before they become Valid and Public Administration shall organize a Veto Proposal about them, so that the People may, if they so choose, reject it. Other review procedures as prescribed by this Constitution shall also take place in this period.
 
 4) A Vetoed Decision shall not be valid and shall be returned back to the Assembly for reworking.
 
@@ -1126,11 +1112,11 @@ h) to ratify international treaties.
 
 § 106
 
-1) A Bill, once approved by the Supreme Court and declared Constitutional, shall be published for at least 30 days before it becomes Law, so that the People may, if they so choose, organize a Referendum to review or veto it and for other review or veto procedures as prescribed by this Constitution.
+1) A Bill, once approved by the Supreme Court and declared Constitutional, shall be published for at least 30 days before it becomes Law and Public Administration shall organize a Veto Proposal about them, so that the People may, if they so choose, reject it. Other review procedures as prescribed by this Constitution shall also take place in this period.
 
 2) A Vetoed bill shall not become Law in its current form and shall be returned with or without remarks from the reviewing organ back for the Assembly to rework it.
 
-3) Should the Vetoed bill be supported in its original form by the supermajority of 7/10 of all votes in the Congressional Assembly, the Veto shall be overturned and the B                                 ill shall become law.
+3) Should the Vetoed bill be supported in its original form by the supermajority of 7/10 of all votes in the Congressional Assembly, the Veto shall be overturned and the Bill shall become law despite the Veto, be it a Public Veto or another type of Veto.
 
  
 
@@ -1194,8 +1180,6 @@ The Cabinet shall be formed and led by the Prime Minister, who shall be the Head
 
 1) The Prime Minister shall be appointed upon a Decision of the Assembly and, should they lose the trust of the Assembly, the Assembly shall have the power to remove the Prime Minister from their office by a Decision.
 
-Dea
-
  
 
 § 112
@@ -1211,8 +1195,6 @@ Dea
  
 
 § 113
-
- 
 
 The Cabinet shall fully, reasonably, consistently and in good faith execute all Laws and Decisions passed by the Assembly. To that end, it shall be bestowed with the following powers:
 
@@ -1242,8 +1224,6 @@ l) to supervise all Agents of the executive branch of the Public Administration;
 
  
 
- 
-
 **Art. 3**
 
 **The Ministries**
@@ -1259,6 +1239,8 @@ The highest offices of Public Administration under the Cabinet shall be Ministri
 § 115
 
 All Ministers shall answer to the Prime Minister and shall be removable from the office by the Prime Minister at any time.
+
+
 
 § 116
 
@@ -1278,19 +1260,19 @@ The Cabinet shall consist of the following Ministries and no other Ministries or
 
 Ministries may make Agencies under their jurisdiction such as are necessary to fulfill their duties. Agencies shall be subservient to Ministries and shall never act outside of the jurisdiction of their founding Ministry.
 
- 
+
 
 § 118
 
-​	1) The Liberland Land Commission shall be an agency under the Ministry of Finance which shall administer the Land Fee for any land the Proprietor or the co-proprietor of which will be the State of Liberland.
+1) The Liberland Land Commission shall be an agency under the Ministry of Finance which shall administer the Land Fee for any land the Proprietor or the co-proprietor of which will be the State of Liberland.
 
-​	2) The Agency shall prepare a draft Bill for the Cabinet setting the mathematical formula for the Land Fee. The Fee shall never be higher than what is necessary for the functioning of Public Administration and the fulfilling of her Stated Purpose and it shall be set up in a general manner and based on the market value of the given property.
+2) The Agency shall prepare a draft Bill for the Cabinet setting the mathematical formula for the Land Fee. The Fee shall never be higher than what is necessary for the functioning of Public Administration and the fulfilling of her Stated Purpose and it shall be set up in a general manner and based on the market value of the given property.
 
  
 
 § 119
 
-​	1) The Liberland Citizenship Commission shall be an agency under the Ministry of Internal Affairs. This agency shall decide and regulate the entire agenda regarding Citizenship. 
+1) The Liberland Citizenship Commission shall be an agency under the Ministry of Internal Affairs. This agency shall decide and regulate the entire agenda regarding Citizenship. 
 
 2) This commission shall sign contracts of Citizenship in the name of Liberland and it shall also decide to terminate those contracts in case of a breach on the side of the Citizen for which the contract stipulates such a consequence.
 
@@ -1310,7 +1292,7 @@ Pursuant to the wisdom that an owner tends to keep the affairs of their Property
 
 § 121
 
-​	To secure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, they shall be appointed to their office not by a popular election, but they shall be selected by those Citizens who hold shares of the Fund of the Free Republic of Liberland,henceforth ‘shareholders’, from amongst themselves.
+To secure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, they shall be appointed to their office not by a popular election, but they shall be selected by those Citizens who hold shares of the Fund of the Free Republic of Liberland,henceforth ‘shareholders’, from amongst themselves.
 
  
 
@@ -1332,7 +1314,7 @@ Pursuant to the wisdom that an owner tends to keep the affairs of their Property
 
 1) The President and the Senators shall not be a part of Public Administration. Should a Senator become an Agent or an Elected Official, they shall temporarily lose all their right of participation in the workings of the Senate (regardless of their shareholding) for the duration of their tenure in Public Administration.
 
-​	2) Should the President be voted in a public office or become an Agent, they shall not lose their powers as the Head of State, but they shall be temporarily replaced by their first vice-president in the Senate until their tenure in Public Administration is ended. 
+2) Should the President be voted in a public office or become an Agent, they shall not lose their powers as the Head of State, but they shall be temporarily replaced by their first vice-president in the Senate until their tenure in Public Administration is ended. 
 
  
 

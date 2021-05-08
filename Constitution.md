@@ -939,7 +939,7 @@ Organizing a Referendum
 
 3) A Referendum mandated by this Constitution shall be Accepted when at least 50 percent of all voters plus one vote for its acceptance. 
 
-4) A Referendum mandated by a Regulation shall require the participation of at least 65 percent of all Citizens and the Proposal shall be be accepted when at least 65 percent of all voters plus one vote for the acceptance. A different tally can be mandated by Regulation, but it shall never be lower than the 65 percent.
+4) A Referendum mandated by a Regulation shall require the participation of at least 65 percent of all Citizens. A different tally can be mandated by Regulation, but it shall never be lower than the 65 percent.
 
 
 

@@ -586,7 +586,7 @@ Judicial Power
 
 § 56
 
-​	In the interest of keeping peace and preventing conflict and to safeguard Life, Property and the Non Aggression Principle, Public Administration shall enable the regular operation of judicial power and the rule of law and justice in Liberland.
+In the interest of keeping peace and preventing conflict and to safeguard Life, Property and the Non Aggression Principle, Public Administration shall enable the regular operation of judicial power and the rule of law and justice in Liberland.
 
  
 
@@ -611,8 +611,11 @@ Judicial Power
 § 59
 
 Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2d136cf335a5a043f9d9abf6e73ab7dbf7f30dec
 
 § 60
 
@@ -910,7 +913,15 @@ Realizing from history of governance that full Consensus is difficult to achieve
 
 § 88
 
+<<<<<<< HEAD
 Public Veto
+=======
+Referendum
+
+1) A Citizen or a group of Citizens can propose a Referendum to veto an existing Regulation or a part thereof.
+
+2) A Referendum can also be called to remove from office a Judge or a Justice
+>>>>>>> 2d136cf335a5a043f9d9abf6e73ab7dbf7f30dec
 
 1) A Citizen or a group of Citizens can propose a Referendum for the removal of an existing Regulation or a part thereof. 
 
@@ -952,7 +963,15 @@ Organizing a Referendum
 
 § 91
 
+<<<<<<< HEAD
 In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed in a regular and competent manner, there shall be elements of Representative Democracy operative in Liberland. 
+=======
+In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed
+
+ 
+
+ in a regular and competent manner, there shall be elements of Representative Democracy operative in Liberland. 
+>>>>>>> 2d136cf335a5a043f9d9abf6e73ab7dbf7f30dec
 
  
 

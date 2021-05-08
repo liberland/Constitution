@@ -592,7 +592,7 @@ Judicial Power
 
 § 56
 
-​	In the interest of keeping peace and preventing conflict and to safeguard Life, Property and the Non Aggression Principle, Public Administration shall enable the regular operation of judicial power and the rule of law and justice in Liberland.
+In the interest of keeping peace and preventing conflict and to safeguard Life, Property and the Non Aggression Principle, Public Administration shall enable the regular operation of judicial power and the rule of law and justice in Liberland.
 
  
 
@@ -616,11 +616,11 @@ Judicial Power
 
 § 59
 
-​	Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
+Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
 
 § 60
 
-​	1) Regulations and other actions of Public Administration shall be presumed correct by the Courts when not made part of the dispute by the choice of a Party, but their conformity with this Constitution shall be a possible point in every dispute before every Court in Libeerland. 
+1) Regulations and other actions of Public Administration shall be presumed correct by the Courts when not made part of the dispute by the choice of a Party, but their conformity with this Constitution shall be a possible point in every dispute before every Court in Libeerland. 
 
 2) Courts shall have the power to declare Regulations unconstitutional and actions of Public Administration illegal and that decision shall come into effect when there is no longer a possibility of any form of appeal. 
 
@@ -822,7 +822,7 @@ No other Judge of any Court shall be arrested for any period whatsoever unless p
 
 § 80
 
-​	1) The Office of the Chief Public Prosecutor shall employ Prosecutors to represent Liberland in criminal cases where the State acts as the public accuser.
+1) The Office of the Chief Public Prosecutor shall employ Prosecutors to represent Liberland in criminal cases where the State acts as the public accuser.
 
 2) Prosecutors shall act independently and they shall strive to represent the interests of the victims. Although they shall be in the position of the accuser in any process, they shall nonetheless be mindful of the interests of justice.
 
@@ -920,7 +920,7 @@ Realizing from history of governance that full Consensus is difficult to achieve
 
 Referendum
 
-1) A Citizen or a group of Citizens can propose a referendum for the removal of an existing Regulation or a part thereof. 
+1) A Citizen or a group of Citizens can propose a Referendum to veto an existing Regulation or a part thereof.
 
 2) A Referendum can also be called to remove from office a Judge or a Justice
 
@@ -962,7 +962,7 @@ Public Administration shall draft and ensure the passing of a Regulation which s
 
 § 91
 
-​	In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed
+In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed
 
  
 
@@ -976,7 +976,7 @@ Public Administration shall draft and ensure the passing of a Regulation which s
 
 2) Representatives shall be appointed to propose, consider and pass new Regulations and to remove, in whole or in part, existing Regulations, instead and on behalf of Citizens.
 
-​	3) Elections shall be held perpetually in virtual space(s) prepared for this purpose and designated by Public Administration, henceforth “virtual space for elections”.
+3) Elections shall be held perpetually in virtual space(s) prepared for this purpose and designated by Public Administration, henceforth “virtual space for elections”.
 
  
 

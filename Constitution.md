@@ -913,15 +913,7 @@ Realizing from history of governance that full Consensus is difficult to achieve
 
 § 88
 
-<<<<<<< HEAD
-Public Veto
-=======
-Referendum
-
-1) A Citizen or a group of Citizens can propose a Referendum to veto an existing Regulation or a part thereof.
-
-2) A Referendum can also be called to remove from office a Judge or a Justice
->>>>>>> 2d136cf335a5a043f9d9abf6e73ab7dbf7f30dec
+**Public Veto**
 
 1) A Citizen or a group of Citizens can propose a Referendum for the removal of an existing Regulation or a part thereof. 
 
@@ -963,15 +955,7 @@ Organizing a Referendum
 
 § 91
 
-<<<<<<< HEAD
 In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed in a regular and competent manner, there shall be elements of Representative Democracy operative in Liberland. 
-=======
-In order to minimize the costs of public administration and to ensure that day to day business of Liberland shall be performed
-
- 
-
- in a regular and competent manner, there shall be elements of Representative Democracy operative in Liberland. 
->>>>>>> 2d136cf335a5a043f9d9abf6e73ab7dbf7f30dec
 
  
 
@@ -985,11 +969,9 @@ In order to minimize the costs of public administration and to ensure that day t
 
  
 
- 
-
 § 93
 
-In the first election, exactly “7 representatives shall be chosen and two more seats shall open every quarter of a calendar year, until the number of representatives is 21. Public Administration may later decide to increase this number by Regulation, should the need to adequately represent the growing population of Citizens require it. There shall always be an odd number of Representatives.
+In the first election, exactly 7 representatives shall be chosen and two more seats shall open every quarter of a calendar year, until the number of representatives is 21. Public Administration may later decide to increase this number by Regulation, should the need to adequately represent the growing population of Citizens require it. There shall always be an odd number of Representatives.
 
  
 

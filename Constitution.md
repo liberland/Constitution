@@ -1175,7 +1175,7 @@ The Cabinet shall be formed and led by the Prime Minister, who shall be the Head
 
 § 111
 
-1) The Prime Minister shall be appointed upon a Decision of the Assembly and, should they lose the trust of the Assembly, the Assembly shall have the power to remove the Prime Minister from their office by a Decision.
+The Prime Minister shall be appointed upon a Decision of the Assembly and, should they lose the trust of the Assembly, the Assembly shall have the power to remove the Prime Minister from their office by a Decision. The Prime Minister shall be a member of the Congressional Assembly.
 
  
 

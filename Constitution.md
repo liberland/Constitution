@@ -1,1773 +1,1284 @@
-# The Constitution of the Republic of Liberland
+Constitution of Liberland
 
-## Preamble
+Preamble
+========
 
-We, the People of the Free World, in order to protect our right to life, to our Property and to secure the blessings of liberty to ourselves and our posterity, do establish this Constitution of the Free Republic of Liberland.
+We, the free people of this world, in order to protect our right to Life, to our Property, and to secure liberty for ourselves and for future generations, do establish this Constitution of the Republic of Liberland.
 
-## Book 1
+Book 1
+======
 
-## Basic Principles
+Basic Principles
+================
 
-##
+### Art. 1
 
-### **Art. 1**
+### Right to Property in One's Being and Right to Life
 
-### **Right to Property in one&#39;s being, or right to life**
+1) A human being has the sole, undivided, and absolute ownership of their Person; their body, their mind, and their actions; for the duration of their life.
 
-#### § 1
+2) This right to ownership, or Property, in one's own being is self-evident and is the basis of all liberty. This right shall be respected by all Persons and protected against all who would infringe upon it.
 
-1) A human being has the sole, undivided and absolute ownership of their Person; their body, their mind and their actions; for the duration of their natural life.
+### Art. 2
 
-2) This right to ownership, or Property, in one&#39;s own being, is recognized as self-evident and is the basis of all liberty. It shall be respected by all Persons and protected against all who would infringe upon it.
+### Freedom to Act
 
-##
+A human being owns the Property in their own human actions, and they are free to act or refrain from acting as they see fit as long as their actions concern their own Property and do not interfere with the Property of others.
 
-### **Art. 2**
+### Art. 3
 
-### **Freedom to act**
+### Right to Property in Objects
 
-#### § 2
+A Person who acts and mixes their labour with something in the world, be it a thing, an animal, or any other controllable natural phenomenon, henceforth: "Object", which is as of yet unowned by another Person, shall be acknowledged as the owner of the Object and the Object becomes their Property.
 
-A human being owns the Property on their own human actions, and they are free to act or refrain from action as they see fit as long as their actions concern their own Property and do not interfere with the Property of others.
+A Person shall in no way be limited in the free use of their Property, and they may alter or sell the Object of it or destroy or dispose of the Object as they see fit.
 
-##
+### Art. 4
 
-### **Art. 3**
+### Right to Transfer Property
 
-### **Right to Property in objects**
+1) A Person shall not be limited without their consent in their freedom to transfer the ownership of the Object of their Property, in whole or in part, for the good of a different Person.
 
-#### § 3
-
-A Person who acts and mixes their labour with a thing, an animal, or any other controllable natural phenomenon, henceforth: &quot;Object&quot;, which is as of yet unowned by another Person, shall be acknowledged as the owner of the Object and the Object becomes their Property.
-
-##
-
-#### § 4
-
-A Person shall in no way be limited in their free disposal of their Property, and they may change the Object of it or destroy the Object as they see fit.
-
-##
-
-#### § 5
-
-1) A Person shall in no way be limited in their freedom to transfer their ownership of the Object of their Property, in whole or in part, for the good of a different Person.
-
-2) That other Person shall thus become the new owner of that Property according to the extent to which the previous owner transferred the Property, or a part thereof, to them.
-
-##
-
-#### § 6
+2) That other Person shall, should they accept the transfer, thus become the new owner of that Property according to the extent to which the previous owner transferred the Property, or a part thereof, to them.
 
 1) A Person may likewise relinquish an owned Object or its part, and the relinquished Property shall then become liable to be claimed for ownership by another Person.
 
-2) In case the actions described under 1) and 2) lead to the ownership of two Persons in different Properties of one Object, those Persons become co-owners of that object, each holding a distinct Property in it.
+2) In case such actions lead to the ownership of two Persons in different Properties to one Object, those Persons become co-owners of that object, each holding a distinct Property in it. More than one Person may likewise agree to share ownership in one Property to the same Object.
 
-##
+### Art. 5
 
-#### § 7
+### Non-Perishable Nature of Property
 
-A Person shall be acknowledged as the owner of their Property for as long as they see it fit, and Property shall not diminish nor disappear with time.
+A Person shall be acknowledged as the owner of their Property for as long as they see fit, and the rights of the owner towards the object of their Property shall not diminish nor disappear with the passage of time alone.
 
-##
+### Art. 6
 
-#### § 8
+### Non-aggression Principle
 
-At any given time, a specific Property to one distinct Object shall only be owned by one Person. No Person shall assume the ownership of a Property already owned by another.
-
-##
-
-### **Art. 4**
-
-### **Non-aggression principle**
-
-#### § 9
-
-No Person shall act upon a Property of which they are not the owner without the express permission of the owner of that Property.
-
-##
-
-#### § 10
-
-1) A Person shall have an inherent right to protect their Property, including their Person, as well as the Object of that Property, from infringement.
-
-2) A Person shall likewise have the right to protect the Property of others, including their Persons, as long as it is with their agreement and informed consent also as to the nature of that protection.
-
-##
-
-#### § 11
-
-1) It is common among the People of the Free World to establish bodies based on voluntary cooperation that further coordinate human action.
-
-2) The right of Persons to establish such bodies and choose from amongst their membership their coordinators and representatives shall be respected.
-
-##
-
-
-## Book 2
-
-## The Public Administration
-
-###
-
-### **Art. 1**
-
-### **Stated purpose**
-
-#### § 12
-
-To ensure that the Right to Property shall be respected and efficiently protected under all circumstances, even in situations when it is not in the owner&#39;s powers to provide this protection themselves, the Public Administration of Liberland, henceforth &quot;Public Administration&quot;, shall be established.
-
-#### § 13
-
-The purpose of the Public Administration shall be to act as the public protector of the Right to Life and the Right to Property in Objects and as the public guarantor of the Non-Aggression Principle.
-
-### **Art. 2**
-
-### **Actions of the Public Administration**
-
-#### § 14
-
-The Public Administration shall only perform such actions to which it is empowered, directly or indirectly, by this Constitution. It shall only act inasmuch as is necessary to fulfil its purpose as stated in this Constitution.
-
-#### § 15
-
-The Public Administration shall act using its employees and other people, such as volunteers and contractors. Any Persons acting in this capacity shall be called Agents of the Public Administration, henceforth &#39;Agents&#39;.
-
-### **Art. 3**
-
-### **Regulative power**
-
-#### § 16
-
-1) To ensure that the social situation will be stable and conducive for the Stated Purpose, the Public Administration shall establish rules and guidelines that inform human action and guide the people to act in more predictable ways that are less likely to clash with actions of other people.
-
-2) This shall be accomplished by issuing Regulations within the limits of this Constitution, which shall not deny, but better define and specify the meanings of the Freedom to Act and shall enable a better and a more universal application of the Non-Aggression Principle.
-
-#### § 17
-
-Regulations shall be binding on Persons inasmuch as they conform to this Constitution.
-
-#### § 18
-
-1) The Public Administration and this Constitution shall consider such a human action as shall conform not only to this Constitution but also to all valid regulations of Public Administration to be a &#39;Lawful action&#39;.
-
-2) Lawful action shall profit from special rights and freedoms according to this Constitution as it represents less of a risk to the peace and stability of the community than other action.
-
-3) Lawful action shall not be liable for punishment by Public Administration and shall in no wise be called nor considered a delict.
-
-####
-
-#### § 19
-
-The Public Administration shall only use its regulatory power when given the power to it by this Constitution. All regulations shall be made in all ways conform with a strict interpretation of this Constitution.
-
-##
-
-#### § 20
-
-The Public Administration shall obey its own regulations.
-
-##
-
-### **Art. 4**
-
-### **Division of power**
-
-#### § 21
-
-​ In order to safeguard the workings of the Republic of Liberland, henceforth &quot;Liberland&quot;, from tyranny or the takeover of Liberland by special interests through the Public Administration, shall the Public Administration be composed not of one institution nor shall it be based on one nexus of power, but it shall be divided, and that into at least three distinct branches of power: the Judicial Power, the Legislative Power and the Executive Power.
-
-##
-
-#### § 22
-
-Each branch of the Public Administration shall be distinct in its tasks and in its powers, and those tasks and powers shall be described with great precision in this Constitution.
-
-##
-
-##
-
-### **Art. 5**
-
-### **Financing the Public Administration**
-
-#### § 23
-
-1) The Public Administration shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships, such as voluntary, project-based taxation based on consent, gifts and inheritances and other instruments of voluntary commerce.
-
-2) The Public Administration shall also finance itself using, renting, selling and holding its own Property. In this capacity, it shall enjoy the same rights and the same freedom of the Market as any Person would, as long as it acts in ways a private entrepreneur would act, and not from the position of a government body.
-
-#### § 24
-
-In order to allow the regular working of the Public Administration, a Land Fee shall be established. This Land Fee shall likewise function in a contractual manner.
-
-##
-
-#### § 25
-
-1) In order to institute the Land Fee on a property, the Public Administration shall, upon
-
-a) the incorporation of any real estate Property unto the jurisdiction of Liberland; or
-
-b) the purchase or development of any real estate in its jurisdiction from the State
-
-establish a permanent co-proprietorship of the Public Administration to the given piece of real estate, which shall always be attached to that real estate, and the Public Administration shall not be able to eschew it.
-
-2) This co-proprietorship shall be retained by the Public Administration irrespective of any change of main ownership of the Property for as long as the Property exists.
-
-#### § 26
-
-This co-proprietorship shall be very limited in order not to disturb free commerce in the land. As such, it shall not give Public Administration any rights except
-
-a) to procure payments of a Land Fee set up according to Law and this Constitution, beforehand and in a transparent manner; and
-
-b) to expropriate the real estate should the Land Fee be long overdue for payment and all the other options of obtaining the due payments or all attempts to find the other owners of the Property will have repeatedly failed.
-
-#### § 27
-
-The Public Administration shall draft and regularly maintain a Regulation which shall
-
-a) set up the details regarding the Land Fee, including but not limited to the formula of how it is to be counted and the manner of payment; and
-
-b) the clear rules for the expropriation, including further conditions necessary to fulfil before this expropriation occurs.
-
-##
-
-###
-
-### **Art. 5**
-
-### **Limits of power**
-
-#### § 28
-
-1) Any regulative, especially legislative action of the Public Administration, shall be liable to be tested against this Constitution directly in any legal dispute or arbitration or any other action in law and other situations prescribed by this Constitution.
-
-2) Only such Regulation as is liable to pass a Constitutional test of conformity shall serve as the binding interpretation of this Constitution.
-
-##
-
-#### § 29
-
-1) The Public Administration is mandated to specify further what is lawful in human action, and it hereby sets boundaries on human action. Therefore, it presents the risk that it could abuse the powers entrusted to it and use them against Persons in a manner that does not conform to this Constitution&#39;s basic principles.
-
-2) To mitigate this risk and prevent this abuse of power where possible, the Public Administration shall, in any and all of their actions, in their policymaking and their day-to-day business, respect and protect certain principles and limitations and afford certain rights to all human beings.
-
-3) This Constitution provides the list of these principles, limitations and rights to which the Public Administration shall always adhere and which shall form the cornerstone of their work, henceforth &quot;the Bill of Rights&quot;.
-
-##
-
-####
-
-#### § 30
-
-The Public Administration shall interpret and apply those human rights in ways that are the most conducive to the individual&#39;s freedom and the principles it exists to safeguard.
-
-#### § 31
-
-1) The list enshrined in the Bill of Rights shall in no wise be exhaustive, and later Regulations can expand it.
-
-2) No rights shall be added that would not be compatible with this Constitution and its basic principles.
-
-## Book 3
-
-## Bill of Rights
-
-### **Art. 1**
-
-### **Freedom of Property**
-
-#### § 32
-
-1) The Public Administration shall not restrict the use of the private property of Persons, nor shall any law restrict the use of one&#39;s land or natural resources found thereon, as long as that use is lawful.
-
-2) No Person shall have their private property confiscated as long as it was acquired lawfully and used lawfully. Any Property shall be assumed to have been obtained lawfully and used lawfully unless proven otherwise by fact-finding.
-
-3) The only way to limit the use or possession of the individual Property will be by order of a Court based on a clearly stipulated provision of a Law.
-
-##
-
-#### § 33
-
-The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause particularly describing the place to be searched and the persons or things to be seized.
-
-#### § 34
-
-1) All Individuals shall have the right to exclude from their Property any Person, including an Agent, where acting without, or beyond the limits of, a Warrant.
-
-2) Persons in charge of any premises shall have the right to regulate the conduct of every Person on the Property, other than Agents where acting pursuant to, and within the limits of, a Warrant.
-
-##
-
-#### § 35
-
-Should a decision of Public Administration in the case of a Person or an action by an Agent be recognized as unlawful and cause damage to private Property, Public administration shall cover that damage to the owner of that Property.
-
-### **Art. 2**
-
-### **Right of self-defence**
-
-#### § 36
-
-1) All Persons shall have the right to self-defence and to defend their Property and constitutional Rights.
-
-2) All Persons shall also have the freedom to defend others who are under a direct and real threat against initiators of aggression.
-
-##
-
-#### § 37
-
-1) All Persons shall have the right to own, manufacture, sell, transfer, transport, bear and use any small arms and Public Administration shall neither deny nor regulate this right, except for the judicial power in individual cases where public safety would be at very clear and present jeopardy.
-
-2) It shall not be the way of the Public Administration to govern by an overwhelming force of arms. Therefore, Public Administration shall not bear weapons other than those lawfully allowed to other Persons.
-
-##
-
-### **Art. 3**
-
-### **Freedom from military service**
-
-#### § 38
-
-Liberland shall have no standing army, and Persons shall never be conscripted for military purposes, even in situations of an objective and immediate danger or at times and in situations where it would be common practice amongst States to demand conscription of their citizens.
-
-### **Art. 4**
-
-### **Right to collective defence**
-
-#### § 39
-
-1) Should circumstances demand it, Persons shall be free to organize a common defence of their Property to protect the Land collectively against threats.
-
-2) Public Administration shall aid and abet this effort when deemed necessary and for that end shall organize the Territorial Defense Force, composed of armed and unarmed Agents protecting the land voluntarily.
-
-##
-
-#### § 40
-
-Public Administration shall be only allowed to bind Liberland by international agreements providing for the defence of Liberland or agreements of collective security in so far as those would be compatible with this Constitution.
-
-### **Art. 5**
-
-### **Freedom of action**
-
-#### § 41
-
-1) Each Person shall have the full and sovereign right in the free control of and the free disposition of their own body.
-
-2) Persons shall likewise be seen as responsible and capable of acting and comprehending the consequences of their actions unless proven otherwise.
-
-##
-
-#### § 42
-
-Disputes shall be orderly decided with urgency and with no unnecessary delays.
-
-#### § 43
-
-Public Administration shall not establish and/or regulate the institution of marriage made exclusively between Individuals on their own free will and informed consent; nor shall any law restrict an Individual&#39;s testamentary freedom.
-
-##
-
-###
-
-### **Art. 6**
-
-### **Prohibition of victimless crimes**
-
-#### § 44
-
-1) No action shall be deemed a delict as long as it objectively harms no Person in Property to their Life, Health or Objects.
-
-2) Likewise, shall no action be deemed a delict by a later law as long as that action was no delict during the time it took place.
-
-##
-
-### **Art. 7**
-
-### **Freedom of movement**
-
-#### § 45
-
-Every Person shall have the right to move freely within the territory of Liberland, freely to leave it and enter it and to dwell there, as long as the purpose of these actions is legal.
-
-#### § 46
-
-1) Public Administration shall in no wise restrict the freedom of movement of Persons unless deemed absolutely necessary to protect the life, liberty and property of individuals, and even then never for longer than what that dire necessity would require.
-
-2) No Person shall be placed under arrest for more than twenty-four hours without a Warrant.
-
-##
-
-#### § 47
-
-Where a Person is placed under arrest, Agents shall immediately inform their close ones as prescribed by law about the arrest and allow them contact with legal counsel.
-
-#### § 48
-
-Agents executing arrests shall act openly and shall inform the detainee about the relevant rights they enjoy under this Constitution and other regulations.
-
-##
-
-### **Art. 8**
-
-### **Prohibition of slavery**
-
-#### § 49
-
-1) Public Administration shall not suffer a relationship amounting to involuntary servitude or slavery to exist between Persons, even should such a relationship be originally based on a voluntary contract or a similar expression of consent by the slave.
-
-2) The slave shall always have the right to take back their consent with slavery once given, and any contractual stipulation denying such shall be null and void.
-
-####
-
-#### § 50
-
-A slave shall always have the right to escape their bondage and shall always be helped in this endeavour by the Public Administration.
-
-#### § 51
-
-All that applies to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, such as understood by customary international law.
-
-#### § 52
-
-Persons who are lawfully convicted for delicts shall be liable to limitations of freedom which amount to enforced labour, but only within the strict limits of the Law and based on an individual decision of a Court.
-
-### **Art. 9**
-
-### **Freedom of information**
-
-#### § 53
-
-1) No regulation and no other action of Public Administration shall abridge the freedom of thought and expression thereof; no Person shall be convicted of any delict for any statement of opinion, whether offensive or otherwise.
-
-2) Free expression shall be respected and protected in all public areas within the Free Republic of Liberland.
-
-####
-
-#### § 54
-
-All Persons shall have the right to freedom of speech and to petition the Public Administration for a redress of grievances.
-
-##
-
-#### § 55
-
-1) Public Administration shall never regulate any printed materials, radio, television, the Internet or any other medium of exchange of information, nor shall they regulate the transmitting, displaying, accessing and/or publishing of such information.
-
-2) Public Administration shall likewise never introduce any licensing and/or registration scheme to infringe upon this right.
-
-3) The only regulation in those matters might be conducted where the materials provably, clearly and directly cause direct harm to other persons or their property.
-
-##
-
-#### § 56
-
-Public Administration shall not prohibit any video and/or audio recording of conversations or events on which a Person participates, whether offline or online.
-
-#### § 57
-
-Public Administration shall conduct its business openly by making public
-
-a) all its affairs, its decision making and its deliberative sessions,
-
-b) all proceedings before Courts other than those concerned with Warrants and privacy of Persons;
-
-c) all the documents that the Public information might use as a background for their decision-making and day-to-day business.
-
-#### § 58
-
-Public Administration shall publish all information related to any aspect of the functioning of Public Administration free of charge and in a way that makes it readily available to the public.
-
-##
-
-### **Art. 10**
-
-### **Freedom of association**
-
-#### § 59
-
-All Persons shall have the right to assemble peaceably; no law shall interfere with any voluntary relations or cooperative ventures formed by Individuals.
-
-#### § 60
-
-All Persons shall likewise have the right to associate or transact with any other person or refuse to associate or transact with any other person for any reason, and the proprietor or the lawful possessor of any movable or immovable property may exclude or refuse to provide their services or grant admission to any other Person.
-
-### **Art. 11**
-
-### **Freedom from enforced taxation**
-
-#### § 61
-
-Public Administration shall never impose upon Persons directly or by proxy, any form of taxation or similar rules which take money from the people where there is no consent given by the Person who pays.
-
-#### § 62
-
-1) Public administration shall likewise not induce nor suffer any other institution or Person to impose and unilaterally enforce taxes or tax-like measures where there is no consent given by the Person who pays, within the scope of its jurisdiction.
-
-2) Land Fee shall be only permissible if it is based on a contractual relationship entered during the purchase of the given property.
-
-#### § 63
-
-Public Administration shall in no wise oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any financial incentive in that respect, for such schemes often mask what amounts to taxation.
-
-### **Art. 12**
-
-### **Freedom of Commerce**
-
-#### § 64
-
-1) All individuals shall have the right to engage in commerce as they see fit, as long as their actions are lawful.
-
-2) Public Administration shall never interfere with the validity and/or the content of any lawful contract.
-
-##
-
-#### § 65
-
-The Public Administration shall never engage in imposing any duty on goods, services and/or capital imports and export, tariffs and other measures which should hamper the freedom of certain goods or capital both on the internal market in Liberland and international trade.
-
-#### § 66
-
-The prices of goods and services shall be seen as an indicator of the levels of scarcity on the market with said goods and services. Manipulating prices is equivalent to fraudulent behaviour, whereby Persons would be compelled to make irrational decisions and suffer losses as a result. Therefore, no price controls of any kind shall be instituted by the Public Administration, whether by legislative action or directly.
-
-### **Art. 13**
-
-### **Equal access to public services**
-
-#### § 67
-
-No person or group of Persons shall be excluded from the operation of, or granted any privilege under, any Regulation; nor shall any Person be denied equal protection under this Constitution.
-
-#### § 68
-
-All religions, sexes, genders, sexual orientations, races, nationalities and levels of physical ability and other such categories shall be treated alike by the Public Administration in all her actions. Public Administration shall neither promote nor suppress any such personal traits or qualities, and everybody will be free to express these in their private life.
-
-##
-
-###
-
-### **Art. 8**
-
-### **Freedom from Counterfeiting**
-
-#### § 69
-
-Money is that which the people choose to use as a medium of exchange, and the price of money is that for which that money buys other articles on the free market. Public Administration shall therefore never engage in restricting a particular commodity from being used as money or a money-like instrument.
-
-##
-
-#### § 70
-
-There shall likewise never be a public central bank-like institution in Liberland. Public Administration shall not engage in any monetary or fiscal policy of any kind in its capacity of a governmental organization, neither adjusting the rent by its governmental authority nor hoarding nor releasing the supply of any money or money-like instrument to facilitate such a governmental manipulation nor in any other such measure, known or as of yet unknown to legal science or economy.
-
-##
-
-#### § 71
-
-Interest in borrowed assets represents the value of time preference on the market and is an important indicator for all market actors. Manipulating the rent, directly or indirectly, leads to confusion and infringes the value of one&#39;s property on the free market. Therefore, Public Administration shall never engage in such manipulation, nor shall it create a governmental organization that should engage in this.
-
-##
-
-####
-
-#### § 72
-
-Should Public Administration become in its capacity to act as an entrepreneur would on the free market the owner of a money system, such as a cryptocurrency blockchain or a mint, it will be free to act as any such an owner and entrepreneur would towards the supply and the issuance of that money or a monetary system or any other similar instruments.
-
-#### § 73
-
-Public administration shall never impair special rights or favours to banks and other financial institutions to protect them from bankruptcy should they not have enough assets to cover all their liabilities.
-
-### **Art. 9**
-
-### **Right to Privacy**
-
-#### § 74
-
-1) No Person shall have their privacy violated by freezing of assets, searches, seizures, surveillance, accessing and gathering of their private personal information without their express and informed consent, including obtaining it from third parties and/or using digital means, unless pursuant to a Warrant.
-
-2) The Warrant shall be sufficiently specific and shall be issued and only to the extent which is strictly necessary to achieve its purpose
-
-##
-
-#### § 75
-
-1) All private personal data collected by the Public Administration shall be used only for the purposes for which they were collected.
-
-2) Public Administration shall keep this data confidential and shall share it only with the express and informed consent of all Persons to whom the data relates; any consent given in relation to personal data may be taken back by the data subject at any time and without bad consequences unless the data is required to fulfil legal or contractual obligations.
-
-3) All individuals whose data is being stored by the Public Administration shall be entitled to obtain a copy of the data upon asking for it.
-
-#### § 76
-
-1) Public Administration shall force no Person to register and/or share information about themselves, their religion, medical conditions, fingerprints, DNA, political affiliation and the like. All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.
-
-2) Public Administration shall likewise require no Person to register and/or share information about their whereabouts, be it permanent or temporary, assets, be it tangible or intangible, and/or signed contracts, be it employment, commercial or otherwise, unless pursuant to a Warrant. All such registration will be performed on a consensual basis only.
-
-##
-
-
-##
-
-
-## Book 3
-
-## Judicial Power
-
-## Section 1
-
-## Courts
-
-### **Art. 1**
-
-### **The Courts in Liberland**
-
-#### § 77
-
-In the interest of keeping the peace, preventing conflict, and safeguarding Life, property, and the Non-Aggression Principle, Public Administration shall enable the regular operation of judicial power and the rule of law and justice in Liberland.
-
-##
-
-#### § 78
-
-1) Judicial Power shall be vested in one supreme Court, and in other, lower Courts such as Persons or the Public Administration may from time to time ordain and establish.
-
-2) All verdicts of the Supreme Court shall be binding upon the parties to the proceedings and upon all inferior Courts on the point of law in all future proceedings.
-
-##
-
-#### § 79
-
-Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the laws passed in accordance therewith.
-
-##
-
-### **Art. 2**
-
-### **Establishing and disestablishing courts**
-
-#### § 80
-
-The Public Administration may establish or veto the establishment of a court when this should be seen as detrimental to the values protected by this Constitution.
-
-#### § 81
-
-Disestablishment of a Court may only occur where its continued existence represents a direct and clear threat to the Constitution and the principles espoused therein.
-
-#### § 82
-
-1) The Public Administration shall propose in that case to disestablish such a Court and shall submit its decision for judicial review by the Supreme Court.
-
-2) The disestablishment shall only take effect where the Supreme Court agrees with the reasoning of Public Administration and where it likewise states a clear and present danger to this Constitution and its principles and where no lesser measure may sufficiently safeguard those values.
-
-##
-
-###
-
-### **Art. 3**
-
-### **Constitutional review ex-post of the Courts**
-
-#### § 83
-
-Regulations and other actions of Public Administration shall be presumed correct by the Courts when not made part of the dispute by choice of a Party, but their conformity with this Constitution shall be a possible point in every dispute before every Court in Liberland.
-
-#### § 84
-
-1) Courts shall have the power to declare Regulations unconstitutional and actions of the Public Administration illegal. That decision shall come into effect when there is no longer a possibility of any form of appeal.
-
-2) As soon as the declaration of unconstitutionality regarding a Regulation comes into effect, the Regulation in question shall become invalidated from that point in time.
-
-##
-
-### **Art. 4**
-
-### **Rights of parties before a Court**
-
-#### § 85
-
-All parties to any trial before any Court of the Free Republic of Liberland shall be given a fair hearing in accordance with the rules of natural justice before a verdict is rendered.
-
-#### § 86
-
-Access to any Court of the Free Republic of Liberland shall not be impeded by any excessive formal, financial or other requirements.
-
-### **Art. 5**
-
-### **Power to limit individual freedoms**
-
-## § 87
-
-Courts and their Judges shall be the only authority in Liberland authorized to issue Warrants, which alone amongst all instruments of Law shall have the power to restrain Persons on a case basis and limit them in their rights according to this Constitution without a judgement in their cause.
-
-#### § 88
-
-1) Warrants shall only be issued based on a well reasoned probable cause that shall be supported by provable facts.
-
-2) A warrant shall only be issued when it is clear that no lesser measure shall serve to protect the rights of Persons and shall be construed so that the infringement into personal Liberty and Right of Persons shall be as minimal as possible given the circumstances.
-
-##
-
-#### § 89
-
-No Agent of Law Enforcement shall enter the premises of any Court unless pursuant to a Warrant issued by the Supreme Court.
-
-##
-
-
-##
-
-
-## Section 2
-
-## The Supreme Court
-
-### **Art. 6**
-
-### **The Supreme Court**
-
-#### § 90
-
-The Supreme Court shall be composed of one Chief Justice of the Supreme Court, henceforth &#39;the Chief Justice&#39;, and two Justices of the Supreme Court. All privileges which judges might enjoy by this Constitution or by Law shall also pertain to the Justice of the Supreme Court.
-
-##
+No Person shall act upon a Property of which they are not the owner without the express permission of the owner of that Property. In order to be valid, such permission must be given based upon a clear appreciation and understanding of the facts, implications, and consequences of the action, henceforth, "Informed Consent".
 
 ### Art. 7
 
-### Justices of the Supreme Court
+### Right to Defend Property
 
-#### § 91
+1) A Person shall have the inherent right to protect their Property, including their Person, as well as the Object of that Property, from infringement.
 
-Public Administration shall nominate the Chief Justice without delay to be appointed according to the process required by this Constitution. The Chief Justice shall be a current or a former judge with excellent professional reputation and moral character and a known adherent of the values on which this Constitution stands.
+2) A Person shall likewise have the right to protect the Property of others, including their Persons, as long as it is with their agreement and Informed Consent as to the nature of that protection.
 
-##
+The right of Persons to establish bodies based on voluntary cooperation that further coordinate human action and choose their coordinators and representatives from amongst their membership shall be respected.
 
-#### § 92
+### Art. 8
 
-After their appointment, the Chief Justice shall, without unnecessary delays, nominate two current or former Judges with excellent professional reputations and moral character to the positions of the two other Justices of the Supreme Court. Those nominees shall then go through the process required by this Constitution and become Justices upon their appointment.
+### The Public Defender of Property
 
-##
+Where the Non-Aggression Principle is not observed, by some actor or by all, in full or in part, or where Informed Consent cannot be obtained in a situation of necessity and property can be damaged or destroyed, an intervention needs to happen, accompanied by a possible derogation from these rights or the limiting of their enjoyment. This is to prevent situations where might would make right and to prevent unnecessary damage. The sole subject empowered to intervene in this way shall be the State of Liberland, henceforth, "Liberland". 
 
-#### § 93
+Liberland shall be the public defender of the Non-Aggression Principle and the Property rights of all the people, especially those who want to have their Property protected, but are incapable to defend it themselves.
 
-Should any of the nominees for Justices of the Supreme Court not secure their appointment, they shall not become Justices. The organ nominating those Justices shall consult with the appointing organ the reasons for rejection and shall nominate another candidate who shall be more likely to secure an appointment.
+Liberland shall act where it is apparent that the owner is unable to effectively protect their property or where specifically called to action by the owner or by concerned third parties. Liberland shall be able, where necessity requires this and only to the extent as required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation. .
 
-##
+### Art. 9
 
-### **Art. 8**
+### Equality of All
 
-### **Inherent jurisdiction of the Supreme Court**
+Liberland shall in equal measure defend all property, treating all persons as equals. Liberland shall therefore not act in an arbitrary manner; rather, an orderly system shall be put in place governing all its actions and its structure.
 
-#### § 94
+Book 2
+======
+
+Liberland Government
+====================
+
+Section 1
+---------
+
+Fundamentals for Governing Liberland
+------------------------------------
+
+### Art. 10
+
+### Purpose of the Government
+
+The purpose of the Government of Liberland, henceforth "Government", shall be to act on behalf of Liberland and the people as the common, delegated protector of the Right to Life and the Right to Property in Objects and as the public guarantor of the Non-Aggression Principle. 
+
+### Art. 11
+
+### Actions of the Government
+
+The Government shall only perform such actions to which it is empowered, directly or indirectly, by this Constitution. It shall only act inasmuch as is necessary to fulfil its purpose as stated in this Constitution.
+
+The Government shall form various organs which shall be organized hierarchically and shall each perform specific functions. The Government shall act through its employees and other people, such as volunteers and contractors. Any Persons acting in this capacity shall be called Agents of the Government, henceforth "Agents".
+
+The Government shall act in ways which are easy to understand and not to confound the people. It shall strive to prevent confusion by clearly displaying certain symbols and using certain phrases and other means to signify that given persons are acting on behalf of it and in which capacity and that given sites are dedicated to the pursuance of its objectives.
+
+Section 2
+---------
+
+Governmental Powers
+-------------------
+
+### Art. 12
+
+### Division of Power
+
+​ In order to safeguard the workings of Liberland from tyranny or usurpation by special interests, the Governmentshall not be composed of one institution, nor on one nexus of power, but it shall be divided, and that into at least three distinct branches of power: the Judiciary Branch, henceforth "Judiciary", the Legislative Branch, henceforth "Legislative", and the Executive Branch, henceforth "Executive".
+
+Each branch of the Governmentshall be distinct in its tasks and in its powers. 
+
+a) The Judiciary alone shall weild the power to set rights and obligations in individual cases;
+
+b) The Legislative shall be given the power to generally order matters in Liberland to allow the efficient pursuance of the Purpose of the Government. 
+
+c) The Executive shall engage in the day-to-day governance of Liberland and shall assist the other two branches.
+
+### Art. 13
+
+### Regulatory Power
+
+1) To ensure that social relations will be civil, peaceful and conducive to its purpose, the  Legislative shall establish rules and guidelines that inform human action and guide the people to act in peaceable ways that are less likely to clash with the actions of other people. 
+
+2) The Executive shall expand upon these rules and create anxiliary rules within the limits and based on mandates given by the Legislative Power  
+
+3) This shall be accomplished by issuing Regulations, written instruments containing normative text and explanatory text aimed at setting, repealing or adjusting rights or responsibilities for generally defined groups of Persons, or for the Government or certain parts thereof.
+
+1) The Legislative and the Executive shall only use their Regulatory Power when given the authority by this Constitution to do so. All Regulations shall be made to conform to a strict interpretation of this Constitution.
+
+2) Regulations shall be binding on Persons only as long as these Regulations conform to this Constitution.
+
+3) The Government shall obey its Regulations.
+
+1) The most important amongst Regulations in Liberland shall be called Laws, issued solely by the Legislative. Laws shall be second in power only to this Constitution, capable to bind all branches of the Government, Liberland as whole and, uniquely, also any Persons within Liberland's jurisdiction.
+
+2) Laws shall be the only Regulations whereby the Government may independently grant or ammend rights or privileges or impose obligations. 
+
+3) All the other Regulations shall have to be issued within the limits of a specific Law in order to bind Persons within Liberland's jurisdiction; otherwise, they shall be aimed only within the organisation of the Government and binding only upon Agents in active duty.
+
+### Art. 14
+
+### Enforcement
+
+1) The Executive shall be able, through the Agents assigned to it, to enforce Regulations and Judiciary decisions. 
+
+2) The Legislative shall designate specific governmental organizations which shall be solely empowered to use such enforcement and it shall do so in the way that as few Agents as possible and only those for whom it is absolutely necessary should bear this power.
+
+3) The Judiciary shall make two types of enforceable decisions:
+
+a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
+
+b) Verdicts which represent the decision in a particular case and, where they gain legal force, shall be binding in perpetuity.
+
+3) The Executive shall only make use of coercive measures where no other means should clearly suffice to effect the purpose of the Government and non-lethal instruments shall be prefered over the use of lethal ones wherever possible.
+
+The Government shall only use, aquire, own, posess or equip its Agents with weapons and other defensive and offensive equipment which Persons who habitually and lawfully dwell in Liberland, henceforth "Liberlanders", might use privately and without restrictions to effect self-defense or collective defense.
+
+Section 3
+---------
+
+Constitutional Policies
+-----------------------
+
+### Art. 15
+
+### Good Neighbour Policy
+
+1) Liberland shall in all matters strive to be a good neighbour to its fellow sovereign States and with respect to individuals living in other countries and places in the world. 
+
+2) Given Liberland's unique role in the world as well as the increasingly global nature of human relations, the entire international community and all the people in the world shall be seen as neighbours.
+
+### Art. 16
+
+### Striving towards Peace
+
+Liberland shall strive to maintain peace with all its neighbours individually and with the international community in its entirety. Where this might prove impossible, the Government shall attempt to minimise the likelihood or, at worst, the impact of conflicts.
+
+1) Wherever Liberland can with a reasonable likelihood of success facilitate the negotiation of peace where serious conflict may be expected or is already underway, the Government shall attempt to do so. 
+
+2) Liberland shall maintain its independence as a neutral middle party, enabling and encouraging dialogue and peaceful solutions by mutually beneficial compromise.
+
+### Art. 17
+
+### Neutrality
+
+1) Liberland's peaceful orientation and non-participation in conflicts, whether between States, within States, or otherwise, shall be a guiding principle for the Government.
+
+2) The initiation of violence shall be prohibited. However, nothing in this paragraph shall be construed as prohibiting legitimate collective defence as specified in the Bill of Rights.
+
+1) Every Liberlander shall havethe right to be served by a Government that upholds these principles of Good Neighbourliness, Peace and Neutrality. 
+
+2) The Judiciary shall have the power declare actions of the Executive or of the Legislative to the contrary as illegitimate and null and void on behalf of a complaint made by a Liberlander based on this paragraph.
+
+### Art. 18
+
+### Commitment to International Law
+
+Public International Law rules binding Liberland, whether by Treaty or otherwise, shall have direct legal force and the Government shall always act within their boundaries.
+
+Where a conflict should occur between the norms of this Constitution and a norm of Public International Law that binds Liberland, the norm of Public International Law shall apply, except when it is in conflict with the Book 1 of this Constitution and this conflict proves irreconcilable by interpretation or negotiation.
+
+### Art. 19
+
+### Protection of Cultural and Natural Heritage
+
+1) The Government shall identify and protect the natural and cultural heritage of Liberland, both on land and in its waters and waterways. It shall, when acting, take concern for the welfare of the soil, and the plant and animal life, both on land and in water, as well as for the overall ecosystem and each biome. 
+
+2) The Legislative and the Executive shall strive to harmonize economic development with the need to preserve its natural and cultural heritage and the rich ecosystems of Liberland for posterity. 
+
+Section 4
+---------
+
+Limits on the Government
+------------------------
+
+### Art. 20
+
+### Financing the Government
+
+1) The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation based on consent, gifts, inheritances, and other instruments of voluntary commerce.
+
+2) The Execuitveshall also finance the Government by using, renting, selling, and holding its own Property. The Executive acting in this capacity in the name of Liberland shall enjoy the same rights and the same freedom of the Market as any Person would, as long as it acts in ways a private entrepreneur would act, and not from the position of a government body.
+
+3) The Government shall strive to keep Liberland's budget balanced or in surplus.
+
+### Art. 21
+
+### Land Tax
+
+In order to provide for the regular working of the Government and to ensure that immovable property is used in an efficient manner, a Land Tax shall be established as s form of voluntary taxation. 
+
+Wherever Liberland should come to own a piece of Land and decide to relinquish it, the Executive shall put a condition into the contract that the purchares suffers a special right to be established upon the property with Liberland as its beneficiary; this right shall allow the Executive in the name of Liberland to:
+
+a) yearly collect the Land Tax; and
+
+b) upon ten election terms of non-payment and after repeated warnings sell the property on behalf of the owner and to use the proceeds to collect the due Land Tax payment. 
+
+The Executive shall permit no negotiation regarding these conditions and the Legislature shall determine any further details in Law as necessary.
+
+### Art. 22
+
+### Limits of power
+
+The Judiciary shall provide Persons with an effective means of recourse against unconstitutional Regulations, policies or actions of the Government.
+
+1) The Government shall, in any and all of its actions, policymaking and day-to-day business, respect human dignity, principles of liberty and fundamental human rights. A number of those rights shall be enumerated in this Constitution, constituting the Bill of Rights. The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people. 
+
+The Government shall interpret and apply those human rights in ways that are the most conducive to the individual's freedom and those principles it exists to safeguard.
+
+### Art. 23
+
+### Public-Private Partnerships
+
+The fact that the Governmentis empowered by this Constitution to perform certain functions and provide certain services in the society shall not prevent others fromperforming those functions and providing those services on a private basis. 
+
+Where private subjects perform functions or provide services to which this Constitution empowers the Government or one of its branches, henceforth "Public Services", they shall likewise be required to adopt the purpose of the Government and to respect the basic principles in the Book 1 of this Constitution. In addition, they shall respect the Constitutional Rights enumerated in the Bill of Rights and other human rights the same way the Government must respect them.
+
+The Legislative Power shall be at liberty to draft Laws regulating the providing of Public Services by private parties, as if these parties were part of the Government. The private Public Services providers shall comply with those Laws and also with other Regulations issued by the Executive within the scope of the Law.
+
+Book 3
+======
+
+Bill of Rights
+==============
+
+Section 1
+---------
+
+Property Rights and Human Dignity
+---------------------------------
+
+### Art. 24
+
+### Sovereignity of Property
+
+The Governmentshall not restrict the use of the private property of Persons, nor shall any law restrict the use of one's land or natural resources found thereon, as long as that use is devoid of fraud,  doesn't grossly infringe with public morality as understood generally at the given time and place, and doesn't infringe the rights and freedoms of others with excessive negative externalities.
+
+1) Property owners shall have the right to establish rules of conduct of every Person on the Property, other than Agents where acting strictly pursuant to, and within the limits of, a Warrant. 
+
+2) Property Owners shall likewise have the right to exclude from their Property any Person, including an Agent, where acting without, or beyond the limits of, a Warrant.
+
+1) Any Property shall be assumed to have been obtained and used lawfully unless proven otherwise. The final arbiter shall in disputes regarding this matter shall be  a court of law.  
+
+2) No Person shall have their private property confiscated without their Informed Consent as long as it has been acquired lawfully and used lawfully.
+
+Should a decision of the Governmentin the case of a Person or an action by an Agent be recognised as unlawful and cause damage or loss to private Property, Liberland shall be held liable for that damage to the owner of that Property.
+
+### Art. 25
+
+### Right of Personal Integrity
+
+1) All Persons shall have the full and sovereign right in the free control of and the free disposition of their own mind, body and conscience. 
+
+2) All Persons shall likewise be seen as responsible and capable of acting and comprehending the consequences of their actions unless proven otherwise. The final arbiter shall be a court of law.
+
+1) The Governmentshall not infringe upon the integrity of a natural Person in any way without first obtaining their full and Informed Consent. 
+
+2) Where obtaining full and Informed Consent should prove impossible or where there is an urgent, present and sufficiently dire need to protect the life, liberty or property of others, the Government, in particular through the Executive Power, can only act upon the integrity of a natural Person based on a mandate given by Law or upon a judicial decision or a warrant.
+
+### Art. 26
+
+### Freedom of Movement
+
+1) Every Liberlander shall have the right to move freely within the territory of Liberland, to freely leave it, to freely enter it, and to freely dwell in it. 
+
+2) The free movement of other Persons may be restricted only by law and only where not doing so should represent a clear and present danger to the Persons and Property in Liberland. 
+
+The Government can limit freedom of movement on-premises on which Liberland is the owner only when deemed absolutely necessary to protect the life, liberty, or property of an individual, and even then never for longer than what that dire necessity would require. 
+
+### Art. 27
+
+### Right to Privacy
+
+The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and the Judiciary shall only issue Warrants upon probable cause particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.
+
+1) Unless pursuant to a Warrant or done with their express and Informed Consent, no Person shall have their privacy violated by freezing of assets, searches, seizures, surveillance, or accessing or gathering of their private personal information; neither shall such actions be performed through third parties or using technological means.
+
+2) The Warrant shall be sufficiently specific and shall be issued and only to the extent which is strictly necessary to achieve its purpose
+
+1) All private personal data collected by the Governmentshall be used only for the purposes for which it is collected.
+
+2) The Governmentshall keep this data confidential and shall share it only with the express and Informed Consent of all Persons to whom the data relates; any consent given in relation to personal data may be taken back by the data subject at any time and without negative consequences unless the data is required to fulfil legal or contractual obligations.
+
+3) All individuals whose data is being stored by the Government shall be entitled to obtain a copy of the data upon asking for it.  The individuals requesting their data shall obtain it in a reasonable amount of time. 
+
+1) The Governmen tshall force no Person to register and/or share information about themselves, their religion (or lack thereof), medical conditions, fingerprints, DNA, political affiliation, and the like, except where that is necessary for the operation of law or of this Constitution. All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.
+
+2) The Government shall likewise require no Person to register and/or share information about their whereabouts, be it permanent or temporary, assets, be it tangible or intangible, and/or signed contracts, be it employment, commercial, or otherwise, unless pursuant to a Warrant. All such registration will be performed on a consensual basis only.
+
+Section 2
+---------
+
+Rights to Defend Oneself and One's Property
+-------------------------------------------
+
+### Art. 28
+
+### Right of Self-Defence
+
+1) All Persons shall have the right to defend themselves, their Property, and their Constitutional Rights. 
+
+2) All Persons shall also have the freedom to defend others who are under a direct and real threat against initiators of aggression. 
+
+### Art. 29
+
+### Right to Bear Arms
+
+1) The right of Liberland citizens to keep and bear arms shall not be infringed. All adult, able-minded Liberland citizens of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear small arms. 
+
+2) The Legislative Power or the Executive Powershall neither deny nor restrict this right, except for persons with a serious violent criminal record. The Judicial Power alone shall be able to restrict this right in individual cases where public safety would be at clear and present jeopardy. 
+
+### Art. 30
+
+### Right to Collective Defense
+
+1) Should circumstances demand it, all Persons shall be free to jointly defend their Property by protecting the Land, the airspace, the territorial waters, all Liberland vessels and vehicles, and all Liberlanders collectively against threats. 
+
+2) The Legislative and the Executive shall aid and abet this effort when deemed necessary and to that end, the Government shall organise the Liberland Defence Force. This force shall be composed of armed and unarmed Agents protecting the land voluntarily against aggression or natural disasters, in order to preserve life.
+
+The Government  shall be only allowed to bind Liberland by international agreements providing for the defence of Liberland or agreements of collective security insofar as those would be compatible with this Constitution.
+
+### Art. 31
+
+### Freedom from Military Service
+
+Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defence to the best of their ability.
+
+Section 3
+---------
+
+Fundamental Freedoms
+--------------------
+
+### Art. 32
+
+### Freedom of Commerce
+
+1) All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods or services and the way they are offered isn't fradulent or doesn't infringe the rights and freedoms of others with excessive negative externalities.
+
+2) The Legislative or the Executive shall not interfere with the validity and/or the content of any lawful contract which fulfills the requirements of this Article, nor shall they impose licencing or similar schemes upon Liberlanders wishing to engage in commerce that should restrict their ability to do so.
+
+1) As long as they are legally able to enter Liberlanders residents, individuals shall be free to do business as individuals in their own name and at their own risk by the sole virtue of their natural personhood. 
+
+2) All Persons engaging in commerce shall also be directly entitled to form partnerships and do business as individuals under the name of the partnership, likewise without any administrative hindrances.
+
+ The proprietor or the lawful possessor of any property may exclude or refuse to provide their services or grant admission to any other Person.
+
+### Art. 33
+
+### Freedom of Speech
+
+All Persons shall have the freedom to speak  without fear of punishment, as long as they by their speech don't cause damage to the property of others without their consent. They shall likewise have the right to petition the Government without fear of punishment.
+
+### Art. 34
+
+### Freedom of Information
+
+Free expression shall be respected and protected in all public areas within Liberland. No Regulation shall abridge the freedom of thought and the expression thereof; likewise, no Person shall be convicted of any delict for any statement of opinion, whether offensive or otherwise.
+
+The Government shall conduct no regulation of printed materials, radio, television, the Internet or any other medium of exchange of information, except for where the materials provably, clearly, and directly cause harm to other Persons, their Property, or to the purposes of the Government by means of defamation, incitement to violate the Non-Aggression Principle, or where the information was gathered in violation of the Right to Privacy.
+
+The Government shall not prohibit any video and/or audio recording of conversations or events in which a Person participates, whether offline or online.
+
+### Art. 35
+
+### Freedom of Assembly
+
+All Persons shall have the right to assemble peaceably; no law shall interfere with any voluntary relations or cooperative ventures formed by Individuals.
+
+### Art. 36
+
+### Freedom of Association
+
+All Persons shall have the right to associate or transact with any other person or refuse to associate or transact with any other person for any reason. Persons shall always retain their right to leave any association..
+
+### Art. 37
+
+### Freedom of Religion, Freedom From Religion
+
+No Law shall regulate an establishment or abolishing of religion, or prohibiting the free exercise thereof; nor shall Regulations be made restricting marriage between adults provided it is based on their own free will and Informed Consent.
+
+Section 4
+---------
+
+Right to Justice
+----------------
+
+### Art. 38
+
+### Equality Before Law
+
+1) All persons shall be equal in the eyes of the Law and in rights and responsibilities as far as their personhood is concerned. 
+
+2) Natural personhood shall be singular, indivisible and shall pertain to every human being, as well as other entities of equal or similar level of sapience where those desire and are capable to express their desire to become persons. 
+
+3) The Law shall respect no privileges nor special statuses awarded to persons, natural or otherwise, beyond what is stipulated in this Constitution.
+
+### Art. 39
+
+### Prohibition of Cruel and Unusual Punishments
+
+Under no circulmstances shall the Legislative set up Laws or other Regulations, the Judiciary decide by Warrant or Verdict or the Executive enforce or regulate cruel or unusual punishments as these are defined under the standing international law.
+
+### Art. 40
+
+### No Victimless Delict Shall be Prosecuted
+
+No action shall be deemed a delict as long as it objectively harms no Person in Property to their Life, Health or Objects.
+
+### Art. 41
+
+### No Ex-Post Facto Delicts
+
+1) No action shall be later deemed a delict as long as that action was not a delict during the time it took place. 
+
+2) The Legislatureshall be prohibited from enacting ex post facto Laws which harm Persons retroactively, particularly where the object would be to punish Persons for their actions,
+
+### Art. 42
+
+### Prohibition of Unlawful or Unrestricted Arrests
+
+Persons who are lawfully convicted for delicts shall be liable to limitations of freedom which amount to labour and/or payment as obligated by law, but only within the strict limits of the Law and based on an individual decision of the Judiciary.
+
+1) Where a Person is placed under arrest, Agents shall let that Person inform whomever they wish about the arrest and allow them to contact with legal counsel, and that without delays.
+
+2) No Person shall be placed under arrest for more than twenty-four hours without a Warrant or charge.
+
+Agents executing arrests shall act openly and shall inform the accused about the charge, its consequences, and the relevant rights they are entitled to under the Constitution and other protections.
+
+### Art. 43
+
+### Equal access to public services
+
+No person or group of Persons shall be arbitrarily excluded from the operation of, or granted any privilege under, any Regulation; nor shall any Person be denied equal protection under this Constitution.
+
+1) The Government shall treat equally in all actions and respects all Persons regardless of creed, sex, gender, sexual orientation, race, ethnicity, nationality, wealth (or lack thereof), level of physical ability, and other such categories, and in any manner on how the Person chooses their self-identification. 
+
+2) The Government shall neither promote nor suppress any such personal traits or qualities, and everybody will be free to express these in their private life as long as this expression doesn't infringe on the property of others without their Informed Consent.
+
+### Art. 44
+
+### Prohibition of Slavery
+
+1) The Government shall not suffer a relationship amounting to involuntary servitude or slavery to exist in Liberland, even should such a relationship be originally based on a voluntary contract or a similar expression of consent by one or all of the parties.
+
+2) Any enslaved person shall always have the right to take back their consent to such an agreement once given, and any contractual stipulation denying such, or denying an enslaved person their freedom, shall be null and void.
+
+Any enslaved person shall always retain the right to escape their bondage and shall be helped in this endeavour by the Government.
+
+All that applies to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, such as understood by international law; even should these be metet out by other States, international organizations or by other subjects of international law or, in breach of the provisions of this Book, by Liberland.
+
+Section 5
+---------
+
+Right to Good Administration
+----------------------------
+
+### Art. 45
+
+### Right to Transparency in Public Affairs
+
+The Governmentshall conduct its business openly by making public
+
+a) all of its affairs and its decision-making.
+
+b) all proceedings before Courts other than those concerned with Warrants and privacy of Persons; or
+
+c) all the documents that the Government might use as a background for their decision-making and day-to-day business.
+
+1) The Government shall publish all information related to any aspect of the functioning of the Legislative and the Executive in a way that makes it readily available to the public. 
+
+2) The documents pertaining the functioning of the Judiciary might be subject to temporary restrictions as are necessary to protect the privacy of the parties to the given disputes, but shall be published as soon as the reason for these restrictions pass.
+
+3) The Legislative and the Executive can delay the publication of certain information for a reasonable number of days provided that this publication would be at that time harmful to individual rights and the lawful purposes of the Administration or such delay would be required to keep Liberland secure from threats external or domestic.
+
+### Art. 46
+
+### Freedom from Coercive Taxation
+
+1) The Government  shall not impose upon Persons directly or by proxy, any form of taxation or similar rules which expropriate money where there is no consent given by the Person who pays.
+
+2) The Government shall likewise neither induce nor suffer any other institution or Person to impose and unilaterally enforce taxes or tax-like measures where there is no consent given by the Person who pays, within the scope of its jurisdiction. 
+
+The Government shall in no wise oblige any person to participate in any form of social insurance and/or pension scheme, nor shall it provide any financial incentive in that respect, for such schemes often mask what amounts to taxation.
+
+### Art. 47
+
+### No Tolls or Duties
+
+The Governmentshall not impose any duty on goods, services, and/or capital imports and export, tariffs, and other measures that should hamper the freedom of certain goods or capital both on the internal market in Liberland and international trade.
+
+The Legislative shall make no Law or policies controlling the prices of goods or services, or of wages. The natural prices of goods and services shall be seen as indicators of the levels of scarcity on the market with said goods and services. Manipulating prices is equivalent to fraudulent behaviour, whereby Persons would be compelled to make irrational decisions and suffer losses as a result. 
+
+### Art. 48
+
+### Freedom from Counterfeiting
+
+Money is that which the people choose to use as a medium of exchange, and the price of money is that for which that money buys other articles on the free market. The Administration shall therefore not engage in restricting a particular commodity from being used as money or a money-like instrument.
+
+1) There shall likewise not be a policy that encourages public central bank-like institutions in Liberland. The Government shall not engage in any manipulative monetary policy of any kind in its capacity as a governmental organisation.
+
+2) The Government shall never impair special rights or favours to financial institutions to insure deposits or protect them from bankruptcy should they not have enough assets to cover all their liabilities
+
+Interest in borrowed assets represents the value of time preference on the market and is an important indicator for all market actors. Manipulating interests, rents, directly or indirectly, distorts the market and infringes the value of one's property. Therefore, the Government shall never engage in such manipulation, nor shall it create a governmental organisation that does so.
+
+Book 4
+======
+
+Judicial Power
+==============
+
+Section 1
+---------
+
+Courts
+------
+
+### Art. 49
+
+### Courts in Liberland
+
+In the interest of keeping the peace, preventing conflict, and safeguarding Life, Property, and the Non-Aggression Principle, the Legislative and the Executive shall enable the regular operation of the Judiciary and shall establish the rule of law and justice in Liberland.
+
+1) The Judiciary shall be vested in one Supreme Court, and in other, lower Courts such as Persons or the Administration may from time to time establish.  
+
+2) All verdicts of the Supreme Court shall be binding upon the parties to the process and upon all lower Courts on the point of law in all future proceedings. Other Courts, including private courts, shall be bound by their own verdicts or verdicts made by Courts superior over them in the Judiciary hierarchy.
+
+3) The Legislative shall establish and abolish Courts in accordance with this Constitution, the Law and by the means of Law. A Court may only be abolished where its continued existence represents a direct and clear threat to the Constitution and the principles represented therein. 
+
+Courts of Liberland shall protect the rights and freedoms of Persons by upholding the Constitution and the Laws passed in accordance therewith.
+
+### Art. 50
+
+### Ex-post Constitutional review of Courts
+
+The Judiciary shall have the power to declare Regulations unconstitutional and actions of the Administration illegal and hereby make those, or parts of those, invalid in writ and in consequence.
+
+### Art. 51
+
+### Rights of parties before a Court
+
+All parties to any trial before any Court in Liberland shall be given a fair hearing whilst upholding commonly held principles of what is understood to be just  before a verdict is rendered.
+
+Access to any Court in Liberland shall not be impeded by any excessive formal, financial, or other requirements.
+
+Disputes shall be decided in an orderly manner with urgency and without unnecessary delay.
+
+### Art. 52
+
+### Restriction on the Executive
+
+No Agent of the Executive on Law Enforcement duty shall enter the premises of any Court unless pursuant to a Warrant issued by the Supreme Court, or unless duly employed as a bailiff.
+
+Section 2
+---------
+
+The Supreme Court
+-----------------
+
+### Art. 53
+
+### The Justices of the Supreme Court
+
+The Supreme Court shall be composed of three Judges: one Chief Justice of the Supreme Court, henceforth "Chief Justice", and two other Justices of the Supreme Court.
+
+### Art. 54
+
+### Nomination and Appointment of the Supreme Court Justices
+
+1) The Legislative shall nominate the Chief Justice and two other Supreme Justices without delay to be appointed by the President. Where the position of a Supreme Court Justices becomes vacant, the same process shall apply.
+
+2) Supreme Court Justices shall be current or a former Judges with an excellent professional reputation and moral character and known adherents of the values on which this Constitution stands.
+
+### Art. 55
+
+### Original jurisdiction of the Supreme Court
 
 The Supreme Court shall have the inherent jurisdiction in the following types of cases:
 
-a) The declaration of constitutionality for Regulations of the Public Administration before they gain legal force when a specific mandate to do so is given according to this Constitution.
+a) Examining a proposed Law or other proposed Legislative or Executive Regulation or other action for its conformity with the Constitution; 
 
-b) The review of constitutional conformity of all international treaties that Public Administration should propose to bind Liberland with.
+b) The review of constitutional conformity of all International Treaties that the Administration should propose to bind Liberland with.
 
-c) The review of legality and constitutional conformity regarding any political process based in the public law of Liberland or this Constitution.
+c) The motion to declare an official of the Administration, the President, a Vice President, or a Senator unfit to perform their duties.
 
-d) The review of legality and constitutional conformity and factual correctness of a decision of Public Administration to disestablish an existing Court or to reject the establishment of a tribunal as a Court in Liberland.
+d) The review of legality and constitutional conformity regarding any political process in any branch of the Administration.
 
 e) The review of the capability of a Judge to be able to perform their duties of the office.
 
-f) The review of any regulation, public or private, setting moral standards and penalties for Judges, Attorneys and Prosecutors.
+f) The review of any Regulation, public or private, setting moral standards and penalties for Judges, Attorneys, and Prosecutors.
 
-##
+g) The review, upon a motion made by the Legislative or the Executive, of constitutional conformity of any motion, policy or regulatory document made by the Guardians.
 
-###
+### Art. 56
 
-### **Art. 9**
+### Examining Constitutionality
 
-### **Constitutional review ex-ante by the Supreme Court**
+1) The Supreme Court shall have the power to examine any proposed Regulation for its conformity with the Constitution. 
 
-##
+2) Taking up a proposed Regulation for examination shall stop the Legislative or Executive process of adoption until the Supreme Court reaches a decision. In case of a positive decision, the process may continue where it was stopped.
 
-#### § 95
+3) The Examination shall take at maximum ⅓ of the Election Term; where this time passes without a decision made, the Examination shall end and it shall be as if no Examination was conducted.
 
-1) Should the Supreme Court find a Regulation unconstitutional, the Supreme Court shall declare that Regulation null and void, and the Regulation shall not come into effect.
+Where the Regulation is deemed unconstitutional, the Supreme Court shall issue recommendations. Without working the recommendations in, the Regulation shall not be adopted.
 
-2) The Supreme Court shall make clear as part of its decision as to what the remedies would be before this regulation can be resubmitted to the Supreme Court.
+### Art. 57
 
-#### § 96
+### Appellate jurisdiction of the Supreme Court
 
-1) Should an international treaty, or a part of this treaty, be judged unconstitutional, the Supreme Court shall block its ratification, and that treaty shall not become law.
+The Supreme Court shall have the appellate jurisdiction of the last instance from all the Liberland Courts on the point of law, material or procedural irregularity, and severity of the sentence. The Supreme Court shall be able to attract or refuse to attract any case at will, thereby to exercise this appellate jurisdiction. 
 
-2) The Supreme Court shall issue binding recommendations to the Public Administration as to changes in the text of the treaty, which shall have to be followed before that treaty can again be submitted for ratification.
+### Art. 58
 
-####
+### Establishing Specialized Courts
 
-####
+1) The Supreme Court can petition the Legislative to establish a Specialized Court, which will take over one or more of the powers of the Supreme Court where it becomes apparent that the Supreme Court is being overwhelmed by that agenda up to the point of inability to provide justice. 
 
-#### § 97
+2) The decisions of a Specialized Court shall have the same binding power as the decisions of the Supreme Court and shall be seen in all aspects as Supreme Court Decisions.
 
-1) Should a democratic process be judged as illegal or unconstitutional, this process and its results shall be declared null and void.
+3) The Supreme Court shall retain the power to attract to itself a Specialized Court decision to review it.
 
-2) The Supreme Court shall in its decision issue recommendations to make changes so that, should this process be repeated, it would be judged as legal.
+1) The Judges of a Specialized Court shall be nominated and appointed in the same way as the Justices of the Supreme Court and there shall be the same requirements for the performance of the function. 
 
-###
+2) Where the need to have a Specialized Court has passed, the Supreme Court may motion to disestablish it. This motion needs to be confirmed by the Legislative to pass.
 
-### **Art. 10**
+Section 3
 
-### **The appellate jurisdiction of the Supreme Court**
+Judges
+------
 
-#### § 98
+### Art. 59
 
-1) The Supreme Court shall have the appellate jurisdiction of the last instance from all the Liberland Courts on the point of law, material or procedural irregularity and severity of the sentence.
+### Judges
 
-2) This appellate jurisdiction shall be compulsory for all the other Courts in Liberland.
+Judges of all the Courts in Liberland shall be independent. They shall keep their office for life until they should be declared incapable of performing the duties of their office by the Supreme Court, until their dismissal or until resignation.
 
-##
+No Person shall hold the office of a Judge whilst holding another office in the Legislative or the Executive.
 
-## Section 3
+### Art. 60
 
-## Judges
+### Appointment of Judges
 
-### **Art. 11**
+The Executive shall nominate the Judges of the Courts that the Government has ordained and established and submit them for Appointment by the President.
 
-### **Judges**
+Other Courts shall nominate their Judges by way of their internal procedure and submit them for Appointment by the President.
 
-#### § 99
+Upon their appointment, all Judges shall swear/affirm the following Oath of Office:
 
-1) Judges of all the Courts in Liberland shall be independent. They shall keep their office for life until they should be declared incapable of performing the duties of their office by the Supreme Court or until resignation.
+''I do solemnly swear/affirm that I will administer justice with respect to persons, and do equal right to the poor and the rich and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all Persons everywhere."
 
-2) Judges shall not be dismissed by Public Administration for as long as their Court remains established.
+### Art. 61
 
-##
+### Judicial immunity
 
-#### § 100
+No Judge of any Court shall be arrested for any period whatsoever unless pursuant to a Warrant issued by the Chief Justice of the Supreme Court under extreme circumstances where there is a direct threat to others or where vital evidence may be destroyed.
 
-No Person shall hold the office of a Judge whilst holding another office in the Public Administration.
+Section 4
+=========
 
-###
+Prosecuting Delicts
 
-### **Art. 12**
+### Art. 62
 
-### **Appointment of Judges**
+### Public Prosecutor
 
-#### § 101
+1) To ensure that the power to mete out punishment is not abused and is expressed in an orderly fashion, Liberland shall be the only subject capable of acting as the public prosecutor. The main purpose for criminal justice in Liberland shall be to obtain restitution for the victims of criminal activity.
 
-Public Administration shall nominate the Judges of the Courts that it will have ordained and established and submit them for appointment procedures as requested by this Constitution.
+2) Within the Judiciary, the function to investigate criminal delicts and to pursue and punish their perpetrators shall be given solely to the Judiciary in its operation, aided by certain organs of the Executive set up by Law to engage in the investigation and the punishment of criminal delicts; and being subject to the Law as by the Legislative.
 
-##
+1) A Law shall codify all criminal delicts which the Judiciary shall prosecute and the rules which it shall follow while doing so. 
 
-#### § 102
+2) A Law shall likewise govern the judicial process specific to criminal justice, ensuring that it is orderly and just and that the rights of the accused and the victims are respected.
 
-Other Courts shall nominate their Judges by way of their internal procedure and submit them for the appointment process as requested by this Constitution.
+### Art. 63
 
-##
+### State Courts
 
-#### § 103
+Courts established by Law shall be the only organs capable of deciding on the guilt and punishment regarding a criminal delict. Decisions concerning guilt and punishment in the criminal process shall require evidence proving facts beyond reasonable doubt.
 
-Upon their appointment, all Judges shall swear the following Oath of Office:
+### Art. 64
 
-&#39;&#39;I do solemnly swear that I will administer justice without respect to persons, and do equal right to the poor and the rich and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Judge under the Constitution, the Laws of Liberland and in the service of the Liberty and self-determination of all Persons everywhere.
+### Prosecutors
 
-### **Art. 13**
+Investigative actions and the prosecution of criminal delicts shall be entrusted to the General Prosecutor. Other Prosecutor Offices may be established by Law.
 
-### **Dismissal of Judges**
+1) A Prosecutor, including the General Prosecutor, shall be nominated by the Executive and appointed by the President. A Prosecutor shall be an officer of the Judiciary and their term of office shall be ten consecutive Election Terms. 
 
-#### § 104
+2) Like the Judge, a Prosecutor shall act independently and solely in the interest of justice. Where a Judge should be appointed a Prosecutor, they shall be temporarily relieved of all their duties as a Judge, until their term of the Prosecutor is fulfilled.
 
-The only way to dismiss a Judge who is capable of performing their function without disestablishing their Court, including all three Justices of the Supreme Court, shall be by a democratic process according to this Constitution.
+Upon their appointment, all Prosecutors shall swear/affirm the following Oath of Office:
 
-##
+''I do solemnly swear/affirm that I will administer justice with respect to persons, and do equal right to the poor and the rich, ensuring that the victims are given a measure of restitution of what has been unjustly taken from them. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Prosecutor under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all Persons everywhere."
 
-### **Art. 14**
+Book 5
+======
 
-### **Judicial immunity**
+Legislative Power
+=================
 
-#### § 105
+Section 1
+---------
 
-No Judge of any Court beside the Chief Justice of the Supreme Court shall be arrested for any period whatsoever unless pursuant to a Warrant issued by the Chief Justice of the Supreme Court under exigent circumstances where there is a direct threat to others or where vital evidence may be destroyed.
+Citizenship
+-----------
 
-### **Art. 15**
+### Art. 65
 
-### **Special limits on the power of the Chief Justice of the Supreme Court**
+### Citizenship
 
-#### § 106
+To facilitate the regularity of the application of collective power, the Legislative and the Executive  shall bestow upon certain Persons the right to enact Regulations upon themselves and others, even against the recipients' will or without asking for their consent, but only within the strict limits of this Constitution. These Persons shall be known as Citizens.
 
-The Chief Justice of the Supreme Court shall be beneficiary to no immunity whatsoever from the law, being mandated to live an exemplary personal and professional life.
+### Art. 66
 
-##
+### Obtaining Citizenship
 
-#### § 107
+1)  Citizenship shall be gained by a Person accepting upon themselves the duties that citizenship entails, in ways prescribed for this by the Legislative. Upon becoming a Citizen, an Applicant shall swear/affirm the following oath:
 
-1) When the Supreme Court Chief Justice is arrested, a temporary Chief Justice shall be appointed based on the same criteria as those for a regular Chief Justice.
+I swear/affirm that I will respect the Freedom and the Property of others. I will not take from my fellow citizens and human beings what is rightfully theirs, not by my own hand, nor by a State or by any other powers. I will follow the Constitution of Liberland and its Law and bear true allegiance to the Nation. I will live and let others live, in the spirit of true Liberty [optional, so help me God].
 
-2) The temporary Chief Justice shall remain in their post until the Chief Justice is acquitted.
+2) A Person born to a Citizen or born on Liberland soil or otherwise on Liberland soil shall have a right to become a Citizen of Liberland, and they shall have to accept the obligations that citizenship entails and swear/affirm the oath at that point. 
 
-##
+### Art. 67
 
-#### § 108
+### Non-consensual democracy
 
-1) Should the Chief Justice be convicted in a way that will compromise their credibility or prevent them from performing their office of the Chief Justice, their tenure as Chief Justice shall end.
+Realising from the history of governance that a full consensus is difficult to achieve and knowing that the protection of liberty, property and life might sometimes require a speedy regulative action to prevent greater damage, or to reconcile disputes, Citizens shall be able to derogate from the Non-Aggression Principle to allow for other, non-consensual forms of democracy, to take place in Liberland when circumstances require it.
 
-2) The regular procedure will replace them, and the temporary Chief Justice shall not be amongst the candidates.
+1) The non-consensual democratic process shall be based on Direct Democracy, whereby Citizens directly decide the affairs of the State and their own. 
 
-### **Art. 16**
+2) To allow recourse for those who feel they would rather be represented in politics than make all the decisions themselves, there shall be a system of Representative Democracy put in place. This representative democracy shall be secondary and ancillary to direct democracy.
 
-### **Professional organization of the Judges**
+Section 2
+---------
 
-#### § 109
+Direct Democracy
+----------------
 
-1) Judges of the Courts of the Free Republic of Liberland shall regulate their affairs. This regulation shall not be a part of the Public Administration but shall be by a body or bodies freely founded by judges as Persons.
+### Art. 68
 
-2) Judges shall regulate their conduct to enforce amongst themselves the highest standards of morality and legal conformity and shall ordain strict penalties for illegal and immoral behaviour, harsher than what law should ordain for other Persons.
+### Referendum
 
-3) Those regulations shall be made transparent, understandable and public for all to see.
+1) The general, all-purpose democratic instrument in Liberland shall be the Referendum, the chief organ of the Legislative. 
 
-##
+2) By means of the Referendum, the Citizens shall be able directly to propose and adopt Regulations and make other motions for action under this Constitution or existing Regulations. The Referendum shall also have the power to ammend or strike out existing Regulations. 
 
-#### § 110
+The Referendum shall be the sole organ in Liberland empowered to adopt and ammend Laws. 
 
-1) Those bodies shall not be alloted any special powers by this Constitution, and all judges shall be part of these regulating bodies.
+1) Where the Law is silent, all Citizens may participate in a Referendum and the vote of every citizen counts equally. The Legislative shall adopt a Law setting up the rules for the Referendum. The Referendum may be organized 
 
-2) The rules made by these judicial organizations for themselves shall be subject to review by the Supreme Court, initiated by Public Administration, judges and by the parties to disputes adjudicated by a judge from that particular organization, as well as by the victim of an act committed by the judge.
+a) so that every Citizen's voice is equal, or 
 
-##
+b) may use a weighed voting system, where a Citizen might vote using more than one vote which will be tallied using a pre-determined system.
 
+2) Where weighed voting is used, the system by which voting is weighed needs to be internally consistent, simple to use, made known to Citizens from the beginning and be designed for transparency.
 
-## Book 4
+1) The Legislative shall organize the Referendum using means of electronic communication of sufficient robustness, security, effectivity and efficiency and user friendliness. 
 
-## Legislative Power
+2) A Law shall define the Referendum Period, which is a Period in which a Referendum will be held. Where the Law stays silent, the Referendum Period shall be 14 days. 
 
-## Section 1
+3) A Referendum can be organized by other means, but only in cases of extreme need where the electronic means prove impractical or impossible to employ.
 
-## Citizenship
+### Art. 69
 
-### **Art. 1**
+### Enactment Period
 
-### **Citizenship**
+1) Motions and Regulations passed by the Referendum shall have an Enactment Period, which shall be the period between the Referendum adopting the Motion or Regulation, and between the day the Motion or Regulation takes legal force. 
 
-#### § 111
+2) In the absence of the proposal defining its Enactment Period and where the Law remains silent, the Enactment Period shall be the same as the current Referendum Period.
 
-To facilitate the regularity of the application of collective power, Public Administration shall bestow upon certain Persons the right to enact Regulations upon themselves and others, even against the recipients&#39; will or without asking for their consent, but only within the strict limits of this Constitution. These Persons shall be known as Citizens.
+### Art. 70
 
-#### § 112
+### Proposing Laws
 
-Citizens shall be those Persons who, by accepting upon themselves the duties of Citizenship, prove their involvement and their closer attachment to the fortunes and the future of Liberland.
+Any Citizen shall have the right to propose Bills within the constraints of this Constitution. They shall submit the Bill to the Referendum, so that the Citizens may decide whether to adopt or reject it. 
 
-##
+### Art. 71
 
-#### § 113
+### Passing Laws
 
-There shall be no distinctions between the Citizens based on ethnicity, nationality, wealth, sexual orientation, religion, or anything else, with respect to their participation in the political process in Liberland.
+Bills for Laws shall be passed by a majority tally required for the given subject matter by Law. Where the Law is silent, the tally shall be 50 percent of votes cast plus one vote.
 
-##
+### Art. 72
 
+### Amending the Constitution
 
-###
+Where there is no other way to achieve a sufficient level of protection to the individual and their property rights, under extraordinary circumstances, Citizens may propose a Referendum  to update this Constitution by the means of a Constitutional Amendment.
 
-###
+1) Where the Referendum should vote on a Bill for a Law which proposes to make changes in the Constitution, that Bill must be designated as a Constitutional Amendment, or it shall be absolutely invalid and shall not become Law in Liberland.
 
-### **Art. 2**
+2) Bills that shall be named Constitutional Amendments, but should not seek to amend the Constitution shall be invalid and shall not become Law in Liberland.
 
-### **Obtaining Citizenship**
+Passing a Bill for a Constitutional Amendment shall require a double supermajority of no less than a ⅔ majority of voters and also no less than ⅔ of their votes. 
 
-#### § 114
+### Art. 73
 
-There shall be no privilege of birth in Liberland with respect to Citizens or any other way, except that one shall be born a Citizen when born to at least one Citizen.
+### Public Veto
 
-#### § 115
+Where the voting in a Referendum is organized in a weighed manner, the Legislative shall enable a special form of Referendum called the Public Veto. The Public Veto shall have the power to strike out any Regulation, including Laws and Constitutional Amendments. 
 
-Everyone, regardless of their religion, financial situation, colour, sexual orientation and so on, shall be in principle allowed to become a Citizen, provided they fulfil the conditions presented by Public Administration.
+1) The Public Veto shall be a special form of Referendum, following in general the rules of the Referendum, but with the following exceptions: 
 
-#### § 116
+a) no Citizen shall be excluded from the vote; and
 
-1) Financial requirements for the gaining of citizenship shall be allowed in the form of administrative fees and in an investment stake to prove the commitment of the Citizen.
+b) each Citizen's vote is of equal weight.
 
-2) These requirements shall not be excessive, and they shall never be set up to exclude particular groups of disadvantaged Persons expressly.
+2) The Tally for the Public Veto shall always be
 
-###
+a) 50 percent of all the possible voters plus one for Proposals to Veto Laws;
 
-### **Art. 3**
+b) 65 percent of all the possible voters plus one for Proposals to Veto enacted Constitutional Ammendments; and
 
-### **Citizenship Contract**
+c) 50 percent of present voters plus one for Proposals to Veto any other Regulation.
 
-#### § 117
+In addition to vetoing Regulations, Citizens may directly remove the President, a Vice-President, a Judge, a Minister or a Supreme Court Justice from the office by the rules for the Public Veto.
 
-Citizenship shall have the form of a private law contract between Liberland and the Citizen. That contract shall always include the option of ending this relationship without excessive penalties on the part of the Citizen.
+Section 2
+---------
 
-#### § 118
+Representative democracy
+------------------------
 
-1) The Citizenship contract shall contain stipulations demanding high moral conduct of the Citizen. With privilege comes great responsibility, and citizens shall therefore be held responsible by higher standards than other Persons.
+### Art. 74
 
-2) The breaches of certain of those provisions regarding moral conduct of a Citizen shall carry the penalty of the loss of their citizenship. The only exception shall be should that citizenship loss render the Person stateless, in which case financial penalties shall instead apply to them.
+### Representative democracy
 
-##
+To minimise the costs of the Legislative and ensure that the day-to-day business of Liberland shall be performed regularly and competently, elements of Representative Democracy shall operate in Liberland as necessary.
 
-#### § 119
+### Art. 75
 
-The Public Administration shall propose a Regulation which shall include the binding model for the Citizenship contract.
+### Congress
 
-##
+1) Citizens shall choose from amongst themselves members of Congress to represent them in the operations of Liberland's representative democracy. Once elected, members of Congress shall form the Congress of Liberland, henceforth: "the Congress". 
 
-##
+2) Where the Constitution or the Law remains silent, the Congress shall decide by a simple majority vote.
 
+### Art. 76
 
-## Section 2
+### Members of Congress
 
-## Consensus
+The number of Members of Congress shall be determined by Law and there shall be no fewer than seven Members of Congress and no more than 201. Where the Law should remain silent, there shall be twenty one Members of Congress.
 
-### **Art. 4**
+The Judiciary or the Executive shall not detain a Member of Congress, and neither shall it preclude their informed and active participation in the proceedings of the Congress in any other way unless based on medical and other serious reasons which allow for no other course and on a Warrant issued by the Supreme Court based on such grounds.
 
-### **Consensus**
+The mandate of a member of Congress shall end at the end of the term to which they were elected at the beginning of the next election cycle. In addition, any member of Congress shall have the right to step down at any time of their own free will, after which the most voted but not elected candidate from the last elections shall have the right to carry on the mandate until the end of the term.
 
-#### § 120
+### Art. 77
 
-Citizens shall decide on regulations based on a full consensus, which means the free and informed agreement with the text of a draft regulation by all currently living Citizens of Liberland who are physically able to vote and comprehend the subject matter, henceforth &#39;Consensus&#39;.
+### Elections
 
-####
+1) The choosing of the members of Congress shall be accomplished by means of regular, free, equal and transparent elections. The Administration shall set up the detailed election rules in a Law.
 
-#### § 121
+2) The Law shall set up the Election term. In the absence of such Law, the Election Term shall be three calendar months. 
 
-A Consensus of all Citizens expressed by a transparent referendum shall be empowered to regulate anything in any way that is physically possible for the sum of their powers, understood as broadly as possible.
+3) The Election Term shall never be longer than 5 months, in order to ensure that the Citizens can dismiss a Representative who has lost their trust; and they shall never be shorter than 1 month. 
 
-#### § 122
+Members of Congress shall publicly take the Oath of Office upon election: 
 
-1) The Supreme Court shall have the power to judge unconstitutional decisions based on Consensus as it would by any other referendum, but with the special attention given to the impact of the proposed Regulation on non-Citizens. Citizens will then have the option to follow the recommendations to remedy the flaws found in their decision by the Supreme Court.
+"I solemnly swear/affirm that I will faithfully execute the Office of a Member of the Congress and will to the best of my ability preserve, protect and defend the Constitution of the Republic of Liberland."
 
-2) If the Citizens decide instead for another referendum where they, with the force of another Consensus, choose to enact the earlier decision regardless of its unconstitutionality, this decision shall stand and become a Regulation. This decision shall then be final and shall irrevocably gain the force of law by casting the last citizen&#39;s vote in favour of this second Consensus.
+### Art. 78
 
-## Section 3
+### Legislative Initiative
 
-## Direct Democracy
+1) The main purpose of the Congress shall be to propose Regulations, including Laws, International Treaty Ratifications and Constitutional Amendments, and Amendments to Regulations or the motions to strike out Regulations.
 
-### **Art. 5**
+2) Laws proposed by the Congress shall have a lower Tally required in order to pass than Laws proposed by a Citizen. The Law shall determine the exact Tallies; where the Law remains silent, the Tally shall be ⅔ majority required to reject a Congress proposal where the entire Congress agrees and ⅗ majority where the simple majority of the Congress agrees.
 
-### **Non-consensual democracy**
+### Art. 79
 
-#### § 123
+### Cancelling Referenda
 
-Realizing from the history of governance that full Consensus is difficult to achieve and knowing that the protection of liberty, property and life might sometimes require a speedy regulative action to prevent greater damage, Citizens shall be able to derogate from the Non-Aggression Principle to allow for other, non-consensual forms of democracy, to take place in Liberland when circumstances require it.
+1) The Congress shall, by a vote of two-thirds majority, have the power to cancel any Referendum it should deem as frivolous, malicious, going against the purposes of Liberlandor where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty. 
 
-##
+2) The Congress shall publish an Opinion by each Cancellation, citing the reasons for why it was issued.
 
-### **Art. 6**
+3) Cancelled Proposals shall not be re-submitted within the next fiveElection Terms after the Election Term in which the Cancellation took place.
 
-### **Public Veto**
+### Art. 80
 
-#### § 124
+### Budget Proposals
 
-1) A Citizen or a group of Citizens can propose removing an existing Regulation or a part thereof.
+1) Where a proposal in a Referendum is made in order to secure spending from the Treasury for a party or parties, it shall be known as a Budget Proposal. 
 
-2) The Law or this Constitution can also mandate situations where the Public Administration shall also make such a Veto Proposal.
+2) Budget proposals shall not be voted in by the Referendum, but they shall be presented to the Congress to adopt or reject them.
 
-#### § 125
+### Art. 81
 
-A Public Veto Proposal shall be organized by bringing before the Public Administration a petition of signatures of at least 15 per cent of all Citizens. This shall not be necessary if the Public Administration organizes the Veto Proposal.
+### Establishing and Disestablishing Special Courts
 
-###
+On a petition of the Chief Justice of the Supreme Court, Congress shall decide on establishing or disestablishing Special Courts.
 
-### **Art. 7**
+### Art. 82
 
-### **Dismissal**
+### Appointing Supreme Court Justices
 
-#### § 126
+Congress shall appoint Supreme Court Justices and Special Court Justices where these are instituted. The appointment shall be made without unnecessary delays as soon as a Supreme Court Justice, or a Special Court Justice seat is vacant.
 
-Citizens can also directly remove from office the President or a Judge or a Supreme Court Justice.
+### Art. 83
 
-##
+### Appointing the Prime Minister
 
-### **Art. 8**
+1) Whenever the Prime Minister's seat is vacant, Congress shall appoint a new Prime Minister without delay. 
 
-### **Operating direct democracy**
+2) The Prime Minister shall be a Member of Congress at the time of their appointment. Losing their Congress seat shall not be grounds for dismissal or losing their Prime Minister seat.
 
-#### § 127
+### Art. 84
 
-1) The costs of a Public Veto or a Dismissal shall be the responsibility of the Citizens or the Citizen who should organize them. The physical organization thereof and the ensuring of the legality of this procedure shall also be their responsibility.
+### Dismissing the Prime Minister and Ministers
 
-2) Public Vetoes organized by the Public Administration shall be paid by the Public Administration.
+Congress shall have the power to Dismiss a Prime Minister with a ⅔ majority vote. Dismissing the Prime Minister does not mean that the other Ministers have to resign. 
 
-#### § 128
+Congress  shall likewise have the power to dismiss individual Ministers, with the same tally required to effect the dismissal of a Prime Minister. 
 
-A Public Veto or a Dismissal shall only end after a decision is made.
+Book 6
+======
 
-#### § 129
+Executive Power
+===============
 
-A decision is made when at least 50 per cent of all possible voters plus one voter vote for it.
+Section 1
+---------
 
-##
+Limitations on the Executive
+----------------------------
 
+### Art. 85
 
-##
+### Powers of the executive
 
+The Executive Power of the Administration shall apply in the life of Liberland and its people the Laws and other Regulations and any other necessary measures stemming from this Constitution and its Principles.
 
-## Section 4
+The Executive shall fully, reasonably, and consistently apply all approved Regulations and decisions in good faith. To that end, it shall be bestowed with the following powers, in order to:
 
-## Representative democracy
+a) run day-to-day State affairs;
 
-### **Art. 9**
-
-### **Representative democracy**
-
-#### § 130
-
-To minimize the costs of public administration and ensure that the day-to-day business of Liberland shall be performed regularly and competently, there shall be elements of Representative Democracy operative in Liberland.
-
-##
-
-### **Art. 10**
-
-### **Representatives**
-
-#### § 131
-
-1) Citizens shall choose from amongst themselves their Representatives in regular, free, equal and transparent elections.
-
-2) Representatives shall be appointed to propose, consider and pass new Regulations and remove, in whole or in part, existing Regulations, instead and on behalf of Citizens.
-
-### **Art. 11**
-
-### **Status of Representatives**
-
-#### § 132
-
-No branch of Public Administration shall detain a Representative, and neither shall it preclude their informed and active participation in the proceedings of the Assembly in any other way unless based on medical and other serious reasons which allow for no other course and on a Warrant issued by Court based on such grounds.
-
-##
-
-### **Art. 12**
-
-### **Ending the mandate of Representatives**
-
-#### § 133
-
-Any Representative can step down at any time of their own free will.
-
-#### § 134
-
-The mandate of a Representative ends with the end of the term to which they were elected at the beginning of the next election cycle.
-
-##
-
-#### § 135
-
-When a Representative seat becomes vacant, the Person who was the first under the bar required to become a Representative during the last election becomes a Representative instead of the retiring Representative.
-
-### **Art. 13**
-
-### **Elections**
-
-#### § 136
-
-Elections shall be held perpetually in virtual space(s) prepared for this purpose and designated by the Public Administration, henceforth &quot;virtual space for elections&quot;.
-
-##
-
-#### § 137
-
-In the first election, exactly seven representatives shall be chosen, and two more seats shall open every quarter of a calendar year until the number of representatives is 21.
-
-#### § 138
-
-Public Administration may later decide to increase this number by Regulation, should the need to adequately represent the growing population require it. There shall always be an odd number of Representatives.
-
-##
-
-### **Art. 14**
-
-### **Congressional Assembly**
-
-#### § 139
-
-Once elected, Representatives shall form the Congressional Assembly of Liberland, henceforth: &#39;the Assembly&#39;. As the first act of any new Assembly, each Representative shall be called to take the Oath of Office:
-
-&#39;_I do solemnly swear that I will faithfully execute the Office of a Representative in the Congressional Assembly_ and _will to the best of my Ability preserve, protect and defend the Constitution of the Free Republic of Liberland.&#39;_
-
-#### § 140
-
-1) Representatives shall exercise their mandate through their participation in the Assembly.
-
-2) The Assembly shall be in session regularly at a frequency determined by an Assembly vote, but no less than twelve times per year. The Assembly may also commence a session outside of this schedule, should the Representatives agree upon it.
-
-3) The voting and the written communications in the Assembly shall be going on continuously and irrespective of the schedule of sessions.
-
-### **Art. 15**
-
-### **Decisions of the Congressional Assembly**
-
-#### § 141
-
-The Assembly can at will issue Regulations of a lower order, called Decisions of the Congressional Assembly, henceforth &#39;Decisions&#39;, which shall not bestow upon any Person or Persons outside of employment or a political office within the Public Administration any rights or obligations but shall only be binding on Agents of Public Administration and her offices.
-
-#### § 142
-
-Decisions shall be used to place checks and balances within the Public Administration system and ensure the workings of Public Administration are well regulated. They will also be used to invalidate Regulations made by the Public Administrations other than laws. They shall aim for the common good and, above all, uphold the principles denoted in this Constitution.
-
-#### § 143
-
-Any Representative may issue a motion for a Decision to be proposed.
-
-#### § 144
-
-1) A motion proposing a Decision will have to achieve at least the simple majority of all Representatives to pass.
-
-2) All decisions shall be sent to the Senate for review, and the Senate has up to 30 days to make their decision. A Vetoed Decision shall not be valid and shall be returned to the Assembly for reworking.
-
-##
-
-
-## Section 5
-
-## Legislation
-
-### **Art. 16**
-
-### **Laws**
-
-#### § 145
-
-Laws shall be the most powerful amongst the Regulations in Liberland and shall be second in power only to the Constitution.
-
-§ 146
-
-Laws shall be the only Regulations that shall create new rights and new obligations or remove those concerning Persons and Institutions in general, without needing to be limited to a specific area of application.
-
-##
-
-#### § 147
-
-1) Any Representative shall have the right to propose Bills within the constraints of this Constitution. Bills shall be submitted to the Assembly to begin their passage through the ordinary Legislative Process in Liberland.
-
-2) In addition, the Cabinet can also propose Bills within the constraints of this Constitution by way of the Prime Minister. The Cabinet can, however, not propose Decisions, only Laws and Constitutional Amendments.
-
-#### § 148
-
-The Assembly shall have the power to pass Bills for the following purposes only:
-
-a) to establish rules regarding peaceful coexistence of Persons,
-
-b) to ensure the higher security of Property;
-
-c) to protect the Rights of Persons
-
-d) to ensure the fair treatment of Minors, Persons lacking mental capacity and other objectively disadvantaged people
-
-e) to protect the environment;
-
-f) to conduct the financial affairs of Public Administration;
-
-g) to impose the Fee on land Public Administration owns or co-owns;
-
-h) to ratify international treaties.
-
-#### § 149
-
-1) Any proposals for Bills that would not fall into one of the categories permitted by this Constitution shall not become Law in Liberland and shall be seen as Decisions even should the Representatives intend to make them into Laws.
-
-2) Any of the categories above shall be governed by Laws only, and Decisions within their scope shall only be based on Laws and conform with them.
-
-3) Should those decisions contain provisions that Decisions may not contain, they shall be null and void in full or in part.
-
-##
-
-### **Art. 17**
-
-### **Legislative process**
-
-#### § 150
-
-The purpose of the Legislative Process in Liberland shall be to pass Bills into Law.
-
-##
-
-#### § 151
-
-1) Bills for Laws shall be passed by a simple majority of all votes cast unless a special Law or this Constitution should stipulate a higher quorum for certain types of Laws.
-
-2) At least one half of all Representatives must vote, or the voting shall be invalid.
-
-#### § 152
-
-The votes of Representatives who do not join in a vote for whatever reason shall be counted as abstaining, and an even result shall be the same as the rejection of the Bill.
-
-##
-
-#### § 153
-
-1) After a Bill passes through the Assembly, it shall be submitted to the Supreme Court to obtain the Declaration of Constitutionality.
-
-2) A Bill that does not merit the Declaration of Constitutionality shall be returned to the Assembly with the Recommendations of the Supreme Court to rework the Bill and repair the flaws.
-
-3) If the Supreme Court is silent, the Bill will pass this review, and a Declaration of Constitutionality is assumed.
-
-##
-
-#### § 154
-
-Once approved by the Supreme Court and declared Constitutional, a Bill shall be sent to the Senate for review. The Senate has up to 30 days to make its decision.
-
-#### § 155
-
-1) A Vetoed bill shall not become Law in its current form and shall be returned with or without remarks from the reviewing body for the Assembly to rework it.
-
-2) Should the Vetoed bill be supported in its original form by the supermajority of 2/3 of all votes in the Congressional Assembly, the Veto shall be overturned, and the Bill shall become law despite the Veto, be it a Public Veto or another type of Veto.
-
-3) This is not the case for Bills that entail spending from the Treasury. There, the veto, expressed by the failure to release the funds from the Treasury, shall be final.
-
-####
-
-#### § 156
-
-Should the mandatory time for publication pass without any action of reviewing organs, or should the Bill pass through the review without a veto, the Bill becomes a Regulation and shall have the status of a Law.
-
-#### § 157
-
-The Assembly shall propose and ensure the passing of a Law that shall regulate the details of the legislative process for the different types of Bills, including the necessary quora for qualified majority where applicable and the mandatory rules for the drafting of Bills.
-
-### **Art. 18**
-
-### **Constitutional amendments**
-
-#### § 158
-
-1) Where the Assembly should vote on a Bill for a Law which proposes to make changes in the Constitution, that Bill must be designated as a Constitutional amendment, or it shall be absolutely invalid and shall never become Law in Liberland.
-
-2) Bills that shall be named Constitutional amendments but should not seek to amend the Constitution shall be absolutely invalid and shall never become Law in Liberland.
-
-#### § 159
-
-Passing a Bill for a Constitutional amendment shall require no less than a ⅔ majority of all the Representatives and also of all their votes. The Representatives who should not cast their vote for such a Bill shall count as voting against it.
-
-####
-
-####
-
-#### § 160
-
-A Constitutional amendment shall not be sent for approval to the Supreme Court.
-
-##
-
-#### § 161
-
-A Constitutional amendment shall be subject to the Veto just like a regular Bill would. Should the Veto succeed, it shall be absolute, and the proposed Constitutional amendment shall not be enacted.
-
-##
-
-
-## Book 5
-
-## Executive Power
-
-##
-
-### **Art. 1**
-
-### **Powers of the executive**
-
-#### § 162
-
-1) Laws and other Regulations and any other necessary measures stemming from this Constitution and its Principles shall be applied in the life of Liberland by the Executive power of Public Administration.
-
-2) The executive power shall run the day to day affairs of the government, making sure that Liberland works.
-
-#### § 163
-
-Executive Power shall have the power to propose Bills based on its lived experience with the standing Legislature.
-
-##
-
-#### § 164
-
-The executive power shall also make Regulations of orders lower than Laws and then Decisions. These Regulations shall be issued to
-
-a) further specify the obligations and rights based in Laws in a transparent way;
-
-b) to make application of law more regular and predictable; and
-
-c) to govern the inner workings of Public Administration.
-
-####
-
-#### § 165
-
-The executive power shall act only based on law and this Constitution and never beyond its enumerated powers.
-
-### **Art. 2**
-
-### **Organs of the executive**
-
-#### § 166
-
-The executive power in Liberland shall be vested in the Cabinet of Liberland, henceforth &#39;the Cabinet&#39;, and in the offices specified in this Constitution and future law.
-
-##
-
-### **Art. 3**
-
-### **The Cabinet**
-
-#### § 167
-
-The Cabinet shall be formed and led by the Prime Minister, who shall be the Head of Public Administration. The Cabinet shall be composed of the Prime Minister and the four Ministers.
-
-#### § 168
-
-The Cabinet shall fully, reasonably, consistently execute all Assembly&#39;s laws and decisions in good faith. To that end, it shall be bestowed with the following powers, in order to:
-
-a) run day-to-day state affairs;
-
-b) initiate the legislative procedure for Cabinet-drafted Bills;
+b) initiate the Legislative procedure for Cabinet-drafted Bills;
 
 c) protect and promote the interests of Liberland worldwide;
 
-d) sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
+d) sign International Treaties after the Supreme Court confirms the constitutionality of such Treaties and the Legislativeapproves them;
 
-e) conduct commerce on behalf of Liberland: to organize marketplaces, trade in goods, organize tenders for State projects, and act on the free market in the most general sense;
+e) conduct commerce on behalf of Liberland: to organise marketplaces, trade in goods, organise tenders for State projects, and act on the free market in the most general sense;
 
 f) issue, hold and spend currencies as long as it acts within the limits of this Constitution;
 
-g) maintain its own assets and assets of other Persons and to profit from them or to take losses which couldn&#39;t have been avoided;
+g) maintain its own assets and assets of other Persons and to profit from them or to take losses which could not have been avoided;
 
 h) produce Regulations called Decrees under the powers expressly granted to it by Law;
 
-i) nominate Judges, to nominate the Justices of the Supreme Court and to nominate the most senior Justice of the Supreme court to become the Chief Justice of the Supreme Court;
+i) nominate Judges;
 
-j) maintain the State Treasury, which represents all government financial accounts
+j) maintain the State Treasury, which represents all government financial accounts;
 
-k) nominate the Chief Public Prosecutor and the Chief Attorney of the Republic;
+k) nominate the General Prosecutor and the other Prosecutors; and
 
-l) supervise all Agents of the executive branch of the Public Administration;
+l) supervise all Agents of the Executive Branch of the Administration.
 
-##
+### Art. 86
 
-#### § 169
+### Regulations of the Executive
 
-The Cabinet may issue Regulations which shall be called Decrees, and those Regulations may only legislate within the framework of existing laws.
+The Executive Power shall make Regulations of orders lower than Laws. These Regulations shall be issued to
 
-###
+a) further specify the obligations and rights-based in Laws in a transparent manner;
 
-### **Art. 4**
+b) to make application of Law more regular and predictable; and
 
-### **The Prime Minister**
+c) to govern the inner workings of the Administration.
 
-#### § 170
+Section 2
+---------
 
-1) The Prime Minister shall be appointed by the Assembly from amongst the ranks of the current Representatives and then appointed according to this Constitution. They will be appointed as soon as possible after the first elections.
+Executive Hierarchy
+-------------------
 
-2) The tenure will last for five years, but it may end earlier upon losing their seat in the Congressional Assembly.
+### Art. 87
 
-3) Should the Prime Minister&#39;s tenure end, the Congressional Assembly shall elect a new Prime Minister, and they will be able to reform the Cabinet upon their election.
+### Organs of the executive
 
-#### § 171
+1) The Executive Power in Liberland shall be vested in the Cabinet of Liberland, henceforth "the Cabinet", and in the lower offices. 
 
-The Prime Minister may resign at any time, and with their resignation, the rest of the Cabinet needs not to resign.
+2) No office of the Executive Power shall exist except that it has a legal basis in this Constitution or in Law.
 
-##
+### Art. 88
 
-#### § 172
+### The Cabinet
 
-1) Should the Prime Minister lose the trust of the Assembly, the Assembly shall have the power to remove the Prime Minister from their office by a Decision.
+1) The Cabinet shall be formed and led by the Prime Minister, who shall be the Head of the Administration. There shall be four Ministers, each leading their respective Ministry.
 
-2) The Assembly shall also have the opportunity to remove other Members of the Cabinet by name from the Cabinet upon the passing of the Decision, but the other Members of the Cabinet will not be removed just by virtue of the removal of the Prime Minister.
+2) The Cabinet shall be responsible to Congress and through that, to the Citizens. 
 
-###
+The power to issue Decrees shall be vested in the Cabinet. The Cabinet may only legislate within the framework of existing Laws. 
 
-### **Art. 5**
+No Person shall hold the office of Member of the Cabinet whilst holding any other public office within the Executiveor the Judiciary.
 
-### **Acting Prime Minister**
+### Art. 89
 
-#### § 173
+### Ministries
 
-1) Should the Prime Minister become unable to perform their duties, the other Members of the Cabinet shall elect an Acting Prime Minister from amongst their ranks with a simple majority vote.
+The highest offices of the Executiveunder the Cabinet shall be the four Ministries:
 
-2) In case the Prime Minister disagrees with the decision of their Cabinet regarding their inability to perform their duties, the final arbiter shall be the Supreme Court.
+a) Ministry of Justice, which shall maintain and develop the legal system to uphold individual liberty and property rights, and to safeguard the fundamental rights; it shall assist the Judicial Power to be ever more independent, just, professional, and efficient;
 
-##
-
-####
-
-####
-
-#### § 174
-
-The Acting Prime Minister shall perform the duties of the Prime Minister until their return or resignation; all provisions of this Constitution that apply to the Prime Minister also apply to the Acting Prime Minister.
-
-### **Art. 5**
-
-### **Members of the Cabinet**
-
-#### § 175
-
-1) All Members of the Cabinet shall answer to the Prime Minister and shall be liable for dismissal by the Prime Minister at any time, without the Prime Minister needing to give reasons for this dismissal.
-
-2) Members of the Cabinet will hold their offices for a maximum of five years, after which they lose their tenure, although they may be selected again for the next term of five years should the Prime Minister decide to do so.
-
-3) Should a Member of the Cabinet lose their seat as a Representative, they shall also lose their position as a Member of the Cabinet.
-
-#### § 176
-
-No Person shall hold the office of Member of the Cabinet, including the Prime Minister, whilst holding any other public office within the legislative or the judicial branch of the Public Administration besides being a Representative.
-
-### **Art. 6**
-
-### **Ministries**
-
-#### § 177
-
-The highest offices of Public Administration under the Cabinet shall be the four Ministries, each headed by the respective Member of the Cabinet acting as the Minister.
-
-#### § 178
-
-The Cabinet shall consist of the following Ministries and no other Ministries or offices on the same or the similar level of power in Public Administration hierarchy shall be instituted:
-
-a) Ministry of Justice, which shall regulate the Judicial Power and shall assist it to be ever more independent, just, erudite and efficient;
-
-b) Ministry of Internal Affairs, to keep order in the land and to make the environment as conducive as possible to individual happiness, health and prosperity of all Persons;
+b) Ministry of Internal Affairs, to keep order in the land and to make the environment as conducive as possible to individual happiness, health, and prosperity of all Persons;
 
 c) Ministry of Foreign Affairs, which shall pursue harmonious relations with other countries; and
 
-d) Ministry of Finance, which shall enforce sound financial policies and be responsible for keeping the State budget surplus.
+d) Ministry of Finance, which shall enforce sound financial policies and be responsible for keeping the State budget in surplus.
 
-##
+A Ministry may issue Regulations which shall be called Edicts. Those Regulations may only legislate within the framework of existing laws and only strictly within the portfolio of the given Ministry.
 
-#### § 170
+1) Ministries may establish Agencies under their jurisdiction as are necessary to fulfil their duties. An Agency may only be instituted by a Law.
 
-A ministry may issue Regulations which shall be called Edicts. Those Regulations may only legislate within the framework of existing laws and only strictly within the portefoile of the given ministry.
+2) Agencies shall be subservient to Ministries, they shall inherit tasks from the parent Ministry and shall never act outside of the jurisdiction of their founding Ministry.
 
-#### § 179
+Section 3
+---------
 
-1) Ministries may set up Agencies under their jurisdiction as are necessary to fulfil their duties. The proposal to set up an Agency will be presented for five days before the Congressional Assembly, which can veto it, should it so desire.
+Officials of the Executive
+--------------------------
 
-2) This Constitution or Laws can also set up agencies under one of the ministries, which must suffer this, cooperate fully on the setting up of those agencies and integrate those agencies into their hierarchy.
+### Art. 90
 
-3) Agencies shall be subservient to Ministries and shall never act outside of the jurisdiction of their founding Ministry.
+### Appointment
 
-### **Art. 7**
+1) The Prime Minister shall be appointed by the Congress and must be one of its members. Their tenure will last  up to twenty consecutive Election Terms  or until they lose their seat in Congress.
 
-### **Constitutional Agencies**
+2) Upon their appointment, the Prime Minister shall without delay appoint all Ministers to form the Cabinet. Ministers must be members of Congress. Their tenure will last for twenty consecutive Election Terms or until they lose their seat in Congress.
 
-#### Liberland Land Commission
+3) Should the Prime Minister's tenure end or upon their resignation, the Congress shall appoint a new Prime Minister without delay, and the new Prime Minister will be able to reform the Cabinet upon their appointment.
 
-#### § 180
+### Art. 91
 
-The Liberland Land Commission shall be an agency under the Ministry of Finance, which shall administer the Land Fee for any land the Proprietor or the co-proprietor of which will be the State of Liberland.
+### Resignation and Dismissal
 
-#### § 181
+The Prime Minister may resign at any time, and with their resignation, the rest of the Cabinet does not need to resign. Ministers may resign at any time as well individually. Upon the resignation of a minister, the Prime Minister shall, without delay, appoint a new minister.
 
-The Liberland Land Commission shall prepare a draft Bill for the Cabinet, setting the Land Fee&#39;s mathematical formula. The Fee shall never be higher than what is necessary for the functioning of Public Administration and the fulfilling of her Stated Purpose. It shall be set up in a general manner and based on the market value of the given property.
+Should the Prime Minister lose the trust of the Congress, it shall have the power to remove the Prime Minister from the office. The Congress shall likewise be able to dismiss a minister individually. The Prime Minister shall then, without delay, appoint a new minister.
 
-#### Liberland Citizenship Commission
+Book 7
+======
 
-#### § 182
+The Guardians of the Republic
+=============================
 
-The Liberland Citizenship Commission shall be an agency under the Ministry of Internal Affairs, and this agency shall decide and regulate the entire agenda regarding Citizenship.
+Section 1
+---------
 
-##
+The Senate
+----------
 
-#### § 183
+### Art. 92
 
-The Liberland Citizenship Commission shall sign contracts of Citizenship in the name of Liberland. It shall also decide to terminate those contracts in case of a breach on the side of the Citizen for which the contract stipulates such a consequence.
+### The Guardianship
 
-##
+Besides the Government, Liberland shall be served by a number of offices ensuring that the State fulfills its purposes in the earnest and doesn't go beyond its mandate and to the detriment of the individual liberty of Liberlanders. 
 
+### Art. 93
 
-## Book 6
+### The Senate
 
-## The Head of State and their Senate
+The Citizens who hold shares of the Fund of the Republic of Liberland, shall form the Senate of the Republic of Liberland, henceforth "the Senate", and they shall become its members, known as the Senators. The purpose of the Senate shall be to supervise the happenings in the country, to act as the foremost guardian of the republic and of its financial reserves.
 
-### **Art. 1**
+The Senate shall govern its own affairs and shall enact without delay the Proceedings Guide of the Senate, a Regulation with the force of Law binding upon the Senate. This Regulation shall set up the decision-making rules and the proceedings of the Senate.
 
-### **The President**
+### Art. 94
 
-#### § 184
+### The Cancellation Power
 
-Pursuant to the wisdom that an owner tends to keep the affairs of their Property in better order than a hireling would and following the customs common amongst nations, the People of Liberland shall have one President fulfil the role of the Head of State in Liberland.
+The Senate shall hold power to cancel any Referendum. A Cancelled Referendum shall not be re-submitted without addressing the issues which compelled the Senate to the Cancellation  within the next ten Election Terms; in case somebody attempts to do so, the Congress shall Cancel that Proposal.
 
-### **Art. 2**
+Where the Senate cancels a Referendum, they shall publish genuine binding recommendations based on the true reasons for the cancellation. The Senate shall hold true to those binding recommendations and shall not Cancel a Referendum which has been adequately amended according to the Senate's binding recommendations.
 
-### **The Senate**
+### Art. 95
 
-#### § 185
+### The Veto Power
 
-Besides the President, those Persons who have the most to lose should ill fortune befall Liberland, those who hold shares of the Fund of the Free Republic of Liberland, henceforth &#39;Senators&#39;, shall form the Senate of the President of the Free Republic of Liberland, henceforth &#39;the Senate&#39;, to aid the President in their tasks and to supervise the happenings in the country.
+The Senate shall also have the power to strike down by a Veto any Regulation other than Law it shall deem inappropriate for the best interests of Liberland. Unlike with Laws, the Senate can strike down lower Regulations at any time.
 
-##
+The Veto of the Senate shall always be reasoned out and based on a well-informed debate. It shall be made public and sent to the organ that had issued the Regulation as a set of binding recommendations for improvement. The Senate shall not veto again a Regulation re-enacted in conformity with the Senate's recommendations.
 
-###
+### Art. 96
 
-### **Art. 3**
+### Financial Custodianship
 
-### **The selection of the President**
+1) The Senate shall hold custody over the treasury and the financial reserves of Liberland, be they liquid or otherwise, and shall have the power to stop any payment from these sources. It shall also hold the emergency fund of Liberland and be the owner of any as-of-yet undistributed rewards for keeping the national information systems secure.
 
-#### § 186
+2) The Administration shall set up the control systems over and the administration of the treasury and the reserves in such a way that this custodianship is always enabled; there shall be no physical way to overturn a negative decision of the Senate regarding any spending.
 
-To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, they shall be appointed to their office, not by a popular election. Instead, the Senators shall select them from amongst themselves.
+### Art. 97
 
-##
+### Organs of Independent Oversight
 
-#### § 187
+The Senate may, on their own initiative and at their own expense, set up organs of independent oversight, providing the administrative and knowledge base required for it to fulfill its powers of Guardianship. These organs shall be structured hierarchically and shall operate in a transparent manner. The Senate may assign each organ under individual Senators or under itself.
 
-Upon their election, the President shall take their oath of office before the Senate. This shall be a ceremonious and a public event, and it shall be kept publically accessible on the internet for the future.
+### Art. 98
 
-##
+### Senate Self-Governance
 
-#### § 188
+The Senate shall pass and publish policies binding upon itself and all the Organs of Independent Oversight and also the Senate Order of Proceedings, which shall in a binding fashion regulate the decision making in the Senate and the process of becoming a Senator and of passing one's Senatorship.
 
-The President shall swear the following to the Senate and the People of Liberland:
+Section 2
+---------
 
-_I do solemnly swear that I will faithfully execute the Office of the President and will to the best of my_ Ability_, preserve, protect and defend the Constitution of the Free Republic of Liberland. I will treat all that occurs in Liberland as if it happened to my own estate and will do my utmost to leave to my successor a more prosperous and happy country.&#39;_
+Head of State
+-------------
 
-##
+### Art. 99
 
-#### § 189
+### President
 
-The President shall be selected for a term of 10 years.
+Pursuant to the wisdom that an owner tends to keep the affairs of their Property in better order than a hireling would, and following the customs common amongst nations, there shall be one  President fulfil the role of the Head of State in Liberland.
 
-##
+### Art. 100
 
-####
+### Selection of the President
 
-#### § 190
+To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, they shall not be appointed into office by a popular election. Instead, the Senators shall select the President from among their own members.
 
-Should the President be found permanently unable to perform their duties for objective reasons of health or their personal situation, the Senate may petition the Supreme Court to dismiss the President.
+The President shall swear/affirm the following to the Senate and the People of Liberland:
 
-#### § 191
+"I do solemnly swear/affirm that I will faithfully execute the Office of the President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will treat all that occurs in Liberland as if it happened to my own estate and will do my utmost to leave to my successor a more prosperous and happy country."
 
-The Senate will select from their ranks a new President where
+### Art. 101
 
-a) the term of 10 years has passed; the Senate may reconfirm the same Person as the President for another ten years or select a new Person from their ranks as a President;
+### Presidential Terms
 
-b) the President has been dismissed by the Public Veto;
+The President shall be selected for a term of forty consecutive Election Terms. One person may only be selected as a president for two consecutive terms and for four terms over their lifetime. A person can only be re-selected for their third term after at least forty consecutive Election Terms spent out of the office of the President.
 
-b) the President has been declared dead;
+The President and the Vice Presidents shall resign their offices upon being voted into a public office or upon becoming an Agent of the Administration in any capacity.
 
-d) the Supreme Court has declared the President unable to perform their duties for objective reasons of health or personal situation and has dismissed them.
+Should the President be found permanently unable to perform his or her duties for objective reasons of health or for personal reasons, the Senate shall petition the Supreme Court to dismiss the President.
 
-### **Art. 4**
+### Art. 102
 
-### **Vice Presidents**
+### Vice Presidents
 
-#### § 192
-
-1) The President shall then appoint two Senators to be their First and Second Vice Presidents.
-
-2) The President may replace their Vice Presidents at will, without citing reasons.
-
-#### § 193
+The President shall appoint two Senators to be First and Second Vice Presidents. The President may replace the Vice Presidents at will, without citing reasons.
 
 Any decision made by the President needs to be confirmed by either of the Vice Presidents, or it will be invalid.
 
-##
+The Vice Presidents will, upon being selected, swear/affirm their oath:
 
-#### § 194
+"I solemnly swear/affirm that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will do my utmost to follow and represent my President faithfully and to the best of my ability."
 
-The Vice Presidents will, upon being selected, swear their oath:
+Where the President should be confirmed as temporarily incapable of performing his or her duties, the Vice Presidents shall assume those duties for the duration of this incapability. 
 
-_I do solemnly swear that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect and defend the Constitution of the Free Republic of Liberland. I will do my utmost to follow and represent my President faithfully and to the best of my ability._
+### Art. 103
 
-##
+### Powers of the President
 
-### **Art. 5**
-
-### **Vice Presidents as Acting President**
-
-#### § 195
-
-Where the President should be confirmed as temporarily incapable of performing their duties, the Vice Presidents shall assume those duties for the duration of this incapability.
-
-#### § 196
-
-1) The President may delegate a part of their powers, or all of their powers, to their Vice Presidents. This delegation must always be temporary, and the time limit must be clearly designated.
-
-2) Should the term of the President end before the end of the delegation, the delegation ends and shall not be carried on to the next President.
-
-3) The President shall have the power to recall the delegation of powers.
-
-#### § 197
-
-Where the Vice Presidents should act instead of the President, any decision made by the First Vice President will have to be confirmed by the Second Vice President, or it shall be invalid.
-
-#### § 198
-
-1) Where both the President and one of the Vice Presidents should be unable to act, the other Vice President shall act in the stead of the President, and they shall perform their duties alone.
-
-2) The Senate shall have the power to remove this vice president from office and assume the powers of the President themselves until either the President returns, or they should be declared as permanently incapable of performing their duties.
-
-#### § 199
-
-All decisions made by one or both Vice Presidents in the absence or delegation instead of the President shall be liable to be pronounced null and void later by the President after their return.
-
-###
-
-
-### **Art. 5**
-
-### **Status of the Senate and the President**
-
-#### § 200
-
-The President and Senators shall not be a part of Public Administration. Should a Senator become an Agent or an Elected Official, they shall temporarily lose all their right of participation in the workings of the Senate (regardless of their shareholding) for the duration of their tenure in Public Administration; they shall, however, remain Senators and their senatorial powers shall return upon their termination of the term in that public office.
-
-##
-
-#### § 201
-
-1) Should the President be voted in a public office or become an Agent, they shall not lose their powers as the Head of State. Instead, they shall be temporarily replaced by their first Vice President in the Senate until their tenure in Public Administration is ended.
-
-2) Where a Vice President should be voted in a public office or become an Agent, they shall cease to be a Vice President, and the President shall select another Vice President; it shall be on the decision of the President if this replacement should be permanent or temporary until the former Vice President is terminated in their Public Administration office.
-
-### **Art. 5**
-
-### **Powers of the President**
-
-#### § 202
-
-The President shall act as the Head of State:
+1) The President shall exercise the power to:
 
 a) represent Liberland on the international stage;
 
-b) appoint or reject the appointment of the highest officials of Public Administration;
+b) bestow honours and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;
 
-c) appoint or reject the appointment of all Judges and Justices;
+c) appoint or reject the appointment of the highest officials of the Administration;
 
-d) ratify International Treaties;
+d) appoint or reject the appointment of all Judges and Justices;
 
-e) lead the Territorial Defence Forces should those be formed; and
+e) ratify International Treaties; and
 
-f) bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
+f) lead the Territorial Defence Forces should those be formed.
 
-##
+2) As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not be required to obtain the confirmation of their Vice Presidents with respect to the powers to represent Liberland on the international stage and to bestow honours and awards.
 
-#### § 203
+### Art. 104
 
-1) As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not require the confirmation of their Vice Presidents with respect to the powers under § 191 letters a) and f).
+### Emergency Powers 
 
-2) In a dire crisis requiring the swift actions of the Territorial Defence Forces, the Senate can issue a vote to allow the President to lead the Territorial Defence Forces without the need for confirmation by the Vice Presidents.
+1) In a dire crisis requiring the swift actions of the Territorial Defence Forces, the Senate can issue a vote to allow the President to lead the Territorial Defence Forces without the need for confirmation by the Vice Presidents.
 
-3) Where the Vice Presidents should find themselves acting in the stead of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
+2) Where the Vice Presidents should find themselves assuming the duties of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
 
-### **Art. 6**
+Book 8
+======
 
-### **Duties of the Senate**
+Amendments and Final Provisions
+===============================
 
-#### § 204
+Section 1
+---------
 
-The Senate shall hold power to veto any Bill before it becomes Law and after the Supreme Court has decreed it Constitutional or after it staid silent on that matter.
+Amendments
+----------
 
-#### § 205
+### Art. 105
 
-The Senate shall also have the power to strike down by a Veto any Regulation other than Law it shall deem inappropriate for the best interests of Liberland. Unlike with Laws, the Senate can strike down Regulations at any time.
+### Amendments 
 
-##
+All Amendments that add new provisions to the Constitution shall be published in this section of the Constitution. Amendments that change existing provisions shall be incorporated into the respective Book of the Constitution.
 
-#### § 206
+### Art. 106
 
-The Veto of the Senate shall always be reasoned out and based on a well-informed debate.
+### Core Provisions of the Constitution 
 
-##
+No Amendment shall take away from the Principles of Book One or from the Individual Rights in the Bill of Rights, although those can be reworded and modernised. They shall, however, never be changed in a way detrimental to individual rights and freedoms. Book 2 shall not change by Amendment to increase State powers or scope in any way.
 
-#### § 207
+### Art. 107
 
-Where the Senate vetoes a legislative Bill, the shall send recommendations to the Congressional Assembly, ensuring that the Veto will not be used on the Bill. The Senate shall hold true to those recommendations and shall not Veto a bill which has been adequately amended according to the will of the Senate.
+### Jubilee Constitutional Convention
 
-#### § 208
+1) Every 112 Election Terms, starting from the subsequent Election Term when the Constitution is adopted, a Constitutional Convention shall take place. 
 
-When deciding on the Veto option for any Regulation other than Law, the Senate shall have the option of sending recommendations to Public Administration, under the same conditions as it were with legislative Bills, but it may also issue a simple Veto without any possibility of a remedy.
+2) The Constitutional Convention shall have the power to propose Constitutional Amendments freely and without any restrictions, including and not limited to changing or repealing the fundamental principles enshrined in the Book 1, increasing State power in the Book 2 or repealing or narrowing down the basic rights in the Bill of Rights.
 
-59
+Section 2
+---------
+
+Final Provisions
+----------------
+
+### Art. 108
+
+### Passage of this Constitution
+
+This Constitution has been submitted by the Cabinet on ...
+
+This Constitution has been adopted by the Referendumon ... 
+
+This Constitution has passed the Senate on ...
+
+### Art. 109
+
+### Legal Force 
+
+This Constitution gains legal force from ... onwards in perpetuity.

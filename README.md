@@ -1,4 +1,4 @@
-# constitution
+# Constitution
 This Repository chronicles the drafting of the Liberland Constitution. 
 
 Please visit the **issues** to see the current matters on which you are welcome to help us. Please visit the **projects** to see the overal structure of the legislative process pertaining the Constitution. Please visit the **discussions** to propose changes and new institutes.

@@ -146,7 +146,7 @@ c) The Executive shall engage in the day-to-day governance of Liberland and shal
 ### Regulatory Power
 
 § 1  
-1) To ensure that social relations will be civil, peaceful and conducive to its purpose, the  Legislative shall establish rules and guidelines that inform human action and guide the people to act in peaceable ways that are less likely to clash with the actions of other people. 
+1) To fulfill the purpose of the Government in a regulated and orderly manner and to fulfil Liberland’s international obligations within the limits of this Constitution, the  Legislative shall establish rules and guidelines that inform human action and guide the people to act in peaceable ways that are less likely to clash with the actions of other people. 
 
 2) The Executive shall expand upon these rules and create anxiliary rules within the limits and based on mandates given by the Legislative Power  
 

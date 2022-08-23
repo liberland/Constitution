@@ -1026,11 +1026,11 @@ Members of Congress shall publicly take the Oath of Office upon election: 
 
 ### Cancelling Referenda
 
-1) The Congress shall, by a vote of two-thirds majority, have the power to cancel any Referendum it should deem as frivolous, malicious, going against the purposes of Liberlandor where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty. 
+1) The Congress shall, by a vote of two-thirds majority, have the power to cancel any Referendum it should deem as in conflict with this Constitution, frivolous, malicious, going against the purposes of Liberland or where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty. 
 
 2) The Congress shall publish an Opinion by each Cancellation, citing the reasons for why it was issued.
 
-3) Cancelled Proposals shall not be re-submitted within the next fiveElection Terms after the Election Term in which the Cancellation took place.
+3) Cancelled Proposals shall not be re-submitted within the next five Election Terms after the Election Term in which the Cancellation took place.
 
 ### Art. 80
 

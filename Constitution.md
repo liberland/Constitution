@@ -16,23 +16,31 @@ Basic Principles
 
 ### Right to Property in One's Being and Right to Life
 
-1) A human being has the sole, undivided, and absolute ownership of their Person; their body, their mind, and their actions; for the duration of their life.
+1) We affirm that a human being has the sole, undivided, and absolute sovereignty over their Person; their body, their mind, and their actions; for the duration of their life.  
 
-2) This right to ownership, or Property, in one's own being is self-evident and is the basis of all liberty. This right shall be respected by all Persons and protected against all who would infringe upon it.
+2) This is evident by each human being’s unique dependence on their body and mind for survival and thriving. We further affirm that this right is the basis of all liberty, as depriving one of this sovereignty.  
+
+3) We hold survival, thriving and liberty worthwhile; hence, each person shall have their self-sovereignty, or Property in their own being, and their Right to Life, fully respected by everyone and protected against all infringement.
 
 ### Art. 2
 
 ### Freedom to Act
 
-A human being owns the Property in their own human actions, and they are free to act or refrain from acting as they see fit as long as their actions concern their own Property and do not interfere with the Property of others.
+We affirm that a human being owns the Property in their own human actions, hence, they shall be free to act or refrain from acting as they see fit as long as their actions concern their own Property and do not interfere with the Property of others.
 
 ### Art. 3
 
 ### Right to Property in Objects
 
-1) A Person who acts and mixes their labour with something in the world, be it a thing, an animal, or any other controllable natural phenomenon, henceforth: "Object", which is as of yet unowned by another Person, shall be acknowledged as the owner of the Object and the Object becomes their Property.
+§ 1  
 
-2) A Person shall in no way be limited in the free use of their Property, and they may alter or sell the Object of it or destroy or dispose of the Object as they see fit.
+1) Where a Person acts and adds value to something in the world, be it a thing, an animal, or any other controllable natural phenomenon, henceforth: "object", which is as of yet unowned by another Person, that object shall become a part of the sovereign domain of that Person, analogical to their sovereignty over their own being and actions. 
+
+2) This relationship of a Person to an object shall likewise be called Property and the Pperson owning Property in an object shall be capable to act upon it or to refrain from acting upon it as they see fit, as if the Property was an integral feature of their being.
+
+§ 2  
+
+Property in objects shall be respected by everyone equally and protected against all infringement. 
 
 ### Art. 4
 
@@ -40,15 +48,17 @@ A human being owns the Property in their own human actions, and they are free to
 
 § 1
 
-1) A Person shall not be limited without their consent in their freedom to transfer the ownership of the Object of their Property, in whole or in part, for the good of a different Person.
+1) A Person shall be limited to transfer the ownership of the Object of their Property, in whole or in part, for the good of a different Person.
 
 2) That other Person shall, should they accept the transfer, thus become the new owner of that Property according to the extent to which the previous owner transferred the Property, or a part thereof, to them.
 
-§ 2
+§ 2  
 
-1) A Person may likewise relinquish an owned Object or its part, and the relinquished Property shall then become liable to be claimed for ownership by another Person.
+A Person shall likewise be free to relinquish an owned Object or its part, and the relinquished Property shall then become liable to be claimed for ownership by another Person.
 
-2) In case such actions lead to the ownership of two Persons in different Properties to one Object, those Persons become co-owners of that object, each holding a distinct Property in it. More than one Person may likewise agree to share ownership in one Property to the same Object.
+§ 3  
+
+In case such actions lead to the ownership of two Persons in different Properties to one Object, those Persons become co-owners of that object, each holding a distinct Property in it. More than one Person may likewise agree to share ownership in one Property to the same Object.
 
 ### Art. 5
 
@@ -60,27 +70,33 @@ A Person shall be acknowledged as the owner of their Property for as long as the
 
 ### Non-aggression Principle
 
-No Person shall act upon a Property of which they are not the owner without the express permission of the owner of that Property. In order to be valid, such permission must be given based upon a clear appreciation and understanding of the facts, implications, and consequences of the action, henceforth, "Informed Consent".
+No Person shall act upon a Property of which they are not the owner without the express permission of the owner of that Property, except when necessary to remedy a situation in which that owner has infringed Property rights of other people or violated a promise binding in Property.
 
 ### Art. 7
 
 ### Right to Defend Property
 
-1) A Person shall have the inherent right to protect their Property, including their Person, as well as the Object of that Property, from infringement.
+1) A Person shall have the inherent right to protect their Property, including their Person, as well as the Object of that Property, from infringement in breach of the Non-Aggression Principle.
 
-2) A Person shall likewise have the right to protect the Property of others, including their Persons, as long as it is with their agreement and Informed Consent as to the nature of that protection.
-
-3) The right of Persons to establish bodies based on voluntary cooperation that further coordinate human action and choose their coordinators and representatives from amongst their membership shall be respected.
+2) A Person shall likewise have the right to protect the Property of others, including their Persons, as long as it is with their agreement as to the nature and extent of that protection.
 
 ### Art. 8
 
 ### The Public Defender of Property
 
-1) Where the Non-Aggression Principle is not observed, by some actor or by all, in full or in part, or where Informed Consent cannot be obtained in a situation of necessity and property can be damaged or destroyed, an intervention needs to happen, accompanied by a possible derogation from these rights or the limiting of their enjoyment. This is to prevent situations where might would make right and to prevent unnecessary damage. The sole subject empowered to intervene in this way shall be the State of Liberland, henceforth, "Liberland". 
+§ 1  
 
-2) Liberland shall be the public defender of the Non-Aggression Principle and the Property rights of all the people, especially those who want to have their Property protected, but are incapable to defend it themselves.
+Where the Non-Aggression Principle is not observed, by some actor or by all, in full or in part, or where permission given based upon a clear appreciation and understanding of the facts, implications, and consequences of the action, henceforth, “Informed Consent”, cannot be timely obtained in a situation of necessity and property can be damaged or destroyed, an intervention needs to happen, accompanied by a possible derogation from Property rights or the limiting of their enjoyment. This is to prevent situations where might would make right and to prevent unnecessary damage. The sole subject empowered to intervene in this way shall be the State of Liberland, henceforth, "Liberland". 
 
-3) Liberland shall act where it is apparent that the owner is unable to effectively protect their property or where specifically called to action by the owner or by concerned third parties. Liberland shall be able, where necessity requires this and only to the extent as required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation. .
+§ 2  
+
+Liberland shall be the public defender of the Non-Aggression Principle and the Property Rights of all the people, especially those who want to have their Property protected, but are incapable to defend it themselves.
+
+§ 3  
+
+1) Liberland shall act where it is apparent that the owner is unable to effectively protect their property or where specifically called to action by the owner or by concerned third parties.  
+
+2) Liberland shall be able, where necessity requires this and only to the extent as required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.  
 
 ### Art. 9
 

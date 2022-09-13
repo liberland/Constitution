@@ -5,7 +5,7 @@ Please visit the **issues** to see the current matters on which you are welcome 
 
 The drafting takes place in a Google Doc. The various milestones are then converted to markdown and uploaded to this Repository, and so will be the final draft. 
 The Constitution shall take force after Liberland Citizens adopt it in a Referendum.
-https://docs.google.com/document/d/1NLZ9eBxKZKsrlEGn60npFVPU4pwq-xOcXNzZixg2AIs/edit#
+
 You may find the current version of the Constitution in [this repository](https://github.com/liberland/constitution/blob/master/Constitution.md) as well as in [this document](https://docs.google.com/document/d/1NLZ9eBxKZKsrlEGn60npFVPU4pwq-xOcXNzZixg2AIs/edit#heading=h.fp3y74i7s4wi).
 
 The historical versions of the Constitution are to be found in the following documents, for your reference:

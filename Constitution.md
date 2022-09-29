@@ -101,9 +101,9 @@ The Government shall be divided into three distinct branches of power: the Judic
 
 Each branch of the Government shall be distinct in its tasks and in its powers, which shall be as follows: 
 
-a) The Judiciary alone shall wield power to set rights and obligations in individual cases; the Judiciary shall provide Persons with an effective means of recourse against unconstitutional Regulations, policies, or actions of the Government;
+a) The Judiciary alone shall be empowered to set rights and obligations in individual cases; the Judiciary shall provide Persons with an effective means of recourse against unconstitutional Regulations, policies, or actions of the Government;
 
-b) The Legislative shall be given the power to generally order matters in Liberland to allow the efficient pursuance of the Purpose of the Government. Regular elections shall be held for the representative elements of the Legislative, with the Election Term of three calendar months, henceforth "Election Term." 
+b) The Legislative shall be given the power to generally order matters in Liberland to allow the efficient pursuance of the purpose of the Government. Regular elections shall be held for the representative elements of the Legislative, with the Election Term of three calendar months, henceforth "Election Term." 
 
 c) The Executive shall engage in the day-to-day governance of Liberland and assist the other two branches.
 

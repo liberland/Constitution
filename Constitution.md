@@ -117,7 +117,12 @@ c) The Executive shall engage in the day-to-day governance of Liberland and assi
 ### Art. 14
 ### Financing the Government
 
-The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation based on consent, gifts, inheritances, and other instruments of voluntary commerce. The Government shall strive to keep its budget in surplus or balanced.
+1) The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation based on informed consent, or gifts andinheritances.  
+
+3) The Executive shall also finance the Government by using, renting, selling and holding Liberland-owned or Liberland-managed property  
+
+5) The Government shall strive to keep its budget in surplus or at minimum balanced.
+
 
 Section 2
 ---------
@@ -132,7 +137,7 @@ Governmental Powers
 
 1) To fulfill the purpose of the Government in a regulated and orderly manner, the Legislative shall establish rules and guidelines that inform human action and guide the people to act in accordance with the Non-Aggression Principle. 
 
-2) The Executive shall expand upon these rules and create auxiliary rules within limits and based on mandates given by the Legislative Power  
+2) The Executive shall expand upon these rules and create auxiliary rules within limits and based on mandates given expressly by the Legislative  
 
 3) This shall be accomplished by issuing Regulations, written instruments containing normative text, and explanatory text aimed at setting, repealing, or adjusting rights or responsibilities for generally defined groups of Persons, the Government, or certain parts or Agents thereof.
 

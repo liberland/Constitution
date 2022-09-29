@@ -55,9 +55,7 @@ To resolve situations where the Non-Aggression Principle is not observed, or whe
 
 § 2
 
-1) Liberland shall act where it is apparent that the owner cannot effectively protect their property or where specifically called to action by the owner or by concerned third parties. 
-
-2) It shall be able, where necessity requires this and only to the extent as required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
+Liberland shall be able, where necessity requires this and only to the extent as required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
 
 Book 2
 ======

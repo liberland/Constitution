@@ -1033,9 +1033,9 @@ On their own initiative and at their own expense, the Senate may set up independ
 ### Art. 91  
 ### Senate Self-Governance
 
-1) The Senate shall govern its affairs and without delay enact the Proceedings Guide of the Senate, a Regulation with the force of Law binding upon the Senate. This Regulation shall set up the decision-making rules and the proceedings of the Senate.
+1) The Senate shall govern its affairs and without delay enact the Proceedings Guide of the Senate, a Regulation binding upon the Senate. This Regulation shall set up the decision-making rules and the proceedings of the Senate.
 
-2) The Senate shall pass and publish policies binding upon itself and all the Organs of Independent Oversight and also the Senate Order of Proceedings, which shall in a binding fashion regulate the decision-making in the Senate and the process of becoming a Senator and of passing one's Senatorship.
+2) The Senate may also pass lower order Regulations binding upon all the Organs of Independent Oversight.
 
 Section 2
 ---------
@@ -1144,9 +1144,23 @@ No Amendment shall take away from the Principles of Book One or from the Individ
 ### Art. 100  
 ### Jubilee Constitutional Convention
 
-1) A Constitutional Convention shall take place after the passing of 112 Election Terms following the Election Term in which the Constitution is adopted. 
+§ 1 
 
-2) The Constitutional Convention shall have the power to propose Constitutional Amendments freely and without any restrictions, including and not limited to changing or repealing the fundamental principles enshrined in Book 1, increasing State power in Book 2, or repealing or narrowing down the basic rights in the Bill of Rights.
+The Congress may motion to propose a Constitutional Convention by a ⅔ majority. Where this proposal is seconded by the Senate and the President, the motion becomes a regular Constitutional Amendment referendum. 
+
+§ 2  
+
+A Constitutional Convention shall commence in the Election Term following the Election Term in which the Constitutional Convention proposal is adopted.  
+
+§ 3  
+
+1) Upon adopting the Constitutional Convention proposal, the Government, the Senate and the President shall without delay propose at least seven delegates, henceforth the “Delegate Proposal”. The people shall vote on these delegates in a Referendum. All delegates shall have an equal voice in a Constitutional Convention.  
+
+2) Where the Delegate Proposal is not accepted, the Government, the Senate and the President shall without delay propose another set of delegates and so can any Citizen. Where no Delegate Proposal is adopted within the span of four consecutive Election Terms, it will be as if the Constitutional Convention took place without any Constitutional Amendments being adopted.  
+
+§ 4  
+
+The Constitutional Convention shall be solely empowered to propose Constitutional Amendments for adoption or rejection in a regular Constitutional Amendment Referendum, but it may prepare Constitutional Amendments to any Book and regarding any topic, including the changing of the basic principle of Liberland. The Constitutional Convention shall function for up to eight consecutive Election Terms after the Election Term in which the Delegate Proposal is accepted.
 
 Section 2
 ---------

@@ -70,9 +70,9 @@ Fundamentals for Governing Liberland
 ------------------------------------
 
 ### Art. 9
-### Purpose of the Government
+### The Governance of Liberland
 
-The purpose of the Government of Liberland, henceforth "Government," shall be to act on behalf of Liberland and the people as the common, delegated protector of the Non-Aggression Principle. 
+The purpose of the Government of Liberland, henceforth "Government," shall be to act as the common, delegated protector of the life and property in accordance with the Non-Aggression Principle. 
 
 ### Art. 10
 ### Structure of the Government

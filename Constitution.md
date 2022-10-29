@@ -304,7 +304,7 @@ Rights to Defend Oneself and One's Property
 The right of Liberland citizens to keep and bear arms shall not be infringed. All adult, able-minded Liberland citizens of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear arms fit for personal defense. 
 
 ### Art. 29  
-### Right to Collective Defense
+### Right to Collective Defence
 
 1) Should circumstances demand it, all Persons shall be free to jointly defend their Property by protecting the Land, the airspace, the territorial waters, all Liberland vessels and vehicles, and all Liberlanders collectively against threats. 
 
@@ -380,7 +380,7 @@ Right to Justice
 
 1) All persons shall be equal before the Law and in rights and responsibilities as far as their personhood is concerned. 
 
-2) Natural personhood shall be singular, indivisible. It shall pertain to every human being and other entities of an equal or similar level of sapience where those desire and are capable of expressing their desire to become persons. 
+2) Natural personhood shall be singular and indivisible. It shall pertain to every human being and other entities of an equal or similar level of sapience where those desire and are capable of expressing their desire to become persons. 
 
 3) The Law shall respect no privileges nor special statuses awarded to persons, natural or otherwise, beyond what is stipulated in this Constitution.
 
@@ -389,7 +389,7 @@ Right to Justice
 
 § 1  
 
-Where any branch of the Government makes any decision regarding the rights and duties of Persons, it shall hear both parties. It shall resolve the matter without unnecessary delay. It shall act fairly and impartially and at least uphold principles of due process and fair hearing commonly accepted in civilized countries.
+Where any branch of the Government makes any decision regarding the rights and duties of Persons, it shall hear both parties. It shall resolve the matter without unnecessary delay. It shall act fairly and impartially and at least uphold principles of due process and fair hearing.
 
 § 2   
 

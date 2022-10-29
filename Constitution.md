@@ -278,7 +278,7 @@ Liberland shall be held liable for Property damage caused by its Agents acting c
 
 § 1 
 
-1) The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except based on a Warrant issued by the Judiciary. 
+1) The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary. 
 2) The same shall apply to any kind of surveillance of communication or activities. The Government shall never contract a private party or another government to perform such activities.
  
 § 2

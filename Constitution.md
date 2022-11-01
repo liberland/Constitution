@@ -658,7 +658,7 @@ Other Courts shall nominate their Judges by way of their internal procedure and 
 § 3  
 
 Upon their appointment, all Judges, including the Supreme Court Justices and Judges of non-State courts, shall swear/affirm the following Oath of Office:
-''I solemnly swear/affirm that I will administer justice and do equal rights to the poor and the rich. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all human beings everywhere."
+''I solemnly swear/affirm that I will administer justice equally to the poor and the rich. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all human beings everywhere."
 
 ### Art. 61  
 ### Judicial immunity

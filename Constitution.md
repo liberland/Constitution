@@ -618,7 +618,7 @@ The Supreme Court shall have the power to examine any proposed Law or Regulation
 
 § 2  
 
-1) Taking up a proposed Law or Regulation for the examination shall stop the Legislative or Executive process of adoption until the Supreme Court reaches a decision. In case of a decision that the Law or Regulation conforms to this Constitution, the process may continue where it was stopped.
+1) Taking up a proposed Law or Regulation for the examination shall suspend the Legislative or Executive process of adoption until the Supreme Court reaches a decision. In case of a decision that the Law or Regulation conforms to this Constitution, the process may continue where it was suspended.
 
 2) The Examination shall take at maximum ⅓ of the Election Term; where this time passes without a decision, the examination shall end, and it shall be as if no Examination was conducted.
 

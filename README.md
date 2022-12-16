@@ -1,11 +1,11 @@
 This Repository chronicles the drafting of the Liberland Constitution. 
 
-Please visit the **issues** to see the current matters on which you are welcome to help us. Please visit the **projects** to see the overall structure of the Constitution's legislative process. Please visit the **discussions** to propose changes and new institutes.
+Please visit the **discussions** to propose changes and new institutes. You can open new **Issues** to inform about a possible problem or a need for a change.
 
 The drafting takes place in a Google Doc. The various milestones are then converted to markdown and uploaded to this Repository, and so will be the final draft. 
 The Constitution shall take force after Liberland Citizens adopt it in a Referendum.
 
-You may find the current version of the Constitution in [this repository](https://github.com/liberland/constitution/blob/master/Constitution.md) as well as in [this document](https://docs.google.com/document/d/1333H0T6v4gUGqqb9P6cEIWkrByxyyMzAc-RYzGGaNvU/edit#heading=h.fp3y74i7s4wi).
+You may find the current version of the Constitution in [this repository](https://github.com/liberland/constitution/blob/master/Constitution.md).
 
 The historical versions of the Constitution are to be found in the following documents, for your reference:
 1. The Constitution before the 2021 revisions is to be found in the repository, folder [pre-2021](https://github.com/liberland/constitution/tree/master/Pre-2021).

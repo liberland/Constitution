@@ -12,19 +12,19 @@ Book 1: Basic Principles
 Section 1: Philosophy
 ----------
 
-### Art. 1: Self-Sovereignty
+#### Art. 1: Self-Sovereignty
 
 We affirm that every human being has sole, undivided, and absolute sovereignty over their Person; their body, and their mind. 
 
-### Art. 2: Property
+#### Art. 2: Property
 
 This relationship between the human being and their Person shall be called Property, and it shall be afforded the highest degree of protection by everyone and for everyone equally.
 
-### Art. 3: Human Action
+#### Art. 3: Human Action
 
 We affirm that a human being is uniquely able to act by their Person.
 
-### Art. 4: Appropriation of Objects
+#### Art. 4: Appropriation of Objects
 
 Where a Person who acts and adds value to something in the world, be it a thing, an animal, or any other controllable natural phenomenon, henceforth: "Object," which is as of yet unowned by another Person, that Object shall become the Property of the acting Person.
 

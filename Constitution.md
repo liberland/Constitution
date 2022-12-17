@@ -1,15 +1,15 @@
-Constitution of Liberland
+# Constitution of Liberland
 ========
 
-Preamble
+## Preamble
 ========
 
 We, the free people of this world, in order to protect our right to Life, to our Property, and to secure Liberty for ourselves and for future generations, do establish this Constitution of the Republic of Liberland.
 
-Book 1: Basic Principles
+# Book 1: Basic Principles
 ================
 
-Section 1: Philosophy
+## Section 1: Philosophy
 ----------
 
 #### Art. 1: Self-Sovereignty

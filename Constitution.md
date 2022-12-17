@@ -1,16 +1,12 @@
 # Constitution of Liberland
-========
 
 ## Preamble
-========
 
 We, the free people of this world, in order to protect our right to Life, to our Property, and to secure Liberty for ourselves and for future generations, do establish this Constitution of the Republic of Liberland.
 
 # Book 1: Basic Principles
-================
 
 ## Section 1: Philosophy
-----------
 
 #### Art. 1: Self-Sovereignty
 
@@ -36,8 +32,7 @@ A Person shall be free to act on their Property as they see fit, use it, relinqu
 
 A Person shall be acknowledged as the owner of their Property for as long as they see fit, and the rights of the owner towards the object of their Property shall not diminish nor disappear with the passage of time alone.
 
-Section 2: Rules of Conduct
-----------------
+## Section 2: Rules of Conduct
 
 #### Art. 7: Non-Aggression Principle
 
@@ -51,8 +46,7 @@ A Person in breach of this Non-Aggression Principle shall bear the risks and con
 
 Everyone shall allow Persons to protect their Property and, with the owner's agreement, also the Property of others from infringement which constitute a breach of the Non-Aggression Principle.
 
-Section 2: Sole Basis for Centralized Authority
-------------------------------------
+## Section 3: Sole Basis for Centralized Authority
 
 #### Art. 10: The Public Defender of Property
 
@@ -72,11 +66,9 @@ The sole public protector of Property rights shall be the State of Liberland, he
 
 2) Besides the Government, Liberland shall award the foremost amongst its supporters and heroes a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and as nothing more.
 
-Book 2: Liberland Government
-====================
+# Book 2: Liberland Government
 
-Section 1: Defining Principles
--------------------
+## Section 1: Defining Principles
 
 #### Art. 14: Structure of the Government
 
@@ -104,8 +96,7 @@ The Government's budget shall be kept in surplus or, at minimum, balanced. The G
 
 2) Wherever there is a surplus of at least three times the modus of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland to each according to their merit.
 
-Section 2: Governmental Powers
--------------------
+## Section 2: Governmental Powers
 
 #### Art. 19: Lawmaking
 
@@ -155,8 +146,7 @@ The Legislative shall designate specific governmental organizations tasked with 
 
 The Government shall only use, acquire, own, possess or equip its Agents with weapons and other defensive and offensive equipment which Persons who habitually and lawfully dwell in Liberland, henceforth "Liberlanders," might use privately and without restrictions to effect self-defense or collective defense.
 
-Section 3: Constitutional Policies
------------------------
+## Section 3: Constitutional Policies
 
 #### Art. 26: Good Neighbour Policy
 
@@ -188,11 +178,9 @@ The Government shall identify and protect the natural and cultural heritage of L
 
 2) Where private subjects provide Public Services, they shall be required to adopt the Government's purpose and respect Fundamental Rights.
 
-Book 3: Judicial Power
-==============
+# Book 3: Judicial Power
 
-Section 1: Courts
-------
+## Section 1: Courts
 
 #### Art. 32: Judicial Power
 
@@ -226,8 +214,7 @@ Where a party to a case presented to the Judiciary claims a provision in a Law o
 
 2) A Court may only be abolished where its continued existence represents a direct and clear threat to the Constitution and its principles. 
 
-Section 2: The Supreme Court
------------------
+## Section 2: The Supreme Court
 
 #### Art. 37: The Justices of the Supreme Court
 
@@ -273,8 +260,7 @@ The Supreme Court shall have the power to examine any proposed Law or Regulation
 
 The Supreme Court shall have the appellate jurisdiction of the last instance from all the Liberland Courts on the point of law, material or procedural irregularity, and severity of the sentence. The Supreme Court shall be able to attract or refuse any case at will, thereby to exercise this appellate jurisdiction. 
 
-Section 3: Judges
-------
+## Section 3: Judges
 
 #### Art. 41: Judges
 
@@ -306,8 +292,7 @@ Upon their appointment, all Judges, including the Supreme Court Justices and Jud
 
 No Judge of any Court shall be arrested for any period whatsoever unless pursuant to a Warrant issued by the Chief Justice of the Supreme Court under extreme circumstances where there is a direct threat to others or where vital evidence may be destroyed.
 
-Section 4: Criminal Justice
-----------------
+## Section 4: Criminal Justice
 
 #### Art. 44: Criminal Process
 
@@ -337,11 +322,9 @@ Upon their appointment, all Prosecutors shall swear/affirm the following Oath of
 
 ''I do solemnly swear/affirm that I will administer justice and do equal right to the poor and the rich. I will ensure that victims of crimes are given a measure of restitution of what has been unjustly taken from them. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Prosecutor under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all Persons everywhere."
 
-Book 4: Legislative Power
-=================
+# Book 4: Legislative Power
 
-Section 1: Citizenship
------------
+## Section 1: Citizenship
 
 #### Art. 47: Citizenship
 
@@ -371,8 +354,7 @@ Citizens shall be able to derogate from the Non-Aggression Principle to allow ot
 
 2) To give recourse to those who wish to be represented by others in politics, there shall be a system of Representative Democracy complementing direct democracy.
 
-Section 2: Direct Democracy
-----------------
+## Section 2: Direct Democracy
 
 #### Art. 50: Referendum
 
@@ -404,8 +386,7 @@ Bills for Laws shall be passed by a majority of at least 50 percent of votes cas
 
 2) Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 
-Section 2: Representative democracy
-------------------------
+## Section 3: Representative democracy
 
 #### Art. 54: Congress
 
@@ -433,8 +414,7 @@ Members of Congress shall take the Oath of Office upon election: 
 
 "I solemnly swear/affirm that I will faithfully execute the Office of a Member of the Congress and will to the best of my ability preserve, protect and defend the Constitution of the Republic of Liberland."
 
-Section 3: Powers of Congress
-------------------
+## Section 4: Powers of Congress
 
 #### Art. 56: Legislative Initiative
 
@@ -490,8 +470,7 @@ Congress shall have the power to Dismiss a Prime Minister with a ⅔ majority vo
 
 Congress shall likewise have the power to dismiss individual Ministers, with the same tally required to effect the dismissal of a Prime Minister. 
 
-Book 5: Executive Power
-===============
+# Book 5: Executive Power
 
 #### Art. 62: Mandate of the Executive
 
@@ -565,11 +544,9 @@ c) to govern the inner workings of the Administration.
 
 Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
 
-Book 6: Bill of Rights
-==============
+# Book 6: Bill of Rights
 
-Section 1: Property Rights and Human Dignity
----------------------------------
+## Section 1: Property Rights and Human Dignity
 
 #### Art. 67: Sovereignty of Property
 
@@ -621,8 +598,7 @@ Liberland shall be held liable for Property damage caused by its Agents acting c
 
 The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure. 
 
-Section 2: Rights to Defend Oneself and One's Property
--------------------------------------------
+## Section 2: Rights to Defend Oneself and One's Property
 
 #### Art. 71: Right of Self-Defence
 
@@ -644,8 +620,7 @@ The right of Liberland citizens to keep and bear arms shall not be infringed. Al
 
 Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defence to the best of their ability.
 
-Section 3: Fundamental Freedoms
---------------------
+## Section 3: Fundamental Freedoms
 
 #### Art. 75: Freedom of Commerce
 
@@ -689,8 +664,7 @@ All Persons shall have the right to assemble peaceably.
 
 No Law shall regulate an establishment or abolishing of religion, or prohibiting the free exercise thereof; nor shall Regulations be made restricting marriage between adults provided it is based on their own free will and Informed Consent.
 
-Section 4: Right to Justice
-----------------
+## Section 4: Right to Justice
 
 #### Art. 80: Equality Before Law
 
@@ -772,8 +746,7 @@ Any enslaved person shall always retain the right to escape their bondage by any
 
 All that applies to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, as understood by public international law.
 
-Section 5 Right to Good Administration
-----------------------------
+## Section 5 Right to Good Administration
 
 #### Art. 88: Right to Transparency in Public Affairs
 
@@ -832,7 +805,6 @@ The Administration shall not restrict a particular commodity from being used as 
 2) The Government shall never impair special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they not have enough assets to cover all their liabilities
 
 # Book 7: The Guardians of the Republic
-=============================
 
 ## Section 1: The Senate
 
@@ -945,10 +917,8 @@ f) lead the Liberland Defence Forces should those be formed.
 2) Where the Vice Presidents should find themselves assuming the duties of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
 
 # Book 8: Amendments and Final Provisions
-===============================
 
 ## Section 1: Amendments
-----------
 
 #### Art. 105: Amendments 
 
@@ -979,7 +949,6 @@ A Constitutional Convention shall commence in the Election Term following the El
 The Constitutional Convention shall be solely empowered to propose Constitutional Amendments for adoption or rejection in a regular Constitutional Amendment Referendum, but it may prepare Constitutional Amendments to any Book and regarding any topic, including the changing of the basic principle of Liberland. The Constitutional Convention shall function for up to eight consecutive Election Terms after the Election Term in which the Delegate Proposal is accepted.
 
 ## Section 2 Final Provisions
-----------------
 
 #### Art. 108: Passage of this Constitution
 

@@ -845,7 +845,7 @@ Where the President should be confirmed as temporarily incapable of performing t
 
 1. The President shall exercise power to:
 
-a) represent Liberland on the international stage, included but not limited to the negotiation and signing of international treaties;
+a) represent Liberland on the international stage, including but not limited to the negotiation and signing of international treaties;
 
 b) bestow honors and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;
 

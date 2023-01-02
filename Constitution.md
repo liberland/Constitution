@@ -459,7 +459,7 @@ b) initiate the Legislative procedure for Cabinet-drafted Bills;
 
 c) protect and promote the interests of Liberland worldwide;
 
-d) sign International Treaties after the Supreme Court confirms the constitutionality of such Treaties and the Legislature Approves them;
+d) sign International Treaties which don't need to be ratified by the Congress and signed by the President;
 
 e) conduct commerce on behalf of Liberland: to organize marketplaces, trade in goods, organize tenders for State projects, and act on the free market in the most general sense;
 
@@ -845,15 +845,13 @@ Where the President should be confirmed as temporarily incapable of performing t
 
 1. The President shall exercise power to:
 
-a) represent Liberland on the international stage;
+a) represent Liberland on the international stage, included but not limited to the negotiation and signing of international treaties;
 
 b) bestow honors and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;
 
 c) appoint or reject the appointment of the highest officials of the Administration;
 
-d) appoint or reject the appointment of all Judges and Justices;
-
-e) ratify International Treaties; and
+d) appoint or reject the appointment of all Judges and Justices; and
 
 f) lead the Liberland Defence Forces should those be formed.
 

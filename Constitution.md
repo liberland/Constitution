@@ -406,11 +406,11 @@ Members of Congress shall take the Oath of Office upon election:&#x20;
 
 § 2
 1. Congress may decide to require ratification by a Referendum proposed by Congress before taking legal force with regards to any international treaty where it judges its impact to be sufficiently serious to warrant such measure.
-2. International treaties shall undergo mandatory ratification by a Referendum proposed by Congress before taking legal force, if they:
-a) set up, remove or ammend rights and duties of persons,
-b) constitute, terminate or otherwise affect Liberland's membership in international organizations,
-c) concern matters of defense and war and peace, or
-d) have a general economic impact.
+2. International treaties shall undergo mandatory ratification by a Referendum proposed by Congress before taking legal force, if they:  
+a) set up, remove or ammend rights and duties of persons,  
+b) constitute, terminate or otherwise affect Liberland's membership in international organizations,  
+c) concern matters of defense and war and peace, or  
+d) have a general economic impact.  
 
 **Art. 57: Amending the Constitution**
 

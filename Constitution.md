@@ -1,4 +1,4 @@
-# 🏛 Draft Constitution
+# Draft Constitution
 
 ## Constitution of Liberland
 

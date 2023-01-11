@@ -915,6 +915,6 @@ This Constitution has been adopted by the Referendum ...&#x20;
 
 This Constitution has passed the Senate on ...
 
-**Art. 1010: Legal Force**&#x20;
+**Art. 110: Legal Force**&#x20;
 
 This Constitution gains legal force from ... onwards in perpetuity.

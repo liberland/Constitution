@@ -441,7 +441,7 @@ The Congress shall publish binding, reasonable recommendations accompanying each
 
 **Art. 60: Appointing Supreme Court Justices**
 
-Congress shall appoint Supreme Court Justices. The appointment shall be made without unnecessary delays as soon as a Supreme Court Justice seat is vacant.
+Congress shall confirm or reject Supreme Court Justices nominees nominated by the Executive. The confirmation or rejection shall be made without unnecessary delays as soon as a nomination is submitted. Confirmed nominations shall be sent to the President for Appointment.
 
 **Art. 61: Appointing the Prime Minister**
 
@@ -481,7 +481,7 @@ g) maintain its assets and assets of other Persons and to profit from them or ta
 
 h) produce Regulations called Decrees under the powers expressly granted to it by Law;
 
-i) nominate Judges;
+i) nominate Judges, including the Supreme Court Justices;
 
 j) maintain the State Treasury, which represents all governmental financial accounts;
 

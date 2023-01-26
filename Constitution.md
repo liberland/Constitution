@@ -478,14 +478,13 @@ No Judge of any Court shall be arrested for any period whatsoever unless pursuan
 
 § 1
 
-Crimes shall be the most serious amongst all delicts and shall afford the severest of punishment.&#x20;
+1. Criminal Process shall be a process where Liberland acts as the accuser and another subject as the defendant, accused of a delict. 
+2. The Criminal Process shall be set up in ways that allow the Court to establish matters of fact, particularly guilt and punishment, to the highest degree of certainty attainable.
 
 § 2
+Crimes shall be the most serious amongst all delicts and shall afford the most severe of punishment.
 
-1. Criminal Process shall be a process where Liberland acts as the accuser and another subject as the defendant, accused of a Crime.&#x20;
-2. The Criminal Process shall be set up in ways that allow the Court to establish matters of fact, particularly guilt and punishment, to the highest degree of certainty attainable.&#x20;
-
-**Art. 66: State Monopoly on Criminal Justice**
+**Art. 66: State Monopoly on Prosecuting Crimes**
 
 State Courts established by Law shall be the only organs capable of deciding on the guilt and punishment regarding a criminal delict.&#x20;
 

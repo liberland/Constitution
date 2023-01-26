@@ -149,7 +149,7 @@ The Government shall only use, acquire, own, possess or equip its Agents with we
 
 No person or group of Persons shall be arbitrarily excluded from the operation of the Government, or granted any privilege; nor shall any Person be denied equal protection under this Constitution.
 
-### Section 3: Fundamental Rights
+### Section 3: Basic Rights
 
 **Art. 28: Sovereignty of Property**
 

@@ -297,6 +297,11 @@ The Administration shall not restrict a particular commodity from being used as 
 1. There shall likewise not be a policy that sets up, enables, or encourages public central bank-like institutions in Liberland. The Government shall not manipulate interest to influence the market or engage in any other manipulative monetary policy.
 2. The Government shall never impair special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they not have enough assets to cover all their liabilities
 
+**Art. 44: Freedom of Information
+
+1) Every person shall have the right freely to form, express, and impart their opinions.
+
+2) Every person shall have the right freely to receive information to gather it from generally accessible sources and to disseminate it.
 
 **Art. 45: Freedom from Military Service**
 

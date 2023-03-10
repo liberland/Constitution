@@ -659,7 +659,7 @@ The Congress shall publish binding, reasonable recommendations accompanying each
 
 **Art. 83: Appointing Supreme Court Justices**
 
-Congress shall appoint Supreme Court Justices. The appointment shall be made without unnecessary delays as soon as a Supreme Court Justice seat is vacant.
+Congress shall confirm or reject Supreme Court Justices nominees nominated by the Executive. The confirmation or rejection shall be made without unnecessary delays as soon as a nomination is submitted. Confirmed nominations shall be sent to the President for Appointment.
 
 **Art. 84: Appointing the Prime Minister**
 
@@ -699,7 +699,7 @@ g) maintain its assets and assets of other Persons and to profit from them or ta
 
 h) produce Regulations called Decrees under the powers expressly granted to it by Law;
 
-i) nominate Judges;
+i) nominate Judges, including the Supreme Court Justices;
 
 j) maintain the State Treasury, which represents all governmental financial accounts;
 
@@ -749,8 +749,6 @@ c) to govern the inner workings of the Administration.
 § 1
 
 Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
-
-## Book 6: The Guardians of the Republic
 
 ### Section 1: The Senate
 

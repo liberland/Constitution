@@ -225,7 +225,7 @@ Where any branch of the Government makes any decision regarding the rights and d
 
 1. Every Liberlander shall have the right to move freely within the territory of Liberland, to freely leave it, enter it, and to freely dwell in it.&#x20;
 2. The free movement of other Persons may be restricted only by law, and only where not doing so should represent a clear and present danger to the Persons and Property in Liberland.&#x20;
-3. 
+
 #### Art. 36: Freedom of Commerce
 
 § 1
@@ -238,7 +238,7 @@ Where any branch of the Government makes any decision regarding the rights and d
 1. As long as they can legally enter Liberland, Liberlanders shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.&#x20;
 2. All Persons engaging in commerce shall also be directly entitled to form partnerships and do business as individuals under the partnership's name, likewise without any administrative hindrances.
 
-**Art. 37: Freedom of Speech
+#### Art. 37: Freedom of Speech
 
 All Persons shall be free to speak or otherwise express their thoughts without fear of punishment, as long as that expression conforms in its manner and purpose to the Non-Aggression Principle. They shall likewise have the right to petition the Government without fear of punishment.
 

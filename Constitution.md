@@ -91,7 +91,7 @@ The Government's budget shall be kept in surplus or, at minimum, balanced. The G
 
 **Art. 18: Treasury**
 
-1. The Treasury of Liberland shall be managed by the Government but owned by the Liberland.&#x20;
+1. The Treasury of Liberland shall be managed by the Government but owned by Liberland.&#x20;
 2. Wherever there is a surplus of at least three times the modus of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland to each according to their merit.
 
 ### Section 2: Governmental Powers

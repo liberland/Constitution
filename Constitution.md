@@ -193,172 +193,172 @@ The right of Liberland citizens to keep and bear arms shall not be infringed. Al
 
 #### Article 32: Right to be Heard
 
-§ 1
+§1
 
-Where any branch of the Government makes any decision regarding the rights and duties of Persons, it shall hear both parties. It shall resolve the matter without unnecessary delay. It shall act fairly and impartially and at least uphold principles of due process and fair hearing.
+Any branch of the Government making decisions regarding the rights and duties of Persons shall hear both parties, resolve the matter without unnecessary delay, and act fairly and impartially while upholding principles of due process and fair hearing.
 
-§ 2
+§2
 
-1. In a process against a Person regarding a delict, the Government shall offer the parties, in particular the defendant, a higher level of protection, at least upholding the principles of the due criminal process and fair hearing commonly accepted in civilized countries.
+1. In a process against a Person regarding a delict, the Government shall offer the parties, particularly the defendant, a higher level of protection, at least upholding the principles of due criminal process and fair hearing commonly accepted in civilized countries.
 2. The defendant shall be allowed to know their accuser and to react to the accusation effectively.
-3. Decisions concerning guilt and punishment shall be only made upon evidence substantiating the decision beyond a reasonable doubt.
+3. Decisions concerning guilt and punishment shall be made only upon evidence substantiating the decision beyond a reasonable doubt.
 
-#### Art. 33: Right to Transparency in Public Affairs
+#### Article 33: Right to Transparency in Public Affairs
 
-1. The Government shall conduct its business openly by making all of its affairs, documents, and decision-making public unless directly pertaining to active proceedings with Persons which warrant privacy or unless immediate publication would directly lead to damage to life or Property.
-2. The Government shall communicate in truth backed by verifiable evidence. Where opinions are discussed, they shall be clearly labeled as such.
+1. The Government shall conduct its business openly, making all affairs, documents, and decision-making public, unless directly pertaining to active proceedings with Persons warranting privacy or unless immediate publication would directly lead to damage to life or Property.
+2. The Government shall communicate truthfully, backed by verifiable evidence, and clearly label opinions as such when discussed.
 
-#### Art. 34: Right to Collective Defence
+#### Article 34: Right to Collective Defence
 
-1. Should circumstances demand it, all Persons shall be free to, individually or jointly, defend their Property by protecting the Land, the airspace, the territorial waters, all Liberland vessels and vehicles, and all Liberlanders collectively against threats.&#x20;
-2. The Legislative and the Executive shall aid and abet this effort when deemed necessary, and to that end, the Government shall organize the Liberland Defence Force. This force shall be composed of armed and unarmed Agents voluntarily protecting the Land against aggression or natural disasters to preserve life and Property.
+1. All Persons, individually or jointly, shall be free to defend their Property by protecting the Land, airspace, territorial waters, Liberland vessels and vehicles, and all Liberlanders collectively against threats when circumstances demand it.
+2. The Legislative and the Executive shall aid and abet this effort when deemed necessary, organizing the Liberland Defence Force composed of armed and unarmed Agents voluntarily protecting the Land against aggression or natural disasters to preserve life and Property.
 
 ### Section 4: Fundamental Freedoms
 
-#### Art. 35: Freedom of Movement
+#### Article 35: Freedom of Movement
 
-1. Every Liberlander shall have the right to move freely within the territory of Liberland, to freely leave it, enter it, and to freely dwell in it.&#x20;
-2. The free movement of other Persons may be restricted only by law, and only where not doing so should represent a clear and present danger to the Persons and Property in Liberland.&#x20;
+1. Every Liberlander shall have the right to move freely within Liberland's territory, freely leave, enter, and dwell in it.
+2. The free movement of other Persons may be restricted only by law and only when not doing so represents a clear and present danger to Persons and Property in Liberland.
 
-#### Art. 36: Freedom of Commerce
+#### Article 36: Freedom of Commerce
 
-§ 1
+§1
 
-1. All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods or services and the way they are offered conform to the Non-Aggression Principle and the binding norms of public international law.
-2. The Legislative or the Executive shall not interfere with the validity and/or the content of any contract that fulfills this Article's requirements, nor shall they impose licensing or similar schemes upon Liberlanders wishing to engage in commerce that should restrict their ability to do so.
+1. All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods, services, and manner of offering conform to the Non-Aggression Principle and binding norms of public international law.
+2. The Legislative or the Executive shall not interfere with the validity and/or content of any contract fulfilling this Article's requirements, nor impose licensing or similar schemes restricting Liberlanders' ability to engage in commerce.
 
-§ 2
+§2
 
-1. As long as they can legally enter Liberland, Liberlanders shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.&#x20;
-2. All Persons engaging in commerce shall also be directly entitled to form partnerships and do business as individuals under the partnership's name, likewise without any administrative hindrances.
+1. Liberlanders legally entering Liberland shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.
+2. All Persons engaging in commerce shall be directly entitled to form partnerships and do business as individuals under the partnership's name, without administrative hindrances.
 
-#### Art. 37: Freedom of Speech
+#### Article 37: Freedom of Speech
 
-All Persons shall be free to speak or otherwise express their thoughts without fear of punishment, as long as that expression conforms in its manner and purpose to the Non-Aggression Principle. They shall likewise have the right to petition the Government without fear of punishment.
+All Persons shall be free to speak or express their thoughts without fear of punishment, as long as the expression conforms to the Non-Aggression Principle in its manner and purpose. They shall also have the right to petition the Government without fear of punishment.
 
-#### Art. 38: Freedom of Expression**
+#### Article 38: Freedom of Expression
 
-§ 1
+§1
 
-The Government shall conduct no regulation of printed materials, radio, television, the Internet or any other medium of exchange of information, except for where the materials provably, clearly, and directly violate the Non-Aggression Principle, the purposes of the Government, binding norms of public international law or where the information was gathered in violation of the Right to Privacy.
+The Government shall not regulate printed materials, radio, television, the Internet, or any other medium of information exchange, except when materials provably, clearly, and directly violate the Non-Aggression Principle, the Government's purposes, binding norms of public international law, or when information is gathered in violation of the Right to Privacy.
 
-§ 2
+§2
 
 The Government shall not prohibit anyone from making and owning recordings of conversations or events in which a Person participates.
 
-#### Art. 39: Freedom of Assembly
+#### Article 39: Freedom of Assembly
 
 All Persons shall have the right to assemble peaceably.
 
-#### Art. 40: Freedom of Association
 
-1. All Persons shall have the right to associate or transact with any other person or refuse to associate or transact with any other person for any reason. Persons shall always retain their right to leave any association.&#x20;
-2. No law shall interfere with any association or transaction as long as these in their purpose and action conform with the Non-Aggression Principle and binding norms of public international law.
+#### Article 40: Freedom of Association
 
-#### Art. 41: Freedom of Religion, Freedom From Religion
+1. All Persons shall have the right to associate or transact with any other person or refuse to associate or transact with any other person for any reason. Persons shall always retain their right to leave any association.
+2. No law shall interfere with any association or transaction as long as their purpose and action conform with the Non-Aggression Principle and binding norms of public international law.
 
-No Law shall regulate an establishment or abolishing of religion, or prohibiting the free exercise thereof; nor shall Regulations be made restricting marriage between adults provided it is based on their own free will and Informed Consent.
+#### Article 41: Freedom of Religion, Freedom From Religion
 
-#### Art. 42: Freedom from Coercive Taxation
+No Law shall regulate the establishment or abolishment of religion, prohibit the free exercise thereof, or restrict marriage between adults, provided it is based on their own free will and Informed Consent.
 
-§ 1
+#### Article 42: Freedom from Coercive Taxation
 
-1. The Government shall not impose upon Persons directly or by proxy any form of taxation or similar rules which expropriate money where the taxpayer  gives no direct and informed consent.
-2. The Government shall likewise neither induce nor suffer in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures where the taxpayer gives no direct and informed consent.&#x20;
+§1
 
-§ 2
+1. The Government shall not impose any form of taxation or similar rules expropriating money from Persons without their direct and informed consent, either directly or by proxy.
+2. The Government shall neither induce nor allow in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures without the taxpayer's direct and informed consent.
 
-The Government shall not oblige any person to participate in any form of social insurance and/or pension scheme, nor shall it provide any financial incentive in that respect.
+§2
 
-#### Art. 43: Freedom From Tolls and Duties
+The Government shall not obligate any person to participate in any form of social insurance or pension scheme, nor provide any financial incentive in that respect.
 
-§ 1
+#### Article 43: Freedom From Tolls and Duties
 
-The Government shall not impose any duty on goods, services, and/or capital imports and exports, tariffs, and other measures that should hamper the freedom of certain goods or capital on the internal market in Liberland and international trade.
+§1
 
-§ 2
+The Government shall not impose any duty on goods, services, or capital imports and exports, tariffs, or other measures hindering the freedom of certain goods or capital on the internal market in Liberland and international trade.
 
-The Legislative shall make no Law or policies controlling the prices of goods, services, or wages.&#x20;
+§2
 
-#### Art. 44: Freedom from Counterfeiting
+The Legislative shall not make any Law or policies controlling the prices of goods, services, or wages.
 
-§ 1
+#### Article 44: Freedom from Counterfeiting
 
-The Administration shall not restrict a particular commodity from being used as money or a money-like instrument, unless the use of this commodity would be in breach of the non-aggression Principle or norms of public international law.
+§1
 
-§ 2
+The Administration shall not restrict a particular commodity from being used as money or a money-like instrument, unless the use of this commodity would breach the Non-Aggression Principle or norms of public international law.
 
-1. There shall likewise not be a policy that sets up, enables, or encourages public central bank-like institutions in Liberland. The Government shall not manipulate interest to influence the market or engage in any other manipulative monetary policy.
-2. The Government shall never impair special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they not have enough assets to cover all their liabilities
+§2
 
-#### Art. 44: Freedom of Information
+1. There shall not be a policy establishing, enabling, or encouraging public central bank-like institutions in Liberland. The Government shall not manipulate interest to influence the market or engage in any other manipulative monetary policy.
+2. The Government shall never grant special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they lack sufficient assets to cover all their liabilities.
 
-1) Every person shall have the right freely to form, express, and impart their opinions.
+#### Article 44: Freedom of Information
 
-2) Every person shall have the right freely to receive information to gather it from generally accessible sources and to disseminate it.
+1. Every person shall have the right to freely form, express, and impart their opinions.
+2. Every person shall have the right to freely receive information, gather it from generally accessible sources, and disseminate it.
 
-#### Art. 45: Freedom from Military Service
+#### Article 45: Freedom from Military Service
 
-Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defence to the best of their ability.
+Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defense to the best of their ability.
 
 ### Section 6: Constitutional Policies
 
-#### Art. 46: Good Neighbour Policy
+#### Article 46: Good Neighbor Policy
 
-Liberland shall, in all matters, strive to be a good neighbor to its fellow sovereign States and individuals living in other countries and places in the world.&#x20;
+Liberland shall, in all matters, strive to be a good neighbor to its fellow sovereign States and individuals living in other countries and places in the world.
 
-#### Art. 47: Striving towards Peace
+#### Article 47: Striving towards Peace
 
 Liberland shall strive to maintain peace with all its neighbors individually and with the international community in its entirety.
 
-#### Art. 48: Neutrality
+#### Article 48: Neutrality
 
 1. Liberland's peaceful orientation and non-participation in conflicts, whether between States, within States, or otherwise, shall be a guiding principle for the Government.
 2. The initiation of violence shall be prohibited. However, nothing in this paragraph shall be construed as prohibiting legitimate collective defense as specified in the Bill of Rights.
 
-#### Art. 49: Commitment to International Law
+#### Article 49: Commitment to International Law
 
 1. Norms of public international law binding Liberland, whether by Treaty or otherwise, shall have direct legal force, and the Government shall always act within its boundaries.
-2. Where a conflict should occur between the norms of this Constitution and a norm of public international law that binds Liberland, the norm of public international law shall apply, except when it conflicts with this Constitution, and this conflict proves irreconcilable by interpretation or negotiation.
+2. In case of a conflict between the norms of this Constitution and a norm of public international law binding Liberland, the norm of public international law shall apply, except when it conflicts with this Constitution and the conflict proves irreconcilable by interpretation or negotiation.
 
-#### Art. 50: Prohibition of Slavery
+#### Article 50: Prohibition of Slavery
 
-§ 1
+§1
 
-1. The Government shall not suffer a relationship amounting to involuntary servitude or slavery to exist in Liberland, even where such a relationship is entered voluntarily and lawfully.
-2. Agreements of enslavement shall be null and void. Any enslaved person shall always have the right to take back their consent to any form of enslavement and be free without any negative consequences, regardless of any previous stipulations to the contrary.
+1. The Government shall not permit a relationship amounting to involuntary servitude or slavery to exist in Liberland, even if entered voluntarily and lawfully.
+2. Agreements of enslavement shall be null and void. Any enslaved person shall always have the right to withdraw their consent to any form of enslavement and be free without any negative consequences, regardless of any previous stipulations to the contrary.
 
-§ 2
+§2
 
 Any enslaved person shall always retain the right to escape their bondage by any means necessary. The Government shall help enslaved persons escape slavery.
 
-§ 3
+§3
 
-All that applies to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, as understood by public international law.
+All provisions applying to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, as understood by public international law.
 
-#### Art. 51: Protection of Cultural and Natural Heritage
+#### Article 51: Protection of Cultural and Natural Heritage
 
-The Government shall identify and protect the natural and cultural heritage of Liberland, both on land and in its waters and waterways. It shall, when acting, take concern for the welfare of the soil, and the plant and animal life, both on land and in water, as well as for the overall ecosystem and each biome.&#x20;
+The Government shall identify and protect the natural and cultural heritage of Liberland, both on land and in its waters and waterways. It shall, when acting, take concern for the welfare of the soil, and the plant and animal life, both on land and in water, as well as for the overall ecosystem and each biome.
 
-#### Art. 52: Public-Private Partnerships
+#### Article 52: Public-Private Partnerships
 
-1. The Government shall not possess a monopoly on the provision of services which the Constitution or the Law allot to it or its branches, henceforth "Public Service," allowing private subjects to provide those same services. &#x20;
+1. The Government shall not possess a monopoly on the provision of services which the Constitution or the Law allot to it or its branches, henceforth "Public Service," allowing private subjects to provide those same services.
 2. Where private subjects provide Public Services, they shall be required to adopt the Government's purpose and respect Fundamental Rights.
 
-#### Art. 53: Governmental Data Protection
+#### Article 53: Governmental Data Protection
 
-§ 1
+§1
 
-1. The Government shall use all private personal data it collects only for the purposes for which it had been collected. The Government shall keep this data confidential and share it only with the express and informed consent of all Persons to whom the data relates, henceforth "Data Subjects."&#x20;
+1. The Government shall use all private personal data it collects only for the purposes for which it had been collected. The Government shall keep this data confidential and share it only with the express and informed consent of all Persons to whom the data relates, henceforth "Data Subjects."
 2. Data Subjects shall not lose their rights to the data by virtue of it being under Government control.
 
-§ 2
+§2
 
-All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.&#x20;
+All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.
 
-§ 3
+§3
 
-The Government shall force no Person to register and/or share private information.
+The Government shall not force any Person to register and/or share private information.
 
 ## Book 3: Judicial Power
 

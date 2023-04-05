@@ -66,30 +66,30 @@ The sole public protector of property rights shall be the State of Liberland, he
 
 ## Book 2: Liberland Government
 
-### Section 1: Defining Principles
+### Section 1: Foundational Principles
 
-#### Art. 14: Structure of the Government
+#### Article 14: Structure of the Government
 
-The Government shall be democratic in nature, organization, conduct, and governing philosophy. Its powers shall be divided into Legislative, Executive, and Judiciary powers.
+The Government shall be democratic in nature, organization, conduct, and governing philosophy. Its powers shall be divided into Legislative, Executive, and Judicial powers.
 
-#### Art. 15: Actions of the Government
+#### Article 15: Actions of the Government
 
-1. The Government shall only perform such actions to which it is empowered, directly or indirectly, by this Constitution.&#x20;
+1. The Government shall only perform actions to which it is empowered, directly or indirectly, by this Constitution.
 2. The Government shall be run online using the instruments it designates, enabling it to effectively, securely, and transparently act according to this Constitution.
-3. The basic unit for governmental timekeeping shall be an election term of the representative legislative body of ninety days, henceforth "Election Term."
+3. The basic unit for governmental timekeeping shall be an election term of the representative legislative body of ninety days, henceforth referred to as an "Election Term."
 
-#### Art. 16: Financing the Government
+#### Article 16: Financing the Government
 
 The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation.
 
-#### Art. 17: Balanced Budget
+#### Article 17: Balanced Budget
 
 The Government's budget shall be kept in surplus or, at minimum, balanced. The Government shall not incur debts.
 
-#### Art. 18: Treasury
+#### Article 18: Treasury
 
-1. The Treasury of Liberland shall be managed by the Government but owned by the Liberland.&#x20;
-2. Wherever there is a surplus of at least three times the modus of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland to each according to their merit.
+1. The Treasury of Liberland shall be managed by the Government but owned by Liberland.
+2. Whenever there is a surplus of at least three times the mode of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland, each according to their merit.
 
 ### Section 2: Governmental Powers
 
@@ -116,9 +116,7 @@ The Government shall obey its own Regulations, Laws, and this Constitution.&#x20
 
 1. The Judiciary shall answer relevant questions and resolve disputes under this Constitution, under Law, and in international matters.
 2. To this end, the Judiciary shall use the following instruments:
-
 a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
-
 b) Verdicts represent the decision in a particular case and shall be binding in perpetuity where they gain legal force.
 
 #### Art. 24: Enforcement
@@ -148,7 +146,7 @@ No person or group of Persons shall be arbitrarily excluded from the operation o
 
 ### Section 3: Basic Rights
 
-#### Art. 28: Sovereignty of Property
+#### Article 28: Sovereignty of Property
 
 § 1
 
@@ -160,41 +158,40 @@ Property owners shall have the right to establish rules of conduct for every Per
 
 § 3
 
-No Person shall have their private property confiscated without their informed consent as long as it has been acquired lawfully and used lawfully. Any Property shall be assumed to have been obtained and used lawfully unless proven otherwise. The final arbiter in disputes regarding this matter shall be the Judiciary. &#x20;
+No Person shall have their private property confiscated without their informed consent as long as it has been acquired lawfully and used lawfully. Any Property shall be assumed to have been obtained and used lawfully unless proven otherwise. The final arbiter in disputes regarding this matter shall be the Judiciary.
 
 § 4
 
 Liberland shall be held liable for Property damage caused by its Agents acting contrary to this Constitution or Law.
 
-#### Art. 29: Right to Personal Integrity
+#### Article 29: Right to Personal Integrity
 
 § 1
 
-1. All Persons shall have the full and sovereign right in the free control and the free disposition of their mind, body, and conscience.&#x20;
+1. All Persons shall have the full and sovereign right in the free control and the free disposition of their mind, body, and conscience.
 2. All Persons shall be seen as responsible and capable of acting and comprehending the consequences of their actions unless proven otherwise. The final judge in case of doubt shall be the Judiciary.
 
 § 2
 
-1. The Government shall not infringe upon the integrity of a natural Person in any way without first obtaining their full and informed consent.&#x20;
+1. The Government shall not infringe upon the integrity of a natural Person in any way without first obtaining their full and informed consent.
 2. Where obtaining full and informed consent should prove impossible or where there is an urgent, present, and sufficiently dire need to protect the life, liberty or property of others, the Government, in particular through the Executive Power, can only act upon the integrity of a natural Person based on a mandate given by Law or upon a Decision of the Judiciary.
 
-
-#### Art. 30: Right to Privacy
+#### Article 30: Right to Privacy
 
 § 1
 
-1. The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary.&#x20;
+1. The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary.
 2. The same shall apply to any kind of surveillance of communication or activities. The Government shall never contract a private party or another government to perform such activities.
 
 § 2
 
-The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.&#x20;
+The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.
 
-#### Art. 31: Right to Bear Arms
+#### Article 31: Right to Bear Arms
 
-The right of Liberland citizens to keep and bear arms shall not be infringed. All adult, able-minded Liberland citizens of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear arms fit for personal defense.&#x20;
+The right of Liberland citizens to keep and bear arms shall not be infringed. All adult, able-minded Liberland citizens of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear arms fit for personal defense.
 
-#### Art. 32: Right to be Heard
+#### Article 32: Right to be Heard
 
 § 1
 
@@ -202,8 +199,8 @@ Where any branch of the Government makes any decision regarding the rights and d
 
 § 2
 
-1. In a process against a Person regarding a delict, the Government shall offer the parties, in particular the defendant, a higher level of protection, at least upholding the principles of the due criminal process and fair hearing commonly accepted in civilized countries.&#x20;
-2. The defendant shall be allowed to know their accuser and to react to the accusation effectively.&#x20;
+1. In a process against a Person regarding a delict, the Government shall offer the parties, in particular the defendant, a higher level of protection, at least upholding the principles of the due criminal process and fair hearing commonly accepted in civilized countries.
+2. The defendant shall be allowed to know their accuser and to react to the accusation effectively.
 3. Decisions concerning guilt and punishment shall be only made upon evidence substantiating the decision beyond a reasonable doubt.
 
 #### Art. 33: Right to Transparency in Public Affairs

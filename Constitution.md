@@ -1,71 +1,68 @@
-# Draft Constitution
+# Constitution of the Republic of Liberland
 
-## Constitution of Liberland
+## Preamble
+We, the free people of the world, in order to protect our right to life, to property, and to secure liberty for ourselves and future generations, establish this Constitution of the Republic of Liberland.
 
-### Preamble
-
-We, the free people of this world, in order to protect our right to Life, to our Property, and to secure Liberty for ourselves and for future generations, do establish this Constitution of the Republic of Liberland.
-
-## Book 1: Basic Principles
+## Part 1: Fundamental Principles
 
 ### Section 1: Philosophy
 
-#### Art. 1: Self-Sovereignty
+#### Article 1: Individual Sovereignty
 
-We affirm that every human being has sole, undivided, and absolute sovereignty over their Person; their body, and their mind.&#x20;
+We recognize that every individual has sole, undivided, and absolute sovereignty over their own person, including their body and mind.
 
-#### Art. 2: Property
+#### Article 2: Property Rights
 
-This relationship between the human being and their Person shall be called Property, and it shall be afforded the highest degree of protection by everyone and for everyone equally.
+The relationship between an individual and their person shall be considered property, and it shall be afforded the highest degree of protection for everyone equally.
 
-#### Art. 3: Human Action
+#### Article 3: Human Agency
 
-We affirm that a human being is uniquely able to act by their Person.
+We acknowledge that a human being is uniquely able to act through their own person.
 
-#### Art. 4: Appropriation of Objects
+#### Article 4: Ownership of Resources
 
-Where a Person who acts and adds value to something in the world, be it a thing, an animal, or any other controllable natural phenomenon, henceforth: "Object," which is as of yet unowned by another Person, that Object shall become the Property of the acting Person.
+When a person acts and adds value to an unowned resource, be it an object, an animal, or any other controllable natural phenomenon, that resource shall become the property of the acting person.
 
-#### Art. 5: Property in Objects
+#### Article 5: Property Management
 
-A Person shall be free to act on their Property as they see fit, use it, relinquish it, destroy it or transfer it for the good of a different Person.
+A person shall be free to act on their property as they see fit, use it, relinquish it, destroy it, or transfer it for the benefit of another person.
 
-#### Art. 6: Non-Perishable Nature of Property
+#### Article 6: Permanence of Property Rights
 
-A Person shall be acknowledged as the owner of their Property for as long as they see fit, and the rights of the owner towards the object of their Property shall not diminish nor disappear with the passage of time alone.
+A person shall be recognized as the owner of their property for as long as they see fit, and the rights of the owner in relation to the subject of their property shall not diminish nor disappear with the passage of time alone.
 
-### Section 2: Rules of Conduct
+### Section 2: Code of Conduct
 
-#### Art. 7: Non-Aggression Principle
+#### Article 7: Non-Aggression Principle
 
-A Person shall not act upon a Property of which they are not the owner without the owner's express permission, except when necessary to remedy a situation in which that owner has infringed Property rights of other people or violated a promise binding in Property.&#x20;
+A person shall not act upon property they do not own without the owner's express permission, except when necessary to remedy a situation in which that owner has infringed property rights of other people or violated a binding promise related to property.
 
-#### Art. 8: Consequences of Aggression
+#### Article 8: Consequences of Aggression
 
-A Person in breach of this Non-Aggression Principle shall bear the risks and consequences of their actions.
+A person who breaches the Non-Aggression Principle shall bear the risks and consequences of their actions.
 
-#### Art. 9: Right to Defend Against Aggression
+#### Article 9: Right to Defend Against Aggression
 
-Everyone shall allow Persons to protect their Property and, with the owner's agreement, also the Property of others from infringement which constitute a breach of the Non-Aggression Principle.
+Everyone shall permit individuals to protect their own property and, with the owner's consent, also the property of others from infringement that constitutes a breach of the Non-Aggression Principle.
 
-### Section 3: Sole Basis for Centralized Authority
+### Section 3: Foundation for Centralized Authority
 
-#### Art. 10: The Public Defender of Property
+#### Article 10: The Public Defender of Property
 
-To resolve situations where the Non-Aggression Principle is not observed or where there is a real risk of property damage or destruction, the people appoint a centralized authority to function as the public protector of Property rights where owners are unable to defend their property, liberty or life effectively.
+To resolve situations where the Non-Aggression Principle is not observed or where there is a real risk of property damage or destruction, the people appoint a centralized authority to function as the public protector of property rights when owners are unable to effectively defend their property, liberty, or life.
 
-#### Art. 11: Sole Power of the Centralized Authority
+#### Article 11: Sole Power of the Centralized Authority
 
-The centralized authority shall be able, where necessity requires this and only to the extent as required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
+The centralized authority shall be able, when necessity requires and only to the extent required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
 
-#### Art. 12: Liberland
+#### Article 12: Liberland
 
-The sole public protector of Property rights shall be the State of Liberland, henceforth, "Liberland." &#x20;
+The sole public protector of property rights shall be the State of Liberland, henceforth referred to as "Liberland."
 
-#### Art. 13: Structure of Liberland
+#### Article 13: Structure of Liberland
 
-1. Liberland shall form organs that shall be set up hierarchically, and each shall perform specific functions, henceforth "the Government."&#x20;
-2. Besides the Government, Liberland shall award the foremost amongst its supporters and heroes a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and as nothing more.
+1. Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
+2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and nothing more.
 
 ## Book 2: Liberland Government
 

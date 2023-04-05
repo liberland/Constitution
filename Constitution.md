@@ -735,85 +735,83 @@ Regulations shall be based on Laws and shall be issued within the framework of s
 1. The Senate shall hold the power to cancel any Referendum. When the Senate cancels a Referendum, they shall without delay publish genuine binding recommendations based on the true reasons for the cancellation.
 2. The Senate shall be bound by its recommendations and shall not again Cancel a Referendum that has been adequately amended according to the Senate's binding recommendations.
 
-#### Art. 93: The Veto Power
+#### Article 93: The Veto Power
 
 1. The Senate shall also have the power to strike down by a Veto any Regulation other than Law it shall deem inappropriate for the best interests of Liberland and dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 2. The Veto of the Senate shall always be reasoned out and based on a well-informed debate. The reasoned opinion shall be made public and, without delay, sent to the organ that had issued the Regulation as a set of binding recommendations for improvement. The Senate shall not veto again a Regulation re-enacted in conformity with the Senate's recommendations.
 
-#### Art. 94: Financial Custodianship
+#### Article 94: Financial Custodianship
 
 1. The Senate shall hold custody over the treasury and the financial reserves of Liberland, be they liquid or otherwise, and shall have the power to stop any payment from these sources. They shall cite their reasons for this rejection. The Senate shall not stop the payment again when their binding recommendations are fully satisfied.
 2. The Senate shall also hold the emergency fund of Liberland and be the owner of any as-of-yet undistributed rewards for keeping the national information systems secure.
 
-#### Art. 95: Organs of Independent Oversight
+#### Article 95: Organs of Independent Oversight
 
 On their own initiative and at their own expense, the Senate may set up independent oversight organs, providing the administrative and knowledge base required for it to fulfill its powers of Guardianship. These organs shall be structured hierarchically and shall operate transparently. The Senate may assign each organ under an individual Senator or Senators.
 
-#### Art. 96: Senate Self-Governance
+#### Article 96: Senate Self-Governance
 
 1. The Senate shall govern its affairs and, without delay, enact the Proceedings Guide of the Senate, a Regulation having the force of law binding upon the Senate. This Regulation shall set up the decision-making rules and the proceedings of the Senate.
 2. The Senate may also pass lower order Regulations binding upon all the Organs of Independent Oversight.
 
 ### Section 2: Head of State
 
-#### Art. 97: President
+#### Article 97: President
 
 Pursuant to the wisdom that an owner tends to keep the affairs of their Property in better order than a hireling would, and following the customs common amongst nations, there shall be one President to fulfill the role of the Head of State in Liberland.
 
-#### Art. 98: Selection of the President
+#### Article 98: Selection of the President
 
-§ 1
+§1
 
 To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, the Senators shall select the President from among their members.
 
-§ 2
+§2
 
 The President shall swear/affirm the following to the Senate and the People of Liberland:
 
 "I do solemnly swear/affirm that I will faithfully execute the Office of the President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will treat all that occurs in Liberland as if it happened to my estate and will do my utmost to leave a more prosperous and happy country to my successor."
+#### Article 99: Presidential Terms
 
-#### Art. 99: Presidential Terms
-
-§ 1
+§1
 
 The President shall be selected for a term of twenty consecutive Election Terms. One person may only be selected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-selected for their third term after at least forty consecutive Election Terms spent out of the office of the President.
 
-§ 2
+§2
 
 The President and the Vice Presidents shall resign their offices upon being voted into a public office or becoming an Agent of the Government in any capacity.
 
-§ 3
+§3
 
 Should the President be found permanently unable to perform his or her duties for objective reasons of health or for personal reasons, the Senate shall petition the Supreme Court to dismiss the President.
 
-#### Art. 100: Vice Presidents
+#### Article 100: Vice Presidents
 
-§ 1
+§1
 
 The President shall appoint two Senators to be First and Second Vice Presidents. The President may replace a Vice President at will, without citing reasons.
 
-§ 2
+§2
 
 The Vice Presidents will, upon being selected, swear/affirm their oath:
 
 "I solemnly swear/affirm that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will do my utmost to follow and represent my President faithfully and to the best of my ability."
 
-§ 3
+§3
 
 Where the President should be confirmed as temporarily incapable of performing their duties, the Vice Presidents shall assume those duties for the duration of this incapability.
 
-#### Art. 101: Powers of the President
+#### Article 101: Powers of the President
 
 1. The President shall exercise power to:
-a) represent Liberland on the international stage, including but not limited to the negotiation and signing of international treaties;  
-b) bestow honors and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;    
-c) appoint or reject the appointment of the highest officials of the Administration, including all Judges and Supreme Court Justices;   
+a) represent Liberland on the international stage, including but not limited to the negotiation and signing of international treaties;
+b) bestow honors and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;
+c) appoint or reject the appointment of the highest officials of the Administration, including all Judges and Supreme Court Justices;
 d) lead the Senate and have the deciding vote therein in case of a draw or otherwise according to the Proceedings Guide of the Senate; and
-e) lead the Liberland Defence Forces should those be formed.  
+e) lead the Liberland Defence Forces should those be formed.
 2. Any decision made by the President needs to be confirmed by either of the Vice Presidents, or it will be invalid.
 3. As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not be required to obtain the confirmation of their Vice Presidents concerning the powers to represent Liberland on the international stage and to bestow honors and awards.
-
-#### Art. 102: Emergency Powers
+#### Article 102: Emergency Powers
 
 1. In a dire crisis requiring the swift actions of the Territorial Defence Forces, the Senate can issue a vote to allow the President to lead the Liberland Defence Forces without the need for confirmation by the Vice Presidents.
 2. Where the Vice Presidents should find themselves assuming the duties of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
@@ -822,19 +820,19 @@ e) lead the Liberland Defence Forces should those be formed.
 
 ### Section 1: Amendments
 
-#### Art. 103: Amendments
+#### Article 103: Amendments
 
 All Amendments that add new provisions to the Constitution shall be published in this section of the Constitution. Amendments that change existing provisions shall be incorporated into the respective Book of the Constitution.
 
-#### Art. 104: Core Provisions of the Constitution
+#### Article 104: Core Provisions of the Constitution
 
-No Amendment shall take away from the Principles of Book One or from the Individual Rights in the Bill of Rights. Book 2 shall not be changed by Amendment to increase State powers or scope.&#x20;
+No Amendment shall take away from the Principles of Book One or from the Individual Rights in the Bill of Rights. Book 2 shall not be changed by Amendment to increase State powers or scope.
 
-#### Art. 105: Constitutional Convention
+#### Article 105: Constitutional Convention
 
 § 1
 
-The Congress may motion to propose a Constitutional Convention by a ⅔ majority. Where this proposal is seconded by the Senate and the President, the motion becomes a regular Constitutional Amendment referendum.&#x20;
+The Congress may motion to propose a Constitutional Convention by a ⅔ majority. Where this proposal is seconded by the Senate and the President, the motion becomes a regular Constitutional Amendment referendum.
 
 § 2
 
@@ -851,7 +849,7 @@ The Constitutional Convention shall be solely empowered to propose Constitutiona
 
 ### Section 2 Final Provisions
 
-#### Art. 106: Passage of this Constitution
+#### Article 106: Passage of this Constitution
 
 This Constitution has been submitted by the Cabinet on ...
 
@@ -859,6 +857,6 @@ This Constitution has been adopted by the Referendum ...
 
 This Constitution has passed the Senate on ...
 
-#### Art. 107: Legal Force
+#### Article 107: Legal Force
 
 This Constitution gains legal force from ... onwards in perpetuity.

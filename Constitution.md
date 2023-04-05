@@ -826,7 +826,7 @@ All Amendments that add new provisions to the Constitution shall be published in
 
 #### Article 104: Core Provisions of the Constitution
 
-No Amendment shall take away from the Principles of Book One or from the Individual Rights in the Bill of Rights. Book 2 shall not be changed by Amendment to increase State powers or scope.
+No Amendment shall take away from the Principles of Book One or from the Individual Rights enumerated in this Constitution. Book 2 shall not be changed by Amendment to increase State powers or scope.
 
 #### Article 105: Constitutional Convention
 

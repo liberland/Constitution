@@ -325,7 +325,7 @@ Liberland shall strive to maintain peace with all its neighbors individually and
 
 §1
 
-1. The Government shall not permit a relationship amounting to involuntary servitude or slavery to exist in Liberland, even if entered voluntarily and lawfully.
+1. The Government shall not permit a relationship amounting to involuntary servitude or slavery to exist in Liberland, even if entered voluntarily and otherwise lawfully.
 2. Agreements of enslavement shall be null and void. Any enslaved person shall always have the right to withdraw their consent to any form of enslavement and be free without any negative consequences, regardless of any previous stipulations to the contrary.
 
 §2

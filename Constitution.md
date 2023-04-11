@@ -7,59 +7,59 @@ We, the free people of the world, in order to protect our right to life, to prop
 
 ### Section 1: Philosophy
 
-#### Art. 1: Individual Sovereignty
+#### Article 1: Individual Sovereignty
 
 We recognize that every individual has sole, undivided, and absolute sovereignty over their own person, including their body and mind.
 
-#### Art. 2: Property Rights
+#### Article 2: Property Rights
 
 The relationship between an individual and their person shall be considered property, and it shall be afforded the highest degree of protection for everyone equally.
 
-#### Art. 3: Human Agency
+#### Article 3: Human Agency
 
 We acknowledge that a human being is uniquely able to act through their own person.
 
-#### Art. 4: Ownership of Resources
+#### Article 4: Ownership of Resources
 
 When a person acts and adds value to an unowned resource, be it an object, an animal, or any other controllable natural phenomenon, that resource shall become the property of the acting person.
 
-#### Art. 5: Property Management
+#### Article 5: Property Management
 
 A person shall be free to act on their property as they see fit, use it, relinquish it, destroy it, or transfer it for the benefit of another person.
 
-#### Art. 6: Permanence of Property Rights
+#### Article 6: Permanence of Property Rights
 
 A person shall be recognized as the owner of their property for as long as they see fit, and the rights of the owner in relation to the subject of their property shall not diminish nor disappear with the passage of time alone.
 
 ### Section 2: Code of Conduct
 
-#### Art. 7: Non-Aggression Principle
+#### Article 7: Non-Aggression Principle
 
 A person shall not act upon property they do not own without the owner's express permission, except when necessary to remedy a situation in which that owner has infringed property rights of other people or violated a binding promise related to property.
 
-#### Art. 8: Consequences of Aggression
+#### Article 8: Consequences of Aggression
 
 A person who breaches the Non-Aggression Principle shall bear the risks and consequences of their actions.
 
-#### Art. 9: Right to Defend Against Aggression
+#### Article 9: Right to Defend Against Aggression
 
 Everyone shall permit individuals to protect their own property and, with the owner's consent, also the property of others from infringement that constitutes a breach of the Non-Aggression Principle.
 
 ### Section 3: Foundation for Centralized Authority
 
-#### Art. 10: The Public Defender of Property
+#### Article 10: The Public Defender of Property
 
 To resolve situations where the Non-Aggression Principle is not observed or where there is a real risk of property damage or destruction, the people appoint a centralized authority to function as the public protector of property rights when owners are unable to effectively defend their property, liberty, or life.
 
-#### Art. 11: Sole Power of the Centralized Authority
+#### Article 11: Sole Power of the Centralized Authority
 
 The centralized authority shall be able, when necessity requires and only to the extent required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
 
-#### Art. 12: Liberland
+#### Article 12: Liberland
 
 The sole public protector of property rights shall be the State of Liberland, henceforth referred to as "Liberland."
 
-#### Art. 13: Structure of Liberland
+#### Article 13: Structure of Liberland
 
 1. Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
 2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and nothing more.
@@ -68,58 +68,58 @@ The sole public protector of property rights shall be the State of Liberland, he
 
 ### Section 1: Foundational Principles
 
-#### Art. 14: Structure of the Government
+#### Article 14: Structure of the Government
 
 The Government shall be democratic in nature, organization, conduct, and governing philosophy. Its powers shall be divided into Legislative, Executive, and Judicial powers.
 
-#### Art. 15: Actions of the Government
+#### Article 15: Actions of the Government
 
 1. The Government shall only perform actions to which it is empowered, directly or indirectly, by this Constitution.
 2. The Government shall be run online using the instruments it designates, enabling it to effectively, securely, and transparently act according to this Constitution.
 3. The basic unit for governmental timekeeping shall be an election term of the representative legislative body of ninety days, henceforth referred to as an "Election Term."
 
-#### Art. 16: Financing the Government
+#### Article 16: Financing the Government
 
 The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation.
 
-#### Art. 17: Balanced Budget
+#### Article 17: Balanced Budget
 
 The Government's budget shall be kept in surplus or, at minimum, balanced. The Government shall not incur debts.
 
-#### Art. 18: Treasury
+#### Article 18: Treasury
 
 1. The Treasury of Liberland shall be managed by the Government but owned by Liberland.
 2. Whenever there is a surplus of at least three times the mode of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland, each according to their merit.
 
 ### Section 2: Governmental Powers
 
-#### Art. 19: Lawmaking
+#### Article 19: Lawmaking
 
 1. To fulfill the purpose of the Government in a regulated and orderly manner, the Legislative shall establish Laws, binding rules that inform human action and guide the people to act in accordance with the Non-Aggression Principle.&#x20;
 2. Laws shall be second in power only to this Constitution, capable of binding all branches of the Government, Liberland as a whole, and any Persons within Liberland's jurisdiction.
 3. Where there is a conflict between a Law and a provision in this Constitution, the constitutional provision shall prevail.&#x20;
 
-#### Art. 20: Governance
+#### Article 20: Governance
 
 The Executive shall consist of experts managing the day-to-day affairs of Liberland governance. It shall apply Laws and other Regulations and any other measures necessary to fulfill the purpose of Liberland.
 
-#### Art. 21: Regulating
+#### Article 21: Regulating
 
 1. The Executive shall expand upon these rules set out in Laws and create auxiliary rules within limits and based on mandates given expressly by the Legislative. These rules, lower in authority than this Constitution and Laws, shall be called Regulations. &#x20;
 2. Regulations shall be lower in legal force than the Laws or the Constitution. An illegal or unconstitutional provision in a Regulation shall always be invalid.
 
-#### Art. 22: Rule of Law
+#### Article 22: Rule of Law
 
 The Government shall obey its own Regulations, Laws, and this Constitution.&#x20;
 
-#### Art. 23: Dispute Resolution
+#### Article 23: Dispute Resolution
 
 1. The Judiciary shall answer relevant questions and resolve disputes under this Constitution, under Law, and in international matters.
 2. To this end, the Judiciary shall use the following instruments:
 a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
 b) Verdicts represent the decision in a particular case and shall be binding in perpetuity where they gain legal force.
 
-#### Art. 24: Enforcement
+#### Article 24: Enforcement
 
 § 1
 
@@ -130,17 +130,17 @@ b) Verdicts represent the decision in a particular case and shall be binding in 
 
 The Legislative shall designate specific governmental organizations tasked with enforcement and shall set the rules and limits for enforcement. It shall ensure that as few Agents as possible and only those for whom it is absolutely necessary should bear this power.
 
-#### Art. 25: Use of Arms
+#### Article 25: Use of Arms
 
 The Government shall only use, acquire, own, possess or equip its Agents with weapons and other defensive and offensive equipment which Persons who habitually and lawfully dwell in Liberland, henceforth "Liberlanders," might use privately and without restrictions to effect self-defense or collective defense.
 
-#### Art. 26: Equality Before Law
+#### Article 26: Equality Before Law
 
 1. All persons shall be equal before the Law and in rights and responsibilities as far as their personhood is concerned.&#x20;
 2. Natural personhood shall be singular and indivisible. It shall pertain to every human being and other entities of an equal or similar level of sapience where those desire and are capable of expressing their desire to become persons.&#x20;
 3. The Law shall respect no privileges nor special statuses awarded to persons, natural or otherwise, beyond what is stipulated in this Constitution.
 
-#### Art. 27: Equal access to public services
+#### Article 27: Equal access to public services
 
 No person or group of Persons shall be arbitrarily excluded from the operation of the Government, or granted any privilege; nor shall any Person be denied equal protection under this Constitution.
 

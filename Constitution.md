@@ -688,7 +688,8 @@ The Executive shall be organized hierarchically, and all offices and employees o
 
 §1
 
-The Cabinet shall be formed and led by the Prime Minister, who shall be the Head of the Cabinet and the Government. The Cabinet shall be responsible to Congress.
+1) The Cabinet shall be formed and led by the Prime Minister, who shall be the Head of the Cabinet and the Government. The Cabinet shall be responsible to Congress.
+2) The Congress shall elect the Prime Minister for a term of twenty consecutive Election Terms. One person may only be elected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-elected for their third term after at least forty consecutive Election Terms spent out of the office of the Prime Minister.
 
 §2
 

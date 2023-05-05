@@ -648,11 +648,11 @@ Congress shall enable Citizens to delegate their votes to their chosen Members o
 
 ### Article 82: Cancelling Referenda
 
-§1
+#### § 1: Referendum Cancellation Authority
 
 The Congress shall, by a vote of a two-thirds majority, have the power to cancel any Referendum it should deem as frivolous, malicious, going against the purposes of Liberland, or where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty.
 
-§2
+#### § 2: Recommendations and Resubmission
 
 The Congress shall publish binding, reasonable recommendations accompanying each Cancellation, citing why it was issued. Congress shall allow the proposal to pass if the re-submitted proposal is amended to satisfy the recommendations.
 

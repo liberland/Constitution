@@ -45,7 +45,7 @@ A person who breaches the Non-Aggression Principle shall bear the risks and cons
 
 Everyone shall permit individuals to protect their own property and, with the owner's consent, also the property of others from infringement that constitutes a breach of the Non-Aggression Principle.
 
-### Section 3: Foundation for Centralized Authority
+## Section 3: Foundation for Centralized Authority
 
 ### Article 10: The Public Defender of Property
 
@@ -116,7 +116,9 @@ The Government shall obey its own Regulations, Laws, and this Constitution.&#x20
 
 1. The Judiciary shall answer relevant questions and resolve disputes under this Constitution, under Law, and in international matters.
 2. To this end, the Judiciary shall use the following instruments:
+
 a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
+
 b) Verdicts represent the decision in a particular case and shall be binding in perpetuity where they gain legal force.
 
 ### Article 24: Enforcement
@@ -409,11 +411,17 @@ Supreme Court Justices shall be current or former Judges with an excellent profe
 The Supreme Court shall have the inherent jurisdiction in the following types of cases:
 
 a) Examining a proposed Law or other proposed Legislative or Executive Regulation or other action for its conformity with the Constitution;
+
 b) The review of constitutional conformity of all International Treaties that the Administration should propose to bind Liberland with.
+
 c) The motion to declare an official of the Administration, the President, a Vice President, or a Senator unfit to perform their duties.
+
 d) The review of legality and constitutional conformity regarding any political process in any branch of the Administration.
+
 e) The review of a Judge's capability to perform their duties of the office.
+
 f) The review of any Regulation, public or private, setting moral standards and penalties for Judges, Attorneys, and Prosecutors.
+
 g) The review, upon a motion made by the Legislative or the Executive, of constitutional conformity of any motion, policy, or regulatory document made by the Guardians.
 
 ### Article 61: Constitutionality of Legislative Proposals
@@ -566,9 +574,9 @@ Bills for Laws shall be passed by a majority of at least 50 percent of votes cas
 
 ### Article 76: Public Veto
 
-1) Where Referendum rules stipulate inequality of votes between citizens, the Referendum Law shall enable a special form of Referendum called the Public Veto, where each citizen shall have one vote, and none shall be excluded from the vote.
+1. Where Referendum rules stipulate inequality of votes between citizens, the Referendum Law shall enable a special form of Referendum called the Public Veto, where each citizen shall have one vote, and none shall be excluded from the vote.
 
-1. Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
+2. Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 
 ## Section 3: Representative Democracy
 
@@ -611,9 +619,13 @@ Members of Congress shall take the Oath of Office upon election:
 
 1. Congress may require ratification by a Referendum proposed by Congress regarding any international treaty where Congress judges its impact to be sufficiently serious to warrant such a measure.
 2. International treaties shall undergo mandatory ratification by a Referendum proposed by Congress before taking legal force if they:  
+
 a) set up, remove or amend rights and duties of persons,  
+
 b) constitute, terminate or otherwise affect Liberland's membership in international organizations,  
+
 c) concern matters of defense and war and peace, or  
+
 d) have a widespread economic impact.  
 
 ### Article 80: Amending the Constitution
@@ -669,17 +681,29 @@ Congress shall likewise have the power to dismiss individual Ministers, with the
 #### Article 86: Mandate of the Executive
 
 The Executive shall:  
+
 a) run day-to-day State affairs;  
+
 b) initiate the Legislative procedure for Cabinet-drafted Bills;  
+
 c) protect and promote the interests of Liberland worldwide;  
+
 d) sign International Treaties that don't need to be ratified by Congress or signed by the President;  
+
 e) conduct commerce on behalf of Liberland: to organize marketplaces, trade in goods, organize tenders for State projects, and act on the free market in the most general sense;  
+
 f) issue, hold and spend currencies as long as it acts within the limits of this Constitution;  
+
 g) maintain State assets and assets of other Persons and to profit from them or take losses that could not have been avoided;  
+
 h) produce Regulations called Decrees under the powers expressly granted to it by Law;  
+
 i) nominate Judges, including the Supreme Court Justices;  
+
 j) maintain the State Treasury, which represents all governmental financial accounts;  
+
 k) nominate the General Prosecutor and the other Prosecutors; and  
+
 l) supervise all Agents of the Executive Branch of the Administration.  
 
 #### Article 87: Organs of the Executive
@@ -807,11 +831,17 @@ Where the President should be confirmed as temporarily incapable of performing t
 #### Article 101: Powers of the President
 
 1. The President shall exercise power to:
+
 a) represent Liberland on the international stage, including but not limited to the negotiation and signing of international treaties;
+
 b) bestow honors and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;
+
 c) appoint or reject the appointment of the highest officials of the Administration, including all Judges and Supreme Court Justices;
+
 d) lead the Senate and have the deciding vote therein in case of a draw or otherwise according to the Proceedings Guide of the Senate; and
+
 e) lead the Liberland Defence Forces should those be formed.
+
 2. Any decision made by the President needs to be confirmed by either of the Vice Presidents, or it will be invalid.
 3. As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not be required to obtain the confirmation of their Vice Presidents concerning the powers to represent Liberland on the international stage and to bestow honors and awards.
 #### Article 102: Emergency Powers

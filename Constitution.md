@@ -666,19 +666,19 @@ Congress shall confirm or reject Supreme Court Justices nominees nominated by th
 2. The Prime Minister shall be a Member of Congress at the time of their appointment. Losing their Congress seat shall not be grounds for dismissal or losing their Prime Minister seat.
 3. The Prime Minister shall be a Member of Congress at the time of their appointment and shall be appointed by the Congress for a tenure of twenty consecutive Election Terms, which may be repeated once.
 
-#### Article 85: Dismissing Cabinet Members
+### Article 85: Dismissing Cabinet Members
 
-§1
+#### § 1: Dismissing the Prime Minister
 
 Congress shall have the power to Dismiss a Prime Minister with a ⅔ majority vote. Dismissing the Prime Minister does not mean that the other Ministers have to resign.
 
-§2
+#### § 2: Dismissing Individual Ministers
 
 Congress shall likewise have the power to dismiss individual Ministers, with the same tally required to effect the dismissal of a Prime Minister.
 
-## Book 5: Executive Power
+# Book 5: Executive Power
 
-#### Article 86: Mandate of the Executive
+### Article 86: Mandate of the Executive
 
 The Executive shall:  
 
@@ -706,23 +706,24 @@ k) nominate the General Prosecutor and the other Prosecutors; and
 
 l) supervise all Agents of the Executive Branch of the Administration.  
 
-#### Article 87: Organs of the Executive
+### Article 87: Organs of the Executive
 
 The Executive shall be organized hierarchically, and all offices and employees of the Executive, henceforth "Agents", shall be directly or indirectly subordinate to the Cabinet as the supreme organ of the Executive.
 
-#### Article 88: The Cabinet
+### Article 88: The Cabinet
 
-§1
+#### § 1: Formation and Leadership
+
 
 1) The Cabinet shall be formed and led by the Prime Minister, who shall be the Head of the Cabinet and the Government. The Cabinet shall be responsible to Congress.
 2) The Congress shall elect the Prime Minister for a term of twenty consecutive Election Terms. One person may only be elected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-elected for their third term after at least forty consecutive Election Terms spent out of the office of the Prime Minister.
 
-§2
+#### § 2: Appointment and Dismissal of Ministers
 
 1. There shall be four Ministers, each leading their respective Ministry. The Prime Minister shall appoint individual ministers for a tenure of twenty Election Terms whenever a seat becomes vacant.
 2. The Prime Minister, as well as the Congress, may dismiss a minister. When the Prime Minister dismisses a Minister, they shall accompany their decision with a well-reasoned opinion as to why such a motion is necessary.
 
-#### Article 89: Ministries
+### Article 89: Ministries
 
 There shall be the following Ministries:
 
@@ -734,9 +735,9 @@ c) Ministry of Interior, to keep order in the land and to make the environment a
 
 d) Ministry of Justice shall maintain and develop the legal system to uphold individual liberty and property rights and to safeguard the fundamental rights; it shall assist the Judicial Power to be ever more independent, just, professional, and efficient.
 
-#### Article 90: Regulations of the Executive
+### Article 90: Regulations of the Executive
 
-§1
+#### § 1: Executive Regulations Purpose
 
 The Executive shall issue Regulations to
 
@@ -746,89 +747,90 @@ b) to make the application of Laws more regular and predictable; and
 
 c) to govern the inner workings of the Administration.
 
-§2
+#### § 2: Basis for Regulations
 
 Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
 
-### Section 1: The Senate
+## Section 1: The Senate
 
-#### Article 91: The Senate
+### Article 91: The Senate
 
 1. The Citizens who hold shares of the Fund of the Republic of Liberland shall form the Senate of the Republic of Liberland, henceforth "the Senate," and they shall become its members, the Senators.
 2. The purpose of the Senate shall be to supervise the happenings in the country and to act as the keeper of its financial reserves.
 
-#### Article 92: The Cancellation Power
+### Article 92: The Cancellation Power
 
 1. The Senate shall hold the power to cancel any Referendum. When the Senate cancels a Referendum, they shall without delay publish genuine binding recommendations based on the true reasons for the cancellation.
 2. The Senate shall be bound by its recommendations and shall not again Cancel a Referendum that has been adequately amended according to the Senate's binding recommendations.
 
-#### Article 93: The Veto Power
+### Article 93: The Veto Power
 
 1. The Senate shall also have the power to strike down by a Veto any Regulation other than Law it shall deem inappropriate for the best interests of Liberland and dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 2. The Veto of the Senate shall always be reasoned out and based on a well-informed debate. The reasoned opinion shall be made public and, without delay, sent to the organ that had issued the Regulation as a set of binding recommendations for improvement. The Senate shall not veto again a Regulation re-enacted in conformity with the Senate's recommendations.
 
-#### Article 94: Financial Custodianship
+### Article 94: Financial Custodianship
 
 1. The Senate shall hold custody over the treasury and the financial reserves of Liberland, be they liquid or otherwise, and shall have the power to stop any payment from these sources. They shall cite their reasons for this rejection. The Senate shall not stop the payment again when their binding recommendations are fully satisfied.
 2. The Senate shall also hold the emergency fund of Liberland and be the owner of any as-of-yet undistributed rewards for keeping the national information systems secure.
 
-#### Article 95: Organs of Independent Oversight
+### Article 95: Organs of Independent Oversight
 
 On their own initiative and at their own expense, the Senate may set up independent oversight organs, providing the administrative and knowledge base required for it to fulfill its powers of Guardianship. These organs shall be structured hierarchically and shall operate transparently. The Senate may assign each organ under an individual Senator or Senators.
 
-#### Article 96: Senate Self-Governance
+### Article 96: Senate Self-Governance
 
 1. The Senate shall govern its affairs and, without delay, enact the Proceedings Guide of the Senate, a Regulation having the force of law binding upon the Senate. This Regulation shall set up the decision-making rules and the proceedings of the Senate.
 2. The Senate may also pass lower order Regulations binding upon all the Organs of Independent Oversight.
 
-### Section 2: Head of State
+## Section 2: Head of State
 
-#### Article 97: President
+### Article 97: President
 
 Pursuant to the wisdom that an owner tends to keep the affairs of their Property in better order than a hireling would, and following the customs common amongst nations, there shall be one President to fulfill the role of the Head of State in Liberland.
 
-#### Article 98: Selection of the President
+### Article 98: Selection of the President
 
-§1
+#### § 1: Presidential Selection Process
 
 To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, the Senators shall select the President from among their members.
 
-§2
+#### § 2: Presidential Oath
 
 The President shall swear/affirm the following to the Senate and the People of Liberland:
 
 "I do solemnly swear/affirm that I will faithfully execute the Office of the President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will treat all that occurs in Liberland as if it happened to my estate and will do my utmost to leave a more prosperous and happy country to my successor."
-#### Article 99: Presidential Terms
 
-§1
+### Article 99: Presidential Terms
+
+#### § 1: Term Limits and Re-Selection
 
 The President shall be selected for a term of twenty consecutive Election Terms. One person may only be selected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-selected for their third term after at least forty consecutive Election Terms spent out of the office of the President.
 
-§2
+#### § 2: Resignation upon New Public Office
 
 The President and the Vice Presidents shall resign their offices upon being voted into a public office or becoming an Agent of the Government in any capacity.
 
-§3
+#### § 3: Dismissal due to Incapacity
 
 Should the President be found permanently unable to perform his or her duties for objective reasons of health or for personal reasons, the Senate shall petition the Supreme Court to dismiss the President.
 
-#### Article 100: Vice Presidents
+### Article 100: Vice Presidents
 
-§1
+#### § 1: Appointment of Vice Presidents
 
 The President shall appoint two Senators to be First and Second Vice Presidents. The President may replace a Vice President at will, without citing reasons.
 
-§2
+#### § 2: Vice Presidential Oath
 
 The Vice Presidents will, upon being selected, swear/affirm their oath:
 
 "I solemnly swear/affirm that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will do my utmost to follow and represent my President faithfully and to the best of my ability."
 
-§3
+#### § 3: Temporary Presidential Incapacity
 
 Where the President should be confirmed as temporarily incapable of performing their duties, the Vice Presidents shall assume those duties for the duration of this incapability.
 
-#### Article 101: Powers of the President
+### Article 101: Powers of the President
 
 1. The President shall exercise power to:
 
@@ -844,45 +846,46 @@ e) lead the Liberland Defence Forces should those be formed.
 
 2. Any decision made by the President needs to be confirmed by either of the Vice Presidents, or it will be invalid.
 3. As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not be required to obtain the confirmation of their Vice Presidents concerning the powers to represent Liberland on the international stage and to bestow honors and awards.
-#### Article 102: Emergency Powers
+
+### Article 102: Emergency Powers
 
 1. In a dire crisis requiring the swift actions of the Territorial Defence Forces, the Senate can issue a vote to allow the President to lead the Liberland Defence Forces without the need for confirmation by the Vice Presidents.
 2. Where the Vice Presidents should find themselves assuming the duties of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
 
-## Book 7: Amendments and Final Provisions
+# Book 7: Amendments and Final Provisions
 
-### Section 1: Amendments
+## Section 1: Amendments
 
-#### Article 103: Amendments
+### Article 103: Amendments
 
 All Amendments that add new provisions to the Constitution shall be published in this section of the Constitution. Amendments that change existing provisions shall be incorporated into the respective Book of the Constitution.
 
-#### Article 104: Core Provisions of the Constitution
+### Article 104: Core Provisions of the Constitution
 
 No Amendment shall take away from the Principles of Book One or from the Individual Rights enumerated in this Constitution. Book 2 shall not be changed by Amendment to increase State powers or scope.
 
-#### Article 105: Constitutional Convention
+### Article 105: Constitutional Convention
 
-§ 1
+#### § 1: Proposal for Constitutional Convention
 
 The Congress may motion to propose a Constitutional Convention by a ⅔ majority. Where this proposal is seconded by the Senate and the President, the motion becomes a regular Constitutional Amendment referendum.
 
-§ 2
+#### § 2: Commencement of Constitutional Convention
 
 A Constitutional Convention shall commence in the Election Term following the Election Term in which the Constitutional Convention proposal is adopted.
 
-§ 3
+#### § 3: Delegate Proposal
 
 1. Upon adopting the Constitutional Convention proposal, the Government, the Senate and the President shall without delay propose at least seven delegates, henceforth the "Delegate Proposal". The people shall vote on these delegates in a Referendum. All delegates shall have an equal voice in a Constitutional Convention.
 2. Where the Delegate Proposal is not accepted, the Government, the Senate and the President shall without delay propose another set of delegates and so can any Citizen. Where no Delegate Proposal is adopted within the span of four consecutive Election Terms, it will be as if the Constitutional Convention took place without any Constitutional Amendments being adopted.
 
-§ 4
+#### § 4: Constitutional Convention Powers and Duration
 
 The Constitutional Convention shall be solely empowered to propose Constitutional Amendments for adoption or rejection in a regular Constitutional Amendment Referendum, but it may prepare Constitutional Amendments to any Book and regarding any topic, including the changing of the basic principle of Liberland. The Constitutional Convention shall function for up to eight consecutive Election Terms after the Election Term in which the Delegate Proposal is accepted.
 
-### Section 2 Final Provisions
+## Section 2 Final Provisions
 
-#### Article 106: Passage of this Constitution
+### Article 106: Passage of this Constitution
 
 This Constitution has been submitted by the Cabinet on ...
 
@@ -890,6 +893,6 @@ This Constitution has been adopted by the Referendum ...
 
 This Constitution has passed the Senate on ...
 
-#### Article 107: Legal Force
+### Article 107: Legal Force
 
 This Constitution gains legal force from ... onwards in perpetuity.

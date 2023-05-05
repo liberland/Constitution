@@ -1,7 +1,7 @@
 # Constitution of the Republic of Liberland
 
 # Preamble
-We, the free people of the world, in order to protect our right to life, to property, and to secure liberty for ourselves and future generations, establish this Constitution of the Republic of Liberland.
+We, the free people of the world hereby gather in the land of Liberland, in order to protect our right to life, to property, and to secure liberty for ourselves and future generations, establish this Constitution of the Republic of Liberland.
 
 # Book 1: Fundamental Principles
 
@@ -13,7 +13,7 @@ We recognize that every individual has sole, undivided, and absolute sovereignty
 
 ### Article 2: Property Rights
 
-The relationship between an individual and their person shall be considered property, and it shall be afforded the highest degree of protection for everyone equally.
+The relationship between an individual and their person constitutes a fundamental aspect of property, and as such, it shall be deemed inalienable, inviolable, and deserving of the utmost protection for all individuals equally under the law.
 
 ### Article 3: Human Agency
 
@@ -53,7 +53,7 @@ To resolve situations where the Non-Aggression Principle is not observed or wher
 
 ### Article 11: Sole Power of the Centralized Authority
 
-The centralized authority shall be able, when necessity requires and only to the extent required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
+The centralized authority shall be able, when necessity requires and only to the extent required by circumstance, to infringe on the property rights of others by limiting them within the boundaries of this Constitution and in the minimal fashion necessary to resolve the given situation.
 
 ### Article 12: Liberland
 
@@ -61,8 +61,7 @@ The sole public protector of property rights shall be the State of Liberland, he
 
 ### Article 13: Structure of Liberland
 
-1. Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
-2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and nothing more.
+Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
 
 # Book 2: Liberland Government
 
@@ -84,7 +83,7 @@ The Government and all its organs and activities shall be financed in accordance
 
 ### Article 17: Balanced Budget
 
-The Government's budget shall be kept in surplus or, at minimum, balanced. The Government shall not incur debts.
+The Government shall ensure a budget surplus or, at the very least, a balanced budget, abstaining from incurring any debt. Surplus funds shall be managed prudently and designated for their specified objectives. In the event of misuse or misallocation of funds, contributors shall be entitled to seek appropriate recourse.
 
 ### Article 18: Treasury
 
@@ -97,11 +96,11 @@ The Government's budget shall be kept in surplus or, at minimum, balanced. The G
 
 1. To fulfill the purpose of the Government in a regulated and orderly manner, the Legislative shall establish Laws, binding rules that inform human action and guide the people to act in accordance with the Non-Aggression Principle.&#x20;
 2. Laws shall be second in power only to this Constitution, capable of binding all branches of the Government, Liberland as a whole, and any Persons within Liberland's jurisdiction.
-3. Where there is a conflict between a Law and a provision in this Constitution, the constitutional provision shall prevail.&#x20;
+3. Where there is a conflict between a Law and a provision in this Constitution, the constitutional provision shall prevail.
 
 ### Article 20: Governance
 
-The Executive shall consist of experts managing the day-to-day affairs of Liberland governance. It shall apply Laws and other Regulations and any other measures necessary to fulfill the purpose of Liberland.
+The Executive shall be composed of skilled professionals responsible for the management and administration of the day-to-day affairs of Liberland governance. In executing their duties, the Executive shall apply Laws and other Regulations in accordance with the provisions of this Constitution and adhere to the Non-Aggression Principle in order to fulfill the objectives of Liberland.
 
 ### Article 21: Regulating
 
@@ -114,19 +113,20 @@ The Government shall obey its own Regulations, Laws, and this Constitution.&#x20
 
 ### Article 23: Dispute Resolution
 
-1. The Judiciary shall answer relevant questions and resolve disputes under this Constitution, under Law, and in international matters.
-2. To this end, the Judiciary shall use the following instruments:
+1. The Judiciary shall address pertinent questions and settle disputes arising under this Constitution, within the framework of the Law, and in matters of international concern.
 
-a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
+2. To achieve this objective, the Judiciary shall employ the following instruments:
 
-b) Verdicts represent the decision in a particular case and shall be binding in perpetuity where they gain legal force.
+a) Warrants, provisional measures regulating the necessary actions to achieve resolution in a specific case, or to safeguard the property rights of the involved parties or, in exceptional circumstances, third parties; and
+
+b) Decisions, representing the Judiciary's definitive resolution in a particular case, shall be binding in perpetuity once they attain legal force. The Judiciary shall ensure the availability of reasonable appeal options for any decision, including extraordinary appeals to guarantee the highest possible level of justice.
 
 ### Article 24: Enforcement
 
 #### § 1: Judicial Enforcement and Executive Compliance
 
 1. The Judiciary shall, through the Executive, enforce compliance with this Constitution, Laws, and Regulations, as well as with Judiciary decisions.&#x20;
-2. The Executive shall only use coercive measures where no other means should clearly suffice. Non-lethal instruments shall be preferred over the use of lethal ones wherever possible.&#x20;
+2. The Executive shall only use coercive measures where no other means should clearly suffice. Non-lethal instruments shall be preferred over the use of lethal ones wherever possible.
 
 #### § 2: Legislative Oversight and Enforcement Agencies
 

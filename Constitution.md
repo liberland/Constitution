@@ -268,7 +268,7 @@ No Law shall regulate the establishment or abolishment of religion, prohibit the
 #### § 1: Prohibition of Non-Consensual Taxation
 
 1. The Government shall not impose any form of taxation or similar rules expropriating money from Persons without their direct and informed consent, either directly or by proxy.
-2. The Government shall neither induce nor allow in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures without the taxpayer's direct and informed consent.
+2. The Government shall neither induce nor allow in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures without the contributor's direct and informed consent.
 
 #### § 2: Voluntary Participation in Social Insurance
 
@@ -278,7 +278,8 @@ The Government shall not obligate any person to participate in any form of socia
 
 #### § 1: Prohibition of Trade Barriers
 
-The Government shall not impose any duty on goods, services, or capital imports and exports, tariffs, or other measures hindering the freedom of certain goods or capital on the internal market in Liberland and international trade.
+1. The Government shall not impose any duty on goods, services, or capital imports and exports, tariffs, interest rates, or other measures hindering the freedom of certain goods or capital on the internal market in Liberland and international trade. 
+2. This prohibition includes but is not limited to restrictions on the quantities supplied and demanded of goods and services, control of the money supply, and limitations on any means of exchange freely accepted by the parties involved.
 
 #### § 2: No Price or Wage Controls
 
@@ -317,7 +318,7 @@ Liberland shall strive to maintain peace with all its neighbors individually and
 ### Article 48: Neutrality
 
 1. Liberland's peaceful orientation and non-participation in conflicts, whether between States, within States, or otherwise, shall be a guiding principle for the Government.
-2. The initiation of violence shall be prohibited. However, nothing in this paragraph shall be construed as prohibiting legitimate collective defense.
+2. The initiation of violence shall be prohibited. However, nothing in this paragraph shall be construed as prohibiting legitimate individual or collective defense.
 
 ### Article 49: Commitment to International Law
 
@@ -469,7 +470,8 @@ Upon appointment, all judges, including Supreme Court Justices and judges of non
 
 ### Article 64: Judicial Immunity
 
-No judge of any court shall be arrested for any period whatsoever unless pursuant to a warrant issued by the Chief Justice of the Supreme Court under extreme circumstances where there is a direct threat to others or where vital evidence may be destroyed.
+1. No judge of any court shall be subjected to arrest for any duration unless in accordance with a warrant issued by the Supreme Court.
+2. In the event that the judge in question is a Supreme Court Justice, said Justice shall be excluded from the deliberation pertaining to the issuance of such a warrant.
 
 ## Section 4: Criminal Justice
 
@@ -694,19 +696,17 @@ d) sign International Treaties that don't need to be ratified by Congress or sig
 
 e) conduct commerce on behalf of Liberland: to organize marketplaces, trade in goods, organize tenders for State projects, and act on the free market in the most general sense;  
 
-f) issue, hold and spend currencies as long as it acts within the limits of this Constitution;  
+f) maintain State assets and assets of other Persons and to profit from them or take losses that could not have been avoided;  
 
-g) maintain State assets and assets of other Persons and to profit from them or take losses that could not have been avoided;  
+g) produce Regulations called Decrees under the powers expressly granted to it by Law;  
 
-h) produce Regulations called Decrees under the powers expressly granted to it by Law;  
+h) nominate Judges, including the Supreme Court Justices;  
 
-i) nominate Judges, including the Supreme Court Justices;  
+i) maintain the State Treasury, which represents all governmental financial accounts;  
 
-j) maintain the State Treasury, which represents all governmental financial accounts;  
+j) nominate the General Prosecutor and the other Prosecutors; and  
 
-k) nominate the General Prosecutor and the other Prosecutors; and  
-
-l) supervise all Agents of the Executive Branch of the Administration.  
+k) supervise all Agents of the Executive Branch of the Administration.  
 
 ### Article 87: Organs of the Executive
 
@@ -729,7 +729,7 @@ The Executive shall be organized hierarchically, and all offices and employees o
 
 There shall be the following Ministries:
 
-a) Ministry of Finance shall enforce sound financial policies and be responsible for keeping the State budget in surplus.
+a) The Ministry of Finance shall uphold prudent fiscal policies and bear responsibility for ensuring that the State budget remains in surplus or, at a minimum, maintains a balanced status.
 
 b) Ministry of Foreign Affairs shall pursue harmonious relations with other countries;
 
@@ -751,7 +751,7 @@ c) to govern the inner workings of the Administration.
 
 #### § 2: Basis for Regulations
 
-Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
+Regulations shall be grounded in Laws and shall be promulgated within the confines of specific legal provisions and in compliance with this Constitution.
 
 ## Section 1: The Senate
 
@@ -844,15 +844,24 @@ c) appoint or reject the appointment of the highest officials of the Administrat
 
 d) lead the Senate and have the deciding vote therein in case of a draw or otherwise according to the Proceedings Guide of the Senate; and
 
-e) lead the Liberland Defence Forces should those be formed.
+e) Direct the Liberland Defence Forces, if established, in accordance with the provisions and framework set forth by the law and this Constitution.
 
 2. Any decision made by the President needs to be confirmed by either of the Vice Presidents, or it will be invalid.
 3. As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not be required to obtain the confirmation of their Vice Presidents concerning the powers to represent Liberland on the international stage and to bestow honors and awards.
 
 ### Article 102: Emergency Powers
 
-1. In a dire crisis requiring the swift actions of the Territorial Defence Forces, the Senate can issue a vote to allow the President to lead the Liberland Defence Forces without the need for confirmation by the Vice Presidents.
-2. Where the Vice Presidents should find themselves assuming the duties of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
+1. In the event of a grave crisis, characterized by 
+
+a) an external threat to the very existence or territorial integrity of the country, 
+
+b) a significant, clear and present risk to the lives and livelihoods of the populace, and 
+
+c) a situation that cannot be addressed through less intrusive means, 
+
+the Senate may authorize the President to lead the Liberland Defence Forces without the need for confirmation by the Vice Presidents.
+
+3. In instances where the Vice Presidents assume the duties of the President or act on delegation, they shall exercise the powers outlined in this Article in the same manner as they would for any other powers.
 
 # Book 7: Amendments and Final Provisions
 
@@ -889,7 +898,9 @@ The Constitutional Convention shall be solely empowered to propose Constitutiona
 
 ### Article 106: Passage of this Constitution
 
-This Constitution has been submitted by the Cabinet on ...
+This Constitution has been submitted by the Cabinet to the Congress on ...
+
+This Constitution has been proposed by the Congress for a Referendum on ...
 
 This Constitution has been adopted by the Referendum ...
 
@@ -897,4 +908,4 @@ This Constitution has passed the Senate on ...
 
 ### Article 107: Legal Force
 
-This Constitution gains legal force from ... onwards in perpetuity.
+This Constitution shall possess legal force and effect from ... onwards, continuing in perpetuity.

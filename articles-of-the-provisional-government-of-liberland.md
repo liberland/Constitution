@@ -1,4 +1,4 @@
-# 👨⚖ Articles of the Provisional Government of Liberland
+# Articles of the Provisional Government of Liberland
 
 §1. The Articles of the Provisional Government of the Free Republic of Liberland shall constitute the supreme law of the Free Republic of Liberland until the Constitution of the Free Republic of Liberland enters into force.
 

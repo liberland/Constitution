@@ -119,7 +119,7 @@ The Government shall obey its own Regulations, Laws, and this Constitution.&#x20
 a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
 b) Verdicts represent the decision in a particular case and shall be binding in perpetuity where they gain legal force.
 
-#### Article 24: Enforcement
+### Article 24: Enforcement
 
 #### § 1: Judicial Enforcement and Executive Compliance
 
@@ -376,35 +376,35 @@ The Judiciary shall be vested in one Supreme Court, and in other, lower Courts s
 1. All verdicts of the Supreme Court shall be binding upon the parties to the process and upon all lower Courts on the point of law in all future proceedings.
 2. Other Courts, including private courts, shall be bound by their verdicts or verdicts made by Courts superior to them in the Judiciary hierarchy.
 
-#### Article 57: Recourse
+### Article 57: Recourse
 
-§1
+#### § 1: Judicial Examination of Constitutional Breaches
 
 Where a party to a case presented to the Judiciary claims a provision in a Law or other Regulation relevant to a case to be in breach of this Constitution, the Court shall examine the claim. Where the claim is justified, the Court shall provide Recourse against that provision by setting it aside for the case.
 
-§2
+#### § 2: Court Recommendations and Loss of Legal Force
 
 1. After the final verdict in a case where a Court provided Recourse gains legal force, the last Court to have heard the case shall inform the Legislative or the Executive of the breach of this Constitution and shall issue binding recommendations on how to resolve the breach.
 2. Should the offending provision not be amended to resolve the breach, it shall lose its legal force at the end of the Election Term after the Election Term in which the final verdict gained legal force.
 
-#### Article 58: Establishing and Abolishing Courts
+### Article 58: Establishing and Abolishing Courts
 
 1. The Legislative shall establish and abolish Courts by means of Law.
 2. A Court may only be abolished where its continued existence represents a direct and clear threat to the Constitution and its principles.
 
-### Section 2: The Supreme Court
+## Section 2: The Supreme Court
 
-#### Article 59: The Justices of the Supreme Court
+### Article 59: The Justices of the Supreme Court
 
-§1
+#### § 1: Composition of the Supreme Court
 
 The Supreme Court shall be composed of three Judges: one Chief Justice of the Supreme Court, henceforth "Chief Justice," and two other Justices of the Supreme Court.
 
-§2
+#### § 2: Qualifications and Appointment of Justices
 
 Supreme Court Justices shall be current or former Judges with an excellent professional reputation and moral character and known adherents of the values on which this Constitution stands. They shall be nominated by the Legislative and appointed by the President.
 
-#### Article 60: Original Jurisdiction of the Supreme Court
+### Article 60: Original Jurisdiction of the Supreme Court
 
 The Supreme Court shall have the inherent jurisdiction in the following types of cases:
 
@@ -416,197 +416,199 @@ e) The review of a Judge's capability to perform their duties of the office.
 f) The review of any Regulation, public or private, setting moral standards and penalties for Judges, Attorneys, and Prosecutors.
 g) The review, upon a motion made by the Legislative or the Executive, of constitutional conformity of any motion, policy, or regulatory document made by the Guardians.
 
-#### Article 61: Constitutionality of Legislative Proposals
+### Article 61: Constitutionality of Legislative Proposals
 
-§1
+#### § 1: Supreme Court Review of Proposed Laws and Regulations
 
 The Supreme Court shall have the power to examine any proposed Law or Regulation for its conformity with the Constitution. The Supreme Court shall issue binding recommendations where the Regulation is deemed unconstitutional. Without working the recommendations in, the Regulation shall not be adopted.
 
-§2
+#### § 2: Suspension and Time Limit for Examination
 
 1. Taking up a proposed Law or Regulation for the examination shall suspend the Legislative or Executive process of adoption until the Supreme Court reaches a decision. In case of a decision that the Law or Regulation conforms to this Constitution, the process may continue where it was suspended.
 2. The Examination shall take at maximum ⅓ of the Election Term; where this time passes without a decision, the examination shall end, and it shall be as if no Examination was conducted.
 
-#### Article 62: Appellate jurisdiction of the Supreme Court
+### Article 62: Appellate jurisdiction of the Supreme Court
 
 The Supreme Court shall have the appellate jurisdiction of the last instance from all the Liberland Courts on the point of law, material or procedural irregularity, and severity of the sentence. The Supreme Court shall be able to attract or refuse any case at will, thereby to exercise this appellate jurisdiction.
 
-#### Article 62: Judges
+### Article 62: Judges
 
-§1
+#### § 1: Judicial Independence and Tenure
 
 All judges in Liberland courts shall maintain their independence. They shall hold their office for life or until declared incapable of performing their duties by the Supreme Court, dismissed, or resigned.
 
-§2
+#### § 2: Separation of Judicial Office from Other Branches
 
 No person shall hold the office of a judge while holding another office in the Legislative or Executive branches.
 
-#### Article 63: Appointment of Judges
+### Article 63: Appointment of Judges
 
-§1
+#### § 1: Executive Nominations for Government Courts
 
 The Executive shall nominate judges for the courts established by the Government and submit them for appointment by the President.
 
-§2
+#### § 2: Internal Nominations for Other Courts
 
 Other courts shall nominate their judges through their internal procedures and submit them for appointment by the President.
 
-§3
+#### § 3: Oath of Office for Judges
 
 Upon appointment, all judges, including Supreme Court Justices and judges of non-state courts, shall swear/affirm the following Oath of Office:
 
 "I solemnly swear/affirm that I will administer justice equally to the poor and the rich. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all human beings everywhere."
 
-#### Article 64: Judicial Immunity
+### Article 64: Judicial Immunity
 
 No judge of any court shall be arrested for any period whatsoever unless pursuant to a warrant issued by the Chief Justice of the Supreme Court under extreme circumstances where there is a direct threat to others or where vital evidence may be destroyed.
 
-### Section 4: Criminal Justice
+## Section 4: Criminal Justice
 
-#### Article 65: Criminal Process
+### Article 65: Criminal Process
 
-§1
+#### § 1: Criminal Process Structure
 
 1. The criminal process shall be a process in which Liberland acts as the accuser and another subject as the defendant, accused of a delict.
 2. The criminal process shall be set up in ways that allow the court to establish matters of fact, particularly guilt and punishment, to the highest degree of certainty attainable.
 
-§2
+#### § 2: Definition of Crime
 
 Crimes shall be the most serious among all delicts and shall warrant the most severe punishments.
 
-#### Article 66: State Monopoly on Prosecuting Crimes
+### Article 66: State Monopoly on Prosecuting Crimes
 
 State courts established by law shall be the only entities capable of deciding on guilt and punishment for criminal delicts.
 
-#### Article 67: Prosecutors
+### Article 67: Prosecutors
 
-§1
+#### § 1: Criminal Process Structure
 
 Investigative actions and the prosecution of criminal delicts shall be entrusted to the General Prosecutor. Law may establish other Prosecutor Offices. A Prosecutor shall be nominated by the Executive and appointed by the President for a term of ten consecutive Election Terms.
 
-§2
+#### § 2: Oath of Office for Prosecutors
 
 Upon appointment, all Prosecutors shall swear/affirm the following Oath of Office:
 
 "I do solemnly swear/affirm that I will administer justice and do equal right to the poor and the rich. I will ensure that victims of crimes are given a measure of restitution for what has been unjustly taken from them. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Prosecutor under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all Persons everywhere."
 
-#### Article 68: No Ex-Post Facto Delicts
+### Article 68: No Ex-Post Facto Delicts
 
 1. No action shall be later deemed a delict as long as it had not been a delict during the time it took place.
 2. The Legislature shall be prohibited from enacting ex post facto laws that harm persons retroactively, particularly where the object would be to punish persons for their actions.
 
-#### Article 69: Prohibition of Unlawful or Unrestricted Arrests
+### Article 69: Prohibition of Unlawful or Unrestricted Arrests
 
-§1
+#### § 1: Arrest and other Limitations of Freedom for Convicted Persons
 
 Persons lawfully convicted for delicts shall be subject to limitations of freedom which may include labor and/or payment as obligated by law, but only within the strict limits of the law and based on an individual decision by the Judiciary.
 
-§2
+#### § 2: Arrest Procedures and Duration
 
 1. When a person is placed under arrest, agents shall allow that person to inform whomever they wish about the arrest and permit them to contact legal counsel without delay.
 2. No person shall be arrested for more than twenty-four hours without a warrant or a charge.
 
-§3
+#### § 3: Transparency in Arrests
 
 Agents executing arrests shall act openly and inform the accused about the charge and their relevant rights under the Constitution and other protections.
 
-## Book 4: Legislative Power
+# Book 4: Legislative Power
 
-### Section 1: Citizenship
+## Section 1: Citizenship
 
-#### Article 70: Citizenship
+### Article 70: Citizenship
 
 The Legislative shall consist of certain persons who, upon proving their lasting commitment to Liberland, shall have the right to enact regulations upon themselves and others, even against the recipients' will or without asking for their consent, but only within the strict limits of this Constitution. These persons shall be known as Citizens.
 
-#### Article 71: Obtaining Citizenship
+### Article 71: Obtaining Citizenship
 
-§1
+#### § 1: Citizenship Application Process
 
 Citizenship shall be gained by a person accepting upon themselves the duties that citizenship entails in ways prescribed by the Legislative. Upon becoming a Citizen, an Applicant shall swear/affirm the following oath:
 
 "I swear/affirm that I will respect the Freedom and the Property of others. I will not take from my fellow citizens and human beings what is rightfully theirs, not by my own hand, nor by a State or by any other powers. I will follow the Constitution of Liberland and its Law and bear true allegiance to the Nation. I will live and let others live, in the spirit of true Liberty [optional, so help me God]."
 
-§2
+#### § 2: Citizenship by Birth
 
 A person born to a Citizen shall have the right to become a Citizen of Liberland, and they shall accept the obligations that citizenship entails and swear/affirm the oath at that point.
 
-#### Article 72: Non-consensual Democracy
+### Article 72: Non-consensual Democracy
 
-§1
+#### § 1: Derogation from Non-Aggression Principle
 
 Citizens shall be able to derogate from the Non-Aggression Principle to allow other non-consensual forms of democracy to take place in Liberland when circumstances require it.
 
-§2
+#### § 2: Direct and Representative Democracy
 
 1. The Legislative shall standardly operate employing instruments of direct democracy, whereby Citizens directly decide the affairs of the State.
 2. To give recourse to those who wish to be represented by others in politics, there shall be a system of Representative Democracy complementing direct democracy.
 
-### Section 2: Direct Democracy
+## Section 2: Direct Democracy
 
-#### Article 73: Referendum
+### Article 73: Referendum
 
-§1
+#### § 1: General Democratic Instrument
 
 1. The general, all-purpose democratic instrument in Liberland shall be the Referendum.
 2. Using the Referendum, the Citizens may directly propose, adopt, modify, or repeal Regulations and make other motions for action under this Constitution or existing Regulations.
 3. The Referendum shall be the sole organ in Liberland empowered to adopt and amend Laws.
 
-§2
+#### § 2: Referendum Law and Voting System
 
 1. The Legislative shall adopt a Referendum Law setting up clear and reasonable rules for organizing the Referendum and for the adoption and rejection of proposals.
 2. The Referendum Law may establish a system where Citizens vote with voting tokens, which they obtain in a transparent and predictable manner that does not have the character of discrimination.
 
-#### Article 74: Proposing Laws
+### Article 74: Proposing Laws
 
 Any Citizen shall have the right to propose Bills within the constraints of this Constitution. They shall submit the Bill to the Referendum so that the Citizens may decide whether to adopt or reject it.
 
-#### Article 75: Passing Laws
+### Article 75: Passing Laws
 
 Bills for Laws shall be passed by a majority of at least 50 percent of votes cast plus one vote. The specific voting requirements shall be set out in the Referendum Law.
 
-#### Article 76: Public Veto
+### Article 76: Public Veto
 
 1) Where Referendum rules stipulate inequality of votes between citizens, the Referendum Law shall enable a special form of Referendum called the Public Veto, where each citizen shall have one vote, and none shall be excluded from the vote.
 
 1. Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 
-### Section 3: Representative Democracy
+## Section 3: Representative Democracy
 
-#### Article 77: Congress
+### Article 77: Congress
 
-§1
+#### § 1: Election of Congress Members
 
 Every Election Term, Citizens shall choose from amongst themselves members of Congress to represent them for the next Election Term.
 
-§2
+#### § 2: Formation and Role of Congress
 
 Once elected, members of Congress shall form the Congress of Liberland, henceforth: "Congress". Congress shall be the main and the most authoritative organ of representative democracy in Liberland.
 
-§3
+#### § 3: Congress Law and Decision-Making Process
 
 The Legislative shall adopt a Congress Law governing the voting and the order of proceedings in Congress. Where the Law remains silent, Congress shall make its decisions by a simple majority vote where each Member of Congress shall have equal voting rights.
 
-#### Article 78: Members of Congress
+### Article 78: Members of Congress
 
-§1
+#### § 1: Number of Congress Members
 
 The Congress Law shall set the number of the Members of Congress, but there shall be no fewer than seven Members of Congress and no more than two hundred and one.
 
-§2
+#### § 2: Oath of Office
 
 Members of Congress shall take the Oath of Office upon election:
 
 "I solemnly swear/affirm that I will faithfully execute the Office of a Member of the Congress and will to the best of my ability preserve, protect, and defend the Constitution of the Republic of Liberland."
 
-### Section 4: Powers of Congress
+## Section 4: Powers of Congress
 
-#### Article 79: Legislative Initiative
+### Article 79: Legislative Initiative
 
-§1
+#### § 1: Purpose of Congress
+
 1. The primary purpose of the Congress shall be to propose Laws, International Treaty Ratifications, Constitutional Amendments, and Amendments to Regulations or the motions to strike out Regulations.
 2. Laws and other motions proposed by Congress shall be easier to pass through the Referendum than popular proposals. The Referendum Law shall set up the details.
 
-§2
+#### § 2: International Treaty Ratification
+
 1. Congress may require ratification by a Referendum proposed by Congress regarding any international treaty where Congress judges its impact to be sufficiently serious to warrant such a measure.
 2. International treaties shall undergo mandatory ratification by a Referendum proposed by Congress before taking legal force if they:  
 a) set up, remove or amend rights and duties of persons,  
@@ -614,25 +616,25 @@ b) constitute, terminate or otherwise affect Liberland's membership in internati
 c) concern matters of defense and war and peace, or  
 d) have a widespread economic impact.  
 
-#### Article 80: Amending the Constitution
+### Article 80: Amending the Constitution
 
-§1
+#### § 1: Extraordinary Circumstances
 
 Where there is no other way to achieve a sufficient level of protection for the individual and their property rights, under extraordinary circumstances, Congress may propose a Referendum to update this Constitution by means of a Constitutional Amendment.
 
-§2
+#### § 2: Validity of Constitutional Amendments
 
 1. The Constitutional Amendment shall be the only way to change the Constitution, and the sole purpose of a Constitutional Amendment shall be to make a change in the Constitution.
 2. Bills proposed as Constitutional Amendments but materially not seeking to amend the Constitution shall be likewise null and void.
 
-§3
+#### § 3: Passing a Constitutional Amendment
 
 Passing a Bill in a Referendum concerning a Constitutional Amendment shall require a double supermajority of no less than a ⅔ majority of voters and also no less than ⅔ of their votes.
 
-#### Article 81: Delegation
+### Article 81: Delegation
 Congress shall enable Citizens to delegate their votes to their chosen Members of Congress if they wish to do so. The delegating Citizen shall always retain the right and ability to take back their delegation at will.
 
-#### Article 82: Cancelling Referenda
+### Article 82: Cancelling Referenda
 
 §1
 
@@ -641,11 +643,12 @@ The Congress shall, by a vote of a two-thirds majority, have the power to cancel
 §2
 
 The Congress shall publish binding, reasonable recommendations accompanying each Cancellation, citing why it was issued. Congress shall allow the proposal to pass if the re-submitted proposal is amended to satisfy the recommendations.
-#### Article 83: Appointing Supreme Court Justices
+
+### Article 83: Appointing Supreme Court Justices
 
 Congress shall confirm or reject Supreme Court Justices nominees nominated by the Executive. The confirmation or rejection shall be made without unnecessary delays as soon as a nomination is submitted. Confirmed nominations shall be sent to the President for Appointment.
 
-#### Article 84: Appointing the Prime Minister
+### Article 84: Appointing the Prime Minister
 
 1. Whenever the Prime Minister's seat is vacant, Congress shall appoint a new Prime Minister without delay.
 2. The Prime Minister shall be a Member of Congress at the time of their appointment. Losing their Congress seat shall not be grounds for dismissal or losing their Prime Minister seat.

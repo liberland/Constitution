@@ -119,7 +119,9 @@ The Government shall obey its own Regulations, Laws, and this Constitution.&#x20
 
 a) Warrants, provisional measures regulating the necessary actions to achieve resolution in a specific case, or to safeguard the property rights of the involved parties or, in exceptional circumstances, third parties; and
 
-b) Decisions, representing the Judiciary's definitive resolution in a particular case, shall be binding in perpetuity once they attain legal force. The Judiciary shall ensure the availability of reasonable appeal options for any decision, including extraordinary appeals to guarantee the highest possible level of justice.
+b) Decisions, representing the Judiciary's definitive resolution in a particular case. 
+
+3. The Judiciary shall ensure the availability of reasonable appeal options for any decision, including extraordinary appeals to guarantee the highest possible level of justice.
 
 ### Article 24: Enforcement
 

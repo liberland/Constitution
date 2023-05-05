@@ -1,118 +1,118 @@
 # Constitution of the Republic of Liberland
 
-## Preamble
+# Preamble
 We, the free people of the world, in order to protect our right to life, to property, and to secure liberty for ourselves and future generations, establish this Constitution of the Republic of Liberland.
 
-## Part 1: Fundamental Principles
+# Book 1: Fundamental Principles
 
-### Section 1: Philosophy
+## Section 1: Philosophy
 
-#### Article 1: Individual Sovereignty
+### Article 1: Individual Sovereignty
 
 We recognize that every individual has sole, undivided, and absolute sovereignty over their own person, including their body and mind.
 
-#### Article 2: Property Rights
+### Article 2: Property Rights
 
 The relationship between an individual and their person shall be considered property, and it shall be afforded the highest degree of protection for everyone equally.
 
-#### Article 3: Human Agency
+### Article 3: Human Agency
 
 We acknowledge that a human being is uniquely able to act through their own person.
 
-#### Article 4: Ownership of Resources
+### Article 4: Ownership of Resources
 
 When a person acts and adds value to an unowned resource, be it an object, an animal, or any other controllable natural phenomenon, that resource shall become the property of the acting person.
 
-#### Article 5: Property Management
+### Article 5: Property Management
 
 A person shall be free to act on their property as they see fit, use it, relinquish it, destroy it, or transfer it for the benefit of another person.
 
-#### Article 6: Permanence of Property Rights
+### Article 6: Permanence of Property Rights
 
 A person shall be recognized as the owner of their property for as long as they see fit, and the rights of the owner in relation to the subject of their property shall not diminish nor disappear with the passage of time alone.
 
-### Section 2: Code of Conduct
+## Section 2: Code of Conduct
 
-#### Article 7: Non-Aggression Principle
+### Article 7: Non-Aggression Principle
 
 A person shall not act upon property they do not own without the owner's express permission, except when necessary to remedy a situation in which that owner has infringed property rights of other people or violated a binding promise related to property.
 
-#### Article 8: Consequences of Aggression
+### Article 8: Consequences of Aggression
 
 A person who breaches the Non-Aggression Principle shall bear the risks and consequences of their actions.
 
-#### Article 9: Right to Defend Against Aggression
+### Article 9: Right to Defend Against Aggression
 
 Everyone shall permit individuals to protect their own property and, with the owner's consent, also the property of others from infringement that constitutes a breach of the Non-Aggression Principle.
 
 ### Section 3: Foundation for Centralized Authority
 
-#### Article 10: The Public Defender of Property
+### Article 10: The Public Defender of Property
 
 To resolve situations where the Non-Aggression Principle is not observed or where there is a real risk of property damage or destruction, the people appoint a centralized authority to function as the public protector of property rights when owners are unable to effectively defend their property, liberty, or life.
 
-#### Article 11: Sole Power of the Centralized Authority
+### Article 11: Sole Power of the Centralized Authority
 
 The centralized authority shall be able, when necessity requires and only to the extent required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
 
-#### Article 12: Liberland
+### Article 12: Liberland
 
 The sole public protector of property rights shall be the State of Liberland, henceforth referred to as "Liberland."
 
-#### Article 13: Structure of Liberland
+### Article 13: Structure of Liberland
 
 1. Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
 2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and nothing more.
 
-## Book 2: Liberland Government
+# Book 2: Liberland Government
 
-### Section 1: Foundational Principles
+## Section 1: Foundational Principles
 
-#### Article 14: Structure of the Government
+### Article 14: Structure of the Government
 
 The Government shall be democratic in nature, organization, conduct, and governing philosophy. Its powers shall be divided into Legislative, Executive, and Judicial powers.
 
-#### Article 15: Actions of the Government
+### Article 15: Actions of the Government
 
 1. The Government shall only perform actions to which it is empowered, directly or indirectly, by this Constitution.
 2. The Government shall be run online using the instruments it designates, enabling it to effectively, securely, and transparently act according to this Constitution.
 3. The basic unit for governmental timekeeping shall be an election term of the representative legislative body of ninety days, henceforth referred to as an "Election Term."
 
-#### Article 16: Financing the Government
+### Article 16: Financing the Government
 
 The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation.
 
-#### Article 17: Balanced Budget
+### Article 17: Balanced Budget
 
 The Government's budget shall be kept in surplus or, at minimum, balanced. The Government shall not incur debts.
 
-#### Article 18: Treasury
+### Article 18: Treasury
 
 1. The Treasury of Liberland shall be managed by the Government but owned by Liberland.
 2. Whenever there is a surplus of at least three times the mode of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland, each according to their merit.
 
-### Section 2: Governmental Powers
+## Section 2: Governmental Powers
 
-#### Article 19: Lawmaking
+### Article 19: Lawmaking
 
 1. To fulfill the purpose of the Government in a regulated and orderly manner, the Legislative shall establish Laws, binding rules that inform human action and guide the people to act in accordance with the Non-Aggression Principle.&#x20;
 2. Laws shall be second in power only to this Constitution, capable of binding all branches of the Government, Liberland as a whole, and any Persons within Liberland's jurisdiction.
 3. Where there is a conflict between a Law and a provision in this Constitution, the constitutional provision shall prevail.&#x20;
 
-#### Article 20: Governance
+### Article 20: Governance
 
 The Executive shall consist of experts managing the day-to-day affairs of Liberland governance. It shall apply Laws and other Regulations and any other measures necessary to fulfill the purpose of Liberland.
 
-#### Article 21: Regulating
+### Article 21: Regulating
 
 1. The Executive shall expand upon these rules set out in Laws and create auxiliary rules within limits and based on mandates given expressly by the Legislative. These rules, lower in authority than this Constitution and Laws, shall be called Regulations. &#x20;
 2. Regulations shall be lower in legal force than the Laws or the Constitution. An illegal or unconstitutional provision in a Regulation shall always be invalid.
 
-#### Article 22: Rule of Law
+### Article 22: Rule of Law
 
 The Government shall obey its own Regulations, Laws, and this Constitution.&#x20;
 
-#### Article 23: Dispute Resolution
+### Article 23: Dispute Resolution
 
 1. The Judiciary shall answer relevant questions and resolve disputes under this Constitution, under Law, and in international matters.
 2. To this end, the Judiciary shall use the following instruments:
@@ -121,258 +121,257 @@ b) Verdicts represent the decision in a particular case and shall be binding in 
 
 #### Article 24: Enforcement
 
-§ 1
+#### § 1: Judicial Enforcement and Executive Compliance
 
 1. The Judiciary shall, through the Executive, enforce compliance with this Constitution, Laws, and Regulations, as well as with Judiciary decisions.&#x20;
 2. The Executive shall only use coercive measures where no other means should clearly suffice. Non-lethal instruments shall be preferred over the use of lethal ones wherever possible.&#x20;
 
-§ 2
+#### § 2: Legislative Oversight and Enforcement Agencies
 
 The Legislative shall designate specific governmental organizations tasked with enforcement and shall set the rules and limits for enforcement. It shall ensure that as few Agents as possible and only those for whom it is absolutely necessary should bear this power.
 
-#### Article 25: Use of Arms
+### Article 25: Use of Arms
 
 The Government shall only use, acquire, own, possess or equip its Agents with weapons and other defensive and offensive equipment which Persons who habitually and lawfully dwell in Liberland, henceforth "Liberlanders," might use privately and without restrictions to effect self-defense or collective defense.
 
-#### Article 26: Equality Before Law
+### Article 26: Equality Before Law
 
 1. All persons shall be equal before the Law and in rights and responsibilities as far as their personhood is concerned.&#x20;
 2. Natural personhood shall be singular and indivisible. It shall pertain to every human being and other entities of an equal or similar level of sapience where those desire and are capable of expressing their desire to become persons.&#x20;
 3. The Law shall respect no privileges nor special statuses awarded to persons, natural or otherwise, beyond what is stipulated in this Constitution.
 
-#### Article 27: Equal access to public services
+### Article 27: Equal access to public services
 
 No person or group of Persons shall be arbitrarily excluded from the operation of the Government, or granted any privilege; nor shall any Person be denied equal protection under this Constitution.
 
-### Section 3: Basic Rights
+## Section 3: Basic Rights
 
-#### Article 28: Sovereignty of Property
+### Article 28: Sovereignty of Property
 
-§ 1
+#### § 1: Private Property Protection
 
 The Government shall not restrict the use of the private property of Persons as long as that use conforms with the Non-Aggression Principle or with binding norms of public international law.
 
-§ 2
+#### § 2: Owner Rights and Conduct Rules
 
 Property owners shall have the right to establish rules of conduct for every Person on the Property, other than Agents who act strictly pursuant to and within the limits of the Law. They shall likewise have the right to exclude others from their Property.
 
-§ 3
+#### § 3: Protection from Confiscation
 
 No Person shall have their private property confiscated without their informed consent as long as it has been acquired lawfully and used lawfully. Any Property shall be assumed to have been obtained and used lawfully unless proven otherwise. The final arbiter in disputes regarding this matter shall be the Judiciary.
 
-§ 4
+#### § 4: Liability for Property Damage
 
 Liberland shall be held liable for Property damage caused by its Agents acting contrary to this Constitution or Law.
 
-#### Article 29: Right to Personal Integrity
+### Article 29: Right to Personal Integrity
 
-§ 1
+#### § 1: Personal Sovereignty and Responsibility
 
 1. All Persons shall have the full and sovereign right in the free control and the free disposition of their mind, body, and conscience.
 2. All Persons shall be seen as responsible and capable of acting and comprehending the consequences of their actions unless proven otherwise. The final judge in case of doubt shall be the Judiciary.
 
-§ 2
+#### § 2: Protection of Personal Integrity
 
 1. The Government shall not infringe upon the integrity of a natural Person in any way without first obtaining their full and informed consent.
 2. Where obtaining full and informed consent should prove impossible or where there is an urgent, present, and sufficiently dire need to protect the life, liberty or property of others, the Government, in particular through the Executive Power, can only act upon the integrity of a natural Person based on a mandate given by Law or upon a Decision of the Judiciary.
 
-#### Article 30: Right to Privacy
+### Article 30: Right to Privacy
 
-§ 1
+#### § 1: Protection Against Unreasonable Searches and Surveillance
 
 1. The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary.
 2. The same shall apply to any kind of surveillance of communication or activities. The Government shall never contract a private party or another government to perform such activities.
 
-§ 2
+#### § 2: Warrant Requirements and Probable Cause
 
 The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.
 
-#### Article 31: Right to Bear Arms
+### Article 31: Right to Bear Arms
 
 The right of Liberland citizens to keep and bear arms shall not be infringed. All adult, able-minded Liberland citizens of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear arms fit for personal defense.
 
-#### Article 32: Right to be Heard
+### Article 32: Right to be Heard
 
-§1
+#### § 1: Fair and Impartial Government Decision-Making
 
 Any branch of the Government making decisions regarding the rights and duties of Persons shall hear both parties, resolve the matter without unnecessary delay, and act fairly and impartially while upholding principles of due process and fair hearing.
 
-§2
+#### § 2: Due Process and Fair Hearing in Delict Cases
 
 1. In a process against a Person regarding a delict, the Government shall offer the parties, particularly the defendant, a higher level of protection, at least upholding the principles of due criminal process and fair hearing commonly accepted in civilized countries.
 2. The defendant shall be allowed to know their accuser and to react to the accusation effectively.
 3. Decisions concerning guilt and punishment shall be made only upon evidence substantiating the decision beyond a reasonable doubt.
 
-#### Article 33: Right to Transparency in Public Affairs
+### Article 33: Right to Transparency in Public Affairs
 
 1. The Government shall conduct its business openly, making all affairs, documents, and decision-making public, unless directly pertaining to active proceedings with Persons warranting privacy or unless immediate publication would directly lead to damage to life or Property.
 2. The Government shall communicate truthfully, backed by verifiable evidence, and clearly label opinions as such when discussed.
 
-#### Article 34: Right to Collective Defence
+### Article 34: Right to Collective Defence
 
 1. All Persons, individually or jointly, shall be free to defend their Property by protecting the Land, airspace, territorial waters, Liberland vessels and vehicles, and all Liberlanders collectively against threats when circumstances demand it.
 2. The Legislative and the Executive shall aid and abet this effort when deemed necessary, organizing the Liberland Defence Force composed of armed and unarmed Agents voluntarily protecting the Land against aggression or natural disasters to preserve life and Property.
 
-### Section 4: Fundamental Freedoms
+## Section 4: Fundamental Freedoms
 
-#### Article 35: Freedom of Movement
+### Article 35: Freedom of Movement
 
 1. Every Liberlander shall have the right to move freely within Liberland's territory, freely leave, enter, and dwell in it.
 2. The free movement of other Persons may be restricted only by law and only when not doing so represents a clear and present danger to Persons and Property in Liberland.
 
-#### Article 36: Freedom of Commerce
+### Article 36: Freedom of Commerce
 
-§1
+#### § 1: Right to Engage in Commerce
 
 1. All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods, services, and manner of offering conform to the Non-Aggression Principle and binding norms of public international law.
 2. The Legislative or the Executive shall not interfere with the validity and/or content of any contract fulfilling this Article's requirements, nor impose licensing or similar schemes restricting Liberlanders' ability to engage in commerce.
 
-§2
+#### § 2: Business Freedom and Partnerships
 
 1. Liberlanders legally entering Liberland shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.
 2. All Persons engaging in commerce shall be directly entitled to form partnerships and do business as individuals under the partnership's name, without administrative hindrances.
 
-#### Article 37: Freedom of Speech
+### Article 37: Freedom of Speech
 
 All Persons shall be free to speak or express their thoughts without fear of punishment, as long as the expression conforms to the Non-Aggression Principle in its manner and purpose. They shall also have the right to petition the Government without fear of punishment.
 
-#### Article 38: Freedom of Expression
+### Article 38: Freedom of Expression
 
-§1
+#### § 1: Protection of Information Exchange
 
 The Government shall not regulate printed materials, radio, television, the Internet, or any other medium of information exchange, except when materials provably, clearly, and directly violate the Non-Aggression Principle, the Government's purposes, binding norms of public international law, or when information is gathered in violation of the Right to Privacy.
 
-§2
+#### § 2: Right to Record Conversations and Events
 
 The Government shall not prohibit anyone from making and owning recordings of conversations or events in which a Person participates.
 
-#### Article 39: Freedom of Assembly
+### Article 39: Freedom of Assembly
 
 All Persons shall have the right to assemble peaceably.
 
-
-#### Article 40: Freedom of Association
+### Article 40: Freedom of Association
 
 1. All Persons shall have the right to associate or transact with any other person or refuse to associate or transact with any other person for any reason. Persons shall always retain their right to leave any association.
 2. No law shall interfere with any association or transaction as long as their purpose and action conform with the Non-Aggression Principle and binding norms of public international law.
 
-#### Article 41: Freedom of Religion, Freedom From Religion
+### Article 41: Freedom of Religion, Freedom From Religion
 
 No Law shall regulate the establishment or abolishment of religion, prohibit the free exercise thereof, or restrict marriage between adults, provided it is based on their own free will and Informed Consent.
 
-#### Article 42: Freedom from Coercive Taxation
+### Article 42: Freedom from Coercive Taxation
 
-§1
+#### § 1: Prohibition of Non-Consensual Taxation
 
 1. The Government shall not impose any form of taxation or similar rules expropriating money from Persons without their direct and informed consent, either directly or by proxy.
 2. The Government shall neither induce nor allow in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures without the taxpayer's direct and informed consent.
 
-§2
+#### § 2: Voluntary Participation in Social Insurance
 
 The Government shall not obligate any person to participate in any form of social insurance or pension scheme, nor provide any financial incentive in that respect.
 
-#### Article 43: Freedom From Tolls and Duties
+### Article 43: Freedom From Tolls and Duties
 
-§1
+#### § 1: Prohibition of Trade Barriers
 
 The Government shall not impose any duty on goods, services, or capital imports and exports, tariffs, or other measures hindering the freedom of certain goods or capital on the internal market in Liberland and international trade.
 
-§2
+#### § 2: No Price or Wage Controls
 
 The Legislative shall not make any Law or policies controlling the prices of goods, services, or wages.
 
-#### Article 44: Freedom from Counterfeiting
+### Article 44: Freedom from Counterfeiting
 
-§1
+#### § 1: Monetary Commodity Freedom
 
 The Administration shall not restrict a particular commodity from being used as money or a money-like instrument, unless the use of this commodity would breach the Non-Aggression Principle or norms of public international law.
 
-§2
+#### § 2: Prohibition of Central Banking and Monetary Manipulation
 
 1. There shall not be a policy establishing, enabling, or encouraging public central bank-like institutions in Liberland. The Government shall not manipulate interest to influence the market or engage in any other manipulative monetary policy.
 2. The Government shall never grant special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they lack sufficient assets to cover all their liabilities.
 
-#### Article 44: Freedom of Information
+### Article 44: Freedom of Information
 
 1. Every person shall have the right to freely form, express, and impart their opinions.
 2. Every person shall have the right to freely receive information, gather it from generally accessible sources, and disseminate it.
 
-#### Article 45: Freedom from Military Service
+### Article 45: Freedom from Military Service
 
 Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defense to the best of their ability.
 
-### Section 6: Constitutional Policies
+## Section 6: Constitutional Policies
 
-#### Article 46: Good Neighbor Policy
+### Article 46: Good Neighbor Policy
 
 Liberland shall, in all matters, strive to be a good neighbor to its fellow sovereign States and individuals living in other countries and places in the world.
 
-#### Article 47: Striving towards Peace
+### Article 47: Striving towards Peace
 
 Liberland shall strive to maintain peace with all its neighbors individually and with the international community in its entirety.
 
-#### Article 48: Neutrality
+### Article 48: Neutrality
 
 1. Liberland's peaceful orientation and non-participation in conflicts, whether between States, within States, or otherwise, shall be a guiding principle for the Government.
 2. The initiation of violence shall be prohibited. However, nothing in this paragraph shall be construed as prohibiting legitimate collective defense.
 
-#### Article 49: Commitment to International Law
+### Article 49: Commitment to International Law
 
 1. Norms of public international law binding Liberland, whether by Treaty or otherwise, shall have direct legal force, and the Government shall always act within its boundaries.
 2. In case of a conflict between the norms of this Constitution and a norm of public international law binding Liberland, the norm of public international law shall apply, except when it conflicts with this Constitution and the conflict proves irreconcilable by interpretation or negotiation.
 
-#### Article 50: Prohibition of Slavery
+### Article 50: Prohibition of Slavery
 
-§1
+#### § 1: Ban on Slavery and Involuntary Servitude
 
 1. The Government shall not permit a relationship amounting to involuntary servitude or slavery to exist in Liberland, even if entered voluntarily and otherwise lawfully.
 2. Agreements of enslavement shall be null and void. Any enslaved person shall always have the right to withdraw their consent to any form of enslavement and be free without any negative consequences, regardless of any previous stipulations to the contrary.
 
-§2
+#### § 2: Right to Escape
 
 Any enslaved person shall always retain the right to escape their bondage by any means necessary. The Government shall help enslaved persons escape slavery.
 
-§3
+#### § 3: Protection Against Cruel and Unusual Treatment
 
 All provisions applying to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, as understood by public international law.
 
-#### Article 51: Protection of Cultural and Natural Heritage
+### Article 51: Protection of Cultural and Natural Heritage
 
 The Government shall identify and protect the natural and cultural heritage of Liberland, both on land and in its waters and waterways. It shall, when acting, take concern for the welfare of the soil, and the plant and animal life, both on land and in water, as well as for the overall ecosystem and each biome.
 
-#### Article 52: Providing Public Services Privately
+### Article 52: Providing Public Services Privately
 
 1. The Government shall not possess a monopoly on the provision of services which the Constitution or the Law allot to it or its branches, henceforth "Public Service," allowing private subjects to provide those same services.
 2. Where private subjects provide Public Services, they shall be required to adopt the Government's purpose and respect Fundamental Rights.
 
-#### Article 53: Governmental Data Protection
+### Article 53: Governmental Data Protection
 
-§1
+#### § 1: Confidentiality and Proper Use of Private Data
 
 1. The Government shall use all private personal data it collects only for the purposes for which it had been collected. The Government shall keep this data confidential and share it only with the express and informed consent of all Persons to whom the data relates, henceforth "Data Subjects."
 2. Data Subjects shall not lose their rights to the data by virtue of it being under Government control.
 
-§2
+#### § 2: Consensual Issuance of Identification Documents
 
 All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.
 
-§3
+#### § 3: Voluntary Registration and Information Sharing
 
 The Government shall not force any Person to register and/or share private information.
 
 ## Book 3: Judicial Power
 
-### Section 1: Courts
+## Section 1: Courts
 
-#### Article 54: Judicial Power
+### Article 54: Judicial Power
 
 The power of the Judiciary shall extend to all cases between any parties arising within the jurisdiction of Liberland; under this Constitution, the Law, or any to Liberland binding norm of public international law.
 
-#### Article 55: Hierarchy of Courts
+### Article 55: Hierarchy of Courts
 
 The Judiciary shall be vested in one Supreme Court, and in other, lower Courts such as Persons or the Administration may from time to time establish.
 
-#### Article 56: Precedents
+### Article 56: Precedents
 
 1. All verdicts of the Supreme Court shall be binding upon the parties to the process and upon all lower Courts on the point of law in all future proceedings.
 2. Other Courts, including private courts, shall be bound by their verdicts or verdicts made by Courts superior to them in the Judiciary hierarchy.

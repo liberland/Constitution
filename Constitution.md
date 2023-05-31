@@ -750,6 +750,8 @@ c) Govern the internal operations of the Administration.
 
 Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
 
+# Book 6: Guardians of the Republic
+
 ## Section 1: The Senate
 
 ### Article 91: The Senate

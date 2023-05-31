@@ -755,32 +755,31 @@ Regulations shall be based on Laws and shall be issued within the framework of s
 
 ### Article 91: The Senate
 
-1. The Citizens who hold shares of the Fund of the Republic of Liberland shall form the Senate of the Republic of Liberland, henceforth "the Senate," and they shall become its members, the Senators.
-2. The purpose of the Senate shall be to supervise the happenings in the country and to act as the keeper of its financial reserves.
+1. The Senate of the Republic of Liberland, herein referred to as "the Senate", shall be constituted by citizens holding shares in the Fund of the Republic of Liberland, henceforth known as Senators.
+2. The Senate's mandate shall encompass overseeing national affairs and stewardship of the nation's fiscal reserves. Senators shall be entitled to financial benefits derived from Liberland's reserves, proportional to their shareholding.
 
-### Article 92: The Cancellation Power
+### Article 92: The Power of Cancellation
 
-1. The Senate shall hold the power to cancel any Referendum. When the Senate cancels a Referendum, they shall without delay publish genuine binding recommendations based on the true reasons for the cancellation.
-2. The Senate shall be bound by its recommendations and shall not again Cancel a Referendum that has been adequately amended according to the Senate's binding recommendations.
+1. The Senate reserves the right to nullify any Referendum, and shall promptly release substantiated, binding advisories detailing the rationale behind the cancellation.
+2. The Senate shall honor its advisories and shall refrain from nullifying any Referendum that has been revised in line with the Senate's prescriptive guidance.
 
-### Article 93: The Veto Power
+### Article 93: The Power of Veto
 
-1. The Senate shall also have the power to strike down by a Veto any Regulation other than Law it shall deem inappropriate for the best interests of Liberland and dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
-2. The Veto of the Senate shall always be reasoned out and based on a well-informed debate. The reasoned opinion shall be made public and, without delay, sent to the organ that had issued the Regulation as a set of binding recommendations for improvement. The Senate shall not veto again a Regulation re-enacted in conformity with the Senate's recommendations.
+1. The Senate is vested with the authority to reject, through the exercise of Veto, any Regulation not classified as Law, which it deems not in Liberland's best interest. The Senate also reserves the right to dismiss Judges, the President, Vice-Presidents, and other officials as provided by the Law for the Public Veto.
+2. Any Veto action by the Senate must be supported by reasoned argument and informed debate. The Senate's reasoned opinion shall be made public and conveyed to the issuing body as binding recommendations for enhancement. The Senate shall refrain from exercising Veto on a Regulation that has been re-enacted in alignment with the Senate's recommendations.
 
-### Article 94: Financial Custodianship
+### Article 94: Fiscal Trusteeship
+1. The Senate shall be the custodian of Liberland's treasury and financial reserves, whether liquid or otherwise, with the authority to halt any disbursement from these resources, citing the reasons for such refusal. The Senate shall not halt the disbursement once their binding recommendations are fulfilled.
+2. The Senate shall oversee the management of Liberland's emergency fund and claim any undistributed instruments and incentives associated with national information systems.
 
-1. The Senate shall hold custody over the treasury and the financial reserves of Liberland, be they liquid or otherwise, and shall have the power to stop any payment from these sources. They shall cite their reasons for this rejection. The Senate shall not stop the payment again when their binding recommendations are fully satisfied.
-2. The Senate shall also hold the emergency fund of Liberland and be the owner of any as-of-yet undistributed rewards for keeping the national information systems secure.
+### Article 95: Independent Oversight Bodies
 
-### Article 95: Organs of Independent Oversight
+The Senate may, of its own volition and at its own cost, establish independent oversight bodies, providing the necessary administrative and knowledge resources to perform its guardianship duties. These bodies shall have a hierarchical structure and operate transparently, with each body potentially assigned under one or more Senators.
 
-On their own initiative and at their own expense, the Senate may set up independent oversight organs, providing the administrative and knowledge base required for it to fulfill its powers of Guardianship. These organs shall be structured hierarchically and shall operate transparently. The Senate may assign each organ under an individual Senator or Senators.
+### Article 96: Self-Governance of the Senate
 
-### Article 96: Senate Self-Governance
-
-1. The Senate shall govern its affairs and, without delay, enact the Proceedings Guide of the Senate, a Regulation having the force of law binding upon the Senate. This Regulation shall set up the decision-making rules and the proceedings of the Senate.
-2. The Senate may also pass lower order Regulations binding upon all the Organs of Independent Oversight.
+1. The Senate shall manage its own affairs and promptly enact the Senate's Proceedings Guide, a Regulation with the force of Law binding on the Senate. This Regulation shall define the Senate's decision-making process and operations.
+2. The Senate retains the authority to pass lower order Regulations, which shall be binding on all Independent Oversight Bodies.
 
 ## Section 2: Head of State
 

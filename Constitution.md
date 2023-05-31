@@ -680,72 +680,71 @@ Congress shall likewise have the power to dismiss individual Ministers, with the
 
 ### Article 86: Mandate of the Executive
 
-The Executive shall:  
+The Executive shall:
 
-a) run day-to-day State affairs;  
+a) Manage routine State operations;
 
-b) initiate the Legislative procedure for Cabinet-drafted Bills;  
+b) Begin the legislative process for Bills drafted by the Cabinet;
 
-c) protect and promote the interests of Liberland worldwide;  
+c) Safeguard and enhance Liberland's interests globally;
 
-d) sign International Treaties that don't need to be ratified by Congress or signed by the President;  
+d) Ratify International Treaties not requiring Congressional or Presidential approval;
 
-e) conduct commerce on behalf of Liberland: to organize marketplaces, trade in goods, organize tenders for State projects, and act on the free market in the most general sense;  
+e) Facilitate commercial activities for Liberland, including marketplace organization, goods trading, state project tendering, and broad free-market operations;
 
-f) issue, hold and spend currencies as long as it acts within the limits of this Constitution;  
+f) Issue, possess, and utilize currencies within the constraints of this Constitution;
 
-g) maintain State assets and assets of other Persons and to profit from them or take losses that could not have been avoided;  
+g) Preserve State and individual assets and manage associated profits or unavoidable losses;
 
-h) produce Regulations called Decrees under the powers expressly granted to it by Law;  
+h) Establish Regulations, termed Decrees, under the powers explicitly sanctioned by Law;
 
-i) nominate Judges, including the Supreme Court Justices;  
+i) Nominate Judges, including Justices of the Supreme Court;
 
-j) maintain the State Treasury, which represents all governmental financial accounts;  
+j) Manage the State Treasury, encompassing all government financial accounts;
 
-k) nominate the General Prosecutor and the other Prosecutors; and  
+k) Nominate the General Prosecutor and other Prosecutors; and
 
-l) supervise all Agents of the Executive Branch of the Administration.  
+l) Oversee all Agents within the Executive Branch of the Administration.
 
 ### Article 87: Organs of the Executive
 
-The Executive shall be organized hierarchically, and all offices and employees of the Executive, henceforth "Agents", shall be directly or indirectly subordinate to the Cabinet as the supreme organ of the Executive.
+The Executive shall be hierarchically organized with all offices and personnel, referred to as "Agents", directly or indirectly reporting to the Cabinet, the highest organ of the Executive.
 
 ### Article 88: The Cabinet
 
 #### § 1: Formation and Leadership
 
-
-1) The Cabinet shall be formed and led by the Prime Minister, who shall be the Head of the Cabinet and the Government. The Cabinet shall be responsible to Congress.
-2) The Congress shall elect the Prime Minister for a term of twenty consecutive Election Terms. One person may only be elected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-elected for their third term after at least forty consecutive Election Terms spent out of the office of the Prime Minister.
+1. The Cabinet shall be established and directed by the Prime Minister, serving as the Head of the Cabinet and the Government. The Cabinet shall be accountable to Congress.
+2. The Congress shall elect the Prime Minister for twenty consecutive Election Terms. A person may serve as the Prime Minister for a maximum of two consecutive terms and four terms overall. A person may only be re-elected for a third term after a hiatus of at least forty consecutive Election Terms outside the Prime Minister's office.
 
 #### § 2: Appointment and Dismissal of Ministers
 
-1. There shall be four Ministers, each leading their respective Ministry. The Prime Minister shall appoint individual ministers for a tenure of twenty Election Terms whenever a seat becomes vacant.
-2. The Prime Minister, as well as the Congress, may dismiss a minister. When the Prime Minister dismisses a Minister, they shall accompany their decision with a well-reasoned opinion as to why such a motion is necessary.
+1. The Cabinet shall comprise four Ministers, each heading their respective Ministry. The Prime Minister shall appoint individual ministers for a duration of twenty Election Terms when a position becomes vacant.
+2. Both the Prime Minister and the Congress may dismiss a minister. If the Prime Minister dismisses a Minister, they must provide a well-substantiated justification for such action.
 
 ### Article 89: Ministries
 
-There shall be the following Ministries:
+The following Ministries shall be established:
 
-a) Ministry of Finance shall enforce sound financial policies and be responsible for keeping the State budget in surplus.
+a) Ministry of Finance, tasked with implementing prudent financial strategies and maintaining a State budget surplus.
 
-b) Ministry of Foreign Affairs shall pursue harmonious relations with other countries;
+b) Ministry of Foreign Affairs, responsible for fostering cordial relations with other nations;
 
-c) Ministry of Interior, to keep order in the land and to make the environment as conducive as possible to individual happiness, health, and prosperity of all Persons; and
+c) Ministry of Interior, entrusted with maintaining domestic order and promoting individual happiness, health, and prosperity; and
 
-d) Ministry of Justice shall maintain and develop the legal system to uphold individual liberty and property rights and to safeguard the fundamental rights; it shall assist the Judicial Power to be ever more independent, just, professional, and efficient.
+d) Ministry of Justice, charged with preserving and advancing the legal system to uphold individual liberty, property rights, and safeguard fundamental rights. It shall support the Judiciary to ensure its independence, fairness, professionalism, and efficiency.
 
 ### Article 90: Regulations of the Executive
 
-#### § 1: Executive Regulations Purpose
+#### § 1: Purpose of Executive Regulations
 
-The Executive shall issue Regulations to
+The Executive shall promulgate Regulations to
 
-a) further specify the obligations and rights based on Laws in a transparent manner;
+a) Clearly define obligations and rights based on Laws;
 
-b) to make the application of Laws more regular and predictable; and
+b) Ensure consistent and predictable application of Laws; and
 
-c) to govern the inner workings of the Administration.
+c) Govern the internal operations of the Administration.
 
 #### § 2: Basis for Regulations
 

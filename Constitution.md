@@ -66,7 +66,7 @@ The sole public protector of property rights shall be the State of Liberland, he
 
 # Book 2: Liberland Government
 
-## Section 1: Foundational Principles
+## Chapter 1: Foundational Principles
 
 ### Article 14: Structure of the Government
 
@@ -91,7 +91,7 @@ The Government's budget shall be kept in surplus or, at minimum, balanced. The G
 1. The Treasury of Liberland shall be managed by the Government but owned by Liberland.
 2. Whenever there is a surplus of at least three times the mode of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland, each according to their merit.
 
-## Section 2: Governmental Powers
+## Chapter 2: Governmental Powers
 
 ### Article 19: Lawmaking
 
@@ -146,7 +146,7 @@ The Government shall only use, acquire, own, possess or equip its Agents with we
 
 No person or group of Persons shall be arbitrarily excluded from the operation of the Government, or granted any privilege; nor shall any Person be denied equal protection under this Constitution.
 
-## Section 3: Basic Rights
+## Chapter 3: Basic Rights
 
 ### Article 28: Sovereignty of Property
 
@@ -215,7 +215,7 @@ Any branch of the Government making decisions regarding the rights and duties of
 1. All Persons, individually or jointly, shall be free to defend their Property by protecting the Land, airspace, territorial waters, Liberland vessels and vehicles, and all Liberlanders collectively against threats when circumstances demand it.
 2. The Legislative and the Executive shall aid and abet this effort when deemed necessary, organizing the Liberland Defence Force composed of armed and unarmed Agents voluntarily protecting the Land against aggression or natural disasters to preserve life and Property.
 
-## Section 4: Fundamental Freedoms
+## Chapter 4: Fundamental Freedoms
 
 ### Article 35: Freedom of Movement
 
@@ -302,7 +302,7 @@ The Administration shall not restrict a particular commodity from being used as 
 
 Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defense to the best of their ability.
 
-## Section 6: Constitutional Policies
+## Chapter 6: Constitutional Policies
 
 ### Article 46: Good Neighbor Policy
 
@@ -363,7 +363,7 @@ The Government shall not force any Person to register and/or share private infor
 
 ## Book 3: Judicial Power
 
-## Section 1: Courts
+## Chapter 1: Courts
 
 ### Article 54: Judicial Power
 
@@ -394,7 +394,7 @@ Where a party to a case presented to the Judiciary claims a provision in a Law o
 1. The Legislative shall establish and abolish Courts by means of Law.
 2. A Court may only be abolished where its continued existence represents a direct and clear threat to the Constitution and its principles.
 
-## Section 2: The Supreme Court
+## Chapter 2: The Supreme Court
 
 ### Article 59: The Justices of the Supreme Court
 
@@ -469,7 +469,7 @@ Upon appointment, all judges, including Supreme Court Justices and judges of non
 
 No judge of any court shall be arrested for any period whatsoever unless pursuant to a warrant issued by the Chief Justice of the Supreme Court under extreme circumstances where there is a direct threat to others or where vital evidence may be destroyed.
 
-## Section 4: Criminal Justice
+## Chapter 4: Criminal Justice
 
 ### Article 65: Criminal Process
 
@@ -520,7 +520,7 @@ Agents executing arrests shall act openly and inform the accused about the charg
 
 # Book 4: Legislative Power
 
-## Section 1: Citizenship
+## Chapter 1: Citizenship
 
 ### Article 70: Citizenship
 
@@ -549,7 +549,7 @@ Citizens shall be able to derogate from the Non-Aggression Principle to allow ot
 1. The Legislative shall standardly operate employing instruments of direct democracy, whereby Citizens directly decide the affairs of the State.
 2. To give recourse to those who wish to be represented by others in politics, there shall be a system of Representative Democracy complementing direct democracy.
 
-## Section 2: Direct Democracy
+## Chapter 2: Direct Democracy
 
 ### Article 73: Referendum
 
@@ -578,7 +578,7 @@ Bills for Laws shall be passed by a majority of at least 50 percent of votes cas
 
 2. Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 
-## Section 3: Representative Democracy
+## Chapter 3: Representative Democracy
 
 ### Article 77: Congress
 
@@ -606,7 +606,7 @@ Members of Congress shall take the Oath of Office upon election:
 
 "I solemnly swear/affirm that I will faithfully execute the Office of a Member of the Congress and will to the best of my ability preserve, protect, and defend the Constitution of the Republic of Liberland."
 
-## Section 4: Powers of Congress
+## Chapter 4: Powers of Congress
 
 ### Article 79: Legislative Initiative
 
@@ -752,7 +752,7 @@ Regulations shall be based on Laws and shall be issued within the framework of s
 
 # Book 6: Guardians of the Republic
 
-## Section 1: The Senate
+## Chapter 1: The Senate
 
 ### Article 91: The Senate
 
@@ -782,7 +782,7 @@ The Senate may, of its own volition and at its own cost, establish independent o
 1. The Senate shall manage its own affairs and promptly enact the Senate's Proceedings Guide, a Regulation with the force of Law binding on the Senate. This Regulation shall define the Senate's decision-making process and operations.
 2. The Senate retains the authority to pass lower order Regulations, which shall be binding on all Independent Oversight Bodies.
 
-## Section 2: Head of State
+## Chapter 2: Head of State
 
 ### Article 97: President
 
@@ -854,11 +854,11 @@ e) lead the Liberland Defence Forces should those be formed.
 
 # Book 7: Amendments and Final Provisions
 
-## Section 1: Amendments
+## Chapter 1: Amendments
 
 ### Article 103: Amendments
 
-All Amendments that add new provisions to the Constitution shall be published in this section of the Constitution. Amendments that change existing provisions shall be incorporated into the respective Book of the Constitution.
+All Amendments that add new provisions to the Constitution shall be published in this chapter of the Constitution. Amendments that change existing provisions shall be incorporated into the respective Book of the Constitution.
 
 ### Article 104: Core Provisions of the Constitution
 
@@ -883,7 +883,7 @@ A Constitutional Convention shall commence in the Election Term following the El
 
 The Constitutional Convention shall be solely empowered to propose Constitutional Amendments for adoption or rejection in a regular Constitutional Amendment Referendum, but it may prepare Constitutional Amendments to any Book and regarding any topic, including the changing of the basic principle of Liberland. The Constitutional Convention shall function for up to eight consecutive Election Terms after the Election Term in which the Delegate Proposal is accepted.
 
-## Section 2 Final Provisions
+## Chapter 2 Final Provisions
 
 ### Article 106: Passage of this Constitution
 

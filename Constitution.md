@@ -123,12 +123,12 @@ b) Verdicts represent the decision in a particular case and shall be binding in 
 
 ### Article 24: Enforcement
 
-#### § 1: Judicial Enforcement and Executive Compliance
+#### Section 1: Judicial Enforcement and Executive Compliance
 
 1. The Judiciary shall, through the Executive, enforce compliance with this Constitution, Laws, and Regulations, as well as with Judiciary decisions.&#x20;
 2. The Executive shall only use coercive measures where no other means should clearly suffice. Non-lethal instruments shall be preferred over the use of lethal ones wherever possible.&#x20;
 
-#### § 2: Legislative Oversight and Enforcement Agencies
+#### Section 2: Legislative Oversight and Enforcement Agencies
 
 The Legislative shall designate specific governmental organizations tasked with enforcement and shall set the rules and limits for enforcement. It shall ensure that as few Agents as possible and only those for whom it is absolutely necessary should bear this power.
 
@@ -150,42 +150,42 @@ No person or group of Persons shall be arbitrarily excluded from the operation o
 
 ### Article 28: Sovereignty of Property
 
-#### § 1: Private Property Protection
+#### Section 1: Private Property Protection
 
 The Government shall not restrict the use of the private property of Persons as long as that use conforms with the Non-Aggression Principle or with binding norms of public international law.
 
-#### § 2: Owner Rights and Conduct Rules
+#### Section 2: Owner Rights and Conduct Rules
 
 Property owners shall have the right to establish rules of conduct for every Person on the Property, other than Agents who act strictly pursuant to and within the limits of the Law. They shall likewise have the right to exclude others from their Property.
 
-#### § 3: Protection from Confiscation
+#### Section 3: Protection from Confiscation
 
 No Person shall have their private property confiscated without their informed consent as long as it has been acquired lawfully and used lawfully. Any Property shall be assumed to have been obtained and used lawfully unless proven otherwise. The final arbiter in disputes regarding this matter shall be the Judiciary.
 
-#### § 4: Liability for Property Damage
+#### Section 4: Liability for Property Damage
 
 Liberland shall be held liable for Property damage caused by its Agents acting contrary to this Constitution or Law.
 
 ### Article 29: Right to Personal Integrity
 
-#### § 1: Personal Sovereignty and Responsibility
+#### Section 1: Personal Sovereignty and Responsibility
 
 1. All Persons shall have the full and sovereign right in the free control and the free disposition of their mind, body, and conscience.
 2. All Persons shall be seen as responsible and capable of acting and comprehending the consequences of their actions unless proven otherwise. The final judge in case of doubt shall be the Judiciary.
 
-#### § 2: Protection of Personal Integrity
+#### Section 2: Protection of Personal Integrity
 
 1. The Government shall not infringe upon the integrity of a natural Person in any way without first obtaining their full and informed consent.
 2. Where obtaining full and informed consent should prove impossible or where there is an urgent, present, and sufficiently dire need to protect the life, liberty or property of others, the Government, in particular through the Executive Power, can only act upon the integrity of a natural Person based on a mandate given by Law or upon a Decision of the Judiciary.
 
 ### Article 30: Right to Privacy
 
-#### § 1: Protection Against Unreasonable Searches and Surveillance
+#### Section 1: Protection Against Unreasonable Searches and Surveillance
 
 1. The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary.
 2. The same shall apply to any kind of surveillance of communication or activities. The Government shall never contract a private party or another government to perform such activities.
 
-#### § 2: Warrant Requirements and Probable Cause
+#### Section 2: Warrant Requirements and Probable Cause
 
 The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.
 
@@ -195,11 +195,11 @@ The right of Liberland citizens to keep and bear arms shall not be infringed. Al
 
 ### Article 32: Right to be Heard
 
-#### § 1: Fair and Impartial Government Decision-Making
+#### Section 1: Fair and Impartial Government Decision-Making
 
 Any branch of the Government making decisions regarding the rights and duties of Persons shall hear both parties, resolve the matter without unnecessary delay, and act fairly and impartially while upholding principles of due process and fair hearing.
 
-#### § 2: Due Process and Fair Hearing in Delict Cases
+#### Section 2: Due Process and Fair Hearing in Delict Cases
 
 1. In a process against a Person regarding a delict, the Government shall offer the parties, particularly the defendant, a higher level of protection, at least upholding the principles of due criminal process and fair hearing commonly accepted in civilized countries.
 2. The defendant shall be allowed to know their accuser and to react to the accusation effectively.
@@ -224,12 +224,12 @@ Any branch of the Government making decisions regarding the rights and duties of
 
 ### Article 36: Freedom of Commerce
 
-#### § 1: Right to Engage in Commerce
+#### Section 1: Right to Engage in Commerce
 
 1. All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods, services, and manner of offering conform to the Non-Aggression Principle and binding norms of public international law.
 2. The Legislative or the Executive shall not interfere with the validity and/or content of any contract fulfilling this Article's requirements, nor impose licensing or similar schemes restricting Liberlanders' ability to engage in commerce.
 
-#### § 2: Business Freedom and Partnerships
+#### Section 2: Business Freedom and Partnerships
 
 1. Liberlanders legally entering Liberland shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.
 2. All Persons engaging in commerce shall be directly entitled to form partnerships and do business as individuals under the partnership's name, without administrative hindrances.
@@ -240,11 +240,11 @@ All Persons shall be free to speak or express their thoughts without fear of pun
 
 ### Article 38: Freedom of Expression
 
-#### § 1: Protection of Information Exchange
+#### Section 1: Protection of Information Exchange
 
 The Government shall not regulate printed materials, radio, television, the Internet, or any other medium of information exchange, except when materials provably, clearly, and directly violate the Non-Aggression Principle, the Government's purposes, binding norms of public international law, or when information is gathered in violation of the Right to Privacy.
 
-#### § 2: Right to Record Conversations and Events
+#### Section 2: Right to Record Conversations and Events
 
 The Government shall not prohibit anyone from making and owning recordings of conversations or events in which a Person participates.
 
@@ -263,32 +263,32 @@ No Law shall regulate the establishment or abolishment of religion, prohibit the
 
 ### Article 42: Freedom from Coercive Taxation
 
-#### § 1: Prohibition of Non-Consensual Taxation
+#### Section 1: Prohibition of Non-Consensual Taxation
 
 1. The Government shall not impose any form of taxation or similar rules expropriating money from Persons without their direct and informed consent, either directly or by proxy.
 2. The Government shall neither induce nor allow in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures without the taxpayer's direct and informed consent.
 
-#### § 2: Voluntary Participation in Social Insurance
+#### Section 2: Voluntary Participation in Social Insurance
 
 The Government shall not obligate any person to participate in any form of social insurance or pension scheme, nor provide any financial incentive in that respect.
 
 ### Article 43: Freedom From Tolls and Duties
 
-#### § 1: Prohibition of Trade Barriers
+#### Section 1: Prohibition of Trade Barriers
 
 The Government shall not impose any duty on goods, services, or capital imports and exports, tariffs, or other measures hindering the freedom of certain goods or capital on the internal market in Liberland and international trade.
 
-#### § 2: No Price or Wage Controls
+#### Section 2: No Price or Wage Controls
 
 The Legislative shall not make any Law or policies controlling the prices of goods, services, or wages.
 
 ### Article 44: Freedom from Counterfeiting
 
-#### § 1: Monetary Commodity Freedom
+#### Section 1: Monetary Commodity Freedom
 
 The Administration shall not restrict a particular commodity from being used as money or a money-like instrument, unless the use of this commodity would breach the Non-Aggression Principle or norms of public international law.
 
-#### § 2: Prohibition of Central Banking and Monetary Manipulation
+#### Section 2: Prohibition of Central Banking and Monetary Manipulation
 
 1. There shall not be a policy establishing, enabling, or encouraging public central bank-like institutions in Liberland. The Government shall not manipulate interest to influence the market or engage in any other manipulative monetary policy.
 2. The Government shall never grant special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they lack sufficient assets to cover all their liabilities.
@@ -324,16 +324,16 @@ Liberland shall strive to maintain peace with all its neighbors individually and
 
 ### Article 50: Prohibition of Slavery
 
-#### § 1: Ban on Slavery and Involuntary Servitude
+#### Section 1: Ban on Slavery and Involuntary Servitude
 
 1. The Government shall not permit a relationship amounting to involuntary servitude or slavery to exist in Liberland, even if entered voluntarily and otherwise lawfully.
 2. Agreements of enslavement shall be null and void. Any enslaved person shall always have the right to withdraw their consent to any form of enslavement and be free without any negative consequences, regardless of any previous stipulations to the contrary.
 
-#### § 2: Right to Escape
+#### Section 2: Right to Escape
 
 Any enslaved person shall always retain the right to escape their bondage by any means necessary. The Government shall help enslaved persons escape slavery.
 
-#### § 3: Protection Against Cruel and Unusual Treatment
+#### Section 3: Protection Against Cruel and Unusual Treatment
 
 All provisions applying to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, as understood by public international law.
 
@@ -348,16 +348,16 @@ The Government shall identify and protect the natural and cultural heritage of L
 
 ### Article 53: Governmental Data Protection
 
-#### § 1: Confidentiality and Proper Use of Private Data
+#### Section 1: Confidentiality and Proper Use of Private Data
 
 1. The Government shall use all private personal data it collects only for the purposes for which it had been collected. The Government shall keep this data confidential and share it only with the express and informed consent of all Persons to whom the data relates, henceforth "Data Subjects."
 2. Data Subjects shall not lose their rights to the data by virtue of it being under Government control.
 
-#### § 2: Consensual Issuance of Identification Documents
+#### Section 2: Consensual Issuance of Identification Documents
 
 All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.
 
-#### § 3: Voluntary Registration and Information Sharing
+#### Section 3: Voluntary Registration and Information Sharing
 
 The Government shall not force any Person to register and/or share private information.
 
@@ -380,11 +380,11 @@ The Judiciary shall be vested in one Supreme Court, and in other, lower Courts s
 
 ### Article 57: Recourse
 
-#### § 1: Judicial Examination of Constitutional Breaches
+#### Section 1: Judicial Examination of Constitutional Breaches
 
 Where a party to a case presented to the Judiciary claims a provision in a Law or other Regulation relevant to a case to be in breach of this Constitution, the Court shall examine the claim. Where the claim is justified, the Court shall provide Recourse against that provision by setting it aside for the case.
 
-#### § 2: Court Recommendations and Loss of Legal Force
+#### Section 2: Court Recommendations and Loss of Legal Force
 
 1. After the final verdict in a case where a Court provided Recourse gains legal force, the last Court to have heard the case shall inform the Legislative or the Executive of the breach of this Constitution and shall issue binding recommendations on how to resolve the breach.
 2. Should the offending provision not be amended to resolve the breach, it shall lose its legal force at the end of the Election Term after the Election Term in which the final verdict gained legal force.
@@ -398,11 +398,11 @@ Where a party to a case presented to the Judiciary claims a provision in a Law o
 
 ### Article 59: The Justices of the Supreme Court
 
-#### § 1: Composition of the Supreme Court
+#### Section 1: Composition of the Supreme Court
 
 The Supreme Court shall be composed of three Judges: one Chief Justice of the Supreme Court, henceforth "Chief Justice," and two other Justices of the Supreme Court.
 
-#### § 2: Qualifications and Appointment of Justices
+#### Section 2: Qualifications and Appointment of Justices
 
 Supreme Court Justices shall be current or former Judges with an excellent professional reputation and moral character and known adherents of the values on which this Constitution stands. They shall be nominated by the Legislative and appointed by the President.
 
@@ -426,11 +426,11 @@ g) The review, upon a motion made by the Legislative or the Executive, of consti
 
 ### Article 61: Constitutionality of Legislative Proposals
 
-#### § 1: Supreme Court Review of Proposed Laws and Regulations
+#### Section 1: Supreme Court Review of Proposed Laws and Regulations
 
 The Supreme Court shall have the power to examine any proposed Law or Regulation for its conformity with the Constitution. The Supreme Court shall issue binding recommendations where the Regulation is deemed unconstitutional. Without working the recommendations in, the Regulation shall not be adopted.
 
-#### § 2: Suspension and Time Limit for Examination
+#### Section 2: Suspension and Time Limit for Examination
 
 1. Taking up a proposed Law or Regulation for the examination shall suspend the Legislative or Executive process of adoption until the Supreme Court reaches a decision. In case of a decision that the Law or Regulation conforms to this Constitution, the process may continue where it was suspended.
 2. The Examination shall take at maximum ⅓ of the Election Term; where this time passes without a decision, the examination shall end, and it shall be as if no Examination was conducted.
@@ -441,25 +441,25 @@ The Supreme Court shall have the appellate jurisdiction of the last instance fro
 
 ### Article 62: Judges
 
-#### § 1: Judicial Independence and Tenure
+#### Section 1: Judicial Independence and Tenure
 
 All judges in Liberland courts shall maintain their independence. They shall hold their office for life or until declared incapable of performing their duties by the Supreme Court, dismissed, or resigned.
 
-#### § 2: Separation of Judicial Office from Other Branches
+#### Section 2: Separation of Judicial Office from Other Branches
 
 No person shall hold the office of a judge while holding another office in the Legislative or Executive branches.
 
 ### Article 63: Appointment of Judges
 
-#### § 1: Executive Nominations for Government Courts
+#### Section 1: Executive Nominations for Government Courts
 
 The Executive shall nominate judges for the courts established by the Government and submit them for appointment by the President.
 
-#### § 2: Internal Nominations for Other Courts
+#### Section 2: Internal Nominations for Other Courts
 
 Other courts shall nominate their judges through their internal procedures and submit them for appointment by the President.
 
-#### § 3: Oath of Office for Judges
+#### Section 3: Oath of Office for Judges
 
 Upon appointment, all judges, including Supreme Court Justices and judges of non-state courts, shall swear/affirm the following Oath of Office:
 
@@ -473,12 +473,12 @@ No judge of any court shall be arrested for any period whatsoever unless pursuan
 
 ### Article 65: Criminal Process
 
-#### § 1: Criminal Process Structure
+#### Section 1: Criminal Process Structure
 
 1. The criminal process shall be a process in which Liberland acts as the accuser and another subject as the defendant, accused of a delict.
 2. The criminal process shall be set up in ways that allow the court to establish matters of fact, particularly guilt and punishment, to the highest degree of certainty attainable.
 
-#### § 2: Definition of Crime
+#### Section 2: Definition of Crime
 
 Crimes shall be the most serious among all delicts and shall warrant the most severe punishments.
 
@@ -488,11 +488,11 @@ State courts established by law shall be the only entities capable of deciding o
 
 ### Article 67: Prosecutors
 
-#### § 1: Criminal Process Structure
+#### Section 1: Criminal Process Structure
 
 Investigative actions and the prosecution of criminal delicts shall be entrusted to the General Prosecutor. Law may establish other Prosecutor Offices. A Prosecutor shall be nominated by the Executive and appointed by the President for a term of ten consecutive Election Terms.
 
-#### § 2: Oath of Office for Prosecutors
+#### Section 2: Oath of Office for Prosecutors
 
 Upon appointment, all Prosecutors shall swear/affirm the following Oath of Office:
 
@@ -505,16 +505,16 @@ Upon appointment, all Prosecutors shall swear/affirm the following Oath of Offic
 
 ### Article 69: Prohibition of Unlawful or Unrestricted Arrests
 
-#### § 1: Arrest and other Limitations of Freedom for Convicted Persons
+#### Section 1: Arrest and other Limitations of Freedom for Convicted Persons
 
 Persons lawfully convicted for delicts shall be subject to limitations of freedom which may include labor and/or payment as obligated by law, but only within the strict limits of the law and based on an individual decision by the Judiciary.
 
-#### § 2: Arrest Procedures and Duration
+#### Section 2: Arrest Procedures and Duration
 
 1. When a person is placed under arrest, agents shall allow that person to inform whomever they wish about the arrest and permit them to contact legal counsel without delay.
 2. No person shall be arrested for more than twenty-four hours without a warrant or a charge.
 
-#### § 3: Transparency in Arrests
+#### Section 3: Transparency in Arrests
 
 Agents executing arrests shall act openly and inform the accused about the charge and their relevant rights under the Constitution and other protections.
 
@@ -528,23 +528,23 @@ The Legislative shall consist of certain persons who, upon proving their lasting
 
 ### Article 71: Obtaining Citizenship
 
-#### § 1: Citizenship Application Process
+#### Section 1: Citizenship Application Process
 
 Citizenship shall be gained by a person accepting upon themselves the duties that citizenship entails in ways prescribed by the Legislative. Upon becoming a Citizen, an Applicant shall swear/affirm the following oath:
 
 "I swear/affirm that I will respect the Freedom and the Property of others. I will not take from my fellow citizens and human beings what is rightfully theirs, not by my own hand, nor by a State or by any other powers. I will follow the Constitution of Liberland and its Law and bear true allegiance to the Nation. I will live and let others live, in the spirit of true Liberty [optional, so help me God]."
 
-#### § 2: Citizenship by Birth
+#### Section 2: Citizenship by Birth
 
 A person born to a Citizen shall have the right to become a Citizen of Liberland, and they shall accept the obligations that citizenship entails and swear/affirm the oath at that point.
 
 ### Article 72: Non-consensual Democracy
 
-#### § 1: Derogation from Non-Aggression Principle
+#### Section 1: Derogation from Non-Aggression Principle
 
 Citizens shall be able to derogate from the Non-Aggression Principle to allow other non-consensual forms of democracy to take place in Liberland when circumstances require it.
 
-#### § 2: Direct and Representative Democracy
+#### Section 2: Direct and Representative Democracy
 
 1. The Legislative shall standardly operate employing instruments of direct democracy, whereby Citizens directly decide the affairs of the State.
 2. To give recourse to those who wish to be represented by others in politics, there shall be a system of Representative Democracy complementing direct democracy.
@@ -553,13 +553,13 @@ Citizens shall be able to derogate from the Non-Aggression Principle to allow ot
 
 ### Article 73: Referendum
 
-#### § 1: General Democratic Instrument
+#### Section 1: General Democratic Instrument
 
 1. The general, all-purpose democratic instrument in Liberland shall be the Referendum.
 2. Using the Referendum, the Citizens may directly propose, adopt, modify, or repeal Regulations and make other motions for action under this Constitution or existing Regulations.
 3. The Referendum shall be the sole organ in Liberland empowered to adopt and amend Laws.
 
-#### § 2: Referendum Law and Voting System
+#### Section 2: Referendum Law and Voting System
 
 1. The Legislative shall adopt a Referendum Law setting up clear and reasonable rules for organizing the Referendum and for the adoption and rejection of proposals.
 2. The Referendum Law may establish a system where Citizens vote with voting tokens, which they obtain in a transparent and predictable manner that does not have the character of discrimination.
@@ -582,25 +582,25 @@ Bills for Laws shall be passed by a majority of at least 50 percent of votes cas
 
 ### Article 77: Congress
 
-#### § 1: Election of Congress Members
+#### Section 1: Election of Congress Members
 
 Every Election Term, Citizens shall choose from amongst themselves members of Congress to represent them for the next Election Term.
 
-#### § 2: Formation and Role of Congress
+#### Section 2: Formation and Role of Congress
 
 Once elected, members of Congress shall form the Congress of Liberland, henceforth: "Congress". Congress shall be the main and the most authoritative organ of representative democracy in Liberland.
 
-#### § 3: Congress Law and Decision-Making Process
+#### Section 3: Congress Law and Decision-Making Process
 
 The Legislative shall adopt a Congress Law governing the voting and the order of proceedings in Congress. Where the Law remains silent, Congress shall make its decisions by a simple majority vote where each Member of Congress shall have equal voting rights.
 
 ### Article 78: Members of Congress
 
-#### § 1: Number of Congress Members
+#### Section 1: Number of Congress Members
 
 The Congress Law shall set the number of the Members of Congress, but there shall be no fewer than seven Members of Congress and no more than two hundred and one.
 
-#### § 2: Oath of Office
+#### Section 2: Oath of Office
 
 Members of Congress shall take the Oath of Office upon election:
 
@@ -610,12 +610,12 @@ Members of Congress shall take the Oath of Office upon election:
 
 ### Article 79: Legislative Initiative
 
-#### § 1: Purpose of Congress
+#### Section 1: Purpose of Congress
 
 1. The primary purpose of the Congress shall be to propose Laws, International Treaty Ratifications, Constitutional Amendments, and Amendments to Regulations or the motions to strike out Regulations.
 2. Laws and other motions proposed by Congress shall be easier to pass through the Referendum than popular proposals. The Referendum Law shall set up the details.
 
-#### § 2: International Treaty Ratification
+#### Section 2: International Treaty Ratification
 
 1. Congress may require ratification by a Referendum proposed by Congress regarding any international treaty where Congress judges its impact to be sufficiently serious to warrant such a measure.
 2. International treaties shall undergo mandatory ratification by a Referendum proposed by Congress before taking legal force if they:  
@@ -630,16 +630,16 @@ d) have a widespread economic impact.
 
 ### Article 80: Amending the Constitution
 
-#### § 1: Extraordinary Circumstances
+#### Section 1: Extraordinary Circumstances
 
 Where there is no other way to achieve a sufficient level of protection for the individual and their property rights, under extraordinary circumstances, Congress may propose a Referendum to update this Constitution by means of a Constitutional Amendment.
 
-#### § 2: Validity of Constitutional Amendments
+#### Section 2: Validity of Constitutional Amendments
 
 1. The Constitutional Amendment shall be the only way to change the Constitution, and the sole purpose of a Constitutional Amendment shall be to make a change in the Constitution.
 2. Bills proposed as Constitutional Amendments but materially not seeking to amend the Constitution shall be likewise null and void.
 
-#### § 3: Passing a Constitutional Amendment
+#### Section 3: Passing a Constitutional Amendment
 
 Passing a Bill in a Referendum concerning a Constitutional Amendment shall require a double supermajority of no less than a ⅔ majority of voters and also no less than ⅔ of their votes.
 
@@ -648,11 +648,11 @@ Congress shall enable Citizens to delegate their votes to their chosen Members o
 
 ### Article 82: Cancelling Referenda
 
-#### § 1: Referendum Cancellation Authority
+#### Section 1: Referendum Cancellation Authority
 
 The Congress shall, by a vote of a two-thirds majority, have the power to cancel any Referendum it should deem as frivolous, malicious, going against the purposes of Liberland, or where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty.
 
-#### § 2: Recommendations and Resubmission
+#### Section 2: Recommendations and Resubmission
 
 The Congress shall publish binding, reasonable recommendations accompanying each Cancellation, citing why it was issued. Congress shall allow the proposal to pass if the re-submitted proposal is amended to satisfy the recommendations.
 
@@ -668,11 +668,11 @@ Congress shall confirm or reject Supreme Court Justices nominees nominated by th
 
 ### Article 85: Dismissing Cabinet Members
 
-#### § 1: Dismissing the Prime Minister
+#### Section 1: Dismissing the Prime Minister
 
 Congress shall have the power to Dismiss a Prime Minister with a ⅔ majority vote. Dismissing the Prime Minister does not mean that the other Ministers have to resign.
 
-#### § 2: Dismissing Individual Ministers
+#### Section 2: Dismissing Individual Ministers
 
 Congress shall likewise have the power to dismiss individual Ministers, with the same tally required to effect the dismissal of a Prime Minister.
 
@@ -712,12 +712,12 @@ The Executive shall be hierarchically organized with all offices and personnel, 
 
 ### Article 88: The Cabinet
 
-#### § 1: Formation and Leadership
+#### Section 1: Formation and Leadership
 
 1. The Cabinet shall be established and directed by the Prime Minister, serving as the Head of the Cabinet and the Government. The Cabinet shall be accountable to Congress.
 2. The Congress shall elect the Prime Minister for twenty consecutive Election Terms. A person may serve as the Prime Minister for a maximum of two consecutive terms and four terms overall. A person may only be re-elected for a third term after a hiatus of at least forty consecutive Election Terms outside the Prime Minister's office.
 
-#### § 2: Appointment and Dismissal of Ministers
+#### Section 2: Appointment and Dismissal of Ministers
 
 1. The Cabinet shall comprise four Ministers, each heading their respective Ministry. The Prime Minister shall appoint individual ministers for a duration of twenty Election Terms when a position becomes vacant.
 2. Both the Prime Minister and the Congress may dismiss a minister. If the Prime Minister dismisses a Minister, they must provide a well-substantiated justification for such action.
@@ -736,7 +736,7 @@ d) Ministry of Justice, charged with preserving and advancing the legal system t
 
 ### Article 90: Regulations of the Executive
 
-#### § 1: Purpose of Executive Regulations
+#### Section 1: Purpose of Executive Regulations
 
 The Executive shall promulgate Regulations to
 
@@ -746,7 +746,7 @@ b) Ensure consistent and predictable application of Laws; and
 
 c) Govern the internal operations of the Administration.
 
-#### § 2: Basis for Regulations
+#### Section 2: Basis for Regulations
 
 Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
 
@@ -790,11 +790,11 @@ Pursuant to the wisdom that an owner tends to keep the affairs of their Property
 
 ### Article 98: Selection of the President
 
-#### § 1: Presidential Selection Process
+#### Section 1: Presidential Selection Process
 
 To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, the Senators shall select the President from among their members.
 
-#### § 2: Presidential Oath
+#### Section 2: Presidential Oath
 
 The President shall swear/affirm the following to the Senate and the People of Liberland:
 
@@ -802,31 +802,31 @@ The President shall swear/affirm the following to the Senate and the People of L
 
 ### Article 99: Presidential Terms
 
-#### § 1: Term Limits and Re-Selection
+#### Section 1: Term Limits and Re-Selection
 
 The President shall be selected for a term of twenty consecutive Election Terms. One person may only be selected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-selected for their third term after at least forty consecutive Election Terms spent out of the office of the President.
 
-#### § 2: Resignation upon New Public Office
+#### Section 2: Resignation upon New Public Office
 
 The President and the Vice Presidents shall resign their offices upon being voted into a public office or becoming an Agent of the Government in any capacity.
 
-#### § 3: Dismissal due to Incapacity
+#### Section 3: Dismissal due to Incapacity
 
 Should the President be found permanently unable to perform his or her duties for objective reasons of health or for personal reasons, the Senate shall petition the Supreme Court to dismiss the President.
 
 ### Article 100: Vice Presidents
 
-#### § 1: Appointment of Vice Presidents
+#### Section 1: Appointment of Vice Presidents
 
 The President shall appoint two Senators to be First and Second Vice Presidents. The President may replace a Vice President at will, without citing reasons.
 
-#### § 2: Vice Presidential Oath
+#### Section 2: Vice Presidential Oath
 
 The Vice Presidents will, upon being selected, swear/affirm their oath:
 
 "I solemnly swear/affirm that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will do my utmost to follow and represent my President faithfully and to the best of my ability."
 
-#### § 3: Temporary Presidential Incapacity
+#### Section 3: Temporary Presidential Incapacity
 
 Where the President should be confirmed as temporarily incapable of performing their duties, the Vice Presidents shall assume those duties for the duration of this incapability.
 
@@ -866,20 +866,20 @@ No Amendment shall take away from the Principles of Book One or from the Individ
 
 ### Article 105: Constitutional Convention
 
-#### § 1: Proposal for Constitutional Convention
+#### Section 1: Proposal for Constitutional Convention
 
 The Congress may motion to propose a Constitutional Convention by a ⅔ majority. Where this proposal is seconded by the Senate and the President, the motion becomes a regular Constitutional Amendment referendum.
 
-#### § 2: Commencement of Constitutional Convention
+#### Section 2: Commencement of Constitutional Convention
 
 A Constitutional Convention shall commence in the Election Term following the Election Term in which the Constitutional Convention proposal is adopted.
 
-#### § 3: Delegate Proposal
+#### Section 3: Delegate Proposal
 
 1. Upon adopting the Constitutional Convention proposal, the Government, the Senate and the President shall without delay propose at least seven delegates, henceforth the "Delegate Proposal". The people shall vote on these delegates in a Referendum. All delegates shall have an equal voice in a Constitutional Convention.
 2. Where the Delegate Proposal is not accepted, the Government, the Senate and the President shall without delay propose another set of delegates and so can any Citizen. Where no Delegate Proposal is adopted within the span of four consecutive Election Terms, it will be as if the Constitutional Convention took place without any Constitutional Amendments being adopted.
 
-#### § 4: Constitutional Convention Powers and Duration
+#### Section 4: Constitutional Convention Powers and Duration
 
 The Constitutional Convention shall be solely empowered to propose Constitutional Amendments for adoption or rejection in a regular Constitutional Amendment Referendum, but it may prepare Constitutional Amendments to any Book and regarding any topic, including the changing of the basic principle of Liberland. The Constitutional Convention shall function for up to eight consecutive Election Terms after the Election Term in which the Delegate Proposal is accepted.
 

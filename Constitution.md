@@ -5,7 +5,7 @@ We, the free people of the world, in order to protect our right to life, to prop
 
 # Book 1: Fundamental Principles
 
-## Section 1: Philosophy
+## Chapter 1: Philosophy
 
 ### Article 1: Individual Sovereignty
 
@@ -31,7 +31,7 @@ A person shall be free to act on their property as they see fit, use it, relinqu
 
 A person shall be recognized as the owner of their property for as long as they see fit, and the rights of the owner in relation to the subject of their property shall not diminish nor disappear with the passage of time alone.
 
-## Section 2: Code of Conduct
+## Chapter 2: Code of Conduct
 
 ### Article 7: Non-Aggression Principle
 
@@ -45,7 +45,7 @@ A person who breaches the Non-Aggression Principle shall bear the risks and cons
 
 Everyone shall permit individuals to protect their own property and, with the owner's consent, also the property of others from infringement that constitutes a breach of the Non-Aggression Principle.
 
-## Section 3: Foundation for Centralized Authority
+## Chapter 3: Foundation for Centralized Authority
 
 ### Article 10: The Public Defender of Property
 

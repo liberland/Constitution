@@ -1,10 +1,10 @@
-# 🏛️ Introduction
+# 🏛️ Introduction - Constitution
 
-This repository chronicles the drafting of the Liberland Constitution. Until the Constitution is drafted and adopted in a Referendum, the [Articles of the Provisional Government](articles-of-the-provisional-government-of-liberland.md) of Liberland act as the supreme law of the land.
+This repository chronicles the drafting of the Liberland Constitution. Until the Constitution is drafted and adopted in a referendum, the [Articles of the Provisional Government](articles-of-the-provisional-government-of-liberland.md) of Liberland act as the supreme law of the land.
 
-Please visit **[Discussions](https://github.com/liberland/Constitution/discussions)** to propose changes and new institutes. You can open new **[Issues](https://github.com/liberland/Constitution/issues)** to notify us about a possible problem or a need for a change.
+Please visit **[Discussions](https://github.com/liberland/Constitution/discussions)** to propose changes and new institutes. You can open new **[issues](https://github.com/liberland/Constitution/issues)** to notify us about a possible problem or a need for a change.
 
-The drafting takes place in a Google Doc. The various milestones are then converted to markdown and uploaded to this repository, and same for the final draft. The Constitution shall take force after Liberland Citizens adopt it in a referendum.
+The drafting takes place in a [Google Doc](https://docs.google.com/document/d/1RYgEHcb2oMgYJOa2MWUxe8E0aHRIgDpsiMG21MACIVg/edit#heading=h.fp3y74i7s4wi). The various milestones are then converted to markdown and uploaded to this repository, and same for the final draft. The Constitution shall take force after Liberland Citizens adopt it in a future referendum.
 
 The current version of the Constitution [is here](https://github.com/liberland/constitution/blob/master/Constitution.md).
 

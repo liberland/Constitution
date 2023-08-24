@@ -361,7 +361,7 @@ All identification documents will be issued on a consensual basis only, and they
 
 The Government shall not force any Person to register and/or share private information.
 
-### Book 3: Judicial Power
+## Book 3: Judicial Power
 
 ### Chapter 1: Courts
 

@@ -1,4 +1,4 @@
-# Constitution of the Republic of Liberland
+# Constitution of the Free Republic of Liberland
 
 ## Preamble
 We, the free people of the world, in order to protect our right to life, to property, and to secure liberty for ourselves and future generations, establish this Constitution of the Republic of Liberland.

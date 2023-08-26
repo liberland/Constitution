@@ -235,7 +235,7 @@ Any branch of the Government making decisions regarding the rights and duties of
 2. All persons engaged in commerce shall have the direct entitlement to form partnerships and conduct business activities under the name of said partnership, free from administrative impediments.
 
 ##### Section 3: Prohibited Activities
-Notwithstanding the provisions outlined in Section 1 concerning the Right to Engage in Commerce, the following activities are hereby expressly prohibited due to their internationally recognized immoral or harmful nature:
+Notwithstanding the Right to Engage in Commerce and derogating from it, the following activities are hereby expressly prohibited due to their internationally recognized severe immoral or harmful nature:
 
   a) Child prostitution and child human trafficking,
 

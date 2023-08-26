@@ -234,35 +234,40 @@ Any branch of the Government making decisions regarding the rights and duties of
 1. Individuals legally entering Liberland shall possess the unencumbered right to conduct business activities as natural persons, solely under their name and at their own risk.
 2. All persons engaged in commerce shall have the direct entitlement to form partnerships and conduct business activities under the name of said partnership, free from administrative impediments.
 
-##### Section 3: Select activities which can be regulated
-
-1. Notwithstanding the Right to Engage in Commerce, the Government is authorized to regulate, up to the point of prohibition, the following activities due to their internationally recognized immoral or harmful nature:
+##### Section 3: Prohibited activities
+Notwithstanding the Right to Engage in Commerce, the following activities shall be prohibited due to their internationally recognized immoral or harmful nature:
 
   a) Child pornography,
+  
+  b) Child prostitution,
 
-  b) Child labor,
+  c) Money laundering,
 
-  c) Child prostitution,
-
-  d) Money laundering,
-
-  e) Financing of:
+  d) Financing of:
     i) Genocide,
     ii) War,
     iii) Crimes against humanity, and
     iv) Terrorism, and
 
-  f) Piracy, interpreted in its broadest sense.
+  e) Piracy, interpreted in its broadest sense.
 
-2. In alignment with international perspectives and regulatory momentum, the Government is likewise authorized to regulate, but not prohibit, the following activities:
+##### Section 4: Regulated activities
+ 
+1. In alignment with international perspectives and regulatory momentum, the Government is authorized to regulate, up to the point of prohibition, the following activities due to their internationally recognized immoral or harmful nature:
 
-  a) Recreational and medical drug use, production, and trading,
+  a) Child labor,
 
-  b) Weapon production and trading,
+  b) Recreational and medical drug use, production, and trading, and
 
-  c) Prostitution, and
+  c) Weapon production and trading,
 
-  d) Financial markets, including cryptocurrency markets.
+2. Due to the general tendency to regulate the following activities internationally, the Government is likewise authorized to regulate, but not prohibit, the following activities:
+
+  a) Prostitution,
+
+  d) Financial markets, including cryptocurrency markets,
+
+  c) Real estate markets.
 
 #### Article 37: Freedom of Speech
 

@@ -231,8 +231,38 @@ Any branch of the Government making decisions regarding the rights and duties of
 
 ##### Section 2: Business Freedom and Partnerships
 
-1. Liberlanders legally entering Liberland shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.
-2. All Persons engaging in commerce shall be directly entitled to form partnerships and do business as individuals under the partnership's name, without administrative hindrances.
+1. Individuals legally entering Liberland shall possess the unencumbered right to conduct business activities as natural persons, solely under their name and at their own risk.
+2. All persons engaged in commerce shall have the direct entitlement to form partnerships and conduct business activities under the name of said partnership, free from administrative impediments.
+
+##### Section 3: Select activities which can be regulated
+
+1. Notwithstanding the Right to Engage in Commerce, the Government is authorized to regulate, up to the point of prohibition, the following activities due to their internationally recognized immoral or harmful nature:
+
+  a) Child pornography,
+
+  b) Child labor,
+
+  c) Child prostitution,
+
+  d) Money laundering,
+
+  e) Financing of:
+    i) Genocide,
+    ii) War,
+    iii) Crimes against humanity, and
+    iv) Terrorism, and
+
+  f) Piracy, interpreted in its broadest sense.
+
+2. In alignment with international perspectives and regulatory momentum, the Government is likewise authorized to regulate, but not prohibit, the following activities:
+
+  a) Recreational and medical drug use, production, and trading,
+
+  b) Weapon production and trading,
+
+  c) Prostitution, and
+
+  d) Financial markets, including cryptocurrency markets.
 
 #### Article 37: Freedom of Speech
 

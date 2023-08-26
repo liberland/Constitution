@@ -272,7 +272,9 @@ Notwithstanding the Right to Engage in Commerce and derogating from it, the foll
 
   b) Financial markets, inclusive of cryptocurrency markets, and
 
-  c) Real estate markets.
+  c) Real estate markets, and
+
+  d) Matters of worker and consumer safety.
 
 #### Article 37: Freedom of Speech
 

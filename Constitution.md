@@ -244,9 +244,13 @@ Notwithstanding the Right to Engage in Commerce and derogating from it, the foll
   c) Money laundering in all its forms,
 
   d) Financing of:
+  
     i) Genocide,
+    
     ii) War,
+    
     iii) Crimes against humanity, and
+    
     iv) Terrorism, and
 
   e) Piracy, to be understood in its most expansive sense.

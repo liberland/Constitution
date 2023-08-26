@@ -234,14 +234,14 @@ Any branch of the Government making decisions regarding the rights and duties of
 1. Individuals legally entering Liberland shall possess the unencumbered right to conduct business activities as natural persons, solely under their name and at their own risk.
 2. All persons engaged in commerce shall have the direct entitlement to form partnerships and conduct business activities under the name of said partnership, free from administrative impediments.
 
-##### Section 3: Prohibited activities
-Notwithstanding the Right to Engage in Commerce, the following activities shall be prohibited due to their internationally recognized immoral or harmful nature:
+##### Section 3: Prohibited Activities
+Notwithstanding the provisions outlined in Section 1 concerning the Right to Engage in Commerce, the following activities are hereby expressly prohibited due to their internationally recognized immoral or harmful nature:
 
-  a) Child pornography,
-  
-  b) Child prostitution,
+  a) Child prostitution and child human trafficking,
 
-  c) Money laundering,
+  b) Child pornography and adjacent activities,
+
+  c) Money laundering in all its forms,
 
   d) Financing of:
     i) Genocide,
@@ -249,23 +249,24 @@ Notwithstanding the Right to Engage in Commerce, the following activities shall 
     iii) Crimes against humanity, and
     iv) Terrorism, and
 
-  e) Piracy, interpreted in its broadest sense.
+  e) Piracy, to be understood in its most expansive sense.
 
-##### Section 4: Regulated activities
- 
-1. In alignment with international perspectives and regulatory momentum, the Government is authorized to regulate, up to the point of prohibition, the following activities due to their internationally recognized immoral or harmful nature:
+##### Section 4: Regulated Activities
+1. In accordance with international norms and regulatory trends, the Government is vested with the authority to regulate, up to and including prohibition, the following activities due to their internationally recognized immoral or harmful nature:
 
   a) Child labor,
 
-  b) Recreational and medical drug use, production, and trading, and
+  b) Human trafficking,
 
-  c) Weapon production and trading,
+  c) Recreational and medical drug use, production, and trading, and
 
-2. Due to the general tendency to regulate the following activities internationally, the Government is likewise authorized to regulate, but not prohibit, the following activities:
+  d) Weapon production and trading.
+
+2. In alignment with the prevailing international inclination towards regulation, the Government is further authorized to regulate, but not to prohibit, the following activities:
 
   a) Prostitution,
 
-  d) Financial markets, including cryptocurrency markets,
+  b) Financial markets, inclusive of cryptocurrency markets, and
 
   c) Real estate markets.
 

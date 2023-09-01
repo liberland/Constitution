@@ -103,6 +103,14 @@ Wow wow wow...
 
 ![image](https://github.com/hiprivsid/Constitution/assets/75212472/b3fc85b4-2bff-4a9e-b131-b069fd67653e)
 
+## Book 12: skibidi dop dop yes yes
+
+
+
+https://github.com/hiprivsid/Constitution/assets/75212472/994bad06-efa3-461b-bf6c-1ce671fdbd85
+
+
+
 ## Book 12: redmi note 10 pro india
 
 https://github.com/hiprivsid/Constitution/assets/75212472/a9931d48-6c8f-4ea1-88eb-521b5e9c33b5

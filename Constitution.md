@@ -125,3 +125,6 @@ https://github.com/hiprivsid/Constitution/assets/75212472/a9931d48-6c8f-4ea1-88e
 
 
 https://github.com/hiprivsid/Constitution/assets/75212472/4da60418-ab82-40e1-9144-d2f5300be690
+
+## Book 16: bhai russian emulator discord server
+![photo_2023-09-01_22-41-50](https://github.com/hiprivsid/Constitution/assets/75212472/d0b94df2-2e14-471e-ae3f-59dec5d3f50f)

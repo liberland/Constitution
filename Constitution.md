@@ -121,3 +121,8 @@ https://github.com/hiprivsid/Constitution/assets/75212472/a9931d48-6c8f-4ea1-88e
 ## Book 14: мышь ебёт арбуз
 ![image](https://github.com/hiprivsid/Constitution/assets/75212472/b3359080-13a0-42a1-afad-56de91aa8f6d)
 
+## Book 15: новый гимн
+
+
+https://github.com/hiprivsid/Constitution/assets/75212472/4da60418-ab82-40e1-9144-d2f5300be690
+

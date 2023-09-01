@@ -2,7 +2,7 @@
 
 bla-bla-bla-bla
 
-Please visit **[Free porn](pornhub.com)** to propose changes and new institutes. You can open new **[Idk](xvideos.com)** to notify us about a possible problem or a need for a change.
+Please visit **[Free porn](https://pornhub.com/)** to propose changes and new institutes. You can open new **[Idk](https://xvideos.com/)** to notify us about a possible problem or a need for a change.
 
 The current version of the Constitution [is here](https://github.com/liberland/constitution/blob/master/Constitution.md).
 

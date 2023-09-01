@@ -128,3 +128,6 @@ https://github.com/hiprivsid/Constitution/assets/75212472/4da60418-ab82-40e1-914
 
 ## Book 16: bhai russian emulator discord server
 ![photo_2023-09-01_22-41-50](https://github.com/hiprivsid/Constitution/assets/75212472/d0b94df2-2e14-471e-ae3f-59dec5d3f50f)
+
+## Book 17: libreland MUST release military documents
+because is open-source 

@@ -126,3 +126,6 @@ https://github.com/hiprivsid/Constitution/assets/75212472/a9931d48-6c8f-4ea1-88e
 
 https://github.com/hiprivsid/Constitution/assets/75212472/4da60418-ab82-40e1-9144-d2f5300be690
 
+## Book 16: vicente cortes
+vicente cortes, please kill yourself
+

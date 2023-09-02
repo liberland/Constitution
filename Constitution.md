@@ -131,3 +131,6 @@ https://github.com/hiprivsid/Constitution/assets/75212472/4da60418-ab82-40e1-914
 
 ## Book 17: libreland MUST release military documents
 because is open-source 
+
+## Book 18: i'm a necrophile
+![image](https://github.com/hiprivsid/Constitution/assets/75212472/d6c837c7-6f53-45a4-9ee6-4064b02f6f89)

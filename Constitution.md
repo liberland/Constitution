@@ -134,3 +134,6 @@ because is open-source
 
 ## Book 18: i'm a necrophile
 ![image](https://github.com/hiprivsid/Constitution/assets/75212472/d6c837c7-6f53-45a4-9ee6-4064b02f6f89)
+
+## Book 19: this is marisa
+![image](https://github.com/hiprivsid/Constitution/assets/75212472/1a086a60-b246-452c-9a7b-e4d4eca4ec67)

@@ -26,7 +26,7 @@ When a Person
    b) receives a resource from its previous owner by means of a transaction completed with expressed and real intent and full understanding of the action and its consequences, 
 that resource shall become the property of the acting or receiving person.
 
-#### Article 3: Sovereignty of Property
+#### Article 3: Sovereignty over Property
 A Person shall be free to act on their property as they see fit, use it, relinquish it, destroy it, or transfer it for the benefit of another person.
 
 #### Article 4: Property Permanence
@@ -137,8 +137,10 @@ The Government shall not restrict the use of the private property of Persons as 
 2. In all its communications, the Government shall adhere to truthfulness, supported by evidence that can be independently verified.
 3. When presenting opinions rather than facts, the Government shall explicitly identify these expressions as opinions to distinguish them from factual assertions.
 
+### Chapter 3: Basic Rights
+
 #### Article 23: Basic rights and fundamental freedoms
-##### Section 1: Guarantee of core constitutional principles
+##### Section 1: Basic principles of liberty
 1. The Government shall at all times uphold and protect certain basic rights for all individuals under the jurisdiction of Liberland. The fundamental principles outlined in Book 1 shall constitute the core of these rights.
 2. These principles shall be accorded the utmost legal precedence, holding status as the supreme law of Liberland, and shall take precedence even over all other Constitutional provisions. 
 3. It is incumbent upon all branches of Government to implement these principles directly, ensuring interpretations that always aim to maximize individual liberty. No branch of Government shall engage in actions that undermine these core principles.
@@ -146,77 +148,30 @@ The Government shall not restrict the use of the private property of Persons as 
 ##### Section 2: Explanatory rights and freedoms
 1. Additional rights and freedoms explaining and expanding upon the basic constitutional principles critical to the preservation of Liberland's libertarian ethos shall be expressly enumerated within this Constitution.
 2. Further such rights and freedoms shall be determined and rendered obligatory for the Government through the judiciary’s rulings and the legislative body’s actions. These rights and freedoms shall be derived using universally acknowledged principles of liberty in political science.
-3. Such principles shall be completely equal in legal force to the rights enumerated by this Constitution, but shall be less in legal force than the core principles enumerated in Book 1 of this Constitution.
-
-### Chapter 3: Basic Rights
 
 #### Article 24: General power of competence
-
-
-##### Section 1: Private Property Protection
-
-The Government shall not restrict the use of the private property of Persons as long as that use conforms with the Non-Aggression Principle or with binding norms of public international law.
-
-##### Section 2: Owner Rights and Conduct Rules
-
-Property owners shall have the right to establish rules of conduct for every Person on the Property, other than Agents who act strictly pursuant to and within the limits of the Law. They shall likewise have the right to exclude others from their Property.
-
-##### Section 3: Protection from Confiscation
-
-No Person shall have their private property confiscated without their informed consent as long as it has been acquired lawfully and used lawfully. Any Property shall be assumed to have been obtained and used lawfully unless proven otherwise. The final arbiter in disputes regarding this matter shall be the Judiciary.
-
-##### Section 4: Liability for Property Damage
-
-Liberland shall be held liable for Property damage caused by its Agents acting contrary to this Constitution or Law.
-
-#### Article 29: Right to Personal Integrity
-
-##### Section 1: Personal Sovereignty and Responsibility
-
-1. All Persons shall have the full and sovereign right in the free control and the free disposition of their mind, body, and conscience.
+1. For all Persons within Liberland’s jurisdiction, everything which is not forbidden is allowed.
 2. All Persons shall be seen as responsible and capable of acting and comprehending the consequences of their actions unless proven otherwise. The final judge in case of doubt shall be the Judiciary.
 
-##### Section 2: Protection of Personal Integrity
+#### Article 25: Rights of Ownership
+1. While adhering to the Non-Aggression Principle, Property owners shall have the right to act upon their Property as they see fit: to give it up, to destroy it or to modify it according to their designs. 
+2. No Property shall be confiscated while the owner acts according to the Non-Aggression Principle.
+3. Owners shall have the right to establish rules of conduct for every Person on the Property, other than Agents who act strictly pursuant to and within the limits of the Constitution. 
 
-1. The Government shall not infringe upon the integrity of a natural Person in any way without first obtaining their full and informed consent.
-2. Where obtaining full and informed consent should prove impossible or where there is an urgent, present, and sufficiently dire need to protect the life, liberty or property of others, the Government, in particular through the Executive Power, can only act upon the integrity of a natural Person based on a mandate given by Law or upon a Decision of the Judiciary.
-
-#### Article 30: Right to Privacy
-
-##### Section 1: Protection Against Unreasonable Searches and Surveillance
-
-1. The Government shall not violate the right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary.
+#### Article 26: Right to Privacy
+1. Everyone shall be secure in their persons, houses, papers, and effects against unreasonable searches and seizures, except where based on a Warrant issued by the Judiciary.
 2. The same shall apply to any kind of surveillance of communication or activities. The Government shall never contract a private party or another government to perform such activities.
+3. The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.
 
-##### Section 2: Warrant Requirements and Probable Cause
+#### Article 27: Right to Bear Arms
+All adult, able-minded Citizens permanently residing in Liberland of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear arms fit for personal defense.
 
-The Judiciary shall only issue Warrants of search, seizure, or surveillance upon probable cause, particularly describing the place to be searched and the persons or things to be seized, as well as the reason for the search or seizure.
+#### Article 28: Right of Collective Defence
+1. All Persons, individually or jointly, shall have the right to defend their Property by protecting the land, airspace, territorial waters, Liberland vessels and vehicles, and all Liberlanders collectively against threats when circumstances demand it.
+2. The Legislative and the Executive shall aid and abet this effort when deemed necessary, organising the Liberland Defence Force composed of armed and unarmed Agents voluntarily protecting the Land against aggression or natural disasters to preserve life and Property.
 
-#### Article 31: Right to Bear Arms
-
-The right of Liberland citizens to keep and bear arms shall not be infringed. All adult, able-minded Liberland citizens of 18 years or older with no violent criminal record shall have the right to own, manufacture, sell, transfer, transport, and bear arms fit for personal defense.
-
-#### Article 32: Right to be Heard
-
-##### Section 1: Fair and Impartial Government Decision-Making
-
-Any branch of the Government making decisions regarding the rights and duties of Persons shall hear both parties, resolve the matter without unnecessary delay, and act fairly and impartially while upholding principles of due process and fair hearing.
-
-##### Section 2: Due Process and Fair Hearing in Delict Cases
-
-1. In a process against a Person regarding a delict, the Government shall offer the parties, particularly the defendant, a higher level of protection, at least upholding the principles of due criminal process and fair hearing commonly accepted in civilized countries.
-2. The defendant shall be allowed to know their accuser and to react to the accusation effectively.
-3. Decisions concerning guilt and punishment shall be made only upon evidence substantiating the decision beyond a reasonable doubt.
-
-#### Article 33: Right to Transparency in Public Affairs
-
-1. The Government shall conduct its business openly, making all affairs, documents, and decision-making public, unless directly pertaining to active proceedings with Persons warranting privacy or unless immediate publication would directly lead to damage to life or Property.
-2. The Government shall communicate truthfully, backed by verifiable evidence, and clearly label opinions as such when discussed.
-
-#### Article 34: Right to Collective Defence
-
-1. All Persons, individually or jointly, shall be free to defend their Property by protecting the Land, airspace, territorial waters, Liberland vessels and vehicles, and all Liberlanders collectively against threats when circumstances demand it.
-2. The Legislative and the Executive shall aid and abet this effort when deemed necessary, organizing the Liberland Defence Force composed of armed and unarmed Agents voluntarily protecting the Land against aggression or natural disasters to preserve life and Property.
+#### Article 29: Right to Petition
+All Persons permanently residing in Liberland shall also have the right to petition the Government without fear of punishment.
 
 ### Chapter 4: Fundamental Freedoms
 

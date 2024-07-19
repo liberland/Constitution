@@ -5,62 +5,69 @@ We, the free people of the world, in order to protect our right to life, to prop
 
 ## Book 1: Fundamental Principles
 
-### Chapter 1: Philosophy
+### Chapter 1: Foundations of Liberty
 
 #### Article 1: Individual Sovereignty
 
-We recognize that every individual has sole, undivided, and absolute sovereignty over their own person, including their body and mind.
+##### Section 1: Self-Ownership
+1. Every  individual shall have the sole, undivided, and absolute sovereignty over their own person, including their body and mind and their ability to act.
+2. The intrinsic relationship of control and dependency between an individual and their person shall be inviolable, and it shall be afforded the highest degree of protection for everyone equally.
 
-#### Article 2: Property Rights
+##### Section 2: Personhood
+1. The individual’s inherent capacity to have rights and obligations, henceforth “Natural Personhood” shall be regarded as singular and indivisible.
+2. Personhood shall be extended to every human being without exception.
+3. Additionally, Personhood may be extended to other entities possessing a comparable level or degree of sapience to that of a human being, provided such entities 
+   a) can coherently express the desire to be recognized as persons; and 
+   b) consistently manifest the capability to actively utilize rights and adhere to obligations.
 
-The relationship between an individual and their person shall be considered property, and it shall be afforded the highest degree of protection for everyone equally.
+#### Article 2: Private Property
+When a Person 
+   a) acts and adds value to an unowned resource, be it an object, an animal, or any other controllable natural phenomenon, or
+   b) receives a resource from its previous owner by means of a transaction completed with expressed and real intent and full understanding of the action and its consequences, 
+that resource shall become the property of the acting or receiving person.
 
-#### Article 3: Human Agency
+#### Article 3: Sovereignty of Property
+A Person shall be free to act on their property as they see fit, use it, relinquish it, destroy it, or transfer it for the benefit of another person.
 
-We acknowledge that a human being is uniquely able to act through their own person.
+#### Article 4: Property Permanence
+A Person shall be recognized as the owner of their property for as long as they see fit, and the rights of the owner in relation to the subject of their property shall not diminish nor disappear with the passage of time alone.
 
-#### Article 4: Ownership of Resources
-
-When a person acts and adds value to an unowned resource, be it an object, an animal, or any other controllable natural phenomenon, that resource shall become the property of the acting person.
-
-#### Article 5: Property Management
-
-A person shall be free to act on their property as they see fit, use it, relinquish it, destroy it, or transfer it for the benefit of another person.
-
-#### Article 6: Permanence of Property Rights
-
-A person shall be recognized as the owner of their property for as long as they see fit, and the rights of the owner in relation to the subject of their property shall not diminish nor disappear with the passage of time alone.
+#### Article 5: Freedom of Transaction
+Any actions taken by an owner that are clearly intended to renounce or transfer ownership of property, either in entirety or partially, shall be universally recognized and respected.
 
 ### Chapter 2: Code of Conduct
 
-#### Article 7: Non-Aggression Principle
+#### Article 6: Non-Aggression Principle
+1. A Person shall not act upon property they do not own without the owner's express permission, except when necessary to remedy a situation in which that owner has infringed property rights of other people or violated a binding promise related to property.
+2. A Person who breaches the Non-Aggression Principle shall bear the risks and consequences of their actions.
 
-A person shall not act upon property they do not own without the owner's express permission, except when necessary to remedy a situation in which that owner has infringed property rights of other people or violated a binding promise related to property.
-
-#### Article 8: Consequences of Aggression
-
-A person who breaches the Non-Aggression Principle shall bear the risks and consequences of their actions.
-
-#### Article 9: Right to Defend Against Aggression
-
+#### Article 7: Right to Retaliate
 Everyone shall permit individuals to protect their own property and, with the owner's consent, also the property of others from infringement that constitutes a breach of the Non-Aggression Principle.
 
-### Chapter 3: Foundation for Centralized Authority
+### Chapter 3: Centralized Authority
 
-#### Article 10: The Public Defender of Property
+#### Article 8: Public Defender of Property
+To resolve situations where the Non-Aggression Principle is not observed or where there is a real risk of property damage or destruction, the people shall appoint a centralized authority to function as the public protector of property rights when owners are unable to effectively defend their property, liberty, or life.
 
-To resolve situations where the Non-Aggression Principle is not observed or where there is a real risk of property damage or destruction, the people appoint a centralized authority to function as the public protector of property rights when owners are unable to effectively defend their property, liberty, or life.
+#### Article 9: State of Liberland
 
-#### Article 11: Sole Power of the Centralized Authority
+##### Section 1: Protection of Property Rights
+1. The centralized authority, in cases of necessity and solely to the extent required by the specific circumstances, may impose limitations on the property rights of individuals. Such limitations shall be minimally intrusive and only enacted to address the immediate situation or to prevent imminent and clearly foreseeable damage.
+2. The State of Liberland, hereafter referred to as "Liberland," shall serve as the sole public protector of property rights within its jurisdiction.
 
-The centralized authority shall be able, when necessity requires and only to the extent required by circumstance, to infringe on the property rights of others by limiting them in the minimal fashion necessary to resolve the given situation.
+##### Section 2: Ownership of the State
+1. Liberland shall be collectively owned by its Citizens and this ownership shall be divided into seventy million shares of equal value. These shares shall be called Liberland Merits (LLM).
+2. There shall exist only one category of share in Liberland and shares shall be fungible. 
+3. Shares shall be sold on the open market which will be the basis for finding their value.
 
-#### Article 12: Liberland
+##### Section 3: Shares and Political Power
+1. The magnitude of one's share shall be directly and unalterably linked to one's level of political influence within the State.
+2. The aggregate political influence attributed to the total of all shares in circulation shall constitute the ultimate political authority in Liberland.
 
-The sole public protector of property rights shall be the State of Liberland, henceforth referred to as "Liberland."
+##### Section 4: Equal Access to Ownership
+No policy or scheme shall be implemented to disqualify any individual from acquiring or freely trading shares in Liberland, except on the grounds of a past and present proven serious misconduct, henceforth “Crime”.
 
-#### Article 13: Structure of Liberland
-
+#### Article 10: Structure of Liberland
 1. Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
 2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and nothing more.
 

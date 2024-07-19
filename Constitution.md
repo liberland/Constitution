@@ -51,7 +51,7 @@ To resolve situations where the Non-Aggression Principle is not observed or wher
 
 #### Article 9: State of Liberland
 
-##### Section 1: Protection of Property Rights
+##### Section 1: Protection of Property rights
 1. The centralized authority, in cases of necessity and solely to the extent required by the specific circumstances, may impose limitations on the property rights of individuals. Such limitations shall be minimally intrusive and only enacted to address the immediate situation or to prevent imminent and clearly foreseeable damage.
 2. The State of Liberland, hereafter referred to as "Liberland," shall serve as the sole public protector of property rights within its jurisdiction.
 
@@ -60,102 +60,98 @@ To resolve situations where the Non-Aggression Principle is not observed or wher
 2. There shall exist only one category of share in Liberland and shares shall be fungible. 
 3. Shares shall be sold on the open market which will be the basis for finding their value.
 
-##### Section 3: Shares and Political Power
+##### Section 3: Shares and political power
 1. The magnitude of one's share shall be directly and unalterably linked to one's level of political influence within the State.
 2. The aggregate political influence attributed to the total of all shares in circulation shall constitute the ultimate political authority in Liberland.
 
-##### Section 4: Equal Access to Ownership
+##### Section 4: Equal access to ownership
 No policy or scheme shall be implemented to disqualify any individual from acquiring or freely trading shares in Liberland, except on the grounds of a past and present proven serious misconduct, henceforth “Crime”.
 
 #### Article 10: Structure of Liberland
 1. Liberland shall form organs that shall be organized hierarchically, with each performing specific functions, henceforth referred to as "the Government."
-2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in the Senate, the Guardian of the Republic. The Senators shall ensure that the Government serves as the public defender of property and nothing more.
+2. In addition to the Government, Liberland shall award the foremost among its supporters a seat in a special body of oversight and control, the Senate.
+3. These Senators shall ensure that the Government serves as the public defender of property and nothing more.
 
 ## Book 2: Liberland Government
 
-### Chapter 1: Foundational Principles
+### Chapter 1: Structure and rights of the Government
 
-#### Article 14: Structure of the Government
+#### Article 11: Constitutional obedience
+##### Section 1: Adherence to the Constitution
+1. The Government shall be irrevocably bound by the provisions of this Constitution, both in its letter and spirit, and shall directly apply it in all its actions and decisions as the supreme law of the land. 
+2. In the issuance of any rule or regulation, the Government shall directly and without reservation adhere to the principles and provisions of this Constitution. 
 
-The Government shall be democratic in nature, organization, conduct, and governing philosophy. Its powers shall be divided into Legislative, Executive, and Judicial powers.
+##### Section 2: Enforcement of Constitutional Provisions
+While Government remains completely compliant with this Constitution, it shall be mandated to enforce its provisions directly against everyone in Liberland and under Liberland’s jurisdiction, ensuring that it becomes and remains the supreme law of the land.
 
-#### Article 15: Actions of the Government
+#### Article 12: Structure of the Government
+1. The Government shall be meritocratic in nature, organization, conduct, and governing philosophy. 
+2. Its primary division shall be on the grounds of function into Legislative, Executive, and Judicial powers.
 
-1. The Government shall only perform actions to which it is empowered, directly or indirectly, by this Constitution.
-2. The Government shall be run online using the instruments it designates, enabling it to effectively, securely, and transparently act according to this Constitution.
-3. The basic unit for governmental timekeeping shall be an election term of the representative legislative body of ninety days, henceforth referred to as an "Election Term."
+#### Article 13: Actions of the Government
+The Government shall only perform actions to which it is empowered, directly or indirectly, by this Constitution.
 
-#### Article 16: Financing the Government
+#### Article 14: Financing the Government
+The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle.
 
-The Government and all its organs and activities shall be financed in accordance with the Non-Aggression Principle, based on contractual relationships such as voluntary, project-based taxation.
+#### Article 15: Treasury
+##### Section 1: Ownership and Management of the Treasury
+The Treasury of Liberland, while managed by the Government, is the property of Liberland.
+
+##### Section 2: Surplus Distribution
+1. In instances where the Treasury's surplus amounts to at least three times the modal value of the budgets from the past five years, the Government may allocate such surplus to the Senate and the Citizens of Liberland.
+2. Distribution shall take place in proportion to the Citizen’s share in Liberland.
+3. Distribution of undistributed LLM shall be allocated in proportion to their respective share in the Senate and in addition also in the same proportion to all the undistributed LLM.
+4. The entitlement to receive a portion of the surplus is inherently linked to the stakeholder’s share, with each share granting equal rights to distribution as any other share.
+
+#### Article 16: Non-Liability for State Debts
+The People of Liberland shall not serve as guarantors for State debts under any circumstances.
 
 #### Article 17: Balanced Budget
-
 The Government's budget shall be kept in surplus or, at minimum, balanced. The Government shall not incur debts.
 
-#### Article 18: Treasury
+#### Article 18: Liability of Liberland
+Liberland shall incur liability for any property damage that contravenes the Non-Aggression Principle, specifically if such damage results from actions taken by its officials or Agents that are in direct opposition to this Constitution, established judicial precedents, or legislation enacted by the legislative authority.
 
-1. The Treasury of Liberland shall be managed by the Government but owned by Liberland.
-2. Whenever there is a surplus of at least three times the mode of the budgets for the last five years, that surplus shall be distributed to the Senate according to their share and to the People of Liberland, each according to their merit.
+#### Article 19: Equality before the Law
+1. Every individual shall be considered equal before the Government, entitled to identical rights and subject to the same duties, with respect to their personhood.
+2. This Law shall not recognize any privileges or special statuses for any person, whether natural or juridical, other than those expressly provided for in this Constitution.
 
-### Chapter 2: Governmental Powers
+#### Article 20: Lawful Property use
+The Government shall not restrict the use of the private property of Persons as long as that use conforms with the Non-Aggression Principle or with binding norms of public international law.
 
-#### Article 19: Lawmaking
+#### Article 21: Due Process
+##### Section 1: Right to a Fair Hearing
+1. When any governmental branch is involved in decision-making that affects the rights and duties of individuals, it must ensure that both parties are given an opportunity to be heard. 
+2. These matters must be resolved promptly and without unnecessary delays, with actions characterized by fairness and impartiality. 
 
-1. To fulfill the purpose of the Government in a regulated and orderly manner, the Legislative shall establish Laws, binding rules that inform human action and guide the people to act in accordance with the Non-Aggression Principle.&#x20;
-2. Laws shall be second in power only to this Constitution, capable of binding all branches of the Government, Liberland as a whole, and any Persons within Liberland's jurisdiction.
-3. Where there is a conflict between a Law and a provision in this Constitution, the constitutional provision shall prevail.&#x20;
+##### Section 2: Enhanced Due Process in Delict Cases
+1. In proceedings aimed at determining guilt or innocence related to violations of laws or the constitution, the government is obligated to afford all parties, especially the defendant, an enhanced level of procedural protection. 
+2. The defendant shall be deemed innocent until proven guilty.
+3. This includes, at a minimum, adherence to the principles of due criminal process and fair hearings as universally recognized in civilized jurisdictions.
+4. Defendants shall have the right to be informed of the identity of their accusers and to respond to the charges against them effectively.
+5. Decisions on guilt and the imposition of penalties must be based solely on evidence that establishes guilt beyond a reasonable doubt.
 
-#### Article 20: Governance
+#### Article 22: Transparency in public affairs
+1. The Government shall conduct its business openly, making all affairs, documents, and decision-making public unless immediate publication would directly lead to damage to life or property.
+2. In all its communications, the Government shall adhere to truthfulness, supported by evidence that can be independently verified.
+3. When presenting opinions rather than facts, the Government shall explicitly identify these expressions as opinions to distinguish them from factual assertions.
 
-The Executive shall consist of experts managing the day-to-day affairs of Liberland governance. It shall apply Laws and other Regulations and any other measures necessary to fulfill the purpose of Liberland.
+#### Article 23: Basic rights and fundamental freedoms
+##### Section 1: Guarantee of core constitutional principles
+1. The Government shall at all times uphold and protect certain basic rights for all individuals under the jurisdiction of Liberland. The fundamental principles outlined in Book 1 shall constitute the core of these rights.
+2. These principles shall be accorded the utmost legal precedence, holding status as the supreme law of Liberland, and shall take precedence even over all other Constitutional provisions. 
+3. It is incumbent upon all branches of Government to implement these principles directly, ensuring interpretations that always aim to maximize individual liberty. No branch of Government shall engage in actions that undermine these core principles.
 
-#### Article 21: Regulating
-
-1. The Executive shall expand upon these rules set out in Laws and create auxiliary rules within limits and based on mandates given expressly by the Legislative. These rules, lower in authority than this Constitution and Laws, shall be called Regulations. &#x20;
-2. Regulations shall be lower in legal force than the Laws or the Constitution. An illegal or unconstitutional provision in a Regulation shall always be invalid.
-
-#### Article 22: Rule of Law
-
-The Government shall obey its own Regulations, Laws, and this Constitution.&#x20;
-
-#### Article 23: Dispute Resolution
-
-1. The Judiciary shall answer relevant questions and resolve disputes under this Constitution, under Law, and in international matters.
-2. To this end, the Judiciary shall use the following instruments:
-
-a) Warrants, temporary instruments regulating what is necessary to bring resolution to a particular case or to safeguard the property rights of actors involved or, exceptionally, third parties; and
-
-b) Verdicts represent the decision in a particular case and shall be binding in perpetuity where they gain legal force.
-
-#### Article 24: Enforcement
-
-##### Section 1: Judicial Enforcement and Executive Compliance
-
-1. The Judiciary shall, through the Executive, enforce compliance with this Constitution, Laws, and Regulations, as well as with Judiciary decisions.&#x20;
-2. The Executive shall only use coercive measures where no other means should clearly suffice. Non-lethal instruments shall be preferred over the use of lethal ones wherever possible.&#x20;
-
-##### Section 2: Legislative Oversight and Enforcement Agencies
-
-The Legislative shall designate specific governmental organizations tasked with enforcement and shall set the rules and limits for enforcement. It shall ensure that as few Agents as possible and only those for whom it is absolutely necessary should bear this power.
-
-#### Article 25: Use of Arms
-
-The Government shall only use, acquire, own, possess or equip its Agents with weapons and other defensive and offensive equipment which Persons who habitually and lawfully dwell in Liberland, henceforth "Liberlanders," might use privately and without restrictions to effect self-defense or collective defense.
-
-#### Article 26: Equality Before Law
-
-1. All persons shall be equal before the Law and in rights and responsibilities as far as their personhood is concerned.&#x20;
-2. Natural personhood shall be singular and indivisible. It shall pertain to every human being and other entities of an equal or similar level of sapience where those desire and are capable of expressing their desire to become persons.&#x20;
-3. The Law shall respect no privileges nor special statuses awarded to persons, natural or otherwise, beyond what is stipulated in this Constitution.
-
-#### Article 27: Equal access to public services
-
-No person or group of Persons shall be arbitrarily excluded from the operation of the Government, or granted any privilege; nor shall any Person be denied equal protection under this Constitution.
+##### Section 2: Explanatory rights and freedoms
+1. Additional rights and freedoms explaining and expanding upon the basic constitutional principles critical to the preservation of Liberland's libertarian ethos shall be expressly enumerated within this Constitution.
+2. Further such rights and freedoms shall be determined and rendered obligatory for the Government through the judiciary’s rulings and the legislative body’s actions. These rights and freedoms shall be derived using universally acknowledged principles of liberty in political science.
+3. Such principles shall be completely equal in legal force to the rights enumerated by this Constitution, but shall be less in legal force than the core principles enumerated in Book 1 of this Constitution.
 
 ### Chapter 3: Basic Rights
 
-#### Article 28: Sovereignty of Property
+#### Article 24: General power of competence
+
 
 ##### Section 1: Private Property Protection
 

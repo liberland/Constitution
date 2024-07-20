@@ -273,34 +273,32 @@ The Government shall identify and protect the natural and cultural heritage of L
 
 ### Chapter 1: Courts
 
-#### Article 54: Judicial Power
+#### Article 52: Function of the Judiciary
+The primary function of the Judiciary in Liberland shall be to resolve disputes between parties and to interpret the provisions of the Constitution and other Laws of Liberland, as well as under applicable international law.
 
-The power of the Judiciary shall extend to all cases between any parties arising within the jurisdiction of Liberland; under this Constitution, the Law, or any to Liberland binding norm of public international law.
+#### Article 53: Jurisprudence
+In instances where the law remains silent or ambiguous, the Judiciary is tasked with providing clarity and establishing a stable body of jurisprudence to guide future interpretations.
 
-#### Article 55: Hierarchy of Courts
+#### Article 54: Hierarchy of Courts
+1. The Judiciary shall be vested in one Supreme Court, and in other, lower Courts such as Persons or the Administration may from time to time establish.
+2. Each court within the judiciary hierarchy shall operate with full independence in its decision-making processes, bound only by standing jurisprudence relevant to them.
 
-The Judiciary shall be vested in one Supreme Court, and in other, lower Courts such as Persons or the Administration may from time to time establish.
+#### Article 55: Judiciary Instruments
+The Judiciary is authorized to employ the following instruments in the exercise of its functions:
+    a. **Verdicts:** These constitute the Judiciary's decisions regarding specific cases. Once they acquire legal force, verdicts are binding upon the parties involved, the issuing court, and all subordinate courts within the judicial hierarchy indefinitely.
+    b. **Orders:** These are temporary directives issued to the parties or in case of disobedience to other branches of government, typically the Executive, to regulate actions deemed necessary for resolving specific cases or for protecting the property rights of the parties involved, or in exceptional circumstances, those of third parties.
 
 #### Article 56: Precedents
-
-1. All verdicts of the Supreme Court shall be binding upon the parties to the process and upon all lower Courts on the point of law in all future proceedings.
-2. Other Courts, including private courts, shall be bound by their verdicts or verdicts made by Courts superior to them in the Judiciary hierarchy.
+1. All Verdicts of the Supreme Court shall be binding upon the parties to the process and upon all lower Courts.
+2. Other Courts, including private courts, shall be bound by their Verdicts or Verdicts made by Courts superior to them in the Judiciary hierarchy.
 
 #### Article 57: Recourse
-
 ##### Section 1: Judicial Examination of Constitutional Breaches
-
-Where a party to a case presented to the Judiciary claims a provision in a Law or other Regulation relevant to a case to be in breach of this Constitution, the Court shall examine the claim. Where the claim is justified, the Court shall provide Recourse against that provision by setting it aside for the case.
+Where a party to a case presented to a Court claims a provision in a legislative instrument or an action of the Government relevant to a case to be in breach of this Constitution, the Court shall examine the claim. Where the claim is justified, the Court shall provide Recourse against that provision by setting it aside for the case.
 
 ##### Section 2: Court Recommendations and Loss of Legal Force
-
 1. After the final verdict in a case where a Court provided Recourse gains legal force, the last Court to have heard the case shall inform the Legislative or the Executive of the breach of this Constitution and shall issue binding recommendations on how to resolve the breach.
-2. Should the offending provision not be amended to resolve the breach, it shall lose its legal force at the end of the Election Term after the Election Term in which the final verdict gained legal force.
-
-#### Article 58: Establishing and Abolishing Courts
-
-1. The Legislative shall establish and abolish Courts by means of Law.
-2. A Court may only be abolished where its continued existence represents a direct and clear threat to the Constitution and its principles.
+2. Should the offending provision not be amended to resolve the breach, it shall lose its legal force at the latest at the end of the Election Term after the Election Term in which the final verdict gained legal force.
 
 ### Chapter 2: The Supreme Court
 

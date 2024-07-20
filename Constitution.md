@@ -344,59 +344,47 @@ No individual may simultaneously hold a judicial office and any office within th
 Upon appointment, all judges, including judges of non-state courts, shall swear/affirm the following Oath of Office:
 *"I solemnly swear/affirm that I will administer justice equally to the poor and the rich. I will safeguard individual self-ownership and private property. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all human beings everywhere."*
 
-#### Article 62: Judicial Immunity
+#### Article 65: Judicial Immunity
 1. No judge serving in any court shall be subject to arrest, detention, or any form of punishment by the Government that could impede their regular judicial duties at any time, except under specific conditions as provided herein.
 2. The sole exception to the Judicial Immunity shall apply only when an Order for such arrest, deprivation of liberty, or a Verdict of punishment is issued by the Supreme Court. 
 3. Such an Order or Verdict may only be issued under extreme circumstances where the actions of the judge pose a direct threat to the property or liberty of others.
 
-### Chapter 4: Criminal Justice
+### Chapter 4: Supreme Court
 
-#### Article 65: Criminal Process
+#### Article 66: Establishing the Supreme Court
+1. With the enactment of this Constitution, the Supreme Court is hereby established.
+2. It shall be the responsibility of the Government to undertake all necessary measures to ensure its regular operation.
+3. In the event that the Government does not fulfill this obligation promptly, the Citizens shall initiate the establishment of the Supreme Court directly and without delay.
+4. The Supreme Court shall perpetually exist as long as the Government itself exists.
 
-##### Section 1: Criminal Process Structure
+#### Article 67: The Justices of the Supreme Court
+##### Section 1: Composition of the Supreme Court
+1. The Supreme Court shall consist of a minimum of three Judges, including one Chief Justice of the Supreme Court, hereinafter referred to as "Chief Justice," and two other Justices of the Supreme Court.
+2. Supreme Court Justices shall be current or former Judges who possess an exemplary professional reputation and moral character. 
 
-1. The criminal process shall be a process in which Liberland acts as the accuser and another subject as the defendant, accused of a delict.
-2. The criminal process shall be set up in ways that allow the court to establish matters of fact, particularly guilt and punishment, to the highest degree of certainty attainable.
+##### Section 2: Appointment and Number of Justices
+1. Supreme Court Justices shall be nominated by the Legislative and appointed by the President of the Republic.
+2. The maximum number of Justices serving on the Supreme Court shall not exceed seven.
 
-##### Section 2: Definition of Crime
+##### Section 3: Judicial Panels
+The Supreme Court shall conduct its deliberations in panels comprising an odd number of Justices to prevent deadlock in decision, and at minimum of three Supreme Court Justices.
 
-Crimes shall be the most serious among all delicts and shall warrant the most severe punishments.
+#### Article 68: Duties of the Supreme Court
+1. The Supreme Court shall hear cases over all matters pertaining to disputes or uncertainties concerning the political system of Liberland.
+2. Specifically, the Supreme Court shall hear all cases regarding:
+   a. The review of legality and constitutional conformity of any political process undertaken by or concerning, in the broadest sense possible, the Senate or the Government or one of their organs;
+   b. A motion made for the declaration of any official of the Senate or the Government as unfit to perform their duties;
+   c. The review of all international treaties proposed by the Government to bind Liberland, with respect to whether or not they are in conformity with the Constitution.
+   d. The resolution of conflicts regarding the applicability between the Constitution and norms of public international law where such conflicts have not been resolved by lower courts through interpretation;
+   e. Other matters which according to the Supreme Court and its binding jurisprudence pertain to disputes and uncertainties concerning the political system of Liberland.
 
-#### Article 66: State Monopoly on Prosecuting Crimes
-
-State courts established by law shall be the only entities capable of deciding on guilt and punishment for criminal delicts.
-
-#### Article 67: Prosecutors
-
-##### Section 1: Criminal Process Structure
-
-Investigative actions and the prosecution of criminal delicts shall be entrusted to the General Prosecutor. Law may establish other Prosecutor Offices. A Prosecutor shall be nominated by the Executive and appointed by the President for a term of ten consecutive Election Terms.
-
-##### Section 2: Oath of Office for Prosecutors
-
-Upon appointment, all Prosecutors shall swear/affirm the following Oath of Office:
-
-"I do solemnly swear/affirm that I will administer justice and do equal right to the poor and the rich. I will ensure that victims of crimes are given a measure of restitution for what has been unjustly taken from them. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a Prosecutor under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all Persons everywhere."
-
-#### Article 68: No Ex-Post Facto Delicts
-
-1. No action shall be later deemed a delict as long as it had not been a delict during the time it took place.
-2. The Legislature shall be prohibited from enacting ex post facto laws that harm persons retroactively, particularly where the object would be to punish persons for their actions.
-
-#### Article 69: Prohibition of Unlawful or Unrestricted Arrests
-
-##### Section 1: Arrest and other Limitations of Freedom for Convicted Persons
-
-Persons lawfully convicted for delicts shall be subject to limitations of freedom which may include labor and/or payment as obligated by law, but only within the strict limits of the law and based on an individual decision by the Judiciary.
-
-##### Section 2: Arrest Procedures and Duration
-
-1. When a person is placed under arrest, agents shall allow that person to inform whomever they wish about the arrest and permit them to contact legal counsel without delay.
-2. No person shall be arrested for more than twenty-four hours without a warrant or a charge.
-
-##### Section 3: Transparency in Arrests
-
-Agents executing arrests shall act openly and inform the accused about the charge and their relevant rights under the Constitution and other protections.
+#### Article 69: Powers of the Supreme Court
+1. The Supreme Court may at will initiate a judiciary process where it deems such action necessary for the pursuit of justice, the protection of private property, or the safeguarding of individual liberty within Liberland.
+2. To this end, the Supreme Court may
+   a. Initiate the examination of the constitutional conformity of any proposal put forward to become a legislative norm, regardless of its form and status; 
+   b. Initiate a motion for the declaration of any official of the Senate or the Government as unfit to perform their duties;
+   c. Re-open any case which has been adjudicated by any organ of adjudication in Liberland and where the Verdict gained legal force, and
+   d. Assume jurisdiction over any ongoing or imminent case currently under or slated for review by any judicial organ within Liberland.
 
 ## Book 4: Legislative Power
 

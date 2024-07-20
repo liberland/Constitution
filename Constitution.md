@@ -222,79 +222,52 @@ The Administration shall not restrict a particular commodity from being used as 
    b. Clearly communicate the nature of the charges, the potential consequences, and the identity of the accuser to the accused.
 2. No individual shall be detained for a period exceeding twelve hours without the issuance of a formal order of specific charge against them.
 
-#### Article 41: Freedom from Unrestricted Accusation or Detention
-1. In instances where an individual is accused of a legal violation or is subjected to arrest, the actions undertaken by the executing Agents must be carried out with full transparency. These Agents are mandated to:
-   a. Inform the accused promptly of their legal rights, which encompass at least that they have the right
-      i. to remain silent and being informed that if they choose to speak, it can be used against them; and
-      ii. to consult with an attorney and to have that attorney present during each stage of the process.
-2. Clearly communicate the nature of the charges, the potential consequences, and the identity of the accuser to the accused.
-No individual shall be detained for a period exceeding twelve hours without the issuance of a formal order of specific charge against them.
-
-#### Article 42: Freedom to Organize Legal Defense
+#### Article 41: Freedom to Organize Legal Defense
 1. Agents responsible for the detention of individuals or the delivery of their accusation are required to allow the detained persons to inform a person or persons of their choice regarding their detention promptly. 
 2. Additionally, agents must facilitate the detained individuals' immediate access to communication means by which they can obtain legal representation.
 
-#### Article 43: Freedom from Military Service
+#### Article 42: Freedom from Military Service
 Liberland shall have no standing army, no Persons shall be conscripted for military purposes and no assets shall be confiscated to resolve a crisis, including but not limited to a military one. 
 
-### Chapter 6: Constitutional Policies
+### Chapter 4: Constitutional Policies
 
-#### Article 46: Good Neighbor Policy
-
+#### Article 43: Good Neighbor Policy
 Liberland shall, in all matters, strive to be a good neighbor to its fellow sovereign States and individuals living in other countries and places in the world.
 
-#### Article 47: Striving towards Peace
-
+#### Article 44: Striving towards Peace
 Liberland shall strive to maintain peace with all its neighbors individually and with the international community in its entirety.
 
-#### Article 48: Neutrality
+#### Article 45: Neutrality
+1. Liberland shall not participate in conflicts, whether between States, within States including itself, or otherwise.
+2. The initiation of violence shall likewise be prohibited, whether against other States, non-State groups such as minorities, religions or businesses, or against individuals. 
+3. However, nothing in this Article shall be construed as prohibiting legitimate collective defense.
 
-1. Liberland's peaceful orientation and non-participation in conflicts, whether between States, within States, or otherwise, shall be a guiding principle for the Government.
-2. The initiation of violence shall be prohibited. However, nothing in this paragraph shall be construed as prohibiting legitimate collective defense.
-
-#### Article 49: Commitment to International Law
-
+#### Article 46: Commitment to International Law
 1. Norms of public international law binding Liberland, whether by Treaty or otherwise, shall have direct legal force, and the Government shall always act within its boundaries.
 2. In case of a conflict between the norms of this Constitution and a norm of public international law binding Liberland, the norm of public international law shall apply, except when it conflicts with this Constitution and the conflict proves irreconcilable by interpretation or negotiation.
 
-#### Article 50: Prohibition of Slavery
-
+#### Article 47: Prohibition of Slavery
 ##### Section 1: Ban on Slavery and Involuntary Servitude
-
 1. The Government shall not permit a relationship amounting to involuntary servitude or slavery to exist in Liberland, even if entered voluntarily and otherwise lawfully.
 2. Agreements of enslavement shall be null and void. Any enslaved person shall always have the right to withdraw their consent to any form of enslavement and be free without any negative consequences, regardless of any previous stipulations to the contrary.
 
 ##### Section 2: Right to Escape
-
 Any enslaved person shall always retain the right to escape their bondage by any means necessary. The Government shall help enslaved persons escape slavery.
 
-##### Section 3: Protection Against Cruel and Unusual Treatment
+#### Article 48: Protection Against Slavery-like Treatment
+1. Contracts, agreements, or any arrangements between parties that resemble or approximate conditions of slavery in their nature or execution shall be treated with the same severity and legal scrutiny as actual slavery.
+2. The degree to which these contracts or arrangements mimic slavery shall determine the extent of governmental intervention and the application of extraordinary powers that in themselves break the Non-Aggression Principle to address and rectify such situations.
 
+#### Article 49: Protection against Cruel and Unusual Treatment
 All provisions applying to slavery shall also apply to situations when a Person is subjected or threatened with cruel and unusual treatment or punishments, as understood by public international law.
 
-#### Article 51: Protection of Cultural and Natural Heritage
-
+#### Article 50: Protection of Cultural and Natural Heritage
 The Government shall identify and protect the natural and cultural heritage of Liberland, both on land and in its waters and waterways. It shall, when acting, take concern for the welfare of the soil, and the plant and animal life, both on land and in water, as well as for the overall ecosystem and each biome.
 
 #### Article 52: Providing Public Services Privately
-
-1. The Government shall not possess a monopoly on the provision of services which the Constitution or the Law allot to it or its branches, henceforth "Public Service," allowing private subjects to provide those same services.
+1. The Government shall, in general, not possess a monopoly on the provision of services which the Constitution or the Law allot to it or its branches, henceforth "Public Service," allowing private subjects to provide those same services.
 2. Where private subjects provide Public Services, they shall be required to adopt the Government's purpose and respect Fundamental Rights.
-
-#### Article 53: Governmental Data Protection
-
-##### Section 1: Confidentiality and Proper Use of Private Data
-
-1. The Government shall use all private personal data it collects only for the purposes for which it had been collected. The Government shall keep this data confidential and share it only with the express and informed consent of all Persons to whom the data relates, henceforth "Data Subjects."
-2. Data Subjects shall not lose their rights to the data by virtue of it being under Government control.
-
-##### Section 2: Consensual Issuance of Identification Documents
-
-All identification documents will be issued on a consensual basis only, and they shall be tools in the hands of the document holders to facilitate their affairs.
-
-##### Section 3: Voluntary Registration and Information Sharing
-
-The Government shall not force any Person to register and/or share private information.
+3. The Government and the State shall retain the monopoly on investigating and adjudicating cases where the object of the case is to determine the guilt and punishment for violating a provision of this Constitution or the public international law which also involves breaches of the Non-Aggression Principle, henceforth “Crime”.
 
 ## Book 3: Judicial Power
 

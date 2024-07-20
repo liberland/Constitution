@@ -300,80 +300,54 @@ Where a party to a case presented to a Court claims a provision in a legislative
 1. After the final verdict in a case where a Court provided Recourse gains legal force, the last Court to have heard the case shall inform the Legislative or the Executive of the breach of this Constitution and shall issue binding recommendations on how to resolve the breach.
 2. Should the offending provision not be amended to resolve the breach, it shall lose its legal force at the latest at the end of the Election Term after the Election Term in which the final verdict gained legal force.
 
-### Chapter 2: The Supreme Court
+#### Article 58: Establishing Courts
+##### Section 1: Establishment of Courts
+1. The establishment and dissolution of Courts shall be done solely by the people, executed through the formulation of operational rules, the relevant Law which must include this Constitution as the supreme law of the land, adherence to public international law and any jurisprudence and legislation stemming from it, and the allocation of necessary personnel and budgets to ensure the regular functioning of each Court.
+2. Upon establishing a Court, those responsible shall notify the Government of its establishment, detailing the operational rules, personnel allocation, and budget provisions.
 
-#### Article 59: The Justices of the Supreme Court
+##### Section 2: Governmental Oversight and Recognition
+1. Each newly established Court shall be evaluated by the Government based on these rules to determine its sufficiency.
+2. The Government is tasked with setting overarching rules, in alignment with the principles laid out in this Constitution, to define the criteria for a Court's sufficient establishment.
 
-##### Section 1: Composition of the Supreme Court
+##### Section 3: Decision on Court Recognition
+1. Courts found to be insufficiently established will receive recommendations for compliance. Until such recommendations are fully implemented, these Courts will not be officially recognized under this Constitution. However, they may continue to operate, albeit without constitutional powers.
+2. Courts deemed sufficiently established, according to the Government's evaluation, shall be recognized as a Court under this Constitution. 
 
-The Supreme Court shall be composed of three Judges: one Chief Justice of the Supreme Court, henceforth "Chief Justice," and two other Justices of the Supreme Court.
+#### Article 59: Disestablishment of Courts
+1. Any court, regardless of its recognition status by the Government, found to exhibit systemic and blatant disregard for the fundamental principles enshrined in this Constitution, the supremacy of the Constitution, the recognition of jurisprudence of Liberland as binding or applicable public international law, shall receive a formal warning from the Government, accompanied by binding recommendations for rectification.
+2. Should these recommendations fail to be implemented promptly, the Government shall promptly disestablish the Court.
+3. Courts found in disobedience of the criteria which haven’t been judged as blatant or systemic may instead merely lose their Government recognition.
 
-##### Section 2: Qualifications and Appointment of Justices
+### Chapter 2: The Judge
 
-Supreme Court Justices shall be current or former Judges with an excellent professional reputation and moral character and known adherents of the values on which this Constitution stands. They shall be nominated by the Legislative and appointed by the President.
+#### Article 60: Office of the Judge
+1. The Judiciary shall operate primarily through its Judges. Each case brought before the Judiciary must be presided over by either a single Judge or a panel of Judges.
+2. A Judge must be a professional in law, with verifiable experience in adjudicating cases. They must possess extensive knowledge of Liberland law and be familiar with other legal systems relevant to their duties. 
+3. Additionally, candidates must be recognized as proponents of the classically liberal principles of governance and the values upheld by this Constitution.
 
-#### Article 60: Original Jurisdiction of the Supreme Court
+#### Article 61: Judicial Independence and Tenure
+1. Judges in the Liberland courts are to maintain and exercise complete judicial independence.
+2. Judges shall in general be granted a lifetime tenure unless the rules of the given Court decide otherwise.
+3. A Judge's tenure in Liberland may end under the following circumstances:
+   a) A declaration by the Supreme Court regarding the Judge's incapacity to perform judicial duties.
+   b) Dismissal, in accordance with the law.
+   c) Voluntary resignation.
 
-The Supreme Court shall have the inherent jurisdiction in the following types of cases:
-
-a) Examining a proposed Law or other proposed Legislative or Executive Regulation or other action for its conformity with the Constitution;
-
-b) The review of constitutional conformity of all International Treaties that the Administration should propose to bind Liberland with.
-
-c) The motion to declare an official of the Administration, the President, a Vice President, or a Senator unfit to perform their duties.
-
-d) The review of legality and constitutional conformity regarding any political process in any branch of the Administration.
-
-e) The review of a Judge's capability to perform their duties of the office.
-
-f) The review of any Regulation, public or private, setting moral standards and penalties for Judges, Attorneys, and Prosecutors.
-
-g) The review, upon a motion made by the Legislative or the Executive, of constitutional conformity of any motion, policy, or regulatory document made by the Guardians.
-
-#### Article 61: Constitutionality of Legislative Proposals
-
-##### Section 1: Supreme Court Review of Proposed Laws and Regulations
-
-The Supreme Court shall have the power to examine any proposed Law or Regulation for its conformity with the Constitution. The Supreme Court shall issue binding recommendations where the Regulation is deemed unconstitutional. Without working the recommendations in, the Regulation shall not be adopted.
-
-##### Section 2: Suspension and Time Limit for Examination
-
-1. Taking up a proposed Law or Regulation for the examination shall suspend the Legislative or Executive process of adoption until the Supreme Court reaches a decision. In case of a decision that the Law or Regulation conforms to this Constitution, the process may continue where it was suspended.
-2. The Examination shall take at maximum ⅓ of the Election Term; where this time passes without a decision, the examination shall end, and it shall be as if no Examination was conducted.
-
-#### Article 62: Appellate jurisdiction of the Supreme Court
-
-The Supreme Court shall have the appellate jurisdiction of the last instance from all the Liberland Courts on the point of law, material or procedural irregularity, and severity of the sentence. The Supreme Court shall be able to attract or refuse any case at will, thereby to exercise this appellate jurisdiction.
-
-#### Article 62: Judges
-
-##### Section 1: Judicial Independence and Tenure
-
-All judges in Liberland courts shall maintain their independence. They shall hold their office for life or until declared incapable of performing their duties by the Supreme Court, dismissed, or resigned.
-
-##### Section 2: Separation of Judicial Office from Other Branches
-
-No person shall hold the office of a judge while holding another office in the Legislative or Executive branches.
+#### Article 62: Separation of Judicial Office from Other Branches
+No individual may simultaneously hold a judicial office and any office within the Legislative or Executive branches. 
 
 #### Article 63: Appointment of Judges
+1. Courts shall nominate Judges based on the candidates passing objectively verifiable criteria for professionality, compatibility with the Court’s particular ethos and with the general idea of Liberty.
+2. Nominations shall be presented to the President of Liberland, who may Appoint the Judge, or refuse to appoint them.
+   
+#### Article 64: Oath of Office for Judges
+Upon appointment, all judges, including judges of non-state courts, shall swear/affirm the following Oath of Office:
+*"I solemnly swear/affirm that I will administer justice equally to the poor and the rich. I will safeguard individual self-ownership and private property. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all human beings everywhere."*
 
-##### Section 1: Executive Nominations for Government Courts
-
-The Executive shall nominate judges for the courts established by the Government and submit them for appointment by the President.
-
-##### Section 2: Internal Nominations for Other Courts
-
-Other courts shall nominate their judges through their internal procedures and submit them for appointment by the President.
-
-##### Section 3: Oath of Office for Judges
-
-Upon appointment, all judges, including Supreme Court Justices and judges of non-state courts, shall swear/affirm the following Oath of Office:
-
-"I solemnly swear/affirm that I will administer justice equally to the poor and the rich. I will faithfully and impartially discharge and perform all the duties incumbent upon me as a judge under the Constitution, the Laws of Liberland, and in the service of the Liberty and self-determination of all human beings everywhere."
-
-#### Article 64: Judicial Immunity
-
-No judge of any court shall be arrested for any period whatsoever unless pursuant to a warrant issued by the Chief Justice of the Supreme Court under extreme circumstances where there is a direct threat to others or where vital evidence may be destroyed.
+#### Article 62: Judicial Immunity
+1. No judge serving in any court shall be subject to arrest, detention, or any form of punishment by the Government that could impede their regular judicial duties at any time, except under specific conditions as provided herein.
+2. The sole exception to the Judicial Immunity shall apply only when an Order for such arrest, deprivation of liberty, or a Verdict of punishment is issued by the Supreme Court. 
+3. Such an Order or Verdict may only be issued under extreme circumstances where the actions of the judge pose a direct threat to the property or liberty of others.
 
 ### Chapter 4: Criminal Justice
 

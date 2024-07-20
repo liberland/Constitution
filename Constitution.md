@@ -175,90 +175,67 @@ All Persons permanently residing in Liberland shall also have the right to petit
 
 ### Chapter 4: Fundamental Freedoms
 
-#### Article 35: Freedom of Movement
+#### Article 30: Freedom of Speech
+All Persons shall be free to speak or express their thoughts without fear of punishment as long as that speech isn’t made in order to convince others to engage in aggressive violence. 
 
-1. Every Liberlander shall have the right to move freely within Liberland's territory, freely leave, enter, and dwell in it.
-2. The free movement of other Persons may be restricted only by law and only when not doing so represents a clear and present danger to Persons and Property in Liberland.
+#### Article 31: Freedom of Movement
+1. Every Citizen of Liberland shall have the right to move freely within Liberland's territory, freely leave, enter, and dwell in it.
+2. The free movement of other Persons may be restricted only by law and only when not doing so represents a clear and present danger to other people and their property.
 
-#### Article 36: Freedom of Commerce
+#### Article 32: Freedom of Commerce
+1. All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods, services, and manner of offering conform to the Non-Aggression Principle or public international law.
+2. The Legislative or the Executive shall not interfere with the validity and/or content of any contract fulfilling this Article's requirements nor impose licensing or similar schemes restricting Liberland Citizens' ability to engage in commerce.
 
-##### Section 1: Right to Engage in Commerce
+#### Article 33: Freedom of Expression
+Everyone shall be free to distribute information in the form of printed materials, radio, television, the Internet, or any other medium of information exchange, except when the materials violate the Non-Aggression Principle and public international law.
 
-1. All persons shall have the right to engage in commerce, offering goods and services to others, as long as the goods, services, and manner of offering conform to the Non-Aggression Principle and binding norms of public international law.
-2. The Legislative or the Executive shall not interfere with the validity and/or content of any contract fulfilling this Article's requirements, nor impose licensing or similar schemes restricting Liberlanders' ability to engage in commerce.
-
-##### Section 2: Business Freedom and Partnerships
-
-1. Liberlanders legally entering Liberland shall be free to do business as individuals in their name and at their own risk by the sole virtue of their natural personhood.
-2. All Persons engaging in commerce shall be directly entitled to form partnerships and do business as individuals under the partnership's name, without administrative hindrances.
-
-#### Article 37: Freedom of Speech
-
-All Persons shall be free to speak or express their thoughts without fear of punishment, as long as the expression conforms to the Non-Aggression Principle in its manner and purpose. They shall also have the right to petition the Government without fear of punishment.
-
-#### Article 38: Freedom of Expression
-
-##### Section 1: Protection of Information Exchange
-
-The Government shall not regulate printed materials, radio, television, the Internet, or any other medium of information exchange, except when materials provably, clearly, and directly violate the Non-Aggression Principle, the Government's purposes, binding norms of public international law, or when information is gathered in violation of the Right to Privacy.
-
-##### Section 2: Right to Record Conversations and Events
-
-The Government shall not prohibit anyone from making and owning recordings of conversations or events in which a Person participates.
-
-#### Article 39: Freedom of Assembly
-
+#### Article 34: Freedom of Assembly
 All Persons shall have the right to assemble peaceably.
 
-#### Article 40: Freedom of Association
-
+#### Article 35: Freedom of Association
 1. All Persons shall have the right to associate or transact with any other person or refuse to associate or transact with any other person for any reason. Persons shall always retain their right to leave any association.
 2. No law shall interfere with any association or transaction as long as their purpose and action conform with the Non-Aggression Principle and binding norms of public international law.
 
-#### Article 41: Freedom of Religion, Freedom From Religion
+#### Article 36: Freedom of Religion, Freedom From Religion
+1. No Law shall regulate the establishment or abolition of any religion, nor shall it prohibit the free exercise thereof, provided that the doctrines and practices of such religion do not violate the Non-Aggression Principle.
+2. No Law shall restrict marriage between consenting adults, provided that such marriage is based on their own free will and Informed Consent.
 
-No Law shall regulate the establishment or abolishment of religion, prohibit the free exercise thereof, or restrict marriage between adults, provided it is based on their own free will and Informed Consent.
+#### Article 37: Freedom from Coercive Taxation
+No Person shall be subject to any form of taxation, mandatory social or other forms of insurance, enforced pension schemes of any nature, or any other types of rules or regulations that result in the expropriation of funds from them without their prior explicit and informed consent.
 
-#### Article 42: Freedom from Coercive Taxation
+#### Article 38: Freedom From Tolls and Duties
+The import and export of goods, services, or capital, as well as the movement of persons as this is required to move such goods and services, shall not be subject to tolls, quotas, tariffs or any other measures that may impede their freedom within the internal market of Liberland and in international trade.
 
-##### Section 1: Prohibition of Non-Consensual Taxation
-
-1. The Government shall not impose any form of taxation or similar rules expropriating money from Persons without their direct and informed consent, either directly or by proxy.
-2. The Government shall neither induce nor allow in its jurisdiction any other institution or Person to impose and unilaterally enforce taxes or tax-like measures without the taxpayer's direct and informed consent.
-
-##### Section 2: Voluntary Participation in Social Insurance
-
-The Government shall not obligate any person to participate in any form of social insurance or pension scheme, nor provide any financial incentive in that respect.
-
-#### Article 43: Freedom From Tolls and Duties
-
-##### Section 1: Prohibition of Trade Barriers
-
-The Government shall not impose any duty on goods, services, or capital imports and exports, tariffs, or other measures hindering the freedom of certain goods or capital on the internal market in Liberland and international trade.
-
-##### Section 2: No Price or Wage Controls
-
-The Legislative shall not make any Law or policies controlling the prices of goods, services, or wages.
-
-#### Article 44: Freedom from Counterfeiting
-
+#### Article 39: Freedom from Counterfeiting
 ##### Section 1: Monetary Commodity Freedom
-
 The Administration shall not restrict a particular commodity from being used as money or a money-like instrument, unless the use of this commodity would breach the Non-Aggression Principle or norms of public international law.
 
 ##### Section 2: Prohibition of Central Banking and Monetary Manipulation
-
 1. There shall not be a policy establishing, enabling, or encouraging public central bank-like institutions in Liberland. The Government shall not manipulate interest to influence the market or engage in any other manipulative monetary policy.
-2. The Government shall never grant special rights or favors to financial institutions to insure deposits or protect them from bankruptcy should they lack sufficient assets to cover all their liabilities.
+2. The Government shall never grant special rights or favors to private persons or institutions to do any of the above or to insure deposits or protect them from bankruptcy should they lack sufficient assets to cover all their liabilities.
 
-#### Article 44: Freedom of Information
+#### Article 40: Freedom from Unrestricted Accusation or Detention
+1. In instances where an individual is accused of a legal violation or is subjected to arrest, the actions undertaken by the executing Agents must be carried out with full transparency. These Agents are mandated to:
+   a. Inform the accused promptly of their legal rights, which encompass at least that they have the right
+      i. to remain silent and being informed that if they choose to speak, it can be used against them; and
+      ii. to consult with an attorney and to have that attorney present during each stage of the process.
+   b. Clearly communicate the nature of the charges, the potential consequences, and the identity of the accuser to the accused.
+2. No individual shall be detained for a period exceeding twelve hours without the issuance of a formal order of specific charge against them.
 
-1. Every person shall have the right to freely form, express, and impart their opinions.
-2. Every person shall have the right to freely receive information, gather it from generally accessible sources, and disseminate it.
+#### Article 41: Freedom from Unrestricted Accusation or Detention
+1. In instances where an individual is accused of a legal violation or is subjected to arrest, the actions undertaken by the executing Agents must be carried out with full transparency. These Agents are mandated to:
+   a. Inform the accused promptly of their legal rights, which encompass at least that they have the right
+      i. to remain silent and being informed that if they choose to speak, it can be used against them; and
+      ii. to consult with an attorney and to have that attorney present during each stage of the process.
+2. Clearly communicate the nature of the charges, the potential consequences, and the identity of the accuser to the accused.
+No individual shall be detained for a period exceeding twelve hours without the issuance of a formal order of specific charge against them.
 
-#### Article 45: Freedom from Military Service
+#### Article 42: Freedom to Organize Legal Defense
+1. Agents responsible for the detention of individuals or the delivery of their accusation are required to allow the detained persons to inform a person or persons of their choice regarding their detention promptly. 
+2. Additionally, agents must facilitate the detained individuals' immediate access to communication means by which they can obtain legal representation.
 
-Liberland shall have no standing army, and no Persons shall be conscripted for military purposes. In situations of an objective and immediate danger, Liberlanders shall be expected, but not obligated by force of Law, to contribute to the common defense to the best of their ability.
+#### Article 43: Freedom from Military Service
+Liberland shall have no standing army, no Persons shall be conscripted for military purposes and no assets shall be confiscated to resolve a crisis, including but not limited to a military one. 
 
 ### Chapter 6: Constitutional Policies
 

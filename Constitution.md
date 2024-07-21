@@ -529,7 +529,7 @@ The Congress shall, by a vote of a two-thirds majority, have the power to cancel
 ##### Section 3: Limitations on the Cancellation Power
 The Congress shall abstain from exercising its Cancellation power on any Referendum that has been re-enacted in accordance with the Senate’s previous recommendations, reflecting the Senate's advisement on enhancements.
 
-#### Article 85: Nominating Supreme Court Justices
+#### Article 89: Nominating Supreme Court Justices
 ##### Section 1: Nomination Process
 1. Congress shall either nominate or decline to nominate individuals to the Supreme Court as proposed by the Executive for such nominations.
 2. All approved nominations shall subsequently be forwarded to the President for official appointment.
@@ -539,7 +539,7 @@ The Congress shall abstain from exercising its Cancellation power on any Referen
 2. In the event of delays in the nomination or appointment processes, the Citizens shall undertake the responsibilities of the delaying governmental organs.
 Should the citizens refrain from taking action, the general populace shall be empowered to assume the same responsibilities.
 
-#### Article 86: Controlling the Executive
+#### Article 90: Controlling the Executive
 1. Whenever the head of the Executive's seat is vacant, Congress shall without delay appoint a new head from among Members of Congress.
 2. The term of appointment for the head of the Executive shall be five years, subject to earlier termination by Congress through a dismissal vote that equals or exceeds the majority required for the appointment.
 3. Additionally, Congress shall have the power to dismiss any individual members of any organ of the Executive, including its highest governing body.
@@ -547,77 +547,74 @@ Where Congress doesn’t appoint the head of the Executive without delay, this p
 
 ## Book 5: Executive Power
 
-#### Article 86: Mandate of the Executive
+### Chapter 1 Limits on the Executive
 
+#### Article 91: Governance
+1. The Executive shall consist of proven experts in the fields required for the managing of the day-to-day affairs of Liberland governance. 
+2. It shall apply Laws and other Regulations and any other measures necessary to protect property and secure the regular application of the Non-Aggression Principle.
+
+#### Article 92: Mandate of the Executive
 The Executive shall:
+    a) Manage routine State operations;
+    b) Draft legislative bills for Laws and, at times, for other instruments; 
+    c) Safeguard and enhance Liberland's interests globally;
+    d) Ratify International Treaties not requiring Congressional approval;
+    e) Facilitate commercial activities for Liberland, including marketplace organization, goods trading, state project tendering, and broad free-market operations;
+    f) Issue, possess, and utilize currencies within the constraints of this Constitution;
+    g) Preserve State and individual assets and manage associated profits or unavoidable losses;
+    h) Establish Regulations, termed Decrees, under the powers explicitly sanctioned by Law;
+    i) Nominate Judges, including Justices of the Supreme Court;
+    j) Manage the State Treasury, encompassing all government financial accounts;
+    k) Nominate the General Prosecutor and other Prosecutors; and
+    l) Oversee all Agents within the Executive Branch of the Administration.
 
-a) Manage routine State operations;
+#### Article 93: Enforcement
 
-b) Begin the legislative process for Bills drafted by the Cabinet;
+##### Section 1: Judicial Enforcement and Executive Compliance
+1. The Judiciary shall, through the Executive, enforce compliance with this Constitution, Laws, and Regulations, as well as with Judiciary decisions.;
+2. The Executive shall only use coercive measures where no other means should clearly suffice. Non-lethal instruments shall be preferred over the use of lethal ones wherever possible.
 
-c) Safeguard and enhance Liberland's interests globally;
+##### Section 2: Legislative Oversight and Enforcement Agencies
+1. The Legislative shall designate specific governmental organizations tasked with enforcement and shall set the rules and limits for enforcement. 
+2. It shall ensure that as few Agents as possible and only those for whom it is absolutely necessary should bear this power.
 
-d) Ratify International Treaties not requiring Congressional or Presidential approval;
+#### Article 94: Use of Arms
+1. The Government shall only use, acquire, own, possess or equip its Agents with weapons and other defensive and offensive equipment which Persons who habitually and lawfully dwell in 2. 2. Liberland might use privately and without restrictions to effect self-defense or collective defense.
 
-e) Facilitate commercial activities for Liberland, including marketplace organization, goods trading, state project tendering, and broad free-market operations;
+#### Article 95: Regulatory Authority of the Executive
+1. The Executive is empowered to develop auxiliary rules that expand upon the provisions established in the Laws, provided that such rules do not exceed the authority of the Constitution or the Laws.
+2. The Executive is authorized to adopt only those types of regulations that are explicitly granted by this Constitution. It shall only legislate where it is empowered to do so by the law.
+3. The Executive shall promulgate Regulations to
+   a) Clearly define obligations and rights based on Laws;
+   b) Ensure consistent and predictable application of Laws; and
+   c) Govern the internal operations of the Administration.
 
-f) Issue, possess, and utilize currencies within the constraints of this Constitution;
+#### Article 96: Organs of the Executive
+1. The Executive Branch shall be organized hierarchically under the Cabinet, which is the supreme governing body of the Executive. The Cabinet shall be accountable to Congress.
+2. All offices, personnel, contractors, volunteers, and any other individuals engaged in service to the Executive, hereafter referred to as "Agents," shall report directly or indirectly to the Cabinet.
 
-g) Preserve State and individual assets and manage associated profits or unavoidable losses;
+### Chapter 2: Organisation of the Executive
 
-h) Establish Regulations, termed Decrees, under the powers explicitly sanctioned by Law;
+#### Article 97: The Prime Minister
+The Cabinet shall be established and directed by the Prime Minister, who shall serve as the Head of the Cabinet, the head of the Executive, and the head of the Government.
 
-i) Nominate Judges, including Justices of the Supreme Court;
+#### Article 98: The Four Ministers
+##### Section 1: Composition of the Cabinet
+In addition to the Prime Minister, the Cabinet shall consist of four Ministers, each being the head of a respective Ministry.
 
-j) Manage the State Treasury, encompassing all government financial accounts;
+##### Section 2: Qualifications and Appointment of Ministers
+1. Each Minister must be a proven expert in the field relevant to their Ministry. Appointments based purely on political considerations, without the requisite expertise, shall be null and void.
+2. The loss of expert credibility during a Minister's tenure shall result in the immediate termination of their ministerial position.
+3. Disputes over the expertise qualifications of a Minister shall fall under the jurisdiction of the Supreme Court.
 
-k) Nominate the General Prosecutor and other Prosecutors; and
+##### Section 3: Appointment and Tenure of Ministers
+1. The Prime Minister is required to promptly appoint a new Minister whenever a vacancy arises. Each Ministerial appointment shall carry a term of five years.
+2. The Prime Minister may dismiss a Minister at any time, provided that truthful reasons for the dismissal are disclosed. This authority extends to dismissing Ministers who were appointed by a predecessor.
 
-l) Oversee all Agents within the Executive Branch of the Administration.
-
-#### Article 87: Organs of the Executive
-
-The Executive shall be hierarchically organized with all offices and personnel, referred to as "Agents", directly or indirectly reporting to the Cabinet, the highest organ of the Executive.
-
-#### Article 88: The Cabinet
-
-##### Section 1: Formation and Leadership
-
-1. The Cabinet shall be established and directed by the Prime Minister, serving as the Head of the Cabinet and the Government. The Cabinet shall be accountable to Congress.
-2. The Congress shall elect the Prime Minister for twenty consecutive Election Terms. A person may serve as the Prime Minister for a maximum of two consecutive terms and four terms overall. A person may only be re-elected for a third term after a hiatus of at least forty consecutive Election Terms outside the Prime Minister's office.
-
-##### Section 2: Appointment and Dismissal of Ministers
-
-1. The Cabinet shall comprise four Ministers, each heading their respective Ministry. The Prime Minister shall appoint individual ministers for a duration of twenty Election Terms when a position becomes vacant.
-2. Both the Prime Minister and the Congress may dismiss a minister. If the Prime Minister dismisses a Minister, they must provide a well-substantiated justification for such action.
-
-#### Article 89: Ministries
-
-The following Ministries shall be established:
-
-a) Ministry of Finance, tasked with implementing prudent financial strategies and maintaining a State budget surplus.
-
-b) Ministry of Foreign Affairs, responsible for fostering cordial relations with other nations;
-
-c) Ministry of Interior, entrusted with maintaining domestic order and promoting individual happiness, health, and prosperity; and
-
-d) Ministry of Justice, charged with preserving and advancing the legal system to uphold individual liberty, property rights, and safeguard fundamental rights. It shall support the Judiciary to ensure its independence, fairness, professionalism, and efficiency.
-
-#### Article 90: Regulations of the Executive
-
-##### Section 1: Purpose of Executive Regulations
-
-The Executive shall promulgate Regulations to
-
-a) Clearly define obligations and rights based on Laws;
-
-b) Ensure consistent and predictable application of Laws; and
-
-c) Govern the internal operations of the Administration.
-
-##### Section 2: Basis for Regulations
-
-Regulations shall be based on Laws and shall be issued within the framework of specific legal provisions.
+#### Article 99: Limitation of Concurrent Holding of Offices
+1. Cabinet Members can be currently active Congressmen and Senators or experts from outside of the current Government. 
+2. The Prime Minister is typically an active member of Congress at the time of their appointment. However, loss of a congressional seat subsequent to appointment does not necessitate forfeiture of the office of Prime Minister.
+3. Cabinet Members can’t be active Judges with the exception of the Prime Minister, who can simultaneously serve as the Chief Justice of the Supreme Court.
 
 ## Book 6: Guardians of the Republic
 

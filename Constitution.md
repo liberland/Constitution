@@ -616,14 +616,51 @@ In addition to the Prime Minister, the Cabinet shall consist of four Ministers, 
 2. The Prime Minister is typically an active member of Congress at the time of their appointment. However, loss of a congressional seat subsequent to appointment does not necessitate forfeiture of the office of Prime Minister.
 3. Cabinet Members can’t be active Judges with the exception of the Prime Minister, who can simultaneously serve as the Chief Justice of the Supreme Court.
 
+### Chapter 3: Executive Organs
+#### Article 100: Ministries
+1. The following Ministries shall be established:
+    a) Ministry of Finance, tasked with implementing prudent financial strategies and maintaining a State budget surplus. 
+    b) Ministry of Foreign Affairs, responsible for fostering cordial relations with other nations;
+    c) Ministry of Interior, entrusted with maintaining domestic order and promoting individual happiness, health, and prosperity; and
+    d) Ministry of Justice, charged with preserving and advancing the legal system to uphold individual liberty, property rights, and safeguard fundamental rights. It shall support the 2. 2. Judiciary to ensure its independence, fairness, professionalism, and efficiency.
+3. All other executive organs, henceforth “Agencies,” shall be subordinate to exactly one Ministry, whether directly or indirectly through intermittent Agencies.
+
+#### Article 101: Other Executive Organs
+1. Agencies within the Executive branch may only be established by law and shall be distinctly defined based on the following criteria:
+   a) The specific purview of the agency, which must be unique and not overlap with the purview of any existing agencies;
+   b) The unique powers granted to the agency, ensuring that these powers do not exactly duplicate those of other agencies;
+   c) Who the leading organ or organs of the Agency is and what is its governance system;
+2. The agency's position within the executive hierarchy, including the identification of the Ministry to which the agency is subservient.
+
+#### Article 102: Authority to Issue Regulations
+
+##### Section 1: General Provisions
+1. All Agencies within the executive branch, also including but not limited to the Cabinet and its Ministries, are authorized to propose regulations relevant to their respective domains.
+2. The adoption of regulations proposed by an Agency shall be conducted by the Ministry that directly oversees the Agency, or by the Cabinet, depending on the nature of the regulation.
+
+##### Section 2: Scope of Regulatory Authority
+1. Agencies may only propose regulations where at least a substantive part of the subject-matter concerning matters falls within their designated purview. 
+2. While this is respected, agencies may also include proposals for regulating matters outside their purview within the same regulatory submission.
+
+##### Section 3: Issuance of Regulations
+1. When the subject matter of a regulation falls exclusively within the jurisdiction of a single Ministry, such regulation shall be issued by that Ministry. These regulations shall be termed “Edicts”.
+2. Regulations pertaining to broader executive functions or crossing multiple domains and generally concerning purviews of at least two Ministries shall be issued by the Cabinet. Cabinet-issued regulations shall be termed “Decrees”.
+
 ## Book 6: Guardians of the Republic
 
 ### Chapter 1: The Senate
 
-#### Article 91: The Senate
+#### Article 100: The Senate
 
-1. The Senate of the Republic of Liberland, herein referred to as "the Senate", shall be constituted by citizens holding shares in the Fund of the Republic of Liberland, henceforth known as Senators.
-2. The Senate's mandate shall encompass overseeing national affairs and stewardship of the nation's fiscal reserves. Senators shall be entitled to financial benefits derived from Liberland's reserves, proportional to their shareholding.
+##### Section 1: Composition and Membership
+1. The Senate of the Republic of Liberland, herein referred to as "the Senate," shall be constituted by citizens who hold shares in the fund of all staked undistributed LLM, the Sovereign 2. Fund of the Republic of Liberland. These citizens shall be known as Senators.
+
+##### Section 2: Mandate of the Senate
+The Senate is tasked with the oversight of national affairs and the stewardship of the nation’s fiscal reserves.
+
+##### Section 3: Constitutional Responsibility
+1. The Senate shall ensure the regular application of this Constitution throughout the nation, adhering to its principles and the ideals of classical liberalism, both in letter and in spirit.
+2. In its operations, the Senate shall uphold the fundamental rights and freedoms recognized by the Government of Liberland.
 
 #### Article 92: The Power of Cancellation
 

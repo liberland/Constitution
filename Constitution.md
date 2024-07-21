@@ -422,34 +422,40 @@ Citizenship shall be gained by a person accepting upon themselves the duties tha
        iv. explicitly reference specific legal provisions; or
     b) Establish rights and obligations which are solely applicable upon persons actively serving the Government within the Government's organizational hierarchy.
 
-### Chapter 2: Direct Democracy
+### Chapter 2:  Institutions of Legislative Power
 
-#### Article 73: Referendum
+#### Article 75: Referendum
 
-##### Section 1: General Democratic Instrument
+##### Section 1: General Legislative Instrument
+1. The adoption, amendment, or repeal of laws, shall exclusively occur through a Referendum process. No alternative methods for undertaking these legislative actions shall be permitted.
+2. Additionally, the Referendum may also adopt, amend or repeal other, lesser legislative instruments and also make any other Decisions while these conform with the Law and this Constitution.
 
-1. The general, all-purpose democratic instrument in Liberland shall be the Referendum.
-2. Using the Referendum, the Citizens may directly propose, adopt, modify, or repeal Regulations and make other motions for action under this Constitution or existing Regulations.
-3. The Referendum shall be the sole organ in Liberland empowered to adopt and amend Laws.
+##### Section 2: Referendum Law
+1. The Government shall adopt a Referendum Law setting up clear and reasonable rules for organizing the Referendum and for the adoption and rejection of proposals.
+2. The Referendum Law may prescribe additional eligibility requirements beyond mere citizenship for participation in Referenda provided these are fair and transparent. 
+It may also introduce a system of voting tokens for citizens, which shall be distributed in a manner that is both transparent and predictable.
 
-##### Section 2: Referendum Law and Voting System
-
-1. The Legislative shall adopt a Referendum Law setting up clear and reasonable rules for organizing the Referendum and for the adoption and rejection of proposals.
-2. The Referendum Law may establish a system where Citizens vote with voting tokens, which they obtain in a transparent and predictable manner that does not have the character of discrimination.
-
-#### Article 74: Proposing Laws
-
-Any Citizen shall have the right to propose Bills within the constraints of this Constitution. They shall submit the Bill to the Referendum so that the Citizens may decide whether to adopt or reject it.
+#### Article 76: Legislative Initiative
+1. Any Citizen shall have the right to propose legislative bills within the constraints of this Constitution. 
+2. Citizens shall submit legislative bills to the Referendum according to the process outlined in the Referendum Law so that the Citizens may decide whether to adopt or reject it.
 
 #### Article 75: Passing Laws
-
-Bills for Laws shall be passed by a majority of at least 50 percent of votes cast plus one vote. The specific voting requirements shall be set out in the Referendum Law.
+1. Bills for Laws shall be passed by a majority of at least 50 percent of votes cast plus one vote. 
+2. The specific voting requirements shall be set out in the Referendum Law.
 
 #### Article 76: Public Veto
-
 1. Where Referendum rules stipulate inequality of votes between citizens, the Referendum Law shall enable a special form of Referendum called the Public Veto, where each citizen shall have one vote, and none shall be excluded from the vote.
-
 2. Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
+
+#### Article 77: Dismissal
+##### Section 1: Scope of Dismissal
+1. Citizens shall have the right to dismiss, by means of a Referendum, any official, employee, contractor, or volunteer serving the Senate or the Government.
+2. This right extends to individuals occupying any elected or appointed positions, including but not limited to, the highest government officials, Supreme Court Justices, judges, clerks, and external contractors.
+
+##### Section 2: Consequences of Dismissal
+1. The successful invocation of this power through a Referendum shall result in the immediate and irrevocable termination of the dismissed individual’s tenure.
+Upon dismissal, the individual shall immediately lose all powers and authorities granted either by this Constitution or any other legislation, with no entitlement to compensation.
+2. A dismissed Senator shall not lose their share, but shall be required to pass the share to another person of their choosing.
 
 ### Chapter 3: Representative Democracy
 

@@ -388,34 +388,39 @@ The Supreme Court shall conduct its deliberations in panels comprising an odd nu
 
 ## Book 4: Legislative Power
 
-### Chapter 1: Citizenship
+### Chapter 1: Lawmaking
 
-#### Article 70: Citizenship
+#### Article 70: Regulation of Conduct
+1. The Government may enact, amend or remove rights and obligations of individuals solely by this Constitution or by Laws. 
+2. Laws shall be legislative instruments issued by the Legislative Branch of the Government, which shall possess the highest legal standing subsequent to the Constitution itself.
 
-The Legislative shall consist of certain persons who, upon proving their lasting commitment to Liberland, shall have the right to enact regulations upon themselves and others, even against the recipients' will or without asking for their consent, but only within the strict limits of this Constitution. These persons shall be known as Citizens.
+#### Article 71: Laws
+1. The enactment, modification, and repeal of laws shall be solely directed towards preventing violations of or diminishing the probability of breaches of the Non-Aggression Principle.
+2. In the event of any conflict between a law and the Constitution, the provisions set forth in the Constitution shall directly take precedence and override the conflicting law.
 
-#### Article 71: Obtaining Citizenship
+#### Article 72: Legislative Authority
+##### Section 1: Citizens vested with Legislative Authority
+1. The Legislative power of the Government shall be the sole authority in Liberland capable to draft and authorize Laws. 
+2. The Legislative Power shall be vested into those amongst the people who demonstrate a sustained commitment to the values and prosperity of Liberland. These individuals shall be accorded the status of Citizens of Liberland.
 
+##### Section 2: Rights and Limitations
+1. Citizenship confers upon an individual the right to execute their legislative authority directly, without the need to be represented by others. 
+2. While executing their legislative authority, Citizens are mandated to conduct such activities in strict adherence to the provisions outlined in this Constitution, as well as any other Laws that may interpret it.
+
+#### Article 73: Obtaining Citizenship
 ##### Section 1: Citizenship Application Process
-
 Citizenship shall be gained by a person accepting upon themselves the duties that citizenship entails in ways prescribed by the Legislative. Upon becoming a Citizen, an Applicant shall swear/affirm the following oath:
-
 "I swear/affirm that I will respect the Freedom and the Property of others. I will not take from my fellow citizens and human beings what is rightfully theirs, not by my own hand, nor by a State or by any other powers. I will follow the Constitution of Liberland and its Law and bear true allegiance to the Nation. I will live and let others live, in the spirit of true Liberty [optional, so help me God]."
 
-##### Section 2: Citizenship by Birth
-
-A person born to a Citizen shall have the right to become a Citizen of Liberland, and they shall accept the obligations that citizenship entails and swear/affirm the oath at that point.
-
-#### Article 72: Non-consensual Democracy
-
-##### Section 1: Derogation from Non-Aggression Principle
-
-Citizens shall be able to derogate from the Non-Aggression Principle to allow other non-consensual forms of democracy to take place in Liberland when circumstances require it.
-
-##### Section 2: Direct and Representative Democracy
-
-1. The Legislative shall standardly operate employing instruments of direct democracy, whereby Citizens directly decide the affairs of the State.
-2. To give recourse to those who wish to be represented by others in politics, there shall be a system of Representative Democracy complementing direct democracy.
+#### Article 74: General Regulatory Authority
+1. The Legislative Power but also other powers of the Government are authorized to issue legislative instruments lower in authority than Laws.
+2. Instruments possessing a lower authority than Laws are authorized to:
+    a) Interpret the rights and obligations set up in Laws, provided that such interpretations are
+       i. necessary for the upholding of the Non-Aggression Principle
+       ii. confined to the scope of the relevant Law and legal provision that is being interpreted, 
+       iii. conform to the intention and text of the law and this Constitution, and
+       iv. explicitly reference specific legal provisions; or
+    b) Establish rights and obligations which are solely applicable upon persons actively serving the Government within the Government's organizational hierarchy.
 
 ### Chapter 2: Direct Democracy
 

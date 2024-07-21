@@ -479,40 +479,71 @@ Upon dismissal, the individual shall immediately lose all powers and authorities
 2. Members of Congress shall take the following Oath of Office upon election:
 "I solemnly swear/affirm that I will faithfully execute the Office of a Member of the Congress and will to the best of my ability preserve, protect, and defend the Constitution of the Republic of Liberland."
 
-## Chapter 4: Powers of Congress
+### Chapter 4: Powers of Congress
 
-#### Article 81: Delegation
-Congress shall enable Citizens to delegate their votes to their chosen Members of Congress if they wish to do so. The delegating Citizen shall always retain the right and ability to take back their delegation at will.
+#### Article 84: Proposing Legislation
+##### Section 1: Shared Legislative Initiative
+1. The primary duty of Congress shall be the drafting and proposal of legislation. This encompasses the creation of laws, regulations, and decisions that originate within Congress.
+2. Legislative initiatives proposed by Congress shall be subject to a streamlined approval process, especially when compared to those initiated through popular demand. This facilitated pathway shall apply to referendums on proposed legislation.
 
-#### Article 82: Cancelling Referenda
+##### Section 2: Exclusive Legislative Initiative
+1. In addition, Congress shall be the sole organ capable of proposing the following legislative instruments for the Referendum: 
+   i. ratification of the most important international treaties or international instruments, and
+   ii. amendments to the Constitution, 
+2. As such, Citizens shall not possess the Legislative Initiative regarding those types of instruments.
 
-##### Section 1: Referendum Cancellation Authority
+##### Section 3: Congress and the Referendum Law
+The Referendum Law shall detail the procedural aspects and requirements for Congress to propose legislation.
 
-The Congress shall, by a vote of a two-thirds majority, have the power to cancel any Referendum it should deem as frivolous, malicious, going against the purposes of Liberland, or where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty.
+#### Article 85: International Treaty Ratification
+1. International treaties or international instruments which the Government proposes to adopt shall be given to Congress to evaluate whether ratification by Referendum is required, with a reasoned out recommendation proposing the Congress response. 
+2. The Congress shall propose for the Referendum international treaties or other international instruments which propose to:  
+    a) set up, remove or amend rights and duties of persons,  
+    b) constitute, terminate or otherwise affect Liberland's membership in international organizations,  
+    c) concern matters of defense and war and peace, or  
+    d) have a widespread economic impact.  
+3. Where an international treaty or instrument does not exhibit the characteristics outlined above but is deemed by Congress to pose a considerable threat to liberty either within Liberland or globally, Congress may propose such treaties or instruments for ratification via Referendum.
 
-##### Section 2: Recommendations and Resubmission
+#### Article 86: Amending the Constitution
+1. Where there is no other way to achieve a sufficient level of protection for the individual and their property rights, under extraordinary circumstances, Congress may propose a Referendum to update this Constitution by means of a Constitutional Amendment.
+2. The Constitutional Amendment shall be the only way to change the Constitution, and the sole purpose of a Constitutional Amendment shall be to make a change in the Constitution.
+3. Bills proposed as Constitutional Amendments but materially not seeking to amend the Constitution or bills proposed as other than Constitutional Amendments seeking to amend the Constitution shall be null and void.
+4. Passing a Bill in a Referendum concerning a Constitutional Amendment shall require a double supermajority of no less than a ⅔ majority of voters and also no less than ⅔ of their votes.
 
-The Congress shall publish binding, reasonable recommendations accompanying each Cancellation, citing why it was issued. Congress shall allow the proposal to pass if the re-submitted proposal is amended to satisfy the recommendations.
+#### Article 87: Delegation
+1. Congress shall enable Citizens to delegate their votes to their chosen Members of Congress if they wish to do so. 
+2. The delegating Citizen shall always retain the right and ability to revoke their delegation at will.
 
-#### Article 83: Appointing Supreme Court Justices
+#### Article 88: Cancelling Referenda
+##### Section 1: Authority to Cancel Referenda
+The Congress shall, by a vote of a two-thirds majority, have the power to cancel any Referendum it should deem as 
+    a) frivolous, 
+    b) malicious, 
+    c) going against the purposes of Liberland, including being qualitatively clearly sub-standard or missing required formalities, or 
+    d) where the proposal is likely aimed at or is likely to have as one of its results limitation of individual liberty.
 
-Congress shall confirm or reject Supreme Court Justices nominees nominated by the Executive. The confirmation or rejection shall be made without unnecessary delays as soon as a nomination is submitted. Confirmed nominations shall be sent to the President for Appointment.
+##### Section 2: Procedure and Requirements for Exercising Cancellation
+1. Any exercise of the Cancellation power by the Congress must be supported by a reasoned argument and must result from informed debate. The Senate must issue substantiated, binding recommendations that explicitly state the reasons which came out of this debate.
+2. The reasoned opinion of the Congress, supporting the Cancellation, shall be made public and forwarded to the regulation's issuing body as binding recommendations aimed at improving the regulation.
 
-#### Article 84: Appointing the Prime Minister
+##### Section 3: Limitations on the Cancellation Power
+The Congress shall abstain from exercising its Cancellation power on any Referendum that has been re-enacted in accordance with the Senate’s previous recommendations, reflecting the Senate's advisement on enhancements.
 
-1. Whenever the Prime Minister's seat is vacant, Congress shall appoint a new Prime Minister without delay.
-2. The Prime Minister shall be a Member of Congress at the time of their appointment. Losing their Congress seat shall not be grounds for dismissal or losing their Prime Minister seat.
-3. The Prime Minister shall be a Member of Congress at the time of their appointment and shall be appointed by the Congress for a tenure of twenty consecutive Election Terms, which may be repeated once.
+#### Article 85: Nominating Supreme Court Justices
+##### Section 1: Nomination Process
+1. Congress shall either nominate or decline to nominate individuals to the Supreme Court as proposed by the Executive for such nominations.
+2. All approved nominations shall subsequently be forwarded to the President for official appointment.
 
-#### Article 85: Dismissing Cabinet Members
+##### Section 2: Timeliness and Citizen Involvement
+1. The processes of nomination and appointment as described in this Article must be conducted promptly.
+2. In the event of delays in the nomination or appointment processes, the Citizens shall undertake the responsibilities of the delaying governmental organs.
+Should the citizens refrain from taking action, the general populace shall be empowered to assume the same responsibilities.
 
-##### Section 1: Dismissing the Prime Minister
-
-Congress shall have the power to Dismiss a Prime Minister with a ⅔ majority vote. Dismissing the Prime Minister does not mean that the other Ministers have to resign.
-
-##### Section 2: Dismissing Individual Ministers
-
-Congress shall likewise have the power to dismiss individual Ministers, with the same tally required to effect the dismissal of a Prime Minister.
+#### Article 86: Controlling the Executive
+1. Whenever the head of the Executive's seat is vacant, Congress shall without delay appoint a new head from among Members of Congress.
+2. The term of appointment for the head of the Executive shall be five years, subject to earlier termination by Congress through a dismissal vote that equals or exceeds the majority required for the appointment.
+3. Additionally, Congress shall have the power to dismiss any individual members of any organ of the Executive, including its highest governing body.
+Where Congress doesn’t appoint the head of the Executive without delay, this power shall fall on the Citizens in the Referendum and in that case, they can appoint any Citizen.
 
 ## Book 5: Executive Power
 

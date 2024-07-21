@@ -439,15 +439,15 @@ It may also introduce a system of voting tokens for citizens, which shall be dis
 1. Any Citizen shall have the right to propose legislative bills within the constraints of this Constitution. 
 2. Citizens shall submit legislative bills to the Referendum according to the process outlined in the Referendum Law so that the Citizens may decide whether to adopt or reject it.
 
-#### Article 75: Passing Laws
+#### Article 77: Passing Laws
 1. Bills for Laws shall be passed by a majority of at least 50 percent of votes cast plus one vote. 
 2. The specific voting requirements shall be set out in the Referendum Law.
 
-#### Article 76: Public Veto
+#### Article 78: Public Veto
 1. Where Referendum rules stipulate inequality of votes between citizens, the Referendum Law shall enable a special form of Referendum called the Public Veto, where each citizen shall have one vote, and none shall be excluded from the vote.
 2. Public Veto shall serve to repeal Laws and other Regulations and to dismiss Judges, the President, the Vice-Presidents, or other officials as the Law stipulates.
 
-#### Article 77: Dismissal
+#### Article 79: Dismissal
 ##### Section 1: Scope of Dismissal
 1. Citizens shall have the right to dismiss, by means of a Referendum, any official, employee, contractor, or volunteer serving the Senate or the Government.
 2. This right extends to individuals occupying any elected or appointed positions, including but not limited to, the highest government officials, Supreme Court Justices, judges, clerks, and external contractors.
@@ -457,70 +457,29 @@ It may also introduce a system of voting tokens for citizens, which shall be dis
 Upon dismissal, the individual shall immediately lose all powers and authorities granted either by this Constitution or any other legislation, with no entitlement to compensation.
 2. A dismissed Senator shall not lose their share, but shall be required to pass the share to another person of their choosing.
 
-### Chapter 3: Representative Democracy
+### Chapter 3: Representation of Citizens
 
-#### Article 77: Congress
+#### Article 80: Representative Bodies
+1. Liberland shall have the authority to establish representative bodies, provided that these entities uphold complete accountability and subservience to the Citizens and to the mechanisms of direct decision-making instituted within Liberland.
+2. Participation in any representative system within Liberland is to be entirely voluntary for all Citizens.
+3. Under no circumstances shall participation in representative systems be imposed as a prerequisite for a Citizen to exercise their direct legislative powers.
 
-##### Section 1: Election of Congress Members
+#### Article 81: Congress
+1. The supreme body of representation in Liberland will be the Congress of Liberland, henceforth “Congress”, an assembly of directly voted representatives of the people.
+2. The Legislative shall adopt a Congress Law governing the voting and the order of proceedings in Congress. 
+3. Where the Law remains silent, Congress shall make its decisions by a simple majority vote where each Member of Congress shall have equal voting rights.
 
-Every Election Term, Citizens shall choose from amongst themselves members of Congress to represent them for the next Election Term.
+#### Article 82: Election of Congress
+1. Citizens shall choose from amongst themselves members of Congress to represent them for the next Election Term. 
+2. Rules of the Elections, including but not limited to Election Term length shall be defined in the Congress Law. Election Terms shall not be shorter than one month and not longer than one year.
+3. Where the Congress Law stays silent, Election Term shall be ninety days. 
 
-##### Section 2: Formation and Role of Congress
-
-Once elected, members of Congress shall form the Congress of Liberland, henceforth: "Congress". Congress shall be the main and the most authoritative organ of representative democracy in Liberland.
-
-##### Section 3: Congress Law and Decision-Making Process
-
-The Legislative shall adopt a Congress Law governing the voting and the order of proceedings in Congress. Where the Law remains silent, Congress shall make its decisions by a simple majority vote where each Member of Congress shall have equal voting rights.
-
-#### Article 78: Members of Congress
-
-##### Section 1: Number of Congress Members
-
-The Congress Law shall set the number of the Members of Congress, but there shall be no fewer than seven Members of Congress and no more than two hundred and one.
-
-##### Section 2: Oath of Office
-
-Members of Congress shall take the Oath of Office upon election:
-
+#### Article 83: Members of Congress
+1. The Congress Law shall set the number of the Members of Congress according to the number of Citizens resident in Liberland. There shall be no fewer than seven Members of Congress and no more than two hundred and one.
+2. Members of Congress shall take the following Oath of Office upon election:
 "I solemnly swear/affirm that I will faithfully execute the Office of a Member of the Congress and will to the best of my ability preserve, protect, and defend the Constitution of the Republic of Liberland."
 
-### Chapter 4: Powers of Congress
-
-#### Article 79: Legislative Initiative
-
-##### Section 1: Purpose of Congress
-
-1. The primary purpose of the Congress shall be to propose Laws, International Treaty Ratifications, Constitutional Amendments, and Amendments to Regulations or the motions to strike out Regulations.
-2. Laws and other motions proposed by Congress shall be easier to pass through the Referendum than popular proposals. The Referendum Law shall set up the details.
-
-##### Section 2: International Treaty Ratification
-
-1. Congress may require ratification by a Referendum proposed by Congress regarding any international treaty where Congress judges its impact to be sufficiently serious to warrant such a measure.
-2. International treaties shall undergo mandatory ratification by a Referendum proposed by Congress before taking legal force if they:  
-
-a) set up, remove or amend rights and duties of persons,  
-
-b) constitute, terminate or otherwise affect Liberland's membership in international organizations,  
-
-c) concern matters of defense and war and peace, or  
-
-d) have a widespread economic impact.  
-
-#### Article 80: Amending the Constitution
-
-##### Section 1: Extraordinary Circumstances
-
-Where there is no other way to achieve a sufficient level of protection for the individual and their property rights, under extraordinary circumstances, Congress may propose a Referendum to update this Constitution by means of a Constitutional Amendment.
-
-##### Section 2: Validity of Constitutional Amendments
-
-1. The Constitutional Amendment shall be the only way to change the Constitution, and the sole purpose of a Constitutional Amendment shall be to make a change in the Constitution.
-2. Bills proposed as Constitutional Amendments but materially not seeking to amend the Constitution shall be likewise null and void.
-
-##### Section 3: Passing a Constitutional Amendment
-
-Passing a Bill in a Referendum concerning a Constitutional Amendment shall require a double supermajority of no less than a ⅔ majority of voters and also no less than ⅔ of their votes.
+## Chapter 4: Powers of Congress
 
 #### Article 81: Delegation
 Congress shall enable Citizens to delegate their votes to their chosen Members of Congress if they wish to do so. The delegating Citizen shall always retain the right and ability to take back their delegation at will.

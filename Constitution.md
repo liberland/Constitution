@@ -780,43 +780,76 @@ Should a Vice President assume the duties of the President, they shall exercise 
 
 ### Chapter 1: Amendments
 
-#### Article 103: Amendments
+#### Article 120: Amendments
+All Constitutional Amendments that add new provisions to the Constitution shall be published in this Book and Chapter of the Constitution, in a way in which are mentioned: 
+   a) the date of the Constitutional Amendment’s passage
+   b) the date the Constitutional Amendment gained legal force, 
+   c) the order of acceptance; and 
+   d) the form of their passage. 
 
-All Amendments that add new provisions to the Constitution shall be published in this chapter of the Constitution. Amendments that change existing provisions shall be incorporated into the respective Book of the Constitution.
-
-#### Article 104: Core Provisions of the Constitution
-
+#### Article 121: Core Provisions of the Constitution
 No Amendment shall take away from the Principles of Book One or from the Individual Rights enumerated in this Constitution. Book 2 shall not be changed by Amendment to increase State powers or scope.
 
-#### Article 105: Constitutional Convention
+### Chapter 2: Constitutional Convention
+
+#### Article 122 Constitutional Convention
+
+##### Section 1: Method for Constitutional Amendments
+The exclusive method for amending any Book of this Constitution, including alterations to the fundamental principles that underpin Liberland or repealing or completely replacing the Constitution, shall be conducted solely through a Constitutional Convention.
+
+##### Section 2: Composition and Purpose of the Constitutional Convention
+1. The Constitutional Convention shall be an ad hoc body, constituted of experts in legislative drafting, law, and other relevant fields.
+2. This body shall be convened from time to time by the established entities within Liberland’s political system.
+
+#### Article 123: Powers of the Constitutinal Convention
+The Constitutional Convention is authorized to draft proposals for Constitutional Amendments. These proposals may pertain to any Book or topic, including revisions to the basic principles of Liberland.
+
+#### Article 124: Calling the Constitutional Convention
 
 ##### Section 1: Proposal for Constitutional Convention
-
-The Congress may motion to propose a Constitutional Convention by a ⅔ majority. Where this proposal is seconded by the Senate and the President, the motion becomes a regular Constitutional Amendment referendum.
+1. The Congress may initiate a proposal for a Constitutional Convention through a motion passed by a two-thirds majority vote.
+2. If the proposal is subsequently seconded by both the Senate and the President, the motion shall progress to a regular Constitutional Amendment referendum.
 
 ##### Section 2: Commencement of Constitutional Convention
+1. A Constitutional Convention shall be convened in the Election Term immediately following the Election Term during which the proposal for the Convention is adopted.
+2. The initial proposal must specify the duration of the Constitutional Convention, which shall not exceed one and a half years.
 
-A Constitutional Convention shall commence in the Election Term following the Election Term in which the Constitutional Convention proposal is adopted.
+#### Article 125: Constitutional Convention Delegates
 
-##### Section 3: Delegate Proposal
+##### Section 1: Composition of Delegates
+1. Upon the adoption of a proposal for a Constitutional Convention, the Government, the Senate, and the President shall each nominate two experts specialized in law, legislation, jurisprudence, or other relevant disciplines.
+2. The Minister of Justice in office at the time the Constitutional Convention begins shall serve as the final delegate. If the position of Minister of Justice is vacant, the first appointee to this position after the commencement of the Constitutional Convention shall serve as delegate.
+3. The role of a delegate is retained even if the individual ceases to hold the position of Minister of Justice.
 
-1. Upon adopting the Constitutional Convention proposal, the Government, the Senate and the President shall without delay propose at least seven delegates, henceforth the "Delegate Proposal". The people shall vote on these delegates in a Referendum. All delegates shall have an equal voice in a Constitutional Convention.
-2. Where the Delegate Proposal is not accepted, the Government, the Senate and the President shall without delay propose another set of delegates and so can any Citizen. Where no Delegate Proposal is adopted within the span of four consecutive Election Terms, it will be as if the Constitutional Convention took place without any Constitutional Amendments being adopted.
+##### Section 2: Rights and Responsibilities of Delegates
+Each delegate shall possess an equal voice in the proceedings of the Constitutional Convention.
 
-##### Section 4: Constitutional Convention Powers and Duration
+##### Section 3: Dismissal and Replacement of Delegates
+1. Delegates to the Constitutional Convention are subject to all forms of dismissal as stipulated by this Constitution.
+2. In the event of dismissal, the delegate's appointing body must nominate a replacement who is an eligible expert, without any delay.
 
-The Constitutional Convention shall be solely empowered to propose Constitutional Amendments for adoption or rejection in a regular Constitutional Amendment Referendum, but it may prepare Constitutional Amendments to any Book and regarding any topic, including the changing of the basic principle of Liberland. The Constitutional Convention shall function for up to eight consecutive Election Terms after the Election Term in which the Delegate Proposal is accepted.
+#### Article 126: Constitutional Convention Proposals
 
-### Chapter 2 Final Provisions
+##### Section 1: Proposal Drafting
+1. The Constitutional Convention shall have the authority to draft proposals by a simple majority vote.
+2. These proposals shall be presented for consideration in a Constitutional Amendment Referendum, in accordance with the procedures established by this Constitution and relevant laws for this type of Referendum.
 
-#### Article 106: Passage of this Constitution
+##### Section 2: Referendum and Adoption of Proposals
+Proposals that receive approval in the Constitutional Amendment Referendum shall be incorporated into this Constitution as amendments, just as any other Constitutional Amendment.
 
-This Constitution has been submitted by the Cabinet on ...
+##### Section 3: Timing and Number of Proposals
+1. The Constitutional Convention is permitted to propose multiple amendments during the course of its operation, even such as are completely unconnected in subject matter to each other.
+2. The final proposal must be made no later than the concluding day of the Constitutional Convention.
+3. The Constitutional Amendment Referenda for proposals submitted during the Constitutional Convention’s tenure may continue or even start even after the closure of the Constitutional Convention.
+
+### Chapter 3 Final Provisions
+#### Article 127: Passage of this Constitution
+The Constitution has been submitted to the Congress by the Provisional Government on
+
+This Constitution has been made into a Referendum proposal by the Congress on ...
 
 This Constitution has been adopted by the Referendum ...
 
-This Constitution has passed the Senate on ...
+#### Article 128: Legal Force
+This Constitution gains legal force on … .
 
-#### Article 107: Legal Force
-
-This Constitution gains legal force from ... onwards in perpetuity.

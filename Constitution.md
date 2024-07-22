@@ -650,10 +650,10 @@ In addition to the Prime Minister, the Cabinet shall consist of four Ministers, 
 
 ### Chapter 1: The Senate
 
-#### Article 100: The Senate
+#### Article 103: The Senate
 
 ##### Section 1: Composition and Membership
-1. The Senate of the Republic of Liberland, herein referred to as "the Senate," shall be constituted by citizens who hold shares in the fund of all staked undistributed LLM, the Sovereign 2. Fund of the Republic of Liberland. These citizens shall be known as Senators.
+The Senate of the Republic of Liberland, herein referred to as "the Senate," shall be constituted by citizens who hold shares in the fund of all staked undistributed LLM, the Sovereign Fund of the Republic of Liberland. These citizens shall be known as Senators.
 
 ##### Section 2: Mandate of the Senate
 The Senate is tasked with the oversight of national affairs and the stewardship of the nation’s fiscal reserves.
@@ -662,98 +662,119 @@ The Senate is tasked with the oversight of national affairs and the stewardship 
 1. The Senate shall ensure the regular application of this Constitution throughout the nation, adhering to its principles and the ideals of classical liberalism, both in letter and in spirit.
 2. In its operations, the Senate shall uphold the fundamental rights and freedoms recognized by the Government of Liberland.
 
-#### Article 92: The Power of Cancellation
+#### Article 104: Senatorial Financial Benefits
+1. The role of a Senator shall generally be an unpaid position. This provision also applies to any roles that require the incumbent to be a Senator.
+2. As the only exception from this rule, Senators are entitled to receive additional benefits from fiscal reserves of the State.
+3. These benefits shall be proportional to their respective shares in the Senate and are in addition to any regular benefits they receive as citizens of Liberland.
 
-1. The Senate reserves the right to nullify any Referendum, and shall promptly release substantiated, binding advisories detailing the rationale behind the cancellation.
-2. The Senate shall honor its advisories and shall refrain from nullifying any Referendum that has been revised in line with the Senate's prescriptive guidance.
+#### Article 105: Senate Cancellation
+1. The Senate shall possess the authority to cancel any ongoing Referendum prior to the announcement of its final results, provided that the Senate determines such regulation's continued validity to be contrary to the best interests of Liberland.
+2. Any exercise of the Cancellation power by the Senate must be supported by a reasoned argument and must result from informed debate. 
 
-#### Article 93: The Power of Veto
+#### Article 106: Senate Veto
+1. The Senate shall possess the authority to nullify the legal effect of any regulation that is not a Law, or any part thereof, provided that the Senate determines such regulation's continued validity to be contrary to the best interests of Liberland.
+2. Any exercise of Veto power by the Senate must be supported by a reasoned argument and must result from informed debate.
 
-1. The Senate is vested with the authority to reject, through the exercise of Veto, any Regulation not classified as Law, which it deems not in Liberland's best interest. The Senate also reserves the right to dismiss Judges, the President, Vice-Presidents, and other officials as provided by the Law for the Public Veto.
-2. Any Veto action by the Senate must be supported by reasoned argument and informed debate. The Senate's reasoned opinion shall be made public and conveyed to the issuing body as binding recommendations for enhancement. The Senate shall refrain from exercising Veto on a Regulation that has been re-enacted in alignment with the Senate's recommendations.
+#### Article 107: Senate Dismissal
 
-#### Article 94: Fiscal Trusteeship
-1. The Senate shall be the custodian of Liberland's treasury and financial reserves, whether liquid or otherwise, with the authority to halt any disbursement from these resources, citing the reasons for such refusal. The Senate shall not halt the disbursement once their binding recommendations are fulfilled.
-2. The Senate shall oversee the management of Liberland's emergency fund and claim any undistributed instruments and incentives associated with national information systems.
+##### Section 1: Scope of Dismissal
+1. The Senate  shall have the right to dismiss any official, employee, contractor, or volunteer serving the Senate or the Government.
+2. This right extends to individuals occupying any elected or appointed positions, including but not limited to, the highest government officials, Supreme Court Justices, judges, clerks, and external contractors.
 
-#### Article 95: Independent Oversight Bodies
+##### Section 2: Consequences of Dismissal
+The consequences of the Senate Dismissal shall be the same as the consequences of the popular Dismissal.
 
-The Senate may, of its own volition and at its own cost, establish independent oversight bodies, providing the necessary administrative and knowledge resources to perform its guardianship duties. These bodies shall have a hierarchical structure and operate transparently, with each body potentially assigned under one or more Senators.
+#### Article 108: Fiscal Trusteeship
+1. The Senate shall be the custodian of Liberland's treasury and financial reserves, whether liquid or otherwise, with the authority to halt any disbursement from these resources, citing the reasons for such refusal.
+2. Any State or Government budgets must be sent to senate with at least five days for the Senate to issue an objection with binding recommendations.
+3. The Senate shall not halt the disbursement or budgets again once their binding recommendations are fulfilled.
 
-#### Article 96: Self-Governance of the Senate
+#### Article 109: Self-Governance of the Senate
+The Senate shall manage its own affairs and shall promptly enact the Senate's Proceedings Guide, a Regulation with the force of Law binding on the Senate and every organ the Senate should create or manage in future. This Regulation shall define the Senate's decision-making process and operations.
 
-1. The Senate shall manage its own affairs and promptly enact the Senate's Proceedings Guide, a Regulation with the force of Law binding on the Senate. This Regulation shall define the Senate's decision-making process and operations.
-2. The Senate retains the authority to pass lower order Regulations, which shall be binding on all Independent Oversight Bodies.
+#### Article 110: Senate Oversight
+
+##### Section 1: Participation in Proceedings
+1. The Senate and any individual Senator including also the President and the Vice-Presidents, shall have the right to participate in discussions concerning any proceedings of any organ mentioned in this Constitution. They shall also have the right to observe such proceedings.
+2. This right likewise extends to Court proceedings held behind closed doors for any reason.
+
+##### Section 2: Access to Information
+1. Senators shall have unrestricted access to all information processed or filed by the Government at all times.
+2. No Government-held document shall ever be classified or restricted in any way for any member of the Senate. 
 
 ### Chapter 2: Head of State
 
-#### Article 97: President
-
+#### Article 111: President
 Pursuant to the wisdom that an owner tends to keep the affairs of their Property in better order than a hireling would, and following the customs common amongst nations, there shall be one President to fulfill the role of the Head of State in Liberland.
 
-#### Article 98: Selection of the President
+#### Article 112: Election of the President
 
-##### Section 1: Presidential Selection Process
-
-To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, the Senators shall select the President from among their members.
+##### Section 1: Presidential election Process
+To ensure that the President shall always be amongst those who have the most to lose should ill fortune befall the land and the most to gain with her prosperity, the Senators shall elect the President from among the foremost of their members.
 
 ##### Section 2: Presidential Oath
-
 The President shall swear/affirm the following to the Senate and the People of Liberland:
+*"I do solemnly swear/affirm that I will faithfully execute the Office of the President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will treat all that occurs in Liberland as if it happened to my estate and will do my utmost to leave a more prosperous and happy country to my successor."*
 
-"I do solemnly swear/affirm that I will faithfully execute the Office of the President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will treat all that occurs in Liberland as if it happened to my estate and will do my utmost to leave a more prosperous and happy country to my successor."
+#### Article 113: Presidential Term of Office
 
-#### Article 99: Presidential Terms
+##### Section 1: Duration and Limitations of Presidential Term
+1. The President shall be elected for a term of five years.
+2. The presidential term may be extended beyond the initial five years only once, subject to re-election.
 
-##### Section 1: Term Limits and Re-Selection
+##### Section 2: Eligibility for Additional Terms
+An individual who has already served two terms as President may become eligible for election to a third or fourth term only after a period of at least five years during which they have not held the office of the President and during which someone else held the office for at least twenty-four months.
 
-The President shall be selected for a term of twenty consecutive Election Terms. One person may only be selected as a president for two consecutive terms and four terms over their lifetime. A person can only be re-selected for their third term after at least forty consecutive Election Terms spent out of the office of the President.
-
-##### Section 2: Resignation upon New Public Office
-
-The President and the Vice Presidents shall resign their offices upon being voted into a public office or becoming an Agent of the Government in any capacity.
-
-##### Section 3: Dismissal due to Incapacity
-
-Should the President be found permanently unable to perform his or her duties for objective reasons of health or for personal reasons, the Senate shall petition the Supreme Court to dismiss the President.
-
-#### Article 100: Vice Presidents
-
+#### Article 114: Vice Presidents
 ##### Section 1: Appointment of Vice Presidents
-
 The President shall appoint two Senators to be First and Second Vice Presidents. The President may replace a Vice President at will, without citing reasons.
 
 ##### Section 2: Vice Presidential Oath
-
 The Vice Presidents will, upon being selected, swear/affirm their oath:
+*"I solemnly swear/affirm that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland."*
 
-"I solemnly swear/affirm that I will faithfully execute the Office of the Vice President and will to the best of my ability, preserve, protect, and defend the Constitution of the Free Republic of Liberland. I will do my utmost to follow and represent my President faithfully and to the best of my ability."
+#### Article 115: Resignation upon Assuming Public Office
+The President and the Vice Presidents shall resign their office of the President upon being voted into a public office or becoming an Agent of the Government in any capacity.
 
-##### Section 3: Temporary Presidential Incapacity
+#### Article 116: Dismissal and Succession of the Presidency
+1. In the event that the President is deemed permanently unable to perform the duties of office due to objective health reasons or personal circumstances, the Senate shall petition the Supreme Court for the President’s dismissal.
+2. Where the disability is only temporary, the First Vice-President shall assume the President’s duties. Where the First Vice-President becomes disabled during the time of the President’s temporary disability, the Second Vice-President shall assume the duties of both.
+3. Upon the death of the President, the Senate shall promptly convene to elect a new President.
 
-Where the President should be confirmed as temporarily incapable of performing their duties, the Vice Presidents shall assume those duties for the duration of this incapability.
+#### Article 117: Regular Powers of the President
+Under normal government operations, the President shall possess the authority to:
+    a) Represent Liberland internationally, which includes, but is not limited to, negotiating and signing international treaties;
+    b) Bestow honors and awards upon individuals who have significantly contributed to Liberland or the promotion of liberty globally;
+    c) Appoint or reject the appointment of senior Elected Officials, including but not limited to all judges and Supreme Court Justices, and the most senior Agents; and
+    d) Preside over the Senate and cast the deciding vote in the event of a tie, or as stipulated by the Senate's Proceedings Guide;
 
-#### Article 101: Powers of the President
+#### Article 118: Emergency Powers of the President
 
-1. The President shall exercise power to:
+##### Section 1: Final Decree of the Senate
+1. In circumstances where the Government faces a dire crisis threatening the survival of the state or a significant number of its people or the libertarian character of the Government or State is in serious and present jeopardy, and the normal operation of the Government is clearly insufficient to resolve the crisis, the Senate may propose a special referendum to grant the President emergency powers. This referendum must secure 65 percent of all possible votes to be deemed successful.
+2. If approved, the President shall assume all the powers of the Prime Minister for a duration of one month, with additional authority to issue temporary Orders that have the force of law upon issuance, without the need to pass through a Referendum.
+3. The Senate shall cease all its operations during the duration of the Emergency Powers.
 
-a) represent Liberland on the international stage, including but not limited to the negotiation and signing of international treaties;
+##### Section 2: Duration and Termination of Emergency Powers
+1. Seven days before the expiration of the emergency powers, a subsequent referendum shall be conducted under identical conditions to the initial referendum to determine whether to extend the emergency powers.
+2. If such a referendum does not yield a positive result before the termination date, for whichever reasons, the Final Decree of the Senate loses its legal force and the Emergency Powers shall cease automatically upon the termination date.
+3. The same shall be the consequence of end of the current President’s tenure if it occurs during the emergency period, for whatever reasons.
+4. Upon termination of the Emergency Powers, the following shall transpire:
+   a) The Prime Minister from before the crisis shall re-assume their office, 
+   b) The Minsiters who had been Ministers before shall again become Ministers, 
+   c) All Presidential Orders shall all immediately and irrevocably lose their legal force.
+   d) The Senate shall resume its operation and the President shall immediately resign. The same President may be subsequently elected again, unless this Constitution prevents this.
 
-b) bestow honors and awards on Persons who have achieved a great deal in service to Liberland and/or the idea of liberty worldwide;
+##### Section 3: Emergency Powers in a Military Crisis
+1. In cases requiring swift action by the Territorial Defence Forces, the Senate may vote to permit the President to lead the Liberland Defence Forces without confirmation by the Vice Presidents.
+2. This authority may be granted concurrently with the Final Decree of the Senate but is not dependent on such issuance.
 
-c) appoint or reject the appointment of the highest officials of the Administration, including all Judges and Supreme Court Justices;
+##### Section 4: Role of Vice Presidents
+Should a Vice President assume the duties of the President, they shall exercise the powers described in this Article as they would any other presidential powers.
 
-d) lead the Senate and have the deciding vote therein in case of a draw or otherwise according to the Proceedings Guide of the Senate; and
-
-e) lead the Liberland Defence Forces should those be formed.
-
-2. Any decision made by the President needs to be confirmed by either of the Vice Presidents, or it will be invalid.
-3. As they traditionally pertain to the function of the Head of State, which rests solely on the President, the President shall not be required to obtain the confirmation of their Vice Presidents concerning the powers to represent Liberland on the international stage and to bestow honors and awards.
-
-#### Article 102: Emergency Powers
-
-1. In a dire crisis requiring the swift actions of the Territorial Defence Forces, the Senate can issue a vote to allow the President to lead the Liberland Defence Forces without the need for confirmation by the Vice Presidents.
-2. Where the Vice Presidents should find themselves assuming the duties of the President or on delegation, they shall decide on the powers mentioned in this Article as they would on any other powers.
+#### Article 119: Confirmation by a Vice-President
+1. Decisions made by the President, including those taken during the assumption of Emergency Powers, are subject to confirmation by at least one of the Vice Presidents, without which they shall be considered invalid.
+2. The President is not required to seek confirmation from the Vice Presidents for actions related to their deciding vote in the Senate, international representation and the bestowment of honors and awards, as these duties inherently pertain to the function of the Head of State.
 
 ## Book 7: Amendments and Final Provisions
 
